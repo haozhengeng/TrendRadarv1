@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T09:16:53.198610+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-03-03T12:07:58.127613+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 100,
+      "match_count": 114,
       "titles": [
         {
           "title": "伊朗最高国家安全委员会秘书：不会与美国进行谈判",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 12时07分]"
         },
         {
           "title": "伊朗：摧毁美国驻伊拉克埃尔比勒总领馆",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "新华社14秒创意视频揭露美国真面目",
+          "url": "https://www.toutiao.com/trending/7612651447888379967/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国国务卿鲁比奥：将实施一项计划以抵消能源成本。",
@@ -97,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美国驻沙特大使馆遭无人机袭击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A9%BB%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国财政部：卢旺达国防军在M23武装组织占领刚果东部地区期间对其提供了支持。",
@@ -263,6 +286,19 @@
           "time_info": "[05时25分 ~ 06时20分]"
         },
         {
+          "title": "伊朗最高领袖遇害，除了谴责美国中方还将如何行动？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684013",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 12时07分]"
+        },
+        {
           "title": "摩根大通CEO戴蒙：美国总统特朗普有权对“去银行”问题感到愤怒。 但特朗普在这个问题上的诉讼得不到好处。",
           "url": "https://wallstreetcn.com/livenews/3062112",
           "source": "华尔街见闻-快讯",
@@ -276,16 +312,15 @@
           "time_info": "[03时31分 ~ 05时25分]"
         },
         {
-          "title": "伊朗最高领袖遇害，除了谴责美国中方还将如何行动？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684013",
-          "source": "澎湃新闻",
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            14
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 09时16分]"
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
         },
         {
           "title": "加拿大股市继续创收盘历史新高",
@@ -408,17 +443,6 @@
           "time_info": "[01时39分 ~ 02时35分]"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗对科威特的美国阿里夫詹基地发起无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260303045536106800",
           "source": "金十数据",
@@ -436,7 +460,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -480,7 +504,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -535,9 +559,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "美国军方拦截了一架针对位于伊拉克北部美军基地的伊朗无人机。",
+          "url": "https://flash.jin10.com/detail/20260303113433884800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国前财长耶伦：如果油价保持高位或进一步上涨，通胀问题将会引起担忧。",
@@ -562,6 +597,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "美国总统特朗普将于美国东部时间周二上午11点（北京时间今夜零点）在白宫与德国总理默茨会晤。",
+          "url": "https://flash.jin10.com/detail/20260303113237211800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "美国遥感卫星运营商万拓：新的高分辨率卫星图像显示，沙特阿拉伯拉斯坦乌拉石油设施在伊朗无人机袭击后遭受严重损坏。",
           "url": "https://flash.jin10.com/detail/20260303033055744800",
           "source": "金十数据",
@@ -579,7 +625,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -612,7 +658,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -626,6 +672,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美国驻沙特大使馆发生爆炸后起火",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A9%BB%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E5%90%8E%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "美国前财长耶伦：中东冲突风险令美联储更倾向于按兵不动",
+          "url": "https://www.cls.cn/detail/2300466",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国国务卿鲁比奥将于十分钟后在国会山向众议院和参议院领导人作简报。",
@@ -656,7 +724,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -689,7 +757,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -747,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美国总统特使威特科夫：伊朗谈判代表公开夸耀拥有浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260303112509484800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国两年期国债收益率涨幅扩大至10个基点，报3.47%。",
@@ -810,9 +889,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "美国会拟限制特朗普继续对伊动武",
+          "url": "https://www.toutiao.com/trending/7611738955826462762/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国总统特朗普：我们对伊朗对阿拉伯国家的袭击感到惊讶。",
@@ -846,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "美国驻巴基斯坦大使馆宣布因持续的安全问题取消所有签证预约。",
+          "url": "https://flash.jin10.com/detail/20260303111906342800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国原油期货收涨约6.3%，中东原油期货一度突破83美元",
@@ -892,6 +993,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "美国总统特使威特科夫：我们提出了一项交易，包括从国外向伊朗供应核燃料，以换取停止铀浓缩，但伊朗完全拒绝了。",
+          "url": "https://flash.jin10.com/detail/20260303111858890800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "美媒：美国民主党酝酿立法回应五角大楼人工智能之争",
           "url": "https://flash.jin10.com/detail/20260303030140542800",
           "source": "金十数据",
@@ -920,7 +1032,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -934,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特使威特科夫：伊朗铀库存本可制造11枚核弹。",
+          "url": "https://flash.jin10.com/detail/20260303111539267800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美元/日元日内涨幅达1.0%，报157.62。 美国ISM制造业数据披露后，5-10年期美债收益率涨幅扩大至10个基点。",
@@ -953,7 +1076,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1024,13 +1147,24 @@
           "time_info": "05时25分"
         },
         {
+          "title": "美国总统特使威特科夫：伊朗当时距离将铀浓缩至制造核武器所需的90%浓度仅剩一周到十天的时间。",
+          "url": "https://flash.jin10.com/detail/20260303111513284800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "华尔街日报援引美国国务院消息称，美国驻利雅得使馆遭无人机袭击；美国驻利雅得使馆发布就地避险警报。",
           "url": "https://wallstreetcn.com/livenews/3062240",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1101,6 +1235,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美国驻沙特大使馆遭袭 美使团发布就地避险通知",
+          "url": "https://wallstreetcn.com/livenews/3062355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "美国总统特朗普：拥有核武器的伊朗对美国而言是不可容忍的。这是我们最后一次最佳打击机会。我们的目标明确，包括了摧毁伊朗导弹能力。",
           "url": "https://flash.jin10.com/detail/20260303005223492800",
           "source": "金十数据",
@@ -1110,6 +1255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "据CNN：美国驻沙特大使馆附近又发生两起无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260303110850038800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国2月ISM制造业就业指数 48.8，预期 48.3，前值 48.1。",
@@ -1136,419 +1292,8 @@
       ]
     },
     {
-      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 35,
-      "titles": [
-        {
-          "title": "王毅分别同阿曼外交大臣、伊朗外长、法国外长通电话",
-          "url": "https://www.cls.cn/detail/2300247",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时16分]"
-        },
-        {
-          "title": "法国总统下令增加核弹头数量",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%8A%A0%E6%A0%B8%E5%BC%B9%E5%A4%B4%E6%95%B0%E9%87%8F%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时18分]"
-        },
-        {
-          "title": "西班牙拒绝支持对伊军事行动",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8B%92%E7%BB%9D%E6%94%AF%E6%8C%81%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            19,
-            17,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时20分]"
-        },
-        {
-          "title": "法国总统下令增加核弹头数量",
-          "url": "https://www.toutiao.com/trending/7612544306360631323/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            10,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时31分 ~ 07时18分]"
-        },
-        {
-          "title": "法国外长：美以对伊行动未经安理会审议 不具合法性",
-          "url": "https://flash.jin10.com/detail/20260303020659633800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "英国首相斯塔默：本届政府不相信靠空袭实现政权更迭的做法。",
-          "url": "https://flash.jin10.com/detail/20260303000611322800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "星链与德国电信联手，在欧洲推出卫星移动服务",
-          "url": "https://wallstreetcn.com/livenews/3062118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 05时25分]"
-        },
-        {
-          "title": "英国天然气期货周一涨约41%，荷兰天然气期货也涨超37%",
-          "url": "https://wallstreetcn.com/livenews/3062111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 05时25分]"
-        },
-        {
-          "title": "英国2/10年期国债收益率至多涨超14个基点",
-          "url": "https://wallstreetcn.com/livenews/3062079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时35分]"
-        },
-        {
-          "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3062077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时35分]"
-        },
-        {
-          "title": "英国首相：不会参与美以对伊朗的进攻性打击",
-          "url": "https://wallstreetcn.com/livenews/3062134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时20分]"
-        },
-        {
-          "title": "私募Elliott Management对英国抵押贷款供应商Market Financial Solutions（MFS）存在大约2亿英镑的风险敞口。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3062078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时35分]"
-        },
-        {
-          "title": "法国外长：美以对伊行动未经安理会审议，不具合法性",
-          "url": "https://wallstreetcn.com/livenews/3062096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时27分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡已关闭 马克龙宣布提升法国核武库规模 | 环球市场",
-          "url": "https://www.cls.cn/detail/2300491",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "英国两年期金边债券收益率正朝着自2024年8月以来的最大单日涨幅迈进，当日上涨16个基点，报3.693%。",
-          "url": "https://flash.jin10.com/detail/20260303000246550800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "马克龙重大宣布：法国将增加核弹头数量",
-          "url": "https://news.ifeng.com/c/8rB4TMK5Ozr",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
-          "url": "https://flash.jin10.com/detail/20260303010655126800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "丹麦国防部长：与法国的核合作不包括在丹麦（部署）法国核武器。",
-          "url": "https://flash.jin10.com/detail/20260303014123430800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "英国首相：不会参与对伊朗的进攻性打击",
-          "url": "https://flash.jin10.com/detail/20260303052100221800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "荷兰外长：欧洲的安全要求我们承担更多责任。因此，我们将与法国及其他盟友展开对话，推动更强大的欧洲威慑能力。",
-          "url": "https://flash.jin10.com/detail/20260302235341718800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "市场消息：法国总统将于欧洲中部时间晚上8点15分（北京时间次日凌晨3点15分）召开国防委员会会议，讨论伊朗及中东局势。",
-          "url": "https://flash.jin10.com/detail/20260303005922561800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "丹麦首相：丹麦接受法国邀请，加入核威慑合作。",
-          "url": "https://flash.jin10.com/detail/20260303013456746800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "英国海上贸易行动办公室：阿曼马斯喀特以北5海里处发生一起事故。",
-          "url": "https://flash.jin10.com/detail/20260302234806037800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "法国总统马克龙就伊朗和中东局势同卡塔尔、阿联酋、阿曼领导人通话。",
-          "url": "https://flash.jin10.com/detail/20260303013433240800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "德国DAX 30指数初步收跌2.36%，报24686.76点。 法国股指初步收跌2%，意大利股指初步收跌2%、银行指数跌3.2%，英国股指初步收跌1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3062061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "英国首相斯塔默：我们铭记伊拉克战争的错误，我们已吸取教训。",
-          "url": "https://flash.jin10.com/detail/20260302234533036800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "英国首相斯塔默：伊朗向那些没有攻击它们的国家发射了数百枚导弹和数千架无人机。",
-          "url": "https://flash.jin10.com/detail/20260302234510138800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "英国首相斯塔默：派遣快速部署团队前往中东地区，协助当地国民。",
-          "url": "https://flash.jin10.com/detail/20260302234422682800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "德国和法国发表联合声明，将加强核领域合作",
-          "url": "https://wallstreetcn.com/livenews/3062056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "王毅同阿曼外交大臣、法国外长通话",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E9%98%BF%E6%9B%BC%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3%E3%80%81%E6%B3%95%E5%9B%BD%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "马克龙称法国进入核威慑新阶段",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E6%B3%95%E5%9B%BD%E8%BF%9B%E5%85%A5%E6%A0%B8%E5%A8%81%E6%85%91%E6%96%B0%E9%98%B6%E6%AE%B5%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "法国称准备参与海湾国家防御行动",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%A7%B0%E5%87%86%E5%A4%87%E5%8F%82%E4%B8%8E%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E9%98%B2%E5%BE%A1%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "英国首相斯塔默：我们将持续评估对伊朗的打击决策。",
-          "url": "https://flash.jin10.com/detail/20260302234132681800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3062067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "德国股市收跌超2.4%，意大利银行板块跌约3.2%",
-          "url": "https://wallstreetcn.com/livenews/3062061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "3000 余名中国公民自伊朗撤离，一名中国公民在德黑兰遇难，目前情况如何？哪些信息值得关注？",
@@ -1666,11 +1411,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 12时07分]"
         },
         {
           "title": "1名中国公民在伊朗遇难",
@@ -1699,8 +1445,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 12时07分]"
         },
         {
           "title": "中国金球奖颁奖典礼",
@@ -1715,8 +1461,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 12时07分]"
         },
         {
           "title": "中国军号：假如战争今天爆发",
@@ -1820,6 +1566,17 @@
           "time_info": "[04时27分 ~ 09时16分]"
         },
         {
+          "title": "伊朗放行中国油船,老美气疯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351245&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%94%BE%E8%A1%8C%E4%B8%AD%E5%9B%BD%E6%B2%B9%E8%88%B9%2C%E8%80%81%E7%BE%8E%E6%B0%94%E7%96%AF",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
+        },
+        {
           "title": "中方否认伊同中国接近达成导弹采购",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%90%A6%E8%AE%A4%E4%BC%8A%E5%90%8C%E4%B8%AD%E5%9B%BD%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%AF%BC%E5%BC%B9%E9%87%87%E8%B4%AD",
           "source": "百度热搜",
@@ -1835,26 +1592,15 @@
           "time_info": "[00时34分 ~ 05时25分]"
         },
         {
-          "title": "中国有了量子手机",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BA%86%E9%87%8F%E5%AD%90%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
+          "title": "从三个维度看当前中国经济",
+          "url": "https://www.toutiao.com/trending/7612224215584653339/",
+          "source": "今日头条",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "伊朗放行中国油船,老美气疯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351245&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%94%BE%E8%A1%8C%E4%B8%AD%E5%9B%BD%E6%B2%B9%E8%88%B9%2C%E8%80%81%E7%BE%8E%E6%B0%94%E7%96%AF",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "12时07分"
         },
         {
           "title": "外国明明也有高酒精度的烈酒，为什么会喝不惯中国的白酒？",
@@ -1863,11 +1609,24 @@
           "ranks": [
             19,
             17,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时31分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 12时07分]"
+        },
+        {
+          "title": "中国有了量子手机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BA%86%E9%87%8F%E5%AD%90%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
         },
         {
           "title": "中国充电桩“一哥”进军港股",
@@ -1880,6 +1639,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时27分]"
+        },
+        {
+          "title": "中国为停止在伊朗的战争和袭击还可以做些什么？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683731",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
+        },
+        {
+          "title": "特斯拉为什么销量比国产电车好？",
+          "url": "https://www.zhihu.com/question/13039955778",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
@@ -1906,43 +1689,522 @@
           "time_info": "[00时34分 ~ 01时39分]"
         },
         {
+          "title": "新疆喀什姑娘拿下中国小姐冠军",
+          "url": "https://www.toutiao.com/trending/7612565079507632191/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股午盘收盘行情一览：石油、航运港口、银行股集体上攻，消费电子、白酒板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260303113633150800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.12%，上一个交易日夜盘收涨0.16%。",
           "url": "https://wallstreetcn.com/livenews/3062257",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
         {
-          "title": "特斯拉为什么销量比国产电车好？",
-          "url": "https://www.zhihu.com/question/13039955778",
-          "source": "知乎",
+          "title": "富时中国A50指数期货涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3062368",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "西班牙国王和中国机器人握手",
+          "url": "https://www.toutiao.com/trending/7612133346110455835/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "“中国智造”何以在巴展再站C位",
+          "url": "https://www.toutiao.com/trending/7612674386743246854/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "中国石油再度涨停",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%86%8D%E5%BA%A6%E6%B6%A8%E5%81%9C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
+      "match_count": 37,
+      "titles": [
+        {
+          "title": "王毅分别同阿曼外交大臣、伊朗外长、法国外长通电话",
+          "url": "https://www.cls.cn/detail/2300247",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时16分]"
+        },
+        {
+          "title": "法国总统下令增加核弹头数量",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%8A%A0%E6%A0%B8%E5%BC%B9%E5%A4%B4%E6%95%B0%E9%87%8F%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时18分]"
+        },
+        {
+          "title": "西班牙拒绝支持对伊军事行动",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8B%92%E7%BB%9D%E6%94%AF%E6%8C%81%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            19,
+            17,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 06时20分]"
+        },
+        {
+          "title": "法国总统下令增加核弹头数量",
+          "url": "https://www.toutiao.com/trending/7612544306360631323/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9,
+            10,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时31分 ~ 07时18分]"
+        },
+        {
+          "title": "法国外长：美以对伊行动未经安理会审议 不具合法性",
+          "url": "https://flash.jin10.com/detail/20260303020659633800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "英国首相斯塔默：本届政府不相信靠空袭实现政权更迭的做法。",
+          "url": "https://flash.jin10.com/detail/20260303000611322800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "星链与德国电信联手，在欧洲推出卫星移动服务",
+          "url": "https://wallstreetcn.com/livenews/3062118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时25分]"
+        },
+        {
+          "title": "英国天然气期货周一涨约41%，荷兰天然气期货也涨超37%",
+          "url": "https://wallstreetcn.com/livenews/3062111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时25分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡已关闭 马克龙宣布提升法国核武库规模 | 环球市场",
+          "url": "https://www.cls.cn/detail/2300491",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
+        },
+        {
+          "title": "英国2/10年期国债收益率至多涨超14个基点",
+          "url": "https://wallstreetcn.com/livenews/3062079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
             14
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时35分]"
+        },
+        {
+          "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3062077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时35分]"
+        },
+        {
+          "title": "英国首相：不会参与美以对伊朗的进攻性打击",
+          "url": "https://wallstreetcn.com/livenews/3062134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时20分]"
+        },
+        {
+          "title": "马克龙重大宣布：法国将增加核弹头数量",
+          "url": "https://news.ifeng.com/c/8rB4TMK5Ozr",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
+        },
+        {
+          "title": "私募Elliott Management对英国抵押贷款供应商Market Financial Solutions（MFS）存在大约2亿英镑的风险敞口。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3062078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时35分]"
+        },
+        {
+          "title": "法国外长：美以对伊行动未经安理会审议，不具合法性",
+          "url": "https://wallstreetcn.com/livenews/3062096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时27分]"
+        },
+        {
+          "title": "英国两年期金边债券收益率正朝着自2024年8月以来的最大单日涨幅迈进，当日上涨16个基点，报3.693%。",
+          "url": "https://flash.jin10.com/detail/20260303000246550800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "数量成谜,法国扩核玩神秘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351258&amp;topic_name=%E6%95%B0%E9%87%8F%E6%88%90%E8%B0%9C%2C%E6%B3%95%E5%9B%BD%E6%89%A9%E6%A0%B8%E7%8E%A9%E7%A5%9E%E7%A7%98",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303010655126800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "丹麦国防部长：与法国的核合作不包括在丹麦（部署）法国核武器。",
+          "url": "https://flash.jin10.com/detail/20260303014123430800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "英国首相：不会参与对伊朗的进攻性打击",
+          "url": "https://flash.jin10.com/detail/20260303052100221800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "荷兰外长：欧洲的安全要求我们承担更多责任。因此，我们将与法国及其他盟友展开对话，推动更强大的欧洲威慑能力。",
+          "url": "https://flash.jin10.com/detail/20260302235341718800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "市场消息：法国总统将于欧洲中部时间晚上8点15分（北京时间次日凌晨3点15分）召开国防委员会会议，讨论伊朗及中东局势。",
+          "url": "https://flash.jin10.com/detail/20260303005922561800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "丹麦首相：丹麦接受法国邀请，加入核威慑合作。",
+          "url": "https://flash.jin10.com/detail/20260303013456746800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "欧洲斯托克50期货下跌0.5%，德国DAX期货下跌0.6%，英国富时期货持平。",
+          "url": "https://wallstreetcn.com/livenews/3062365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "英国海上贸易行动办公室：阿曼马斯喀特以北5海里处发生一起事故。",
+          "url": "https://flash.jin10.com/detail/20260302234806037800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "法国总统马克龙就伊朗和中东局势同卡塔尔、阿联酋、阿曼领导人通话。",
+          "url": "https://flash.jin10.com/detail/20260303013433240800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌2.36%，报24686.76点。 法国股指初步收跌2%，意大利股指初步收跌2%、银行指数跌3.2%，英国股指初步收跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3062061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "英国首相斯塔默：我们铭记伊拉克战争的错误，我们已吸取教训。",
+          "url": "https://flash.jin10.com/detail/20260302234533036800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "英国首相斯塔默：伊朗向那些没有攻击它们的国家发射了数百枚导弹和数千架无人机。",
+          "url": "https://flash.jin10.com/detail/20260302234510138800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "英国首相斯塔默：派遣快速部署团队前往中东地区，协助当地国民。",
+          "url": "https://flash.jin10.com/detail/20260302234422682800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "德国和法国发表联合声明，将加强核领域合作",
+          "url": "https://wallstreetcn.com/livenews/3062056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "王毅同阿曼外交大臣、法国外长通话",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E9%98%BF%E6%9B%BC%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3%E3%80%81%E6%B3%95%E5%9B%BD%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "马克龙称法国进入核威慑新阶段",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E6%B3%95%E5%9B%BD%E8%BF%9B%E5%85%A5%E6%A0%B8%E5%A8%81%E6%85%91%E6%96%B0%E9%98%B6%E6%AE%B5%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
         {
-          "title": "中国为停止在伊朗的战争和袭击还可以做些什么？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683731",
-          "source": "澎湃新闻",
+          "title": "法国称准备参与海湾国家防御行动",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%A7%B0%E5%87%86%E5%A4%87%E5%8F%82%E4%B8%8E%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E9%98%B2%E5%BE%A1%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
           "ranks": [
-            16
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "06时20分"
+        },
+        {
+          "title": "英国首相斯塔默：我们将持续评估对伊朗的打击决策。",
+          "url": "https://flash.jin10.com/detail/20260302234132681800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3062067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "德国股市收跌超2.4%，意大利银行板块跌约3.2%",
+          "url": "https://wallstreetcn.com/livenews/3062061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "印度GDP没超过日本",
@@ -1976,9 +2238,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "五年期日本国债收益率上升6.0个基点，至1.590%。",
+          "url": "https://flash.jin10.com/detail/20260303115126001800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "韩国：无需过度担忧中东紧张局势",
@@ -1990,6 +2263,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "日本拍卖10年期国债，认购倍数为3.3，过去12个月均值3.23。",
+          "url": "https://wallstreetcn.com/livenews/3062394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "战火逼停金属交易！据称力拓已撤回报价 拟重议日本客户订单",
+          "url": "https://www.cls.cn/detail/2300321",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
         },
         {
           "title": "据日经新闻：日本的原油储备足够用254天，如果霍尔木兹海峡封锁持续，日本可能释放原油储备以稳定国内供应。",
@@ -2016,26 +2312,59 @@
           "time_info": "[03时31分 ~ 04时27分]"
         },
         {
+          "title": "日本10年期国债标售投标倍数为3.30，高于上一次标售的3.02。",
+          "url": "https://flash.jin10.com/detail/20260303113552838800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "起底被商务部制裁的20家日本实体",
           "url": "https://www.toutiao.com/trending/7611874087863894042/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
         {
-          "title": "战火逼停金属交易！据称力拓已撤回报价 拟重议日本客户订单",
-          "url": "https://www.cls.cn/detail/2300321",
-          "source": "财联社热门",
+          "title": "韩国首尔综合指数下跌5%，报5931.74点。",
+          "url": "https://wallstreetcn.com/livenews/3062381",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "12时07分"
+        },
+        {
+          "title": "韩国KOSPI 200指数期货下跌5%，程序化交易暂停5分钟。",
+          "url": "https://wallstreetcn.com/livenews/3062378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "韩国综指跌幅达5%",
+          "url": "https://flash.jin10.com/detail/20260303112658409800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "韩国副财长：将密切监控能源及金融市场。",
@@ -2044,7 +2373,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -2055,7 +2384,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -2066,7 +2395,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -2077,7 +2406,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -2088,7 +2417,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -2099,7 +2428,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -2110,9 +2439,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "韩国贸易部：卡塔尔供气暂停后，韩国寻求替代液化天然气供应。",
+          "url": "https://wallstreetcn.com/livenews/3062354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "日本财务大臣片山皋月：考虑在金融实践中使用AI至关重要。",
@@ -2121,7 +2461,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
@@ -2129,7 +2469,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "天然气飙涨近50%！全球最大LNG生产商卡塔尔能源宣布遇袭停产",
@@ -2150,9 +2490,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
         },
         {
           "title": "我国建成全球最大的可再生能源体系，每用10度电就有近4度是绿电",
@@ -2174,8 +2514,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 09时16分]"
+          "appearance_count": 5,
+          "time_info": "[06时20分 ~ 12时07分]"
+        },
+        {
+          "title": "卡塔尔能源遇袭后暂停LNG生产，欧洲气价暴涨50%！高盛：若封锁持续将翻倍",
+          "url": "https://wallstreetcn.com/articles/3766548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
         },
         {
           "title": "航空业ETF收跌超2.6%，领跌美股行业ETF，标普能源板块涨超1.9%再创收盘历史新高",
@@ -2190,17 +2541,6 @@
           "time_info": "[06时20分 ~ 07时18分]"
         },
         {
-          "title": "卡塔尔能源遇袭后暂停LNG生产，欧洲气价暴涨50%！高盛：若封锁持续将翻倍",
-          "url": "https://wallstreetcn.com/articles/3766548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
           "title": "标普全球能源表示，还将停止在同一“收市定价”交易窗口内发布从霍尔木兹海峡内装船的中东成品油买卖报价。 将不再接受将液化天然气（LNG）运输的装船港指定为卡塔尔出口工厂或阿联酋的Das Island设施。",
           "url": "https://wallstreetcn.com/livenews/3062040",
           "source": "华尔街见闻-快讯",
@@ -2210,6 +2550,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "3月3日投资避雷针：卡塔尔能源暂停液化天然气生产 天然气价格飙升",
+          "url": "https://www.cls.cn/detail/2300555",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "白宫将推出措施缓解能源成本上涨",
+          "url": "https://www.toutiao.com/trending/7611842349546635307/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "乌克兰总统泽连斯基：我们正在准备乌克兰国家安全与国防委员会会议，以批准下一个冬季的战略，必须批准更新后的城市和社区能源设施及关键基础设施的保护和恢复计划。",
@@ -2314,7 +2676,7 @@
     },
     {
       "keyword_group": "[GLOBAL_FILTER] # 过滤标题党 震惊",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "男子下高速显示费用8万多震惊收费员",
@@ -2337,11 +2699,23 @@
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8B%E9%AB%98%E9%80%9F%E6%98%BE%E7%A4%BA%E8%B4%B9%E7%94%A88%E4%B8%87%E5%A4%9A%E9%9C%87%E6%83%8A%E6%94%B6%E8%B4%B9%E5%91%98",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
+        },
+        {
+          "title": "男子下高速显示费用8万多震惊收费员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8B%E9%AB%98%E9%80%9F%E6%98%BE%E7%A4%BA%E8%B4%B9%E7%94%A88%E4%B8%87%E5%A4%9A%E9%9C%87%E6%83%8A%E6%94%B6%E8%B4%B9%E5%91%98%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "12时07分"
         }
       ]
     },
@@ -2362,19 +2736,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 12时07分]"
         },
         {
           "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时07分]"
         }
       ]
     },
