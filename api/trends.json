@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T00:37:43.285794+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-04T01:37:16.484359+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 19,
+      "match_count": 48,
       "titles": [
         {
           "title": "美国什么时候决定袭击伊朗的？美特使透露",
@@ -15,8 +15,41 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "专家：欧洲在法理上反对美国打伊朗，背地里却希望伊政权更迭",
+          "url": "https://v.ifeng.com/c/8rCMPURbjQx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
+          "url": "https://flash.jin10.com/detail/20260304012406090800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时37分"
         },
         {
           "title": "美国信用市场担忧情绪升至10月以来最高",
@@ -30,26 +63,26 @@
           "time_info": "00时37分"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
+          "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
+          "url": "https://wallstreetcn.com/livenews/3062933",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时37分"
         },
         {
-          "title": "专家：欧洲在法理上反对美国打伊朗，背地里却希望伊政权更迭",
-          "url": "https://v.ifeng.com/c/8rCMPURbjQx",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：西班牙是“糟糕的盟友”，不想与他们有任何关系。",
+          "url": "https://flash.jin10.com/detail/20260304012333003800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时37分"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -59,8 +92,64 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "周二开始“分阶段”推出措施，美国称有预案“缓解油价上涨”",
+          "url": "https://wallstreetcn.com/articles/3766570",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "美国国会将就限制总统战争权力议案举行投票",
+          "url": "https://news.ifeng.com/c/8rBrWX2L2Mq",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
+          "url": "https://www.cls.cn/detail/2301011",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "美国是否已经“对战争上瘾”",
+          "url": "https://www.toutiao.com/trending/7613012068769497139/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 01时37分]"
+        },
+        {
+          "title": "美国助墨西哥剿毒的背后",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%8A%A9%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%89%BF%E6%AF%92%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 01时37分]"
         },
         {
           "title": "美国至3月3日6周国债竞拍-得标利率配置百分比 85.61%，前值74.93%。",
@@ -74,6 +163,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
+          "url": "https://flash.jin10.com/detail/20260304012318778800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
           "title": "美国纽约联储主席威廉姆斯：伊朗（面对美国以色列挑起的）战争迄今的影响“相对温和”。 （相比对于美国）伊朗局势通过天然气对欧洲造成的影响可能更大。 石油价格对通胀的影响取决于油价涨势是否会顽固存在。 实现2%这个通胀目标真的很重要。 战争对不确定性的影响可能会很重要。 如果久久不能实现通胀目标，将侵蚀预期。 事实证明，美国对油价波动具有韧性。",
           "url": "https://wallstreetcn.com/livenews/3062887",
           "source": "华尔街见闻-快讯",
@@ -85,15 +185,15 @@
           "time_info": "00时37分"
         },
         {
-          "title": "周二开始“分阶段”推出措施，美国称有预案“缓解油价上涨”",
-          "url": "https://wallstreetcn.com/articles/3766570",
-          "source": "华尔街见闻",
+          "title": "美国贸易代表格里尔：将在五个月内完成关税调查。",
+          "url": "https://wallstreetcn.com/livenews/3062930",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时37分"
         },
         {
           "title": "美国至3月3日6周国债竞拍-得标利率 3.64%，前值3.64%。",
@@ -107,15 +207,15 @@
           "time_info": "00时37分"
         },
         {
-          "title": "美国国会将就限制总统战争权力议案举行投票",
-          "url": "https://news.ifeng.com/c/8rBrWX2L2Mq",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我们正在对关税进行各种研究。 所有国家都向维持他们已经与美国达成的协议。",
+          "url": "https://wallstreetcn.com/livenews/3062929",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时37分"
         },
         {
           "title": "美国至3月3日6周国债竞拍-投标倍数 2.88，前值2.82。",
@@ -129,15 +229,37 @@
           "time_info": "00时37分"
         },
         {
-          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
-          "url": "https://www.cls.cn/detail/2301011",
-          "source": "财联社热门",
+          "title": "德国总理默茨：（美国和以色列挑起的）伊朗战争损害了我们的经济，希望尽快结束。",
+          "url": "https://wallstreetcn.com/livenews/3062926",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：英国“非常、非常不合作”。",
+          "url": "https://flash.jin10.com/detail/20260304012112730800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
+          "url": "https://wallstreetcn.com/livenews/3062925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         },
         {
           "title": "对伊朗打击后，美国加强对境内“潜在威胁”的监测",
@@ -151,6 +273,28 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国驻黎巴嫩大使馆宣布将“无限期关闭”",
+          "url": "https://wallstreetcn.com/livenews/3062922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在进行各种关税研究。",
+          "url": "https://flash.jin10.com/detail/20260304011934425800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
           "title": "Ares的CEO Michael Arougheti：（美国和以色列挑起的）战争并没有改变（我们）对2026年的展望。",
           "url": "https://wallstreetcn.com/livenews/3062880",
           "source": "华尔街见闻-快讯",
@@ -160,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国总统特朗普：对西班牙和英国都不满意。 英国在查戈斯群岛问题上一直不配合美方（军事袭击伊朗的）要求。 英国在能源和移民方面做的一切都糟糕透了。",
+          "url": "https://wallstreetcn.com/livenews/3062920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         },
         {
           "title": "丰田汽车北美公司：2026年2月美国汽车销量为180,950辆，新能源汽车销量为92,293辆。",
@@ -173,6 +328,39 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国总统特朗普：我们有五个月的时间可以对不同国家征收15%的关税，期限过后，我们将逐步公布对不同国家的关税。",
+          "url": "https://flash.jin10.com/detail/20260304011919371800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：我认为德国总理默茨做得不错。",
+          "url": "https://wallstreetcn.com/livenews/3062919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们还有5个月的时间，关税仍将维持在15%。",
+          "url": "https://flash.jin10.com/detail/20260304011852586800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
           "title": "市场消息：包机航空公司Springjet已向美国交通部提交申请，寻求批准运营人道主义遣返航班，将人员接回美国。",
           "url": "https://flash.jin10.com/detail/20260304003049105800",
           "source": "金十数据",
@@ -182,6 +370,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须对那些玩弄金钱的国家征收关税。",
+          "url": "https://flash.jin10.com/detail/20260304011703618800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：每个国家都想敲定他们已经达成的协议；将提高对某些国家的关税协议。",
+          "url": "https://flash.jin10.com/detail/20260304011422905800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         },
         {
           "title": "加拿大2月温哥华基准住房价格同比下降6.8%。 2月温哥华住房销售同比下滑9.8%。",
@@ -195,6 +405,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国总统特朗普告诉到访的德国总理默茨：我们将商谈贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3062913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
           "title": "国际货币基金组织副总裁卡茨：国际货币基金组织认为，美国需要缩减其经常账户赤字。",
           "url": "https://flash.jin10.com/detail/20260304002519650800",
           "source": "金十数据",
@@ -206,6 +427,28 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国总统特朗普：我有权叫停与西班牙有关的一切事宜。",
+          "url": "https://flash.jin10.com/detail/20260304011055344800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普声称：与德国的关系一直都非常牢固。",
+          "url": "https://wallstreetcn.com/livenews/3062912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
           "title": "国际货币基金组织副总裁卡茨：美国的外部头寸略逊于由理想的宏观经济政策所暗示的水平。",
           "url": "https://flash.jin10.com/detail/20260304002354903800",
           "source": "金十数据",
@@ -215,12 +458,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国总统特朗普：一旦战争结束，油价可能会跌到比之前更低的水平。",
+          "url": "https://flash.jin10.com/detail/20260304011000296800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美联储Kashkari：现在判断伊朗局势对美国通胀的影响还言之过早。",
+          "url": "https://wallstreetcn.com/livenews/3062910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：关税让美国变得非常富裕。",
+          "url": "https://flash.jin10.com/detail/20260304010909859800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：预计油价将在对伊朗采取的行动结束后下跌。",
+          "url": "https://flash.jin10.com/detail/20260304010850676800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：油价可能会维持一段时间，但随后会下跌。",
+          "url": "https://flash.jin10.com/detail/20260304010819462800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们在世界各国储存了大量弹药，有无限的中高口径弹药。",
+          "url": "https://flash.jin10.com/detail/20260304010447717800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "据媒体报道：美国正考虑提供油轮保险支持，以缓解中东原油运输压力。",
+          "url": "https://wallstreetcn.com/livenews/3062905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美对伊朗的行动影响中国石油供应？外交部：中方将采取措施保障能源安全",
@@ -230,19 +550,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "中国女足开门红",
-          "url": "https://www.douyin.com/hot/2417740",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         },
         {
           "title": "Unity 终止向所有位于中国大陆及港澳地区的组织提供海外资源商店的访问权限，对于游戏开发者有何影响？",
@@ -252,8 +561,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "中国军号抖音粉丝突破5000万",
+          "url": "https://www.douyin.com/hot/2418009",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         },
         {
           "title": "中国石油、中国石化、中国海油齐发股价异动公告",
@@ -263,19 +584,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "中国军号抖音粉丝突破5000万",
-          "url": "https://www.douyin.com/hot/2418009",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         },
         {
           "title": "永远会被中国年惊艳到",
@@ -285,8 +595,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         },
         {
           "title": "中国女足开门红",
@@ -296,8 +606,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "中国女足开门红",
+          "url": "https://www.douyin.com/hot/2417740",
+          "source": "抖音",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         },
         {
           "title": "外国人在中国的装修日记",
@@ -307,8 +629,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         },
         {
           "title": "大部分在伊朗中国公民已撤离",
@@ -318,8 +640,53 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "伊朗导弹击中以色列高楼，中国工人在高空作业拍下惊魂一幕",
+          "url": "https://news.ifeng.com/c/8rBxKxZAkag",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "【焦点复盘】市场再现极致分化行情，资金持续抱团涨价概念，中国石油时隔17年再度收获2连板",
+          "url": "https://www.cls.cn/detail/2301337",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "直击两会丨全国政协十四届四次会议会期、议程来了！中国进入“两会时间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32691882",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "ASM国际四季度营收6.98亿欧元，分析师预期6.976亿欧元。 四季度订单8.028亿欧元，分析师预期7.726亿欧元。 四季度订单积压12.5亿欧元，分析师预期12.4亿欧元。 四季度毛利润率49.8%，分析师预期48.7%。 四季度运营利润率24.4%，分析师预期22.4%。 预计一季度营收将达到8.3亿欧元+/-4%。 预计二季度营收将较一季度增长。 预计下半年营收将高于上半年。 预计本公司在中国市场的销售将于2026年增长。",
+          "url": "https://wallstreetcn.com/livenews/3062923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时37分"
         },
         {
           "title": "滞留迪拜的中国游客，在战争阴影下吃上了元宵节的汤圆",
@@ -333,44 +700,11 @@
           "time_info": "00时37分"
         },
         {
-          "title": "伊朗导弹击中以色列高楼，中国工人在高空作业拍下惊魂一幕",
-          "url": "https://news.ifeng.com/c/8rBxKxZAkag",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "【焦点复盘】市场再现极致分化行情，资金持续抱团涨价概念，中国石油时隔17年再度收获2连板",
-          "url": "https://www.cls.cn/detail/2301337",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
           "title": "大部分中国公民已撤离伊朗",
           "url": "https://www.douyin.com/hot/2417777",
           "source": "抖音",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "直击两会丨全国政协十四届四次会议会期、议程来了！中国进入“两会时间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691882",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -401,8 +735,91 @@
       ]
     },
     {
+      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "德国总理默茨：这对欧洲、以色列极其重要。",
+          "url": "https://flash.jin10.com/detail/20260304012353822800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "英国2/10国债收益率涨约10个基点",
+          "url": "https://wallstreetcn.com/livenews/3062934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "德国总理默茨：必须研究伊朗政权倒台后的应对战略。",
+          "url": "https://flash.jin10.com/detail/20260304012339854800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "德国总理默茨：我们正试图说服西班牙在支出方面做出改变。",
+          "url": "https://flash.jin10.com/detail/20260304012033764800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "英国首相：将向塞浦路斯空军基地派遣具备反无人机能力的直升机",
+          "url": "https://wallstreetcn.com/livenews/3062915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "周二（3月3日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.71%，报213欧元/吨，一度在北京时间19:21涨至215.25欧元，逼近2025年9月5日顶部216.50欧元。 油菜籽期货涨0.66%，报497.25欧元/吨，18:56曾涨至502.50欧元，逼近2025年6月20日顶部517欧元。",
+          "url": "https://wallstreetcn.com/livenews/3062911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "法国10年期政府融资成本两天反弹18个基点，打乱12月下旬以来的回落趋势",
+          "url": "https://wallstreetcn.com/livenews/3062907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -412,8 +829,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "欧洲央行管委Kazaks：更长长期周期的能源价格偏高，通胀面临更多风险。 稍晚可能会需要采取政策行动，但目前不需要。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时37分"
         },
         {
           "title": "外交部：中方将采取措施保障能源安全",
@@ -423,19 +851,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         },
         {
           "title": "伦铝跳涨！卡塔尔能源扩大停产：尿素、甲醇及铝全面停摆",
           "url": "https://wallstreetcn.com/articles/3766632",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         },
         {
           "title": "国际货币基金组织副总裁卡茨：各国央行更有可能对持续上涨的能源价格作出回应，尤其是当这些价格波动可能扰乱通胀预期时。",
@@ -462,6 +891,34 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马士基：已暂停印度次大陆（印度、巴基斯坦、孟加拉国和斯里兰卡）之间的所有新订舱。",
+          "url": "https://flash.jin10.com/detail/20260304012045131800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克谈及与印度的石油贸易，称：俄罗斯预计印度对俄方石油的兴趣将会变得更加浓厚。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3062870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
       "match_count": 2,
       "titles": [
@@ -473,19 +930,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         },
         {
           "title": "A股半导体公司集体发涨价函",
           "url": "https://www.toutiao.com/trending/7612660746741104650/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         }
       ]
     },
@@ -501,25 +959,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄罗斯副总理诺瓦克谈及与印度的石油贸易，称：俄罗斯预计印度对俄方石油的兴趣将会变得更加浓厚。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3062870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时37分]"
         }
       ]
     },
