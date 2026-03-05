@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T17:35:05.422659+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-03-05T18:31:54.515915+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 160,
+      "match_count": 165,
       "titles": [
         {
           "title": "美以伊战争最新动态｜美国防部首次回应伊朗小学遭袭",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 18时31分]"
         },
         {
           "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
@@ -61,8 +61,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 17时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 18时31分]"
+        },
+        {
+          "title": "美国财长贝森特：15%全球关税或本周落地，将推“海运保险”稳波斯湾油运",
+          "url": "https://wallstreetcn.com/articles/3766731",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 18时31分]"
         },
         {
           "title": "西班牙首相：不支持美国袭击伊朗，不会因为害怕报复而成为帮凶",
@@ -171,32 +186,18 @@
           "time_info": "[01时32分 ~ 07时22分]"
         },
         {
-          "title": "美国财长贝森特：15%全球关税或本周落地，将推“海运保险”稳波斯湾油运",
-          "url": "https://wallstreetcn.com/articles/3766731",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 17时35分]"
-        },
-        {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/articles/3766752",
           "source": "华尔街见闻",
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时05分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 18时31分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -223,22 +224,23 @@
           "time_info": "[16时31分 ~ 17时35分]"
         },
         {
+          "title": "新民调显示，大多数美国人对袭击伊朗并不买账",
+          "url": "https://news.ifeng.com/c/8rF6Z1Os5Oq",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 18时31分]"
+        },
+        {
           "title": "凤凰女记者走进德黑兰市中心，民众高喊“打倒美国”",
           "url": "https://news.ifeng.com/c/8rF890Bjwdd",
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时05分 ~ 17时35分]"
-        },
-        {
-          "title": "新民调显示，大多数美国人对袭击伊朗并不买账",
-          "url": "https://news.ifeng.com/c/8rF6Z1Os5Oq",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -273,7 +275,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -527,11 +529,23 @@
           "source": "百度热搜",
           "ranks": [
             19,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时31分]"
+        },
+        {
+          "title": "伊朗称用导弹击中一艘美国油轮",
+          "url": "https://www.toutiao.com/trending/7613318067011993641/",
+          "source": "今日头条",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时35分]"
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "伊方称导弹击中一美国油轮",
@@ -544,6 +558,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 17时35分]"
+        },
+        {
+          "title": "代表：美国必须停止加速武装台湾",
+          "url": "https://www.toutiao.com/trending/7613580761689489471/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "文件显示，美国如果被要求向进口商支付关税退款，将支付利息。",
@@ -678,17 +703,6 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "伊朗称用导弹击中一艘美国油轮",
-          "url": "https://www.toutiao.com/trending/7613318067011993641/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
-        },
-        {
           "title": "美国芝加哥期权交易所（CBOE）2月指数期权日均成交量增长33.7%，期货日均成交量增长14.7%。",
           "url": "https://wallstreetcn.com/livenews/3063873",
           "source": "华尔街见闻-快讯",
@@ -810,17 +824,6 @@
         },
         {
           "title": "代表：美国必须停止加速武装台湾",
-          "url": "https://www.toutiao.com/trending/7613580761689489471/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
-        },
-        {
-          "title": "代表：美国必须停止加速武装台湾",
           "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%BF%85%E9%A1%BB%E5%81%9C%E6%AD%A2%E5%8A%A0%E9%80%9F%E6%AD%A6%E8%A3%85%E5%8F%B0%E6%B9%BE",
           "source": "百度热搜",
           "ranks": [
@@ -873,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美国参议院将于十分钟后就伊朗“战争权力决议”进行首次投票。",
@@ -1172,6 +1186,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "西班牙外交大臣：已排除与美国谈判的可能性",
+          "url": "https://wallstreetcn.com/livenews/3064403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "市场消息：美国参议员就监控政策问题向人工智能公司施压。",
           "url": "https://flash.jin10.com/detail/20260305043153960800",
           "source": "金十数据",
@@ -1181,6 +1206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "据Punchbowl：美国总统特朗普调查共和党人是否应该解雇美国国土安全部部长诺姆。",
+          "url": "https://flash.jin10.com/detail/20260305181612479800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
@@ -1343,7 +1379,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1436,6 +1472,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "伦敦金属交易所铜库存大增7.9%，至2024年10月以来新高，主要受美国部分仓库流入增加推动。",
+          "url": "https://wallstreetcn.com/livenews/3064396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "美国国防部长赫格塞思确认，一艘美国潜艇在印度洋用鱼雷击沉了一艘伊朗军舰，称这是自第二次世界大战以来首次用鱼雷击沉敌舰。",
           "url": "https://flash.jin10.com/detail/20260305020736213800",
           "source": "金十数据",
@@ -1467,6 +1514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "印度政府消息人士：印度正与美国商谈为船舶投保事宜。",
+          "url": "https://flash.jin10.com/detail/20260305181457245800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美国2月27日当周EIA汽油库存变动 -170.4万桶，预期 -197.9万桶，前值 -101.1万桶。",
@@ -1835,7 +1893,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
@@ -1865,28 +1923,16 @@
           "time_info": "[00时33分 ~ 15时37分]"
         },
         {
-          "title": "西班牙首相重申反战立场",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E9%87%8D%E7%94%B3%E5%8F%8D%E6%88%98%E7%AB%8B%E5%9C%BA%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时36分 ~ 07时22分]"
-        },
-        {
           "title": "北约首次击落伊朗导弹，土耳其卷入冲突，英国变脸",
           "url": "https://news.ifeng.com/c/8rF871AcFcy",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时05分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 18时31分]"
         },
         {
           "title": "西班牙首相回击特朗普",
@@ -1898,8 +1944,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时05分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 18时31分]"
+        },
+        {
+          "title": "西班牙首相重申反战立场",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E9%87%8D%E7%94%B3%E5%8F%8D%E6%88%98%E7%AB%8B%E5%9C%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时36分 ~ 07时22分]"
         },
         {
           "title": "因担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
@@ -1946,8 +2005,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时31分]"
         },
         {
           "title": "欧盟已经对来自法国、瑞典、英国的公司清单进行精简，用于管理其既定的Scaleup Europe Fund计划。 欧盟委员会将是该项目的创始投资者之一，私人投资者、养老基金也将参与其中。 该项目的融资目标为250亿欧元，将侧重于战略性科技与公司。",
@@ -2080,6 +2139,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "据英国《金融时报》：日产警告称，若英国被排除在欧盟提案之外，工厂将关闭。",
+          "url": "https://flash.jin10.com/detail/20260305182212053800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "德国国债开盘下跌，德国30年期国债收益率上行3个基点至3.425%，为2月19日以来最高；德国2年期国债收益率上升5个基点至2.18%。",
           "url": "https://wallstreetcn.com/livenews/3064315",
           "source": "华尔街见闻-快讯",
@@ -2113,6 +2183,17 @@
           "time_info": "15时37分"
         },
         {
+          "title": "英国国防大臣希利：面对伊朗威胁，英塞两国友谊坚如磐石。",
+          "url": "https://flash.jin10.com/detail/20260305181857068800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "英国国债开盘全线走低，10年期收益率上行7个基点至4.51%。",
           "url": "https://wallstreetcn.com/livenews/3064354",
           "source": "华尔街见闻-快讯",
@@ -2122,6 +2203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "英国国防大臣希利：与塞浦路斯国防部长举行会晤，讨论英国如何进一步加强防空力量以支持共同安全。",
+          "url": "https://flash.jin10.com/detail/20260305181853001800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "欧股小幅低开，欧洲斯托克50指数开盘跌0.36%，德国DAX指数跌0.38%，英国富时100指数跌0.03%，法国CAC40指数平开，意大利富时MIB指数跌0.12%。",
@@ -2157,6 +2249,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "据英国央行调查，英国企业预计未来一年工资增长3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3064407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "英伟达已将台积电部分H200芯片产能重新分配，转向Vera Rubin硬件。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3064208",
           "source": "华尔街见闻-快讯",
@@ -2188,6 +2291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "英国2月建筑业PMI 44.5，预期 47，前值 46.4。",
+          "url": "https://wallstreetcn.com/livenews/3064402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "英国驻利雅得大使馆将沙特旅行安全警告提高至第3级。",
@@ -2468,7 +2582,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
@@ -2545,8 +2659,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 17时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 18时31分]"
         },
         {
           "title": "小浪花跑两会｜甄子丹委员回应《镖人》爆火：对中国武侠电影备感振奋",
@@ -2562,6 +2676,19 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时33分 ~ 16时31分]"
+        },
+        {
+          "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699363",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 18时31分]"
         },
         {
           "title": "“中国要求避免攻击天然气设施”，伊朗答凤凰：部分误击",
@@ -2713,17 +2840,18 @@
           "time_info": "[12时05分 ~ 16时31分]"
         },
         {
-          "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699363",
-          "source": "澎湃新闻",
+          "title": "一图读懂 | 2026年中国经济和社会发展“任务清单”",
+          "url": "https://www.cls.cn/detail/2303725",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            7
+            6,
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 17时35分]"
+          "appearance_count": 5,
+          "time_info": "[15时37分 ~ 18时31分]"
         },
         {
           "title": "信心·恒心·初心——写给春天的中国",
@@ -2761,19 +2889,6 @@
           "time_info": "[12时05分 ~ 14时39分]"
         },
         {
-          "title": "一图读懂 | 2026年中国经济和社会发展“任务清单”",
-          "url": "https://www.cls.cn/detail/2303725",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 17时35分]"
-        },
-        {
           "title": "本田拟将中国产电动汽车卖回日本",
           "url": "https://www.toutiao.com/trending/7612296534020882468/",
           "source": "今日头条",
@@ -2796,6 +2911,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时42分 ~ 17时35分]"
+        },
+        {
+          "title": "富时中国A50指数季度调整：纳入中国船舶、天孚通信、万华化学",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699604",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 18时31分]"
         },
         {
           "title": "中国芯片攻关取得新突破",
@@ -2831,6 +2960,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "中国货船安全通过霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8rFZghD4kWD",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，蔚来涨5.5%，小马智行、文远知行、小米涨超4%，新东方涨2.7%，小鹏、网易、腾讯、美团涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3063859",
           "source": "华尔街见闻-快讯",
@@ -2840,19 +2980,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "富时中国A50指数季度调整：纳入中国船舶、天孚通信、万华化学",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699604",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时39分 ~ 17时35分]"
         },
         {
           "title": "中国海军蛟龙突击队训练场公开",
@@ -2902,6 +3029,18 @@
           "time_info": "[12时05分 ~ 14时39分]"
         },
         {
+          "title": "一图速览2026年中国经济任务清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699807",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时31分]"
+        },
+        {
           "title": "中国芯片让区块链性能提升50倍",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E8%AE%A9%E5%8C%BA%E5%9D%97%E9%93%BE%E6%80%A7%E8%83%BD%E6%8F%90%E5%8D%8750%E5%80%8D%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -2913,15 +3052,16 @@
           "time_info": "[09时14分 ~ 09时15分]"
         },
         {
-          "title": "一图速览2026年中国经济任务清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699807",
-          "source": "澎湃新闻",
+          "title": "中国央行：3月6日开展8000亿元买断式逆回购操作，期限为3个月",
+          "url": "https://wallstreetcn.com/livenews/3064387",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            11,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
+          "time_info": "[17时35分 ~ 18时31分]"
         },
         {
           "title": "2026胡润全球富豪榜出炉，张一鸣以5500亿元成为中国首富",
@@ -2955,17 +3095,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
-        },
-        {
-          "title": "中国央行：3月6日开展8000亿元买断式逆回购操作，期限为3个月",
-          "url": "https://wallstreetcn.com/livenews/3064387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.64%，上一个交易日夜盘收涨0.59%。",
@@ -3018,7 +3147,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -3032,6 +3161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "中国男篮 7 月下一阶段的世预赛，杨瀚森（主观意愿）多大概率回归参赛？能否预测下表现？",
+          "url": "https://www.zhihu.com/question/2011596442733662708",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "哈蒙德被中国辅助驾驶连连惊出表情包",
@@ -3159,6 +3299,22 @@
           "time_info": "[00时33分 ~ 06时23分]"
         },
         {
+          "title": "能源见底,日本斩杀线已到",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 18时31分]"
+        },
+        {
           "title": "霍尔木兹告急,日本:与我无瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351327&amp;topic_name=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%3A%E4%B8%8E%E6%88%91%E6%97%A0%E7%93%9C",
           "source": "贴吧",
@@ -3172,21 +3328,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时33分 ~ 14时39分]"
-        },
-        {
-          "title": "能源见底,日本斩杀线已到",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时05分 ~ 17时35分]"
         },
         {
           "title": "“大哥”说打就打，日本经济或遭重创，高市早苗呼吁“谈判”",
@@ -3223,8 +3364,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时05分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 18时31分]"
         },
         {
           "title": "韩国总统李在明：需应对汇市、股市波动。",
@@ -3391,11 +3532,12 @@
           "url": "https://www.cls.cn/detail/2303508",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时31分]"
         },
         {
           "title": "日本正紧张研判是否支援美军",
@@ -3403,11 +3545,12 @@
           "source": "微博",
           "ranks": [
             27,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时31分]"
         },
         {
           "title": "日本贸易大臣将启程访美 力求维持贸易协议不变",
@@ -3694,7 +3837,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -3734,8 +3877,245 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "伊朗称袭击位于印度洋的美军舰",
+          "url": "https://news.ifeng.com/c/8rDCFtWIF7O",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时22分]"
+        },
+        {
+          "title": "美军下黑手沉舰,印度装死旁观",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351402&amp;topic_name=%E7%BE%8E%E5%86%9B%E4%B8%8B%E9%BB%91%E6%89%8B%E6%B2%89%E8%88%B0%2C%E5%8D%B0%E5%BA%A6%E8%A3%85%E6%AD%BB%E6%97%81%E8%A7%82",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 18时31分]"
+        },
+        {
+          "title": "美军潜艇在印度洋袭击一艘伊朗军舰致至少 87 人死亡，具体什么情况？为什么会在印度洋进行袭击？",
+          "url": "https://www.zhihu.com/question/2012584634194608806",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            16,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 18时31分]"
+        },
+        {
+          "title": "伊朗称袭击印度洋上美军舰艇",
+          "url": "https://www.douyin.com/hot/2418342",
+          "source": "抖音",
+          "ranks": [
+            26,
+            24,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时26分 ~ 09时15分]"
+        },
+        {
+          "title": "印度NIFTY 国防指数上涨1.9%",
+          "url": "https://wallstreetcn.com/livenews/3064220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "美股三大股指期货集体拉升，纳指期货涨0.16%，标普500指数期货涨0.10%； 美元指数日内转跌，印度卢比兑美元涨0.8%； 美、布两油短线走低，现分别报75.6美元/桶和82.07美元/桶； 欧洲斯托克600指数转涨，现涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3064397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时31分]"
+        },
+        {
+          "title": "消息人士称，由于原油供应短缺，印度国有炼油企业MRPL已关闭其产量30万桶/日的炼油厂中的一个原油蒸馏单元及部分二级加工装置。",
+          "url": "https://flash.jin10.com/detail/20260305152643438800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：（对未来3个月的展望）市场似乎正从强劲反弹阶段转向更稳定的增长阶段。",
+          "url": "https://flash.jin10.com/detail/20260305113128731800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "印度铜铝制造公司Hindalco股价上涨6.4%，在NIFTY50指数中涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260305130949402800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：（谈近期前景）需求有望得到节日和财年末采购的支撑。",
+          "url": "https://flash.jin10.com/detail/20260305113115238800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "俄罗斯驻印度大使：我们始终欢迎向印度供应石油。",
+          "url": "https://flash.jin10.com/detail/20260305141634692800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：2月乘用车零售销量同比增长26.12%。",
+          "url": "https://flash.jin10.com/detail/20260305113049965800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "印度官员：不打算要求炼油企业削减出口。",
+          "url": "https://flash.jin10.com/detail/20260305181717584800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：2月商用车零售销量同比增长28.89%。",
+          "url": "https://flash.jin10.com/detail/20260305113041398800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "交易员称，印度央行很可能在当地即期外汇市场开盘前大幅抛售美元。",
+          "url": "https://flash.jin10.com/detail/20260305112512974800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "印度政府消息人士：印度正与主要石油生产商和贸易商就采购原油和液化石油气进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260305181522879800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "印度政府消息人士：若局势恶化，印度将考虑重新调整天然气供应的优先次序。",
+          "url": "https://flash.jin10.com/detail/20260305181512628800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "两批俄油改道运往印度 中东冲突改变贸易流向",
+          "url": "https://flash.jin10.com/detail/20260305125003526800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "印度Nifty IT指数下跌1.33%。",
+          "url": "https://wallstreetcn.com/livenews/3064236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "分析师：伊朗冲突对印度经济的冲击大于通胀",
+          "url": "https://flash.jin10.com/detail/20260305175522174800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
@@ -3868,6 +4248,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "欧洲央行管委Rehn：冲突的持续时间和规模将决定其连锁反应。 能源价格上涨可能在短期内推高通胀。 冲突也可能拖累经济增长。 评估冲突影响时需要保持冷静。",
+          "url": "https://wallstreetcn.com/livenews/3064409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "能源市场情报公司Kpler：自美以对伊朗发动攻击以来，霍尔木兹海峡的油轮交通量下降了90%。",
           "url": "https://flash.jin10.com/detail/20260304235529803800",
           "source": "金十数据",
@@ -3877,6 +4268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "匈牙利央行行长：能源价格高位运行将持续多久尚不明确。",
+          "url": "https://flash.jin10.com/detail/20260305181616576800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "上海国际能源交易中心：调整原油、低硫燃料油期货相关合约涨跌停板幅度和交易保证金比例",
@@ -3947,197 +4349,6 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "伊朗称袭击位于印度洋的美军舰",
-          "url": "https://news.ifeng.com/c/8rDCFtWIF7O",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时22分]"
-        },
-        {
-          "title": "美军下黑手沉舰,印度装死旁观",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351402&amp;topic_name=%E7%BE%8E%E5%86%9B%E4%B8%8B%E9%BB%91%E6%89%8B%E6%B2%89%E8%88%B0%2C%E5%8D%B0%E5%BA%A6%E8%A3%85%E6%AD%BB%E6%97%81%E8%A7%82",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 17时35分]"
-        },
-        {
-          "title": "美军潜艇在印度洋袭击一艘伊朗军舰致至少 87 人死亡，具体什么情况？为什么会在印度洋进行袭击？",
-          "url": "https://www.zhihu.com/question/2012584634194608806",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            16,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时05分 ~ 17时35分]"
-        },
-        {
-          "title": "伊朗称袭击印度洋上美军舰艇",
-          "url": "https://www.douyin.com/hot/2418342",
-          "source": "抖音",
-          "ranks": [
-            26,
-            24,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时26分 ~ 09时15分]"
-        },
-        {
-          "title": "美股三大股指期货集体拉升，纳指期货涨0.16%，标普500指数期货涨0.10%； 美元指数日内转跌，印度卢比兑美元涨0.8%； 美、布两油短线走低，现分别报75.6美元/桶和82.07美元/桶； 欧洲斯托克600指数转涨，现涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3064397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "印度NIFTY 国防指数上涨1.9%",
-          "url": "https://wallstreetcn.com/livenews/3064220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "消息人士称，由于原油供应短缺，印度国有炼油企业MRPL已关闭其产量30万桶/日的炼油厂中的一个原油蒸馏单元及部分二级加工装置。",
-          "url": "https://flash.jin10.com/detail/20260305152643438800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "印度汽车经销商协会联盟（FADA）：（对未来3个月的展望）市场似乎正从强劲反弹阶段转向更稳定的增长阶段。",
-          "url": "https://flash.jin10.com/detail/20260305113128731800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "印度铜铝制造公司Hindalco股价上涨6.4%，在NIFTY50指数中涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260305130949402800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "印度汽车经销商协会联盟（FADA）：（谈近期前景）需求有望得到节日和财年末采购的支撑。",
-          "url": "https://flash.jin10.com/detail/20260305113115238800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "俄罗斯驻印度大使：我们始终欢迎向印度供应石油。",
-          "url": "https://flash.jin10.com/detail/20260305141634692800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "印度汽车经销商协会联盟（FADA）：2月乘用车零售销量同比增长26.12%。",
-          "url": "https://flash.jin10.com/detail/20260305113049965800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "印度汽车经销商协会联盟（FADA）：2月商用车零售销量同比增长28.89%。",
-          "url": "https://flash.jin10.com/detail/20260305113041398800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "交易员称，印度央行很可能在当地即期外汇市场开盘前大幅抛售美元。",
-          "url": "https://flash.jin10.com/detail/20260305112512974800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "两批俄油改道运往印度 中东冲突改变贸易流向",
-          "url": "https://flash.jin10.com/detail/20260305125003526800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "印度Nifty IT指数下跌1.33%。",
-          "url": "https://wallstreetcn.com/livenews/3064236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
       "match_count": 11,
       "titles": [
@@ -4155,6 +4366,20 @@
           "time_info": "[00时33分 ~ 09时15分]"
         },
         {
+          "title": "雷军回应手机内存芯片价格上涨",
+          "url": "https://www.douyin.com/hot/2419523",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时37分 ~ 18时31分]"
+        },
+        {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063885",
           "source": "华尔街见闻-快讯",
@@ -4165,19 +4390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "雷军回应手机内存芯片价格上涨",
-          "url": "https://www.douyin.com/hot/2419523",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 17时35分]"
         },
         {
           "title": "英特尔一度涨超5.5%，该公司CFO谈及芯片供应短缺等问题。",
@@ -4274,7 +4486,7 @@
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -4328,7 +4540,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -4342,6 +4554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "国际货币基金组织IMF总裁格奥尔基耶娃：全球经济韧性正因新一轮中东冲突再次面临考验。 若事实证明冲突长期化，显然势必会影响能源价格、市场情绪以及通胀水平。 这场冲突将给世界各地的政策制定者提出新的挑战。 我们一段时间以来一直提醒成员国，不确定性已成为新常态。 我们可能正处于一个长期的动荡调整期。 对人工智能影响初级岗位和年轻人就业表示担忧。",
@@ -4464,19 +4687,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 18时31分]"
         },
         {
           "title": "我国量子计算机有多强",
           "url": "https://www.toutiao.com/trending/7613012923766046756/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时31分]"
         }
       ]
     },
