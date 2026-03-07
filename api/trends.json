@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T13:33:55.991573+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-03-07T14:28:55.241784+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 95,
+      "match_count": 100,
       "titles": [
         {
           "title": "史无前例！美国要亲自下场“操盘”原油期货，美财长贝森特要“重操旧业”？",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时28分]"
         },
         {
           "title": "美国2月非农意外录得“负增长” 交易员加大美联储降息押注",
@@ -54,8 +54,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时28分]"
+        },
+        {
+          "title": "非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时09分 ~ 14时28分]"
         },
         {
           "title": "委内瑞拉证实同意与美国恢复外交和领事关系",
@@ -80,19 +91,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时33分]"
-        },
-        {
-          "title": "非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨",
-          "url": "https://wallstreetcn.com/articles/3766902",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 13时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时28分]"
         },
         {
           "title": "美国国土安全部长被解职",
@@ -131,11 +131,12 @@
           "ranks": [
             1,
             3,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时09分 ~ 14时28分]"
         },
         {
           "title": "市场消息：美国能源部长赖特呼吁重启纽约州的Indian Point核电站。",
@@ -222,6 +223,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "美国密歇根州遭龙卷风袭击 至少4人死亡",
+          "url": "https://flash.jin10.com/detail/20260307142428517800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
           "url": "https://wallstreetcn.com/livenews/3065494",
           "source": "华尔街见闻-快讯",
@@ -231,6 +243,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "伊朗称摧毁位阿联酋和约旦的「萨德」反导系统雷达，此前已摧毁两部，这对美国及其中东盟友将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013354916630979959",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时09分 ~ 14时28分]"
         },
         {
           "title": "伊朗哈塔姆·安比亚中央司令部发言人：对巴林美国军队驻地的袭击造成了许多死伤。",
@@ -244,15 +268,15 @@
           "time_info": "00时30分"
         },
         {
-          "title": "据法新社：美国燃油价格上涨可能引发特朗普的国内危机。",
-          "url": "https://flash.jin10.com/detail/20260307124912015800",
-          "source": "金十数据",
+          "title": "报道：美国参议员凯利提议将联邦汽油税暂停至10月1日",
+          "url": "https://wallstreetcn.com/livenews/3065618",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "14时28分"
         },
         {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
@@ -265,17 +289,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时22分 ~ 09时10分]"
-        },
-        {
-          "title": "伊朗称摧毁位阿联酋和约旦的「萨德」反导系统雷达，此前已摧毁两部，这对美国及其中东盟友将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013354916630979959",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 13时33分]"
         },
         {
           "title": "美国司法部：已针对据称与伊朗石油运输网络有关的逾1530万美元资金提起民事没收诉讼。",
@@ -454,6 +467,30 @@
           "time_info": "[06时19分 ~ 07时21分]"
         },
         {
+          "title": "据法新社：美国燃油价格上涨可能引发特朗普的国内危机。",
+          "url": "https://flash.jin10.com/detail/20260307124912015800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时28分]"
+        },
+        {
+          "title": "美国 2 月非农向下大超预期，失业率再次增长，美元 / 金银走势负相关，宏观数据矛盾突出，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2013370440400274363",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时28分]"
+        },
+        {
           "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
           "url": "https://flash.jin10.com/detail/20260307032000001800",
           "source": "金十数据",
@@ -487,17 +524,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 04时22分]"
-        },
-        {
-          "title": "美国 2 月非农向下大超预期，失业率再次增长，美元 / 金银走势负相关，宏观数据矛盾突出，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2013370440400274363",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时33分]"
         },
         {
           "title": "美国司法部提起两项民事没收诉讼，旨在追缴1530万美元与伊朗石油运输网络相关的资金。",
@@ -679,6 +705,17 @@
           "time_info": "[09时09分 ~ 09时10分]"
         },
         {
+          "title": "别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机”",
+          "url": "https://wallstreetcn.com/articles/3766940",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "特朗普引用纽约邮报文章表示，根据一项民调，叙利亚人对美国和以色列的态度变暖。",
           "url": "https://flash.jin10.com/detail/20260307000512363800",
           "source": "金十数据",
@@ -710,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "美国参议员凯利提议将联邦汽油税暂停至10月1日",
+          "url": "https://flash.jin10.com/detail/20260307135730186800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国国务卿鲁比奥：我们的目标不是政权更迭，而是希望别的人来管理伊朗。",
@@ -787,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "美国驻约旦大使馆：保护美国公民的安全始终是特朗普总统、鲁比奥国务卿和国务院的首要任务。官员们正在探索更多选项，以帮助美国人离开中东。",
+          "url": "https://flash.jin10.com/detail/20260307134413447800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国财长贝森特宣称：我们可能会取消针对“其他俄罗斯石油”的制裁。",
@@ -1122,7 +1181,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "中国量子计算如何改变世界",
@@ -1180,11 +1239,12 @@
             15,
             13,
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时28分]"
         },
         {
           "title": "新加坡是否会随着中国崛起逐渐失去优势呢？",
@@ -1196,6 +1256,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时29分 ~ 09时10分]"
+        },
+        {
+          "title": "国防部新闻发言人就澳大利亚炒作所谓中国军机不安全接近其舰载机答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32715801",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时09分 ~ 14时28分]"
         },
         {
           "title": "中国军队有力应对澳方挑衅滋扰",
@@ -1210,19 +1283,6 @@
           "time_info": "[07时20分 ~ 09时10分]"
         },
         {
-          "title": "国防部新闻发言人就澳大利亚炒作所谓中国军机不安全接近其舰载机答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32715801",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 13时33分]"
-        },
-        {
           "title": "美以伊战争｜2艘中国货船确认通过霍尔木兹海峡",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -1232,6 +1292,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时56分]"
+        },
+        {
+          "title": "美以伊战争｜为通过霍尔木兹，超10艘船改中国身份",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时28分]"
         },
         {
           "title": "中国正在卷起一场OpenClaw风暴",
@@ -1245,27 +1316,17 @@
           "time_info": "12时56分"
         },
         {
-          "title": "美以伊战争｜为通过霍尔木兹，超10艘船改中国身份",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
           "title": "中国在校生达2.8亿",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%A0%A1%E7%94%9F%E8%BE%BE2.8%E4%BA%BF",
           "source": "百度热搜",
           "ranks": [
             5,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时28分]"
         },
         {
           "title": "经济主题记者会｜吴清问答十要点：谈创业板改革、中国资产吸引力",
@@ -1275,19 +1336,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 14时28分]"
         },
         {
           "title": "9岁中国女孩埃及骑马遇“危险坐骑”，一段教科书式“海外维权”火了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32713285",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时28分]"
         },
         {
           "title": "文化和旅游部部长：“成为中国人”成网络热词",
@@ -1295,11 +1357,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时33分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 14时28分]"
         },
         {
           "title": "文化和旅游部：入境游客购物清单不断拓展扩容，无人机、VR眼镜、文创、潮玩都成为外国游客眼中的中国特产、中国好物。（央视）",
@@ -1307,11 +1370,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时33分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 14时28分]"
         },
         {
           "title": "文化和旅游部部长：2025年中国入境游客人次超过1.5亿，同比增长超17%",
@@ -1319,11 +1383,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            21
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 14时28分]"
+        },
+        {
+          "title": "喝开水吃火锅成外国人体验中国标配",
+          "url": "https://www.baidu.com/s?wd=%E5%96%9D%E5%BC%80%E6%B0%B4%E5%90%83%E7%81%AB%E9%94%85%E6%88%90%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%BD%93%E9%AA%8C%E4%B8%AD%E5%9B%BD%E6%A0%87%E9%85%8D",
+          "source": "百度热搜",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时33分]"
+          "time_info": "[13时33分 ~ 14时28分]"
         },
         {
           "title": "国家卫生健康委主任：2025年中国人均预期寿命达79.25岁",
@@ -1349,6 +1425,17 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
+          "title": "战事下的中国货代：我的伊朗货主失联了",
+          "url": "https://news.ifeng.com/c/8rIL4yL6vdn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.7%，本周累跌约4.2%。 热门中概股里，万国数据初步收涨7.5%，京东涨6.1%，小鹏、携程、网易、金山云至多涨5.9%，小米涨3%，美团、腾讯涨超2%，阿里巴巴涨0.4%，阿特斯太阳能跌3.7%，小马智行跌8.5%。 ETF中，KWEB初步收涨1.3%，CQQQ涨0.1%。",
           "url": "https://wallstreetcn.com/livenews/3065467",
           "source": "华尔街见闻-快讯",
@@ -1360,15 +1447,15 @@
           "time_info": "05时22分"
         },
         {
-          "title": "喝开水吃火锅成外国人体验中国标配",
-          "url": "https://www.baidu.com/s?wd=%E5%96%9D%E5%BC%80%E6%B0%B4%E5%90%83%E7%81%AB%E9%94%85%E6%88%90%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%BD%93%E9%AA%8C%E4%B8%AD%E5%9B%BD%E6%A0%87%E9%85%8D",
-          "source": "百度热搜",
+          "title": "中国正在卷起一场OpenClaw风暴",
+          "url": "https://wallstreetcn.com/articles/3766942",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "14时28分"
         },
         {
           "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
@@ -1421,7 +1508,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -1663,19 +1750,8 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "西班牙首相反对美以打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3065613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
         {
           "title": "美军B-1战略轰炸机傍晚降落英国皇家空军基地",
           "url": "https://flash.jin10.com/detail/20260307113418507800",
@@ -1688,6 +1764,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 13时33分]"
+        },
+        {
+          "title": "西班牙首相反对美以打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3065613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时28分]"
         },
         {
           "title": "报道：Blue Owl对一家进入破产管理程序的英国贷款机构有3600万英镑风险敞口",
@@ -1748,6 +1836,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时33分]"
+        },
+        {
+          "title": "美军B-1战略轰炸机降落英国皇家空军基地",
+          "url": "https://news.ifeng.com/c/8rIRVXd0sfx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "英国央行质询银行业在MFS暴雷问题上的风险敞口。（英国金融时报）",
@@ -2016,22 +2115,24 @@
           "url": "https://flash.jin10.com/detail/20260307131223629800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时28分]"
         },
         {
           "title": "印度政府消息人士：印度拥有2.5亿桶原油和石油产品，可提供7-8周缓冲",
           "url": "https://flash.jin10.com/detail/20260307125627173800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时28分]"
         },
         {
           "title": "据安塔拉通讯社报道，印度尼西亚可能再从央行向银行划拨100万亿印尼盾的政府资金，以提振信贷。",
@@ -2039,11 +2140,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时33分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 14时28分]"
         }
       ]
     },
