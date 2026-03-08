@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T06:15:44.798136+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-03-09T07:16:31.864400+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "真要压油价，美国“几乎只有一个办法”：霍尔木兹海峡",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "王毅：今年是中美关系的“大年”，呼吁中东“停火止战”，与谁交朋友要由拉美国家自己决定",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "伊朗、美国、以色列公布最新战报",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "美国能源部长Wright：乐于在必要时释放战略石油储备（SPR），但（现在）这是一个物流问题。",
@@ -137,6 +137,28 @@
           "time_info": "[00时18分 ~ 05时16分]"
         },
         {
+          "title": "美国零售汽油价格或突破4美元 通胀将显著上升",
+          "url": "https://flash.jin10.com/detail/20260309065108420800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
+          "url": "https://wallstreetcn.com/livenews/3065949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "伊拉克石油产量骤降至170万-180万桶/日，美国和以色列对伊朗发动袭击之前大约430万桶/日。",
           "url": "https://wallstreetcn.com/livenews/3065882",
           "source": "华尔街见闻-快讯",
@@ -166,11 +188,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时16分]"
         },
         {
           "title": "据伊朗媒体Fars News：知情人士称，在美国和以色列对其能源基础设施进行空袭后，伊朗已更新其打击目标。该消息人士表示，德黑兰将不再仅限于军事目标，而是将瞄准该地区关键的美国资产和利益。",
@@ -267,6 +290,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时17分]"
+        },
+        {
+          "title": "据纽约时报：美国国务院已命令美国外交官离开沙特阿拉伯，此前在利雅得的美国大使馆附近发生了无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260309052343760800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时16分]"
         },
         {
           "title": "英国首相办公室：英国首相斯塔默于今天下午与美国总统特朗普通话。",
@@ -377,15 +412,26 @@
           "time_info": "[04时16分 ~ 05时16分]"
         },
         {
-          "title": "据纽约时报：美国国务院已命令美国外交官离开沙特阿拉伯，此前在利雅得的美国大使馆附近发生了无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260309052343760800",
-          "source": "金十数据",
+          "title": "香港特区财政司长：在地缘政治局势驱动下，不少美国资金入港避险",
+          "url": "https://wallstreetcn.com/livenews/3065943",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时15分"
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美国天然气期货价格创一个月新高",
+          "url": "https://wallstreetcn.com/livenews/3065940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国国务院发言人：我们已获悉奥斯陆美国大使馆发生的事件，正对此展开调查。",
@@ -397,6 +443,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "伊朗称美国袭击“德纳”号护卫舰已造成104死32伤",
+          "url": "https://wallstreetcn.com/livenews/3065937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美国10年期国债期货下跌10个点，30年期国债期货下跌19个点。",
+          "url": "https://flash.jin10.com/detail/20260309060410042800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国内政部长伯格姆：周五有1亿美元的黄金从委内瑞拉运到了美国。委内瑞拉人民将为特朗普树立一座伟大解放者的雕像。",
@@ -419,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美国三大股指期货全线下挫，道指期货跌2%，标普500、纳斯达克100指数期货现跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3065930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国参议员林赛·格雷厄姆呼吁沙特和阿联酋参与打击伊朗。",
@@ -446,7 +525,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "中国“铁娘子”号后，又一货轮通过霍尔木兹！至少10艘商船跟风伪装“中国籍”",
@@ -456,8 +535,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "王毅谈中欧关系，乐见欧洲走出保护主义「小阁楼」，来到中国市场强筋壮骨，中国市场对欧洲意味着什么？",
@@ -468,11 +547,12 @@
             7,
             4,
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "已有600余名中国公民从伊朗安全撤离",
@@ -482,8 +562,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "“中国版金三顺”火出圈",
@@ -493,8 +573,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "中国式现代化圈粉全球",
@@ -504,8 +584,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "中国科学家造出比钻石更硬的钻石",
@@ -520,8 +600,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "王毅：中国绝不走国强必霸老路",
@@ -534,8 +614,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "王毅：中国人民绝不允许为侵略翻案",
@@ -549,8 +629,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "中国电信展示量子通信手机系谣言",
@@ -560,8 +640,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "两会外长会｜王毅85分钟答21问！中国外交是全球乱局中不可替代的中流砥柱（完整版）",
@@ -572,19 +652,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "中国女篮85:51捷克女篮",
           "url": "https://www.douyin.com/hot/2423545",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "日本品牌正被中国大规模收购",
@@ -597,8 +678,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "芬兰庙会摆摊中国小吃万人抢",
@@ -612,8 +693,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "闯霍尔木兹,外船改称中国籍",
@@ -624,21 +705,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "地沟油飞上天 藏着中国真本事",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E6%B2%9F%E6%B2%B9%E9%A3%9E%E4%B8%8A%E5%A4%A9+%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E7%9C%9F%E6%9C%AC%E4%BA%8B",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "俄女记者：我已经快成95%中国人了",
@@ -652,7 +720,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时16分]"
+        },
+        {
+          "title": "地沟油飞上天 藏着中国真本事",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E6%B2%9F%E6%B2%B9%E9%A3%9E%E4%B8%8A%E5%A4%A9+%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E7%9C%9F%E6%9C%AC%E4%BA%8B",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
@@ -687,8 +768,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "9岁中国女孩在埃及霸气维权",
@@ -727,6 +808,17 @@
           "time_info": "[02时22分 ~ 03时18分]"
         },
         {
+          "title": "多个主要产油国产量削减 美、布两油双双冲上100美元",
+          "url": "https://flash.jin10.com/detail/20260309062254877800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "中国女足全力争夺亚洲杯小组头名",
           "url": "https://www.toutiao.com/trending/7614876402097065481/",
           "source": "今日头条",
@@ -763,7 +855,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "法国航母，出动了",
@@ -773,8 +865,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "英国海上贸易行动办公室：霍尔木兹海峡发生一起海上安全事件",
@@ -968,12 +1060,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时17分]"
+        },
+        {
+          "title": "法媒：法国与格陵兰岛签署矿产合作协议",
+          "url": "https://wallstreetcn.com/livenews/3065942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
@@ -984,8 +1087,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "木柜子痴硬闯日本,晒照挑衅",
@@ -995,8 +1098,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 07时16分]"
         },
         {
           "title": "王毅向日本发出灵魂4问",
@@ -1007,8 +1110,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 07时16分]"
         },
         {
           "title": "多架美军运输机相继离开韩国",
@@ -1018,19 +1121,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32726646",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "多架美军机相继离开韩国基地",
@@ -1046,6 +1150,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "据韩国媒体报道，英伟达Vera Rubin架构可能采用三星和海力士的HBM4内存。",
+          "url": "https://wallstreetcn.com/livenews/3065950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "女足亚洲杯澳大利亚3-3韩国携手出线",
@@ -1129,7 +1244,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -1157,11 +1272,12 @@
           "ranks": [
             17,
             16,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "王明弹委员：建议统筹推进熔盐堆、快堆等四代核能堆型研发示范",
@@ -1275,6 +1391,36 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗称其另外两艘在印度洋海域军舰已安全靠泊",
+          "url": "https://wallstreetcn.com/livenews/3065887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时16分]"
+        },
+        {
+          "title": "印度想用“免税”发展数据中心，欲打造“全球云计算和人工智能计算枢纽”",
+          "url": "https://wallstreetcn.com/livenews/3065947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# 前沿科技 量子 脑机 基因",
       "match_count": 2,
       "titles": [
@@ -1284,11 +1430,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "“脑机接口”首次写入政府工作报告",
@@ -1305,25 +1452,6 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗称其另外两艘在印度洋海域军舰已安全靠泊",
-          "url": "https://wallstreetcn.com/livenews/3065887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
       "match_count": 1,
       "titles": [
@@ -1336,11 +1464,12 @@
             21,
             24,
             20,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时16分]"
         }
       ]
     }
