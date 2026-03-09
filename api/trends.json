@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T16:35:14.147167+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-03-09T17:40:29.141272+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 81,
+      "match_count": 85,
       "titles": [
         {
           "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时16分 ~ 16时35分]"
+          "appearance_count": 18,
+          "time_info": "[01时16分 ~ 17时40分]"
         },
         {
           "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
@@ -78,8 +78,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 17时40分]"
+        },
+        {
+          "title": "日本学者 Cell 子刊发文，首次证实「人可以经肛门呼吸」，相关研究有哪些应用场景和实际意义？",
+          "url": "https://www.zhihu.com/question/2012579639827063482",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时15分 ~ 16时35分]"
+          "time_info": "[12时09分 ~ 17时40分]"
         },
         {
           "title": "多架美军机相继离开韩国基地",
@@ -95,17 +106,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "日本学者 Cell 子刊发文，首次证实「人可以经肛门呼吸」，相关研究有哪些应用场景和实际意义？",
-          "url": "https://www.zhihu.com/question/2012579639827063482",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 16时35分]"
         },
         {
           "title": "韩国对美投资特别法案获国会特委通过",
@@ -248,6 +248,30 @@
           "time_info": "[00时18分 ~ 03时18分]"
         },
         {
+          "title": "全球第三大战略原油储备！日本即将“放油”？",
+          "url": "https://wallstreetcn.com/articles/3766995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时40分]"
+        },
+        {
+          "title": "日本部署射程1000公里左右远程导弹",
+          "url": "https://www.toutiao.com/trending/7614379386679738431/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时40分]"
+        },
+        {
           "title": "据日经新闻：日本经济产业省与丹麦风力发电公司维斯塔斯将于周一签署谅解备忘录，维斯塔斯将在日本建造风力涡轮机。",
           "url": "https://flash.jin10.com/detail/20260309043609694800",
           "source": "金十数据",
@@ -258,28 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时15分]"
-        },
-        {
-          "title": "全球第三大战略原油储备！日本即将“放油”？",
-          "url": "https://wallstreetcn.com/articles/3766995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "日本部署射程1000公里左右远程导弹",
-          "url": "https://www.toutiao.com/trending/7614379386679738431/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "韩国总统顾问：产业部计划本周内实施燃油价格上限措施。",
@@ -425,6 +427,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "据日经新闻：日本已要求石油储备机构准备释放石油储备。",
           "url": "https://flash.jin10.com/detail/20260309142343506800",
           "source": "金十数据",
@@ -434,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "韩国称正磋商投资美国核电项目",
+          "url": "https://flash.jin10.com/detail/20260309173148621800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "印度卢比兑美元下跌0.5%，报1美元兑92.23卢比，受油价飙升影响。 日本10年期国债收益率上行4个基点至6.73%。",
@@ -464,7 +488,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -563,7 +587,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -645,6 +669,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "日本部署远程导弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "日本首相高市早苗：许多民众担忧汽油价格上涨，政府正研究可采取的措施。",
           "url": "https://flash.jin10.com/detail/20260309131224786800",
           "source": "金十数据",
@@ -665,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "国台办评卓荣泰窜访日本：鸡鸣狗盗，令人不齿",
+          "url": "https://wallstreetcn.com/livenews/3066387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "日本首相高市早苗：目前难以断言中东冲突将如何影响日本经济。",
@@ -923,7 +969,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "中国“铁娘子”号后，又一货轮通过霍尔木兹！至少10艘商船跟风伪装“中国籍”",
@@ -1083,11 +1129,12 @@
             21,
             23,
             17,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 16时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 17时40分]"
         },
         {
           "title": "芬兰庙会摆摊中国小吃万人抢",
@@ -1126,8 +1173,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 17时40分]"
+        },
+        {
+          "title": "强制中国留学生服役？俄外交部辟谣",
+          "url": "https://www.toutiao.com/trending/7614542402971959359/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 17时40分]"
         },
         {
           "title": "俄女记者：我已经快成95%中国人了",
@@ -1145,17 +1203,6 @@
           "time_info": "[00时18分 ~ 07时16分]"
         },
         {
-          "title": "强制中国留学生服役？俄外交部辟谣",
-          "url": "https://www.toutiao.com/trending/7614542402971959359/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时15分 ~ 16时35分]"
-        },
-        {
           "title": "地沟油飞上天 藏着中国真本事",
           "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E6%B2%9F%E6%B2%B9%E9%A3%9E%E4%B8%8A%E5%A4%A9+%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E7%9C%9F%E6%9C%AC%E4%BA%8B",
           "source": "百度热搜",
@@ -1167,6 +1214,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "中国女足vs朝鲜女足",
+          "url": "https://www.douyin.com/hot/2424264",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 17时40分]"
         },
         {
           "title": "最高检：中国是世界上最安全国家之一",
@@ -1196,15 +1256,15 @@
           "time_info": "[00时18分 ~ 14时51分]"
         },
         {
-          "title": "华为Mate80销量国产第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%E9%94%80%E9%87%8F%E5%9B%BD%E4%BA%A7%E7%AC%AC%E4%B8%80%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "俄方辟谣“强制中国留学生服役”",
+          "url": "https://www.douyin.com/hot/2423722",
+          "source": "抖音",
           "ranks": [
-            5
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时52分 ~ 17时40分]"
         },
         {
           "title": "“瞄准中国弱点”，欧盟官方智库这份报告把人看笑了",
@@ -1218,29 +1278,6 @@
           "time_info": "[13时52分 ~ 16时35分]"
         },
         {
-          "title": "俄方辟谣“强制中国留学生服役”",
-          "url": "https://www.douyin.com/hot/2423722",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 16时35分]"
-        },
-        {
-          "title": "中国女足vs朝鲜女足",
-          "url": "https://www.douyin.com/hot/2424264",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 16时35分]"
-        },
-        {
           "title": "美国航天业组织警告：中国会超美国",
           "url": "https://www.toutiao.com/trending/7613958141479075846/",
           "source": "今日头条",
@@ -1250,6 +1287,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "华为Mate80销量国产第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%E9%94%80%E9%87%8F%E5%9B%BD%E4%BA%A7%E7%AC%AC%E4%B8%80%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时40分]"
+        },
+        {
+          "title": "2026年F1中国大奖赛",
+          "url": "https://www.douyin.com/hot/2423775",
+          "source": "抖音",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 17时40分]"
+        },
+        {
+          "title": "两会外长会·现场｜记者“早到晚退”、会场爆满：21个问题勾勒中国立场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32728713",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 17时40分]"
         },
         {
           "title": "两会外长会·前瞻丨“清晰、准确、客观地传递中国声音”，王毅外长今将答问",
@@ -1264,28 +1338,16 @@
           "time_info": "[00时18分 ~ 03时18分]"
         },
         {
-          "title": "两会外长会·现场｜记者“早到晚退”、会场爆满：21个问题勾勒中国立场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32728713",
-          "source": "澎湃新闻",
+          "title": "48岁中国女博导在埃及突然去世",
+          "url": "https://s.weibo.com/weibo?q=%2348%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%AF%BC%E5%9C%A8%E5%9F%83%E5%8F%8A%E7%AA%81%E7%84%B6%E5%8E%BB%E4%B8%96%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            20,
-            18,
-            19
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 16时35分]"
-        },
-        {
-          "title": "2026年F1中国大奖赛",
-          "url": "https://www.douyin.com/hot/2423775",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时40分]"
         },
         {
           "title": "9岁中国女孩在埃及霸气维权",
@@ -1324,17 +1386,6 @@
           "time_info": "[13时53分 ~ 14时51分]"
         },
         {
-          "title": "48岁中国女博导在埃及突然去世",
-          "url": "https://s.weibo.com/weibo?q=%2348%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%AF%BC%E5%9C%A8%E5%9F%83%E5%8F%8A%E7%AA%81%E7%84%B6%E5%8E%BB%E4%B8%96%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
           "title": "中国地震台网自动测定：03月09日01时08分在堪察加东岸远海附近（北纬51.62度，东经159.27度）发生6.0级左右地震，最终结果以正式速报为准。",
           "url": "https://flash.jin10.com/detail/20260309012045267800",
           "source": "金十数据",
@@ -1368,6 +1419,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "中国有望成首个在月球找到水的国家",
+          "url": "https://wallstreetcn.com/livenews/3066405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "陪看女足亚洲杯中国VS朝鲜",
+          "url": "https://www.toutiao.com/trending/7614416842917462059/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）富时中国A50指数成分股午盘收盘行情一览：炼化及贸易、煤炭开采等板块普涨，中国石油大涨7.5%",
@@ -1486,7 +1559,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1500,6 +1573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "争头名！中国女足vs朝鲜女足首发出炉",
+          "url": "https://www.toutiao.com/trending/7615159511338192410/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布中国2月CPI数据，国内成品油将开启新一轮调价窗口。",
@@ -1530,7 +1614,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1552,7 +1636,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -1560,7 +1644,7 @@
     },
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "真要压油价，美国“几乎只有一个办法”：霍尔木兹海峡",
@@ -2038,6 +2122,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2014341784478644036",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "美国国务院发言人：我们已获悉奥斯陆美国大使馆发生的事件，正对此展开调查。",
           "url": "https://flash.jin10.com/detail/20260309020421565800",
           "source": "金十数据",
@@ -2058,6 +2153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美媒实锤是美国“战斧”炸了伊朗小学",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E5%AE%9E%E9%94%A4%E6%98%AF%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E7%82%B8%E4%BA%86%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美国10年期国债期货下跌10个点，30年期国债期货下跌19个点。",
@@ -2099,7 +2205,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2113,6 +2219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "渤海化学：受近期美国和以色列与伊朗地区军事冲突影响，对原材料供应的可持续性造成严重影响，同时为保障后续生产装置的安全性与运行效率，公司决定对PDH装置的原定停产检修时间进行适当延长。",
+          "url": "https://wallstreetcn.com/livenews/3066385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "据CBS：美国国防部长赫格塞思表示，特朗普将“设定伊朗投降的条件”。",
@@ -2162,7 +2279,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "法国航母，出动了",
@@ -2182,9 +2299,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "市场消息：英国在塞浦路斯的Akrotiri基地响起了空袭警报。",
+          "url": "https://flash.jin10.com/detail/20260309173740132800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "交易员预期英国央行今年加息的可能性超过50%。",
@@ -2204,7 +2332,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2408,7 +2536,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2430,7 +2558,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2507,9 +2635,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "瑞银全球研究部：预计英国央行将在4月和7月各降息25个基点，而此前的预测为3月和6月降息。",
+          "url": "https://flash.jin10.com/detail/20260309172728401800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "英国2年期国债收益率飙升30个基点，创2022年以来最大单日上涨。",
+          "url": "https://wallstreetcn.com/livenews/3066392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "德国10年期国债收益率上扬5.4个基点，至2.916%，创去年3月以来新高。",
@@ -2529,7 +2679,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2562,7 +2712,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2573,7 +2723,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2584,7 +2734,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2606,7 +2756,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2617,7 +2767,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -2625,7 +2775,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
@@ -2654,6 +2804,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时16分]"
+        },
+        {
+          "title": "上期能源调整原油、低硫燃料油期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3066413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "伊朗称：若针对其燃料和能源设施的袭击持续，将采取类似行动",
@@ -2764,6 +2925,17 @@
           "time_info": "15时45分"
         },
         {
+          "title": "上期能源：经研究决定，自2026年3月10日（即3月9日夜盘）交易起，非期货公司会员、境外特殊非经纪参与者、客户在原油、低硫燃料油期货各合约的交易限额调整如下，原油期货各合约的日内开仓交易的最大数量为400手；低硫燃料油期货各合约的日内开仓交易的最大数量为1500手。",
+          "url": "https://wallstreetcn.com/livenews/3066406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "巴林唯一炼油厂据报遭伊朗袭击 能源中断持续加剧",
           "url": "https://flash.jin10.com/detail/20260309143210889800",
           "source": "金十数据",
@@ -2773,6 +2945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "上期能源发布关于做好市场风险控制工作的通知",
+          "url": "https://flash.jin10.com/detail/20260309173436343800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "巴林国家石油能源公司宣布遭遇不可抗力。",
@@ -2792,9 +2975,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "上期能源调整原油、低硫燃料油期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260309173020502800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美能源部长淡化油价飙升冲击，称“恐惧溢价”仅属短期波动",
@@ -2817,6 +3011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "上期能源调整原油、低硫燃料油期货交易限额",
+          "url": "https://flash.jin10.com/detail/20260309172711464800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "上海国际能源交易中心：2月处理异常交易行为8起",
@@ -2847,7 +3052,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2869,7 +3074,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -2987,7 +3192,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -3020,7 +3225,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -3081,8 +3286,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 16时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 17时40分]"
         },
         {
           "title": "镜识科技宣布与京东正式达成机器人业务深度合作。",
@@ -3103,8 +3308,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时40分]"
         },
         {
           "title": "对话傅利叶顾捷：具身智能匹配康养刚需，上海成技术产业化最佳土壤",
@@ -3114,8 +3319,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 17时40分]"
         }
       ]
     },
@@ -3131,8 +3336,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时40分]"
         },
         {
           "title": "受芯片股和金融股拖累 日经指数早盘跌破52000点",
@@ -3152,7 +3357,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -3171,8 +3376,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时15分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 17时40分]"
         },
         {
           "title": "中电信量子集团：与所谓“量子通信手机样品”无任何关联",
@@ -3215,8 +3420,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时52分 ~ 17时40分]"
         }
       ]
     },
