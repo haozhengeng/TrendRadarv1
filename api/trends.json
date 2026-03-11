@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T01:43:21.032751+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-03-12T02:42:54.418239+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 42,
+      "match_count": 58,
       "titles": [
         {
           "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
@@ -25,9 +25,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国原油期货收报每桶87.25美元，上涨3.80美元，涨幅4.55%。",
+          "url": "https://flash.jin10.com/detail/20260312023148058800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "标普500指数维持超过0.2%的跌幅，据华尔街日报，美国总统特朗普将宣布新的关税调查。",
+          "url": "https://wallstreetcn.com/livenews/3068295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "市场消息：美国提出重新开放霍尔木兹海峡的方案也没有让一些海湾国家感到信服。",
@@ -58,18 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "Chubb被指定为海湾地区航运的主要美国保险商。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3068266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -102,9 +113,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "Chubb被指定为海湾地区航运的主要美国保险商。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3068266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时42分]"
         },
         {
           "title": "美国中西部龙卷风致至少2人死亡",
@@ -123,11 +146,12 @@
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "西班牙猛批德国：你表现得像是美国附庸",
@@ -137,8 +161,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
@@ -148,8 +172,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "分析称美国可能真的有点撑不住了",
@@ -157,11 +181,12 @@
           "source": "微博",
           "ranks": [
             26,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "3名美国富豪强奸性侵60名女性",
@@ -171,30 +196,88 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "加拿大要求石油行业释放部分储备。",
           "url": "https://wallstreetcn.com/livenews/3068262",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时42分]"
         },
         {
           "title": "美国财政部拍卖390亿美元10年期国债，得标利率4.217%（2月11日为4.177%），投标倍数2.45（前次为2.39）。",
           "url": "https://wallstreetcn.com/livenews/3068261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时42分]"
+        },
+        {
+          "title": "通胀继续降温！美国2月CPI同比上涨2.4%，核心CPI同比2.5%，为近五年来最小增幅",
+          "url": "https://wallstreetcn.com/articles/3767258",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时42分]"
+        },
+        {
+          "title": "袭击伊朗小学的导弹为美国制造",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AF%BC%E5%BC%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 02时42分]"
+        },
+        {
+          "title": "以色列裔美国人街头说母语遭围殴",
+          "url": "https://www.toutiao.com/trending/7615372054368174099/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时42分]"
+        },
+        {
+          "title": "美国内政部长：今天从国际能源署那里听到的内容是合理的。",
+          "url": "https://flash.jin10.com/detail/20260312022912662800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国内政部长：将会看到美国的石油公司宣布根据价格信号已提高产量。",
+          "url": "https://flash.jin10.com/detail/20260312022856543800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国至3月11日10年期国债竞拍-投标倍数 2.45，前值2.39。",
@@ -203,7 +286,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -219,26 +302,26 @@
           "time_info": "00时41分"
         },
         {
-          "title": "通胀继续降温！美国2月CPI同比上涨2.4%，核心CPI同比2.5%，为近五年来最小增幅",
-          "url": "https://wallstreetcn.com/articles/3767258",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
           "title": "美国至3月11日10年期国债竞拍-得标利率配置百分比 24.68%，前值6.2%。",
           "url": "https://flash.jin10.com/detail/20260312010203892800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国当前财年（10月1日以来）预算赤字已经突破1万亿美元，但低于去年同期水平。",
+          "url": "https://wallstreetcn.com/livenews/3068283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "特朗普谈西班牙：这个国家不配合美国。",
@@ -258,7 +341,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -291,7 +374,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -307,6 +390,28 @@
           "time_info": "00时41分"
         },
         {
+          "title": "美国汽油价格超过每加仑3.50美元",
+          "url": "https://flash.jin10.com/detail/20260312021359773800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国2月政府预算 -3075.01亿美元，预期 -3100亿美元，前值 -946亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3068280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "特朗普谈伊朗：美国几乎摧毁了伊朗所有的布雷船。",
           "url": "https://flash.jin10.com/detail/20260312001526553800",
           "source": "金十数据",
@@ -316,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美国对伊朗的首轮打击行动估计花费了40亿美元",
+          "url": "https://flash.jin10.com/detail/20260312021148536800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "特朗普谈伊朗：美国留在伊朗的某些东西，我们可以把它们带走。",
@@ -346,7 +462,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -360,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美国司法部：雪佛龙公司同意就《清洁空气法》可再生燃料标准计划相关事宜支付100万美元民事罚款。",
+          "url": "https://flash.jin10.com/detail/20260312020506915800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.6%，投标倍数3.19。",
@@ -390,9 +517,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国2月预算支出为6210亿美元，高于2025年2月的6030亿美元；收入为3130亿美元，高于2025年2月的2960亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312020128527800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国总统特朗普：西班牙一直表现糟糕，可能会切断美国与该国的贸易。",
@@ -401,9 +539,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国2月份净海关收入265.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312020053592800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国两年期国债收益率涨至3.634%，创9月份以来新高。",
@@ -417,6 +566,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "美国财政部官员称，2月份美国预算收入和支出均创下当月纪录。",
+          "url": "https://flash.jin10.com/detail/20260312020036454800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "美国2月CPI通胀数据要点总结",
           "url": "https://wallstreetcn.com/livenews/3068212",
           "source": "华尔街见闻-快讯",
@@ -428,26 +588,48 @@
           "time_info": "00时41分"
         },
         {
-          "title": "袭击伊朗小学的导弹为美国制造",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AF%BC%E5%BC%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0",
-          "source": "bilibili 热搜",
+          "title": "美国2026财年迄今为止的赤字为1.004万亿美元，而2025财年同期赤字为1.147万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312020024327800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "02时42分"
         },
         {
-          "title": "以色列裔美国人街头说母语遭围殴",
-          "url": "https://www.toutiao.com/trending/7615372054368174099/",
-          "source": "今日头条",
+          "title": "美国2月政府预算 -3080亿美元，预期-758.5亿美元，前值-946亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312020002413800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国国务院：这些组织还以伊拉克各地、包括伊拉克库尔德斯坦地区内常有美国人入住的酒店为目标发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260312015819444800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国国务院：伊朗及其支持的组织可能计划袭击美国在伊拉克的石油和能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20260312015734679800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "白宫：伊朗因素干扰过后，美国将看到更大的经济进展",
@@ -475,7 +657,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "德国DAX 30指数初步收跌1.51%，报23606.96点。 法国股指初步收跌0.53%，意大利股指初步收跌1.16%、银行指数跌1.24%，英国股指初步收跌0.96%。",
@@ -497,8 +679,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "西班牙降级与以色列外交关系",
@@ -509,8 +691,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
+        },
+        {
+          "title": "英国计划周五释放石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3068284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "英国国债收益率至少涨超12个基点",
@@ -519,7 +712,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -535,13 +728,35 @@
           "time_info": "00时41分"
         },
         {
+          "title": "市场消息：英国计划于周五启用石油储备。",
+          "url": "https://flash.jin10.com/detail/20260312020621151800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "周三（3月11日）欧市尾盘，ICE英国天然气期货涨3.62%，报125便士/千卡。 TTF基准荷兰天然气期货涨7.98%，报49.127欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌1.80%，报70.25欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3068275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "俄外交部：英国等欧洲国家企图破坏乌克兰和平进程",
           "url": "https://wallstreetcn.com/livenews/3068250",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -552,7 +767,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -574,7 +789,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -585,7 +800,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -596,7 +811,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -607,7 +822,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -618,7 +833,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         }
@@ -626,7 +841,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国卫星公司发布从太空实拍船只视频",
@@ -636,8 +851,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "中国女篮81:68马里女篮",
@@ -647,8 +862,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "中国\"养龙虾\"如此轰动，全世界都惊了，高盛销售惊讶：中国人这速度和热情！",
@@ -658,8 +873,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "中国超高强度碳纤维实现重大突破",
@@ -669,8 +884,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "中国好赛来丨松花江上的一场大众滑冰赛，小白记者的72小时速滑“急训记”",
@@ -678,11 +893,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "中国造出“世界最强”碳纤维",
@@ -693,8 +909,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
+        },
+        {
+          "title": "中国成功研发世界最强 T1200 级超高强度碳纤维并实现百吨级量产，这对我国有何意义？",
+          "url": "https://www.zhihu.com/question/2014993230404531730",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "汉密尔顿是懂中国旅游的",
@@ -703,9 +930,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "中国女篮大胜马里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%A4%A7%E8%83%9C%E9%A9%AC%E9%87%8C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     },
@@ -718,11 +956,12 @@
           "url": "https://www.zhihu.com/question/2015161588936565933",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "韩国萨德不保,被调往中东填坑",
@@ -732,8 +971,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "国防部回应日本部署远程导弹",
@@ -744,8 +983,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "朝鲜海军崔贤号有什么新变化",
@@ -753,11 +992,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "日本大阪一地下管道冲出地面18米",
@@ -768,8 +1008,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "日本一地下管道冲出地面18米",
@@ -777,11 +1017,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "韩国政府决定释放2246万桶石油储备",
@@ -798,29 +1039,42 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "新西兰政府：将向国际能源署（IEA）宣布的石油储备释放计划贡献六天的燃料供应。 将确保纽元所受（来自伊朗战争冲击的）影响最小化。",
+          "url": "https://wallstreetcn.com/livenews/3068292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
         {
           "title": "七国集团：原则上支持必要时动用战略储备稳定能源市场",
           "url": "https://www.cls.cn/detail/2309984",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
           "url": "https://www.cls.cn/detail/2309752",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：眼下的优先任务是维持能源流动。",
@@ -832,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "【焦点复盘】沪指放量反弹收复10日线，新能源出海概念全天强势，“宁王”盘中一度突破400元大关",
+          "url": "https://www.cls.cn/detail/2309744",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：与欧洲理事会主席科斯塔共同重申，当务之急是确保能源流动畅通，尤其是通过霍尔木兹海峡。",
@@ -856,11 +1121,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "印度政府：对国际能源署（IEA）释放紧急石油库存的决定表示欢迎。",
@@ -887,8 +1153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "英伟达(NVDA.O)：新模型为人工智能体带来5倍更高的吞吐量。",
@@ -912,11 +1178,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E8%8B%B9%E6%9E%9C%E6%96%B0%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         }
       ]
     },
@@ -930,11 +1197,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         }
       ]
     }
