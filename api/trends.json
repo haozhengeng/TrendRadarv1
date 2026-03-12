@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T00:51:54.216492+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T01:44:13.625187+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 21,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国防部被曝龙虾门",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "美国贸易代表：将对16个贸易伙伴发起301调查",
@@ -26,24 +26,35 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "美国密歇根州西布卢姆菲尔德（West Bloomfield）一座犹太教堂报告“枪击事件”。",
+          "url": "https://flash.jin10.com/detail/20260313013009560800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时44分"
+        },
+        {
+          "title": "美国各大交易所的CEO们呼吁审查预测市场“简易上市”制度",
+          "url": "https://wallstreetcn.com/livenews/3069084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
         },
         {
           "title": "美国参议院投票通过住房可负担性法案，将其送交众议院。",
           "url": "https://flash.jin10.com/detail/20260313001903375800",
           "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "美国参议院批准跨党派提出的住房经适性立法草案，按89-10票支持扩大全美住房供应。 草案中包含限制华尔街染指住房市场的条款。",
-          "url": "https://wallstreetcn.com/livenews/3069061",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
@@ -63,15 +74,28 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美国参议院批准跨党派提出的住房经适性立法草案，按89-10票支持扩大全美住房供应。 草案中包含限制华尔街染指住房市场的条款。",
+          "url": "https://wallstreetcn.com/livenews/3069061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
           "title": "美国抵押贷款利率创最近11个月最大升幅，伊朗战争推高通胀风险",
           "url": "https://wallstreetcn.com/livenews/3069058",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -81,8 +105,76 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "美国防部被曝龙虾门",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A2%AB%E6%9B%9D%E9%BE%99%E8%99%BE%E9%97%A8%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
+          "url": "https://news.ifeng.com/c/8rR9ZmxHx0n",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "美能源部长：美国暂未准备好在霍尔木兹海峡为油轮护航",
+          "url": "https://www.cls.cn/detail/2311322",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "伊朗袭击美国油轮 火光冲天",
+          "url": "https://www.toutiao.com/trending/7616332350032514586/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "伊朗称袭击美国油轮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：希望在下周选民身份立法的党派博弈结束后，推动参议院审议能源许可和加密货币法案。 参议员们正在制定一项市场结构法案，希望该法案能“很快”提交委员会通过。 参议院还可能着手改革能源和基础设施项目的许可规则。 计划下周将选民身份立法提交表决，但目前该法案尚无途径达到60票的通过门槛，也无法规避现有的议事规则。",
+          "url": "https://wallstreetcn.com/livenews/3069054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "市场消息：美国取暖油价格突破5美元/加仑。",
@@ -96,15 +188,15 @@
           "time_info": "00时51分"
         },
         {
-          "title": "美国防部被曝龙虾门",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A2%AB%E6%9B%9D%E9%BE%99%E8%99%BE%E9%97%A8%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "美国汽油价创21个月新高，零工群体在加油站感受切肤之痛",
+          "url": "https://wallstreetcn.com/livenews/3069080",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时44分"
         },
         {
           "title": "美国弗吉尼亚州Old Dominion大学发生枪击事件，一名枪手死亡，两人受伤。",
@@ -118,37 +210,26 @@
           "time_info": "00时51分"
         },
         {
-          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：希望在下周选民身份立法的党派博弈结束后，推动参议院审议能源许可和加密货币法案。 参议员们正在制定一项市场结构法案，希望该法案能“很快”提交委员会通过。 参议院还可能着手改革能源和基础设施项目的许可规则。 计划下周将选民身份立法提交表决，但目前该法案尚无途径达到60票的通过门槛，也无法规避现有的议事规则。",
-          "url": "https://wallstreetcn.com/livenews/3069054",
+          "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.871%（2月12日为4.750%），投标倍数2.45（前次为2.66）。",
+          "url": "https://wallstreetcn.com/livenews/3069079",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时44分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
-          "url": "https://news.ifeng.com/c/8rR9ZmxHx0n",
-          "source": "凤凰网",
+          "title": "PayPay美国IPO首日开盘报19美元，此前给出的IPO发行价为每股16美元。",
+          "url": "https://wallstreetcn.com/livenews/3069071",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "美能源部长：美国暂未准备好在霍尔木兹海峡为油轮护航",
-          "url": "https://www.cls.cn/detail/2311322",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时44分"
         },
         {
           "title": "美国方面表示，伊朗的60多艘船只、30多艘布雷船受损或被摧毁。",
@@ -156,17 +237,6 @@
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "伊朗袭击美国油轮 火光冲天",
-          "url": "https://www.toutiao.com/trending/7616332350032514586/",
-          "source": "今日头条",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -184,6 +254,28 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美国纽约市长马姆达尼面临城市财政问题的新警报",
+          "url": "https://wallstreetcn.com/livenews/3069069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "市场消息：美国参议院否决民主党提出的为运输安全管理局拨款的请求，僵局持续。",
+          "url": "https://flash.jin10.com/detail/20260313010636403800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
           "title": "美国财政部拍卖四周期国债，得标利率3.640%，投标倍数2.77。 拍卖八周期国债，得标利率3.625%，投标倍数3.10。",
           "url": "https://wallstreetcn.com/livenews/3069041",
           "source": "华尔街见闻-快讯",
@@ -193,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
+          "url": "https://flash.jin10.com/detail/20260313010502775800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
         },
         {
           "title": "市场消息：美国参议院多数议员投票通过住房可负担性法案；投票仍在进行中。",
@@ -217,6 +320,61 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美国至3月12日30年期国债竞拍-投标倍数 2.45，前值2.66。",
+          "url": "https://flash.jin10.com/detail/20260313010205683800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "美国至3月12日30年期国债竞拍-得标利率配置百分比 59.56%，前值1.2%。",
+          "url": "https://flash.jin10.com/detail/20260313010205682800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "美国至3月12日30年期国债竞拍-得标利率 4.871%，前值4.75%。",
+          "url": "https://flash.jin10.com/detail/20260313010205660800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "市场消息：美国称在伊朗境内约6000个目标遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260313010048650800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "黑客组织ShinyHunters称，他们从加拿大电信公司Telus窃取了至少700GB的数据。",
+          "url": "https://flash.jin10.com/detail/20260313005858382800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
           "title": "英国30年期国债收益率涨12个基点，报5.47%，创10月份以来新高。 美国原油期货涨幅扩大至10%，投资者关注通胀风险。",
           "url": "https://wallstreetcn.com/livenews/3069027",
           "source": "华尔街见闻-快讯",
@@ -228,33 +386,22 @@
           "time_info": "00时51分"
         },
         {
-          "title": "伊朗称袭击美国油轮",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
-          "source": "bilibili 热搜",
+          "title": "GasBuddy报告称，目前美国已有8个州的柴油平均价格超过每加仑5美元，其中加州的柴油价格飙升至每加仑6.16美元。",
+          "url": "https://flash.jin10.com/detail/20260313005417924800",
+          "source": "金十数据",
           "ranks": [
-            29
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时44分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "专访｜达巍：中国不会也无意填补美国留下的“真空”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746254",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
         {
           "title": "读懂中国经济的长远考量",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%95%BF%E8%BF%9C%E8%80%83%E9%87%8F%23&t=31&band_rank=3&Refer=top",
@@ -263,19 +410,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
-          "title": "塞尔维亚战机挂中国导弹亮相",
-          "url": "https://www.toutiao.com/trending/7616159398662295050/",
-          "source": "今日头条",
+          "title": "专访｜达巍：中国不会也无意填补美国留下的“真空”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746254",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "法拉利来中国也得进货",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%8B%89%E5%88%A9%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%B9%9F%E5%BE%97%E8%BF%9B%E8%B4%A7%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 01时44分]"
         },
         {
           "title": "中国至朝鲜国际旅客列车抵达平壤",
@@ -285,19 +444,56 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "塞尔维亚战机挂中国导弹亮相",
+          "url": "https://www.toutiao.com/trending/7616159398662295050/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "中国厂牌是否会进军F1",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8E%82%E7%89%8C%E6%98%AF%E5%90%A6%E4%BC%9A%E8%BF%9B%E5%86%9BF1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "军队代表说中国火箭军真的很强",
+          "url": "https://www.toutiao.com/trending/7615756909366345734/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "女篮世界杯预选赛，中国女篮 65-80 比利时女篮，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2015508924380496779",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "中国自主研制的碳纤维到底有多强",
@@ -307,8 +503,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "世界从中国两会看到新机遇",
@@ -318,30 +514,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "军队代表说中国火箭军真的很强",
-          "url": "https://www.toutiao.com/trending/7615756909366345734/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "韩网热议韩国掀起中国热",
           "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE%E9%9F%A9%E5%9B%BD%E6%8E%80%E8%B5%B7%E4%B8%AD%E5%9B%BD%E7%83%AD&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "别的国家有没有从中国的史料中发现自己国家没有记载过的历史？",
+          "url": "https://www.zhihu.com/question/265971724",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "中国女篮不敌比利时女篮",
@@ -351,19 +549,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "别的国家有没有从中国的史料中发现自己国家没有记载过的历史？",
-          "url": "https://www.zhihu.com/question/265971724",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "世预赛中国女篮不敌比利时",
@@ -373,19 +560,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
-          "title": "中国厂牌是否会进军F1",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8E%82%E7%89%8C%E6%98%AF%E5%90%A6%E4%BC%9A%E8%BF%9B%E5%86%9BF1",
-          "source": "bilibili 热搜",
+          "title": "两会深观察｜“双碳”牵引，何以定义中国发展底色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752440",
+          "source": "澎湃新闻",
           "ranks": [
+            19,
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "美国将对 16 个贸易伙伴发起 301 调查，中国、欧盟、日本、印度、墨西哥等在内，会带来哪些影响？",
@@ -395,19 +583,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
-          "title": "两会深观察｜“双碳”牵引，何以定义中国发展底色",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752440",
-          "source": "澎湃新闻",
+          "title": "中国至朝鲜国际旅客列车抵达平壤",
+          "url": "https://wallstreetcn.com/livenews/3069070",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时44分"
         },
         {
           "title": "F1车手都太懂中国了",
@@ -423,8 +611,80 @@
       ]
     },
     {
+      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "老外“友”故事丨一路山水一路人，两个法国青年徒步12850公里来到上海",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699981",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "英国竞争与市场管理局（CMA）将监控柴油价格。",
+          "url": "https://wallstreetcn.com/livenews/3069047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "英国海军：过去24小时内，阿拉伯湾有3艘舰艇遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260313010706548800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "法国央行行长Villeroy：私人市场增长面临流动性和估值风险。",
+          "url": "https://wallstreetcn.com/livenews/3069068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "英国航空公司将暂时缩减中东航线航班计划。",
+          "url": "https://flash.jin10.com/detail/20260312235236692800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "英国竞争与市场管理局将要求加油站提供营收、销售和成本数据。",
+          "url": "https://flash.jin10.com/detail/20260312234457698800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "道达尔能源：受影响的产量占总产量的15%，约占我们上游现金流的10%。",
@@ -460,6 +720,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "乌克兰总统泽连斯基：发展两国间的能源网络至关重要，这不仅有助于乌克兰应对俄罗斯持续攻击能源基础设施造成的能源短缺，还能在我们电力盈余并可出口电力时为罗马尼亚提供支持。因此，能源领域的合作也是我们讨论的重点议题。",
+          "url": "https://flash.jin10.com/detail/20260313012833651800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
           "title": "道达尔能源：Satorp炼油厂运营一切正常。",
           "url": "https://flash.jin10.com/detail/20260313000833307800",
           "source": "金十数据",
@@ -484,58 +755,8 @@
       ]
     },
     {
-      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "老外“友”故事丨一路山水一路人，两个法国青年徒步12850公里来到上海",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699981",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "英国竞争与市场管理局（CMA）将监控柴油价格。",
-          "url": "https://wallstreetcn.com/livenews/3069047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "英国航空公司将暂时缩减中东航线航班计划。",
-          "url": "https://flash.jin10.com/detail/20260312235236692800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "英国竞争与市场管理局将要求加油站提供营收、销售和成本数据。",
-          "url": "https://flash.jin10.com/detail/20260312234457698800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日本官员承认出轨，高市早苗让他“用工作弥补”",
@@ -545,8 +766,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         },
         {
           "title": "韩国萨德不保,被调往中东填坑",
@@ -556,8 +777,19 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
+          "url": "https://flash.jin10.com/detail/20260313005601624800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时44分"
         }
       ]
     },
@@ -573,8 +805,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         }
       ]
     },
@@ -607,8 +839,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时44分]"
         }
       ]
     }
