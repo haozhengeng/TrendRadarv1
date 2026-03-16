@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T16:03:52.148545+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-03-16T17:56:52.266084+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "美国也是能源大国，为什么还怕油价太高？",
@@ -115,11 +115,12 @@
           "url": "https://news.ifeng.com/c/8rWNQ4DcbqP",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
         },
         {
           "title": "最快本周！美国被曝拟宣布组建霍尔木兹海峡“护航联盟” 各国态度如何？",
@@ -131,8 +132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
         },
         {
           "title": "白宫经济顾问哈塞特：美国可以上线“许多、许多的能源”。",
@@ -212,6 +213,17 @@
           "time_info": "[01时21分 ~ 06时18分]"
         },
         {
+          "title": "媒体：美国参议院仍在等待美联储主席提名人沃什的相关文件",
+          "url": "https://flash.jin10.com/detail/20260316173354766800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "美国稀土(USAR.O)：被选定为美国能源部“矿产到材料供应链研究设施联盟”提供原料。",
           "url": "https://flash.jin10.com/detail/20260316063704408800",
           "source": "金十数据",
@@ -221,6 +233,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "伊朗向以色列和美国基地发射导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260316173312786800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016791283864138046",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
         },
         {
           "title": "伊朗革命卫队海军司令：海湾国家成为美国野心的牺牲品",
@@ -275,18 +311,6 @@
           "time_info": "[04时19分 ~ 06时18分]"
         },
         {
-          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
-          "url": "https://www.zhihu.com/question/2016791283864138046",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
-        },
-        {
           "title": "英国首相府：英国首相斯塔默今晚与美国总统特朗普、加拿大总理卡尼进行了通话。",
           "url": "https://flash.jin10.com/detail/20260316032528121800",
           "source": "金十数据",
@@ -298,6 +322,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时18分]"
+        },
+        {
+          "title": "美国一男子拔枪反抗被警察击毙",
+          "url": "https://www.toutiao.com/trending/7616610541319520266/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 17时56分]"
         },
         {
           "title": "美国能源部长赖特：如今的价格仍远低于拜登政府时期的水平；当时他们一边向伊朗请求、讨价还价，甚至通过贿赂伊朗来“表现得更好”。",
@@ -395,17 +431,6 @@
           "time_info": "[14时15分 ~ 14时16分]"
         },
         {
-          "title": "美国一男子拔枪反抗被警察击毙",
-          "url": "https://www.toutiao.com/trending/7616610541319520266/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
           "title": "报道：印度将暂缓与美国签署贸易协议",
           "url": "https://wallstreetcn.com/livenews/3070479",
           "source": "华尔街见闻-快讯",
@@ -415,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "加拿大挪威等六国发布联合声明",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8C%AA%E5%A8%81%E7%AD%89%E5%85%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "美国驻伊拉克使馆遭袭",
@@ -437,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "美国参议院尚未收到美联储主席提名人沃什听证会的相关文件。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3070783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗核计划）不会有核武器。这只是开始，我们还会得到更多让步。",
@@ -522,7 +569,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -629,7 +676,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "中国盾构机全球市场占有率第一",
@@ -678,11 +725,12 @@
             8,
             20,
             4,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 16时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 17时56分]"
         },
         {
           "title": "安东内利夺F1中国站冠军",
@@ -699,8 +747,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 16时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 17时56分]"
         },
         {
           "title": "F1中国大奖赛正赛集锦",
@@ -758,11 +806,12 @@
             22,
             17,
             16,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时21分 ~ 16时03分]"
+          "appearance_count": 14,
+          "time_info": "[01时21分 ~ 17时56分]"
         },
         {
           "title": "中国女足直通巴西世界杯",
@@ -802,17 +851,6 @@
           "time_info": "[00时22分 ~ 07时22分]"
         },
         {
-          "title": "埃文·凯尔宣布定居中国",
-          "url": "https://www.toutiao.com/trending/7617023176892186633/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
-        },
-        {
           "title": "世预赛中国女篮 84：74 战胜捷克女篮，获得女篮世界杯资格。如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2016610891387396721",
           "source": "知乎",
@@ -826,16 +864,43 @@
           "time_info": "[03时22分 ~ 07时22分]"
         },
         {
+          "title": "埃文·凯尔宣布定居中国",
+          "url": "https://www.toutiao.com/trending/7617023176892186633/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
+        },
+        {
+          "title": "中东战火延烧，全球最大油气进口国中国如何避震？“三桶油”智库专家这么说",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32772951",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 17时56分]"
+        },
+        {
           "title": "埃文凯尔官宣定居中国",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9F%83%E6%96%87%E5%87%AF%E5%B0%94%E5%AE%98%E5%AE%A3%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 16时03分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 17时56分]"
         },
         {
           "title": "F1中国站法拉利内斗",
@@ -864,20 +929,6 @@
           "time_info": "[09时24分 ~ 14时16分]"
         },
         {
-          "title": "中东战火延烧，全球最大油气进口国中国如何避震？“三桶油”智库专家这么说",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32772951",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 16时03分]"
-        },
-        {
           "title": "提醒：北京时间09:30将公布中国2月70个大中城市房价报告。",
           "url": "https://wallstreetcn.com/livenews/3070486",
           "source": "华尔街见闻-快讯",
@@ -887,6 +938,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "捐二战相册的美国小伙宣布定居中国",
+          "url": "https://www.baidu.com/s?wd=%E6%8D%90%E4%BA%8C%E6%88%98%E7%9B%B8%E5%86%8C%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%AE%A3%E5%B8%83%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            4,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
         },
         {
           "title": "中国女篮要把“自己的篮球”打出来",
@@ -919,22 +984,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
-        },
-        {
-          "title": "捐二战相册的美国小伙宣布定居中国",
-          "url": "https://www.baidu.com/s?wd=%E6%8D%90%E4%BA%8C%E6%88%98%E7%9B%B8%E5%86%8C%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%AE%A3%E5%B8%83%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
         },
         {
           "title": "民调：特朗普正将美国盟友推向中国",
@@ -942,11 +994,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 16时03分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 17时56分]"
         },
         {
           "title": "战火下的中国老板：逃离德黑兰坚守开心果工厂，感受小城的团结",
@@ -956,8 +1009,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
+        },
+        {
+          "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775038",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
         },
         {
           "title": "日媒妄称中国卫星监控日美基地，披露运行细节",
@@ -967,20 +1033,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
         },
         {
-          "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775038",
-          "source": "澎湃新闻",
+          "title": "中国女足vs澳大利亚女足前瞻",
+          "url": "https://www.douyin.com/hot/2432493",
+          "source": "抖音",
           "ranks": [
-            16,
-            15
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 17时56分]"
         },
         {
           "title": "2026WTT 重庆冠军赛男单决赛，菲利克斯勒布伦 4：1 中国小将温瑞博夺冠，如何评价这场比赛？",
@@ -992,6 +1058,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 02时27分]"
+        },
+        {
+          "title": "餐饮与升级类商品增速领先，中国1—2月社会消费品零售同比增速2.8%",
+          "url": "https://wallstreetcn.com/articles/3767574",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 17时56分]"
+        },
+        {
+          "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016789382670075625",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 17时56分]"
         },
         {
           "title": "中国女足进四强直通世界杯",
@@ -1016,26 +1104,48 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
+          "title": "中国国航：2月本集团合并旅客周转量（按收入客公里计）同比上升。客运运力投入（按可用座位公里计）同比上升13.8%，旅客周转量同比上升19.1%。",
+          "url": "https://flash.jin10.com/detail/20260316173255411800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "埃文凯尔官宣定居中国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E6%96%87%E5%87%AF%E5%B0%94%E5%AE%98%E5%AE%A3%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "中越外长是否讨论了中国禁止航空燃油出口？外交部：愿与越南等各国共同应对能源安全问题",
           "url": "https://wallstreetcn.com/livenews/3070717",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
         {
-          "title": "中国女足vs澳大利亚女足前瞻",
-          "url": "https://www.douyin.com/hot/2432493",
-          "source": "抖音",
+          "title": "财政部、中国人民银行定于2026年3月19日上午9:50至10:20，通过中国人民银行中央国库现金管理商业银行定期存款业务系统进行2026年中央国库现金管理商业银行定期存款（四期）招投标。",
+          "url": "https://flash.jin10.com/detail/20260316173136118800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "17时56分"
         },
         {
           "title": "A股绿电概念持续调整，中国核建、中国电建双双跌停，大唐发电、中国能建、嘉泽新能、晶科科技、建投能源、节能风电等多股跌超5%。",
@@ -1049,15 +1159,15 @@
           "time_info": "14时16分"
         },
         {
-          "title": "餐饮与升级类商品增速领先，中国1—2月社会消费品零售同比增速2.8%",
-          "url": "https://wallstreetcn.com/articles/3767574",
-          "source": "华尔街见闻",
+          "title": "南向资金今日净卖出12.5亿元。港股通（沪）方面，盈富基金、小米集团-W分别获净卖出35.74亿港元、8.58亿港元；中国海洋石油净买入额居首，金额为7.31亿港元；港股通（深）方面，中国海洋石油、中芯国际分别获净卖出3.84亿港元、2.86亿港元；腾讯控股净买入额居首，金额为18.66亿港元。",
+          "url": "https://flash.jin10.com/detail/20260316173126326800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "17时56分"
         },
         {
           "title": "中国台湾证交所加权股价指数收低0.2%报33,342.51点。",
@@ -1071,15 +1181,15 @@
           "time_info": "14时16分"
         },
         {
-          "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016789382670075625",
-          "source": "知乎",
+          "title": "财政部、中国人民银行定于2026年3月19日上午9:00至9:30，通过中国人民银行中央国库现金管理商业银行定期存款业务系统进行2026年中央国库现金管理商业银行定期存款（三期）招投标。",
+          "url": "https://flash.jin10.com/detail/20260316173117547800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "17时56分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.31%，上一个交易日夜盘收涨0.24%。",
@@ -1110,9 +1220,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "2025年中国企业信用指数162.66 较上年上升2.82",
+          "url": "https://wallstreetcn.com/livenews/3070778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
@@ -1132,9 +1253,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "我国产学研协同效能持续提升",
+          "url": "https://wallstreetcn.com/livenews/3070773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "三代中国赛车手的飞驰人生",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E4%B8%AD%E5%9B%BD%E8%B5%9B%E8%BD%A6%E6%89%8B%E7%9A%84%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "中国外汇交易中心（CFETS）：3月13日人民币汇率指数按周涨0.5至100.15。",
@@ -1154,7 +1297,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1165,7 +1308,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1176,7 +1319,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1206,7 +1349,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普点名日本护航，高市早苗压力陡增",
@@ -1310,6 +1453,18 @@
           "time_info": "09时24分"
         },
         {
+          "title": "兵力告急,日本女兵潜艇服役",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351837&amp;topic_name=%E5%85%B5%E5%8A%9B%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%85%B5%E6%BD%9C%E8%89%87%E6%9C%8D%E5%BD%B9",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
+        },
+        {
           "title": "美国内政部长伯古姆：日本希望从美国购买更多石油。",
           "url": "https://flash.jin10.com/detail/20260315232504438800",
           "source": "金十数据",
@@ -1321,18 +1476,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 02时27分]"
-        },
-        {
-          "title": "兵力告急,日本女兵潜艇服役",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351837&amp;topic_name=%E5%85%B5%E5%8A%9B%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%85%B5%E6%BD%9C%E8%89%87%E6%9C%8D%E5%BD%B9",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
         },
         {
           "title": "韩国食堂vs欧洲食堂",
@@ -1446,6 +1589,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "高盛下调日本东证指数目标",
+          "url": "https://www.toutiao.com/trending/7617669184990969919/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "美国内政部长伯格姆：在东京举行的能源安全论坛上，亚太盟友同意与美国公司达成价值560亿美元的协议。日本想从美国购买更多石油。",
           "url": "https://flash.jin10.com/detail/20260315221810431800",
           "source": "金十数据",
@@ -1474,7 +1628,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1559,7 +1713,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "德外长：德国不会参与在霍尔木兹海峡的护航行动",
@@ -1689,7 +1843,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1749,6 +1903,39 @@
           "time_info": "07时22分"
         },
         {
+          "title": "德国外长瓦德富尔：一旦明确美以双方的目标，我们就能设计出区域安全架构。",
+          "url": "https://flash.jin10.com/detail/20260316173035053800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "德国外长瓦德富尔：不认为北约在霍尔木兹海峡问题上应发挥作用。",
+          "url": "https://flash.jin10.com/detail/20260316172956802800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "德国外长：黎巴嫩局势严峻。",
+          "url": "https://flash.jin10.com/detail/20260316172442964800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "巴克莱：预计英国央行将在3月份维持利率不变，而此前预计将降息25个基点。",
           "url": "https://flash.jin10.com/detail/20260316124509946800",
           "source": "金十数据",
@@ -1758,6 +1945,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "阿塞拜疆法院以间谍罪判处一名法国公民十年监禁。",
+          "url": "https://flash.jin10.com/detail/20260316172428781800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "德国外长：支持对封锁霍尔木兹海峡的责任方实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260316172355682800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "德国外长：以美双方应在各自目标达成时进行清晰沟通。",
+          "url": "https://flash.jin10.com/detail/20260316172316606800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "英媒：法国正筹划开展联合海军任务 以确保霍尔木兹海峡安全通航",
@@ -1796,7 +2016,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
@@ -1955,6 +2175,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "冀中能源：已取得白涧铁矿的《不动产权证书（采矿证）》 已报送《矿区生态修复方案》",
+          "url": "https://flash.jin10.com/detail/20260316172348824800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "国际能源署（IEA）介绍成员国在释放战略石油储备方面的最近进展，称：单个国家递交了关于实施释放石油储备的计划。 美洲、欧洲的石油库存将在3月底之前投放。 亚洲多个国家将立即释放石油库存。",
           "url": "https://wallstreetcn.com/livenews/3070355",
           "source": "华尔街见闻-快讯",
@@ -1979,8 +2210,143 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "两艘印度运输船，成功穿越霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2313002",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时22分]"
+        },
+        {
+          "title": "全球铝业大地震！世界最大单体铝冶炼厂减产 印度铝业巨头宣布不可抗力",
+          "url": "https://www.cls.cn/detail/2313773",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时56分]"
+        },
+        {
+          "title": "印度政府官员：部分城市燃气公司正向液化石油气用户发放激励，鼓励其改用管道天然气。",
+          "url": "https://flash.jin10.com/detail/20260316173629473800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "如何看待印度AI峰会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%B0%E5%BA%A6AI%E5%B3%B0%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 17时56分]"
+        },
+        {
+          "title": "印度外长：与伊朗直接对话正取得成果，但“仍处于早期阶段”",
+          "url": "https://flash.jin10.com/detail/20260316022053277800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时19分]"
+        },
+        {
+          "title": "印度外交部长苏杰生：我目前正与伊朗进行对话，且已取得一定成果。",
+          "url": "https://flash.jin10.com/detail/20260316021848132800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时19分]"
+        },
+        {
+          "title": "印度外交部长苏杰生：印度与伊朗之间并未就悬挂印度国旗的船舶达成“一揽子协议”，“每一艘船舶的航行都是一次单独的事件”。",
+          "url": "https://flash.jin10.com/detail/20260316021438170800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时19分]"
+        },
+        {
+          "title": "航运受阻，印度急了",
+          "url": "https://news.ifeng.com/c/8rXdv171Re9",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "印度放宽中资赴印有何算计",
+          "url": "https://www.toutiao.com/trending/7617635519790321195/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "印度NIFTY 50指数最新上涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260316172406708800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "印度一医院发生火灾致10人死亡",
+          "url": "https://wallstreetcn.com/livenews/3070766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "恒生科技指数涨超2%，恒指涨超1%。比亚迪股份涨超6%，蔚来涨超5%，京东健康、小米集团、华虹半导体等涨超4%。",
@@ -1995,6 +2361,18 @@
           "time_info": "[12时33分 ~ 14时16分]"
         },
         {
+          "title": "最火的芯片研究机构！SemiAnalysis创始人：算力瓶颈从CoWoS转移到EUV，存储吃掉30%资本开支",
+          "url": "https://wallstreetcn.com/articles/3767575",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 17时56分]"
+        },
+        {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
           "url": "https://wallstreetcn.com/articles/3767539",
           "source": "华尔街见闻",
@@ -2006,15 +2384,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "最火的芯片研究机构！SemiAnalysis创始人：算力瓶颈从CoWoS转移到EUV，存储吃掉30%资本开支",
-          "url": "https://wallstreetcn.com/articles/3767575",
+          "title": "创业板涨超1%，存储芯片大爆发，华虹半导体直线拉升，农业白酒等“老登股”大涨，恒科指大涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3767578",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "17时56分"
         },
         {
           "title": "机构：预计中东冲突不影响氦气供应 芯片生产无忧",
@@ -2078,104 +2456,15 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "两艘印度运输船，成功穿越霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2313002",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时22分]"
-        },
-        {
-          "title": "全球铝业大地震！世界最大单体铝冶炼厂减产 印度铝业巨头宣布不可抗力",
-          "url": "https://www.cls.cn/detail/2313773",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时03分]"
-        },
-        {
-          "title": "如何看待印度AI峰会",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%B0%E5%BA%A6AI%E5%B3%B0%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时16分]"
-        },
-        {
-          "title": "印度外长：与伊朗直接对话正取得成果，但“仍处于早期阶段”",
-          "url": "https://flash.jin10.com/detail/20260316022053277800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时19分]"
-        },
-        {
-          "title": "印度外交部长苏杰生：我目前正与伊朗进行对话，且已取得一定成果。",
-          "url": "https://flash.jin10.com/detail/20260316021848132800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时19分]"
-        },
-        {
-          "title": "印度外交部长苏杰生：印度与伊朗之间并未就悬挂印度国旗的船舶达成“一揽子协议”，“每一艘船舶的航行都是一次单独的事件”。",
-          "url": "https://flash.jin10.com/detail/20260316021438170800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时19分]"
-        },
-        {
-          "title": "印度放宽中资赴印有何算计",
-          "url": "https://www.toutiao.com/trending/7617635519790321195/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
@@ -2201,13 +2490,24 @@
           "time_info": "12时33分"
         },
         {
+          "title": "据网信上海消息，截至3月16日，上海市新增1款已完成备案的生成式人工智能服务，累计已完成150款生成式人工智能服务备案。",
+          "url": "https://wallstreetcn.com/livenews/3070772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "鸿海科技：人工智能服务器将持续保持强劲增长。",
           "url": "https://flash.jin10.com/detail/20260316151107585800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
@@ -2215,7 +2515,7 @@
     },
     {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人形机器人夜跑备战半马",
@@ -2247,13 +2547,24 @@
           "time_info": "[00时22分 ~ 16时03分]"
         },
         {
+          "title": "全球首例机器人“被捕”事件出现",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E8%A2%AB%E6%8D%95%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%87%BA%E7%8E%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "河南首家人形机器人4S店落地郑州",
           "url": "https://wallstreetcn.com/livenews/3070689",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
