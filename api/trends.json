@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T03:51:01.527735+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-03-18T04:31:51.694551+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 56,
+      "match_count": 68,
       "titles": [
         {
           "title": "强风暴席卷美国大部分地区",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "伊朗最高领袖驳回与美国议和提案",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "美国国家反恐中心主任辞职",
@@ -51,8 +51,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
+        },
+        {
+          "title": "美国正处于“内战前夜”？",
+          "url": "https://news.ifeng.com/c/8rZ9d5XHj00",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
+        },
+        {
+          "title": "欧盟回应美国解禁俄油：不会重新进口俄油，坚持摆脱对俄能源依赖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32782348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
+        },
+        {
+          "title": "伊朗的新战法让美国很头疼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9A%84%E6%96%B0%E6%88%98%E6%B3%95%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%B4%E7%96%BC%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            25,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "消息人士：爆炸性无人机袭击巴格达美国大使馆，附近传来爆炸声。",
@@ -83,45 +119,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
-        },
-        {
-          "title": "美国正处于“内战前夜”？",
-          "url": "https://news.ifeng.com/c/8rZ9d5XHj00",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
-        },
-        {
-          "title": "欧盟回应美国解禁俄油：不会重新进口俄油，坚持摆脱对俄能源依赖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32782348",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
-        },
-        {
-          "title": "伊朗的新战法让美国很头疼",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9A%84%E6%96%B0%E6%88%98%E6%B3%95%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%B4%E7%96%BC%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            25,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
         },
         {
           "title": "美国总统特朗普夸赞美国股市表现。",
@@ -141,9 +141,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "美国邮政署若按要求支付退休金，最快将于10月或11月耗尽资金。",
+          "url": "https://flash.jin10.com/detail/20260318042750066800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3071896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "美国总统特朗普：伊朗战争进展顺利。今天我们过得很充实，击中了多个目标。",
@@ -155,6 +177,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "加拿大外长：与土耳其外长会面，讨论加强加拿大与土耳其的关系、地区安全以及中东局势的发展。",
+          "url": "https://flash.jin10.com/detail/20260318042617296800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "市场消息：美国将在伊朗战争期间放松对委内瑞拉的制裁，以释放更多石油资源。",
+          "url": "https://flash.jin10.com/detail/20260318042610388800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国家反恐中心主任辞职：无法昧着良心支持对伊朗战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32784308",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时50分 ~ 04时31分]"
         },
         {
           "title": "如何看待美国、英国、以色列、意大利、澳大利亚等多国爆发大规模抗议？会影响美以伊局势吗？",
@@ -265,15 +320,16 @@
           "time_info": "[00时58分 ~ 01时56分]"
         },
         {
-          "title": "美国家反恐中心主任辞职：无法昧着良心支持对伊朗战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32784308",
-          "source": "澎湃新闻",
+          "title": "美国夫妻藏匿190具遗体致腐烂获刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E8%97%8F%E5%8C%BF190%E5%85%B7%E9%81%97%E4%BD%93%E8%87%B4%E8%85%90%E7%83%82%E8%8E%B7%E5%88%91%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 04时31分]"
         },
         {
           "title": "市场消息：土耳其官方消息否认了有关五角大楼要求使用土耳其空军基地驻扎美国加油机以保护其安全的报道。",
@@ -360,17 +416,6 @@
           "time_info": "[01时56分 ~ 02时51分]"
         },
         {
-          "title": "美国夫妻藏匿190具遗体致腐烂获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E8%97%8F%E5%8C%BF190%E5%85%B7%E9%81%97%E4%BD%93%E8%87%B4%E8%85%90%E7%83%82%E8%8E%B7%E5%88%91%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：目前的古巴政府无法解决国家疲软的经济，需要新的人来负责以进行修复。",
           "url": "https://flash.jin10.com/detail/20260318003917933800",
           "source": "金十数据",
@@ -382,6 +427,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "阿联酋高级官员Gargash：阿联酋可能参与由美国主导的国际行动。",
           "url": "https://flash.jin10.com/detail/20260318003605278800",
           "source": "金十数据",
@@ -391,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美国至3月13日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260318042000000800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -415,6 +482,39 @@
           "time_info": "01时56分"
         },
         {
+          "title": "安全消息人士：无人机袭击目标为巴格达机场附近的一处美国外交设施。",
+          "url": "https://flash.jin10.com/detail/20260318041241555800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "无人机制造商Swarmer美国IPO首日收涨520%。",
+          "url": "https://wallstreetcn.com/livenews/3071887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "安全消息人士：一枚爆炸性无人机在巴格达美国大使馆上空被拦截并击落。",
+          "url": "https://flash.jin10.com/detail/20260318040904719800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "市场消息：美国众议院委员会向司法部长邦迪发出传票，涉及爱泼斯坦案调查。",
           "url": "https://flash.jin10.com/detail/20260318012124389800",
           "source": "金十数据",
@@ -424,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "AeroVironment Inc.（AVAV）股价走高，据华尔街日报报道，美国国防部希望大规模生产自杀式无人机。",
+          "url": "https://wallstreetcn.com/livenews/3071880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "消息人士：卡秋莎火箭弹袭击巴格达美国大使馆，C-RAM防空系统启动，警报声响起。",
@@ -470,6 +581,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "美国邮政署：美国五大湖地区和东北部地区的降雪及暴风雪天气可能影响部分邮政服务。",
+          "url": "https://flash.jin10.com/detail/20260318040450664800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "美国总统特朗普：英国广播公司在我对其发起的诉讼中承认有罪，让我们拭目以待事态的发展。",
           "url": "https://flash.jin10.com/detail/20260318002915360800",
           "source": "金十数据",
@@ -501,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美国参议院获得足够票数推进《拯救美国法案》，投票仍在继续。",
+          "url": "https://flash.jin10.com/detail/20260318040134564800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "美国总统特朗普谈论法国总统马克龙，声称：他很快就会下台。",
@@ -663,17 +796,6 @@
           "time_info": "00时58分"
         },
         {
-          "title": "周二（3月17日）纽约尾盘，欧元兑美元涨0.28%，英镑兑美元涨0.28%，美元兑瑞郎跌0.35%。 商品货币对中，澳元兑美元涨0.45%，纽元兑美元跌0.04%，美元兑加元涨0.08%。 瑞典克朗兑美元涨0.66%，挪威克朗兑美元涨0.91%，丹麦克朗兑美元涨0.26%。 波兰兹罗提兑美元涨0.43%，匈牙利福林兑美元涨0.63%。",
-          "url": "https://wallstreetcn.com/livenews/3071877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
           "title": "欧盟将在复活节过后推迟提高银行资本要求。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3071816",
           "source": "华尔街见闻-快讯",
@@ -683,17 +805,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
-          "url": "https://wallstreetcn.com/livenews/3071875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
         },
         {
           "title": "英国10/30年期国债收益率至少跌7个基点",
@@ -706,6 +817,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时56分]"
+        },
+        {
+          "title": "周二（3月17日）纽约尾盘，欧元兑美元涨0.28%，英镑兑美元涨0.28%，美元兑瑞郎跌0.35%。 商品货币对中，澳元兑美元涨0.45%，纽元兑美元跌0.04%，美元兑加元涨0.08%。 瑞典克朗兑美元涨0.66%，挪威克朗兑美元涨0.91%，丹麦克朗兑美元涨0.26%。 波兰兹罗提兑美元涨0.43%，匈牙利福林兑美元涨0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3071877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时31分]"
+        },
+        {
+          "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
+          "url": "https://wallstreetcn.com/livenews/3071875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时31分]"
         },
         {
           "title": "德国10年期国债价格涨幅扩大，10年期德债收益率跌5个基点，报2.9%。",
@@ -878,7 +1013,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国女足无缘亚洲杯决赛",
@@ -888,8 +1023,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "中国经济强劲开局",
@@ -899,8 +1034,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "中国女篮力克巴西",
@@ -910,8 +1045,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "中国女足无缘亚洲杯决赛",
@@ -923,8 +1058,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "中国女篮战胜巴西",
@@ -936,8 +1071,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
@@ -950,8 +1085,45 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
+        },
+        {
+          "title": "F1中国大奖赛正赛无线电复盘",
+          "url": "https://search.bilibili.com/all?keyword=F1%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            28,
+            23,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
+        },
+        {
+          "title": "中国女足 1-2 不敌澳大利亚女足，无缘女足亚洲杯决赛，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2017196789246231324",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
+        },
+        {
+          "title": "捐相册结缘,埃文凯尔定居中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351915&amp;topic_name=%E6%8D%90%E7%9B%B8%E5%86%8C%E7%BB%93%E7%BC%98%2C%E5%9F%83%E6%96%87%E5%87%AF%E5%B0%94%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "中国女足1比2不敌澳大利亚",
@@ -967,42 +1139,6 @@
           "time_info": "[00时58分 ~ 03时51分]"
         },
         {
-          "title": "中国女足 1-2 不敌澳大利亚女足，无缘女足亚洲杯决赛，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2017196789246231324",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
-        },
-        {
-          "title": "F1中国大奖赛正赛无线电复盘",
-          "url": "https://search.bilibili.com/all?keyword=F1%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            28,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
-        },
-        {
-          "title": "捐相册结缘,埃文凯尔定居中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351915&amp;topic_name=%E6%8D%90%E7%9B%B8%E5%86%8C%E7%BB%93%E7%BC%98%2C%E5%9F%83%E6%96%87%E5%87%AF%E5%B0%94%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
-        },
-        {
           "title": "埃文凯尔官宣定居中国",
           "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E6%96%87%E5%87%AF%E5%B0%94%E5%AE%98%E5%AE%A3%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -1011,8 +1147,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 04时31分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.73%，报7163.30点。 热门中概股里，腾讯音乐初步收跌24.7%，金山云、小鹏、小马智行、世纪互联至多跌超4%，拼多多涨0.5%，万国数据涨2.6%，名创优品涨2.9%，亚朵涨5.8%。 ETF中，中国科技指数ETF（CQQQ）收跌1.48%，中概互联网指数ETF（KWEB）收跌0.72%。 德银嘉实沪深300指数ETF（ASHR）收跌2.01%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3071885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -1028,11 +1175,12 @@
             9,
             14,
             27,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "韩国网友吐槽逐玉",
@@ -1044,19 +1192,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
-        },
-        {
-          "title": "专家：警惕日本再度成亚洲战争策源地",
-          "url": "https://www.toutiao.com/trending/7617163654705807423/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "日本跃跃欲试出兵中东恐沦为替死鬼",
@@ -1065,11 +1202,24 @@
           "ranks": [
             30,
             26,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 04时31分]"
+        },
+        {
+          "title": "专家：警惕日本再度成亚洲战争策源地",
+          "url": "https://www.toutiao.com/trending/7617163654705807423/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时31分]"
         }
       ]
     },
@@ -1127,7 +1277,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "存储芯片供应即将暴雷？三星史上最大规模罢工已迫在眉睫",
@@ -1138,8 +1288,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：到2027年底，Blackwell和Rubin芯片带来的营收机遇“可能将超过1万亿美元”。",
@@ -1148,9 +1298,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "标普500指数收涨16.71点，涨幅0.25%，报6716.09点。 道琼斯工业平均指数收涨46.85点，涨幅0.10%，报46993.26点。 纳斯达克综合指数（纳指）收涨105.35点，涨幅0.47%，报22479.528点。 纳斯达克100指数收涨125.076点，涨幅0.51%，报24780.419点。 费城半导体指数收涨0.52%，报7836.827点。 费城证交所KBW银行指数收涨0.80%，报149.37点。 道琼斯KBW地区银行指数收跌0.09%，报122.37点，高开低走之后，大部分时间持稳于平盘附近。 纳斯达克生物科技指数收涨0.06%，报5777.44点。",
+          "url": "https://wallstreetcn.com/livenews/3071883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "英伟达CEO黄仁勋：1万亿美元+的收入预期具有强烈的“能见度”。 这样的预期还仅仅包含了Blackwell和Rubin芯片。 这个预期还不包括即将发布的新品，也不包括新增的地区和市场。 希望预定和发货等业务规模将超过1万亿美元。 1万亿美元这个目标将继续膨胀。 季度预期可以超过（市场）预期。 客户希望确保自己能获得（充足的）供应。",
@@ -1166,6 +1327,45 @@
       ]
     },
     {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普500指数的11个板块中，能源板块收涨1.02%，可选消费板块涨1%，电信板块涨0.67%，信息技术/科技板块涨0.21%，保健板块跌0.92%。",
+          "url": "https://wallstreetcn.com/livenews/3071893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3071892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "市场消息：伊朗核能组织公共外交与信息中心表示，针对敌方发射物击中布什尔核电站的消息，国家核安全系统中心确认，幸运的是没有造成财务、技术或人员损失，核电站的任何部分也未受到损害。这种行为违反了关于核设施免受军事攻击的所有国际规定，可能对整个地区，包括波斯湾邻国，造成不可逆转的后果。",
+          "url": "https://flash.jin10.com/detail/20260318022741392800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "印度",
       "match_count": 2,
       "titles": [
@@ -1177,8 +1377,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         },
         {
           "title": "VinFast汽车：宣布在印度、印度尼西亚、菲律宾和越南推出“以油换电”计划 。",
@@ -1194,23 +1394,6 @@
       ]
     },
     {
-      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：伊朗核能组织公共外交与信息中心表示，针对敌方发射物击中布什尔核电站的消息，国家核安全系统中心确认，幸运的是没有造成财务、技术或人员损失，核电站的任何部分也未受到损害。这种行为违反了关于核设施免受军事攻击的所有国际规定，可能对整个地区，包括波斯湾邻国，造成不可逆转的后果。",
-          "url": "https://flash.jin10.com/detail/20260318022741392800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
       "match_count": 1,
       "titles": [
@@ -1222,8 +1405,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时31分]"
         }
       ]
     }
