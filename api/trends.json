@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-18T01:56:47.683178+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-03-18T02:51:08.224044+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 39,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "强风暴席卷美国大部分地区",
+          "url": "https://www.douyin.com/hot/2433872",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
+        },
         {
           "title": "消息人士：爆炸性无人机袭击巴格达美国大使馆，附近传来爆炸声。",
           "url": "https://flash.jin10.com/detail/20260318004610976800",
@@ -25,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -36,20 +48,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
         {
-          "title": "美国总统特朗普兜售股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3071838",
+          "title": "美国中央司令部：美军继续搜寻并摧毁对美国人和伊朗邻国构成威胁的伊朗目标。",
+          "url": "https://flash.jin10.com/detail/20260318024220367800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "伊朗外长否认与美国总统特使有任何最新接触",
+          "url": "https://wallstreetcn.com/livenews/3071857",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "02时51分"
         },
         {
           "title": "美国总统特朗普：伊朗战争进展顺利。今天我们过得很充实，击中了多个目标。",
@@ -58,31 +81,43 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
         {
-          "title": "根据美国银行对欧洲基金经理进行的一项调查，随着市场对滞胀的担忧加剧，自战争爆发以来，投资者对今年欧洲经济增长的乐观情绪已大幅下降。 调查发现，目前净29%的基金经理预计欧洲经济将加速增长，低于一个月前创纪录的74%。",
-          "url": "https://wallstreetcn.com/livenews/3071837",
+          "title": "文件显示：美国证券交易委员会（SEC）与马斯克表示，他们正在谈判解决关于马斯克披露其Twitter股份的民事诉讼。",
+          "url": "https://wallstreetcn.com/livenews/3071856",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "02时51分"
         },
         {
-          "title": "无人机制造商Swarmer美国IPO首日盘中暂停交易。",
-          "url": "https://wallstreetcn.com/livenews/3071835",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖驳回与美国议和提案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A9%B3%E5%9B%9E%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%92%8C%E6%8F%90%E6%A1%88",
+          "source": "百度热搜",
           "ranks": [
-            4
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
+        },
+        {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "美国亚利桑那州起诉Kalshi涉嫌非法经营博彩业务。",
@@ -97,16 +132,52 @@
           "time_info": "[00时58分 ~ 01时56分]"
         },
         {
-          "title": "强风暴席卷美国大部分地区",
-          "url": "https://www.douyin.com/hot/2433872",
-          "source": "抖音",
+          "title": "美国总统特朗普兜售股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3071838",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            5
+            2,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "time_info": "[01时56分 ~ 02时51分]"
+        },
+        {
+          "title": "美国国家反恐中心主任辞职",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8F%8D%E6%81%90%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%BB%BB%E8%BE%9E%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
+        },
+        {
+          "title": "根据美国银行对欧洲基金经理进行的一项调查，随着市场对滞胀的担忧加剧，自战争爆发以来，投资者对今年欧洲经济增长的乐观情绪已大幅下降。 调查发现，目前净29%的基金经理预计欧洲经济将加速增长，低于一个月前创纪录的74%。",
+          "url": "https://wallstreetcn.com/livenews/3071837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 02时51分]"
+        },
+        {
+          "title": "无人机制造商Swarmer美国IPO首日盘中暂停交易。",
+          "url": "https://wallstreetcn.com/livenews/3071835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 02时51分]"
         },
         {
           "title": "位于巴格达的美国驻伊拉克使馆遭袭",
@@ -121,40 +192,6 @@
           "time_info": "[00时58分 ~ 01时56分]"
         },
         {
-          "title": "伊朗最高领袖驳回与美国议和提案",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A9%B3%E5%9B%9E%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%92%8C%E6%8F%90%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
-        },
-        {
-          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
-        },
-        {
-          "title": "美国国家反恐中心主任辞职",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8F%8D%E6%81%90%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%BB%BB%E8%BE%9E%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
-        },
-        {
           "title": "美国正处于“内战前夜”？",
           "url": "https://news.ifeng.com/c/8rZ9d5XHj00",
           "source": "凤凰网",
@@ -162,8 +199,44 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
+        },
+        {
+          "title": "欧盟回应美国解禁俄油：不会重新进口俄油，坚持摆脱对俄能源依赖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32782348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
+        },
+        {
+          "title": "伊朗的新战法让美国很头疼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9A%84%E6%96%B0%E6%88%98%E6%B3%95%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%B4%E7%96%BC%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
+        },
+        {
+          "title": "如何看待美国、英国、以色列、意大利、澳大利亚等多国爆发大规模抗议？会影响美以伊局势吗？",
+          "url": "https://www.zhihu.com/question/2016892509842793934",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 02时51分]"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -178,27 +251,27 @@
           "time_info": "[00时58分 ~ 01时56分]"
         },
         {
-          "title": "欧盟回应美国解禁俄油：不会重新进口俄油，坚持摆脱对俄能源依赖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32782348",
-          "source": "澎湃新闻",
+          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.817%（2月18日为4.664%），投标倍数2.76（前次为2.36）。",
+          "url": "https://wallstreetcn.com/livenews/3071823",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            14,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "time_info": "[01时56分 ~ 02时51分]"
         },
         {
-          "title": "伊朗的新战法让美国很头疼",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9A%84%E6%96%B0%E6%88%98%E6%B3%95%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%B4%E7%96%BC%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "美国家反恐中心主任辞职：无法昧着良心支持对伊朗战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32784308",
+          "source": "澎湃新闻",
           "ranks": [
-            29,
-            25
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "time_info": "[02时50分 ~ 02时51分]"
         },
         {
           "title": "美国国务卿鲁比奥：目前的古巴政府无法解决国家疲软的经济，需要新的人来负责以进行修复。",
@@ -212,6 +285,28 @@
           "time_info": "00时58分"
         },
         {
+          "title": "市场消息：土耳其官方消息否认了有关五角大楼要求使用土耳其空军基地驻扎美国加油机以保护其安全的报道。",
+          "url": "https://flash.jin10.com/detail/20260318023832354800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
+          "url": "https://wallstreetcn.com/livenews/3071849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
           "title": "阿联酋高级官员Gargash：阿联酋可能参与由美国主导的国际行动。",
           "url": "https://flash.jin10.com/detail/20260318003605278800",
           "source": "金十数据",
@@ -221,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "文件显示：美国证券交易委员会与马斯克表示，他们正在谈判解决关于马斯克披露其Twitter股份的民事诉讼。",
+          "url": "https://flash.jin10.com/detail/20260318023339305800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -240,9 +346,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "无人机制造商Swarmer美国IPO首日盘中涨幅扩大至600%。",
+          "url": "https://wallstreetcn.com/livenews/3071843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "市场消息：美国众议院委员会向司法部长邦迪发出传票，涉及爱泼斯坦案调查。",
@@ -251,9 +368,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "美国总统特朗普谈及与爱尔兰关系，声称：希望我们能达成一份关于美国出口液化天然气（LNG）的协议。",
+          "url": "https://wallstreetcn.com/livenews/3071842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "消息人士：卡秋莎火箭弹袭击巴格达美国大使馆，C-RAM防空系统启动，警报声响起。",
@@ -267,17 +395,6 @@
           "time_info": "00时58分"
         },
         {
-          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.817%（2月18日为4.664%），投标倍数2.76（前次为2.36）。",
-          "url": "https://wallstreetcn.com/livenews/3071823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
           "title": "美国总统特朗普的新闻发布会结束。",
           "url": "https://flash.jin10.com/detail/20260318003003015800",
           "source": "金十数据",
@@ -289,6 +406,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "据华盛顿邮报：因近期发生的袭击事件，美国要求所有大使馆审查安全措施。",
+          "url": "https://flash.jin10.com/detail/20260318022726944800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
           "title": "美国总统特朗普：古巴正与国务卿卢比奥对话。",
           "url": "https://wallstreetcn.com/livenews/3071801",
           "source": "华尔街见闻-快讯",
@@ -298,17 +426,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "如何看待美国、英国、以色列、意大利、澳大利亚等多国爆发大规模抗议？会影响美以伊局势吗？",
-          "url": "https://www.zhihu.com/question/2016892509842793934",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
         },
         {
           "title": "美国总统特朗普：英国广播公司在我对其发起的诉讼中承认有罪，让我们拭目以待事态的发展。",
@@ -377,6 +494,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "美国总统特朗普：伊朗曾是世界恶霸，因为他们利用石油行贿并获取权力。不过他们现在都完蛋了，每一个人都完蛋了。",
+          "url": "https://flash.jin10.com/detail/20260318021655131800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
           "title": "美国总统特朗普：欧洲发生了非常糟糕的事情，他们最好对移民和能源采取行动，否则欧洲将不复存在。",
           "url": "https://flash.jin10.com/detail/20260318002118871800",
           "source": "金十数据",
@@ -386,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美国亚利桑那州司法部长：已对KalshiEx和Kalshi Trading提起刑事指控，有指控称相关公司在该州未获许可的情况下非法经营博彩业务。",
+          "url": "https://flash.jin10.com/detail/20260318021147965800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "美国总统特朗普：将与爱尔兰领导人讨论贸易等问题。 认为两国之间的贸易关系将扩大。 爱尔兰可能希望讨论关税问题。",
@@ -408,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美国中央司令部：美国海军飞行员在“史诗怒火行动”中进行了数百次战斗飞行，展示了美国从海上获取空中优势的无与伦比的能力。",
+          "url": "https://flash.jin10.com/detail/20260318021024518800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "美国总统特朗普：不同意英国首相斯塔默的移民和能源政策。",
@@ -441,12 +591,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美国总统特朗普：在美国和盟友采取行动之前，伊朗距离拥有核武器大约还有两周的时间。",
+          "url": "https://flash.jin10.com/detail/20260318020045740800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "法国总统马克龙：我们并未参与冲突。但我们已与合作伙伴在霍尔木兹海峡做好准备，确保在条件允许时保障航行自由。",
@@ -501,7 +662,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -515,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "德国重拳整治高油价：限调价、强监管，油企需自证清白",
+          "url": "https://flash.jin10.com/detail/20260318023257555800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "据英国金融时报：欧盟计划推迟提高银行资本要求。",
@@ -545,9 +717,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：在与英国首相斯塔默和北约秘书长的三方会议上，讨论了共同生产武器及在此方向上的协调，以增强乌克兰和整个欧洲的力量。继续加强我们的防空能力，并为防空系统提供足够的导弹是至关重要的。",
+          "url": "https://flash.jin10.com/detail/20260318022618466800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "德国外长：现在不是放松对俄制裁的时候。",
@@ -556,7 +739,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -567,7 +750,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -594,6 +777,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "据英国金融时报：欧盟正考虑限制各成员国否决并购交易的权力。",
+          "url": "https://flash.jin10.com/detail/20260318020954702800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
           "title": "英国基金抢购国债，对赌市场完全误读了英国央行",
           "url": "https://wallstreetcn.com/livenews/3071790",
           "source": "华尔街见闻-快讯",
@@ -611,7 +805,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         }
@@ -629,8 +823,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "中国经济强劲开局",
@@ -640,8 +834,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "中国女篮力克巴西",
@@ -651,8 +845,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "中国女足无缘亚洲杯决赛",
@@ -660,11 +854,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "中国女篮战胜巴西",
@@ -672,11 +867,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
@@ -684,11 +880,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "中国女足1比2不敌澳大利亚",
@@ -696,11 +893,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "中国女足 1-2 不敌澳大利亚女足，无缘女足亚洲杯决赛，如何评价本场比赛？",
@@ -710,8 +908,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "F1中国大奖赛正赛无线电复盘",
@@ -719,11 +917,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "捐相册结缘,埃文凯尔定居中国",
@@ -733,8 +932,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "埃文凯尔官宣定居中国",
@@ -744,8 +943,58 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318024409341800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时58分"
+          "time_info": "02时51分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260318024011419800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "欧莱雅：与英伟达携手，借助预测性人工智能科学加速美妆研发。",
+          "url": "https://flash.jin10.com/detail/20260318011537189800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：AT&T与思科和英伟达合作，为物联网构建人工智能网格",
+          "url": "https://flash.jin10.com/detail/20260318010657215800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     },
@@ -759,11 +1008,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "韩国网友吐槽逐玉",
@@ -771,22 +1021,24 @@
           "source": "微博",
           "ranks": [
             14,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "日本跃跃欲试出兵中东恐沦为替死鬼",
           "url": "https://www.toutiao.com/trending/7617621838914535466/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时51分]"
         }
       ]
     },
@@ -802,8 +1054,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "VinFast汽车：宣布在印度、印度尼西亚、菲律宾和越南推出“以油换电”计划 。",
@@ -815,34 +1067,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧莱雅：与英伟达携手，借助预测性人工智能科学加速美妆研发。",
-          "url": "https://flash.jin10.com/detail/20260318011537189800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：AT&T与思科和英伟达合作，为物联网构建人工智能网格",
-          "url": "https://flash.jin10.com/detail/20260318010657215800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
         }
       ]
     },
@@ -859,8 +1083,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "英伟达CEO黄仁勋：1万亿美元+的收入预期具有强烈的“能见度”。 这样的预期还仅仅包含了Blackwell和Rubin芯片。 这个预期还不包括即将发布的新品，也不包括新增的地区和市场。 希望预定和发货等业务规模将超过1万亿美元。 1万亿美元这个目标将继续膨胀。 季度预期可以超过（市场）预期。 客户希望确保自己能获得（充足的）供应。",
@@ -876,6 +1100,23 @@
       ]
     },
     {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：伊朗核能组织公共外交与信息中心表示，针对敌方发射物击中布什尔核电站的消息，国家核安全系统中心确认，幸运的是没有造成财务、技术或人员损失，核电站的任何部分也未受到损害。这种行为违反了关于核设施免受军事攻击的所有国际规定，可能对整个地区，包括波斯湾邻国，造成不可逆转的后果。",
+          "url": "https://flash.jin10.com/detail/20260318022741392800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
       "match_count": 1,
       "titles": [
@@ -887,8 +1128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         }
       ]
     }
