@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T04:02:01.894278+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-03-19T04:27:47.777059+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 50,
+      "match_count": 58,
       "titles": [
         {
           "title": "暗杀拉里贾尼，以色列此招拖得住美国吗？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "通胀全面超预期！美国2月PPI同比3.4%，核心PPI 3.9%创一年新高",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -50,8 +50,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
+        },
+        {
+          "title": "加拿大蒙特利尔国际机场发言人：一架降落航班上发现可疑包裹，目前航班数量受到限制。",
+          "url": "https://flash.jin10.com/detail/20260319040815844800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "市场消息：美国国会警察首次申请10亿美元预算，理由是议员面临的威胁日益增加。",
@@ -71,7 +82,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -98,6 +109,30 @@
           "time_info": "02时46分"
         },
         {
+          "title": "美国1月长期资本净流入 155.07亿美元，前值 280亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美国特教女老师1天5次性侵男童",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%95%99%E5%A5%B3%E8%80%81%E5%B8%881%E5%A4%A95%E6%AC%A1%E6%80%A7%E4%BE%B5%E7%94%B7%E7%AB%A5%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时45分 ~ 04时27分]"
+        },
+        {
           "title": "美国施压盟友“加大力度”协助保障霍尔木兹海峡安全",
           "url": "https://wallstreetcn.com/livenews/3072566",
           "source": "华尔街见闻-快讯",
@@ -122,27 +157,76 @@
           "time_info": "[01时55分 ~ 02时46分]"
         },
         {
-          "title": "美国特教女老师1天5次性侵男童",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%95%99%E5%A5%B3%E8%80%81%E5%B8%881%E5%A4%A95%E6%AC%A1%E6%80%A7%E4%BE%B5%E7%94%B7%E7%AB%A5%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时45分 ~ 04时02分]"
-        },
-        {
           "title": "全球第一大产油国美国油价为何会飙升",
           "url": "https://www.toutiao.com/trending/7618401704211385894/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时27分]"
+        },
+        {
+          "title": "鲍威尔：能源冲击可能会、也可能不会对美国经济造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3072657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "time_info": "[04时02分 ~ 04时27分]"
+        },
+        {
+          "title": "鲍威尔：美联储的独立性具有至关重要的意义。 美联储独立性在美国国会山拥有许许多多的支持者。",
+          "url": "https://wallstreetcn.com/livenews/3072655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时27分]"
+        },
+        {
+          "title": "鲍威尔：当前，并不存在美国重演类似20世纪70年代滞胀的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3072646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时27分]"
+        },
+        {
+          "title": "鲍威尔：上调美国GDP预期，体现出对生产力的信心。 面临诸多挑战之际，美国经济表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/3072645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时27分]"
+        },
+        {
+          "title": "美国两年期国债收益率涨穿3.74%，刷新日高，涨幅扩大至约7个基点，鲍威尔称“下一步或是加息的可能性确实被提及”。 美元兑日元涨至159.76，创2024年7月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3072644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时27分]"
         },
         {
           "title": "吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证",
@@ -156,15 +240,15 @@
           "time_info": "00时03分"
         },
         {
-          "title": "鲍威尔：能源冲击可能会、也可能不会对美国经济造成重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3072657",
+          "title": "美国1月国际资本净流入 -250.22亿美元，前值 449亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072673",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "04时27分"
         },
         {
           "title": "金十数据整理：加拿大央行利率决议与行长麦克勒姆讲话重点一览",
@@ -189,15 +273,15 @@
           "time_info": "01时55分"
         },
         {
-          "title": "鲍威尔：美联储的独立性具有至关重要的意义。 美联储独立性在美国国会山拥有许许多多的支持者。",
-          "url": "https://wallstreetcn.com/livenews/3072655",
+          "title": "美国两年期国债收益率创8月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3072668",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "04时27分"
         },
         {
           "title": "据ABC新闻：自战争开始以来，至少有10个美国及其盟友使用的雷达站已被伊朗无人机或导弹袭击。",
@@ -217,7 +301,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -288,17 +372,6 @@
           "time_info": "02时46分"
         },
         {
-          "title": "鲍威尔：当前，并不存在美国重演类似20世纪70年代滞胀的可能性。",
-          "url": "https://wallstreetcn.com/livenews/3072646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
           "title": "真主党：关于伊朗最高国家安全委员会秘书拉里贾尼殉道，我们致以最深切的哀悼，我们谴责这次卑鄙的刺杀和持续的美国-以色列犯罪侵略，但重申领导人的刺杀不会打破伊朗的意志，也不会削弱其领导层、人民和战士的决心。无论牺牲多么巨大，伊朗将始终是反对美国傲慢和犹太复国主义扩张项目的基石。",
           "url": "https://flash.jin10.com/detail/20260319010805918800",
           "source": "金十数据",
@@ -308,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "美国2年期国债收益率继续攀升，创自去年8月以来新高，现报3.76%。",
+          "url": "https://flash.jin10.com/detail/20260319040044971800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国美联储FOMC利率决策(下限) 3.5%，预期 3.5%，前值 3.5%。",
@@ -321,17 +405,6 @@
           "time_info": "02时46分"
         },
         {
-          "title": "鲍威尔：上调美国GDP预期，体现出对生产力的信心。 面临诸多挑战之际，美国经济表现强劲。",
-          "url": "https://wallstreetcn.com/livenews/3072645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
           "title": "美国至3月18日4个月国债竞拍-得标利率配置百分比 28.83%，前值50.82%。",
           "url": "https://flash.jin10.com/detail/20260318233557975800",
           "source": "金十数据",
@@ -343,15 +416,15 @@
           "time_info": "00时03分"
         },
         {
-          "title": "美国两年期国债收益率涨穿3.74%，刷新日高，涨幅扩大至约7个基点，鲍威尔称“下一步或是加息的可能性确实被提及”。 美元兑日元涨至159.76，创2024年7月份以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3072644",
-          "source": "华尔街见闻-快讯",
+          "title": "美国1月国际资本净流入 -250亿美元，前值由449亿美元修正为1139亿美元。",
+          "url": "https://flash.jin10.com/detail/20260319040002317800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "04时27分"
         },
         {
           "title": "美国至3月18日4个月国债竞拍-投标倍数 3.05，前值3.19。",
@@ -363,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "美国1月外资净买入美国公债 499亿美元，前值由-416亿美元修正为-270亿美元。",
+          "url": "https://flash.jin10.com/detail/20260319040002318800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国至3月18日4个月国债竞拍-得标利率 3.61%，前值3.60%。",
@@ -382,9 +466,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国1月长期资本净流入 155亿美元，前值由280亿美元修正为965亿美元。",
+          "url": "https://flash.jin10.com/detail/20260319040002292800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国驻墨西哥大使Johnson：对美国墨西哥加拿大贸易协议（USMCA）的评估为增强供应链提供机会。 对USMCA的评估还为巩固美国与墨西哥的融合提供机会。",
@@ -404,7 +499,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -558,7 +653,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
@@ -566,8 +661,19 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "标普500指数的11个板块全线溃败，日用消费品板块收跌2.44%，可选消费板块跌2.32%，原材料板块跌2.25%，信息技术/科技板块跌1.24%跌幅居中，能源板块跌0.16%“领跑”。",
+          "url": "https://wallstreetcn.com/livenews/3072678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
         {
           "title": "鲍威尔：短期通胀预期在最近数周上扬，大多数长期通胀预期与2%这一目标保持一致。 能源价格上涨，将推高整体通胀。 现在判断中东局势的全面经济影响还显得操之过急。 对能源市场的回应取决于通胀预期。 一系列冲击已经干扰到通胀进展。 如果没有看到通胀进展，就不会降息。 石油冲击在一定程度上体现在核心通胀中。 我们考虑的主要事情是，降低商品通胀。 关税问题造成（通胀）进展缓慢，这影响到通胀预期。",
           "url": "https://wallstreetcn.com/livenews/3072628",
@@ -591,6 +697,41 @@
           "time_info": "02时46分"
         },
         {
+          "title": "伊朗总统称：袭击伊朗能源基础设施可能引发连锁反应",
+          "url": "https://wallstreetcn.com/livenews/3072650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时27分]"
+        },
+        {
+          "title": "俄副总理称全球正面临40年来最严重能源危机",
+          "url": "https://wallstreetcn.com/livenews/3072649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时27分]"
+        },
+        {
+          "title": "美联储决议声明发布日，标普500指数初步收跌1.3%，可选消费、日用消费品板块跌超2.3%，原材料板块跌2.1%，金融、科技、电信板块至少跌1.1%，能源板块微跌不足0.1%“表现最佳”。 纳斯达克100指数初步收跌1.4%，成分股中，Strategy跌6.1%，特许通讯跌5.9%，星巴克跌5%，康卡斯特等跌超4%，天然气供应商Diamondback Energy涨1.5%，AMD涨1.7%，Datadog涨2%，英特尔涨2.4%，核电股CEG涨3.3%。 道指初步收跌超700点，成分股麦当劳、家得宝、宝洁、Visa、耐克至多跌3.3%领跌，摩根大通、雪佛龙至多涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3072670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
           "title": "美联储主席鲍威尔：不能轻率对待忽略能源通胀的问题。",
           "url": "https://flash.jin10.com/detail/20260319023943087800",
           "source": "金十数据",
@@ -611,28 +752,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "伊朗总统称：袭击伊朗能源基础设施可能引发连锁反应",
-          "url": "https://wallstreetcn.com/livenews/3072650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "俄副总理称全球正面临40年来最严重能源危机",
-          "url": "https://wallstreetcn.com/livenews/3072649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，报375.17点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted AS跌4.0%，在一众北欧个股里表现最差。",
@@ -674,7 +793,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -715,7 +834,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国的四大盟友 看向中国",
@@ -725,8 +844,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "菲2架C-208型机非法侵闯中国黄岩岛领空，南部战区：依法依规警告驱离",
@@ -738,8 +857,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "日本炒作中国国防预算，国防部回应",
@@ -749,8 +868,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "中国年产西瓜占全球 60%，为何我们能实现「西瓜自由」？",
@@ -762,8 +881,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "在泰遇害中国女子曾连发7条“救我”",
@@ -771,11 +890,36 @@
           "source": "今日头条",
           "ranks": [
             13,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
+        },
+        {
+          "title": "中国女足无缘亚洲杯决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
+        },
+        {
+          "title": "中国又发现四个新矿 稀土等资源量大幅增长",
+          "url": "https://www.cls.cn/detail/2317099",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "time_info": "[01时54分 ~ 04时27分]"
         },
         {
           "title": "如何看待《飞驰人生 3》总票房破 42.502 亿，超《复仇者联盟 4》进入中国影史票房榜前十？",
@@ -791,30 +935,6 @@
           "time_info": "[00时03分 ~ 04时02分]"
         },
         {
-          "title": "中国女足无缘亚洲杯决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%97%A0%E7%BC%98%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
-        },
-        {
-          "title": "中国又发现四个新矿 稀土等资源量大幅增长",
-          "url": "https://www.cls.cn/detail/2317099",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 04时02分]"
-        },
-        {
           "title": "中国又发现四个新矿",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E5%8F%91%E7%8E%B0%E5%9B%9B%E4%B8%AA%E6%96%B0%E7%9F%BF",
           "source": "百度热搜",
@@ -824,8 +944,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 04时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 04时27分]"
+        },
+        {
+          "title": "毛宁向世界分享中国学生午睡神器",
+          "url": "https://www.toutiao.com/trending/7618460711890488842/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 04时27分]"
         },
         {
           "title": "定居中国的埃文凯尔在青岛喝酒喂海鸥",
@@ -840,17 +972,6 @@
           "time_info": "[00时03分 ~ 04时02分]"
         },
         {
-          "title": "毛宁向世界分享中国学生午睡神器",
-          "url": "https://www.toutiao.com/trending/7618460711890488842/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时02分]"
-        },
-        {
           "title": "中国海警舰艇编队在我钓鱼岛领海巡航",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B0%E8%89%87%E7%BC%96%E9%98%9F%E5%9C%A8%E6%88%91%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7%E5%B7%A1%E8%88%AA",
           "source": "百度热搜",
@@ -860,6 +981,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时02分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。",
+          "url": "https://wallstreetcn.com/livenews/3072672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
@@ -875,8 +1007,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
@@ -887,8 +1019,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -898,8 +1030,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "BTS演出强制韩国上班族用年假",
@@ -907,11 +1039,12 @@
           "source": "微博",
           "ranks": [
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 04时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 04时27分]"
         },
         {
           "title": "日本央行货币政策正常化取得进展，日债持有比例跌破50%",
@@ -1026,7 +1159,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -1037,7 +1170,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
@@ -1055,8 +1188,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "【数据看盘】多路资金激烈博弈存储芯片人气股，一线游资联手量化资金抢筹金开新能",
@@ -1067,8 +1200,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "英伟达连发7款“王炸”芯片",
@@ -1092,11 +1225,12 @@
           "url": "https://wallstreetcn.com/livenews/3072659",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时27分]"
         },
         {
           "title": "美联储主席鲍威尔：人工智能投资也可能会提高中性利率。",
@@ -1105,7 +1239,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
@@ -1124,8 +1258,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时27分]"
         },
         {
           "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
