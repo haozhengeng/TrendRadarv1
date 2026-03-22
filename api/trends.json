@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T13:47:38.178055+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-03-22T14:40:07.083642+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "中国生活方式为何成为世界潮流",
@@ -41,11 +41,12 @@
             3,
             11,
             17,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 14时40分]"
         },
         {
           "title": "英国曼彻斯特桥洞下惊现中国烧烤摊",
@@ -72,11 +73,12 @@
             6,
             14,
             20,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 14时40分]"
         },
         {
           "title": "中国能源到底有啥底牌",
@@ -92,8 +94,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时40分]"
+        },
+        {
+          "title": "中国大市场活力加速释放",
+          "url": "https://www.toutiao.com/trending/7619896276561432090/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时40分]"
         },
         {
           "title": "中国生活方式为何成为世界潮流",
@@ -124,15 +137,30 @@
           "time_info": "[09时19分 ~ 12时12分]"
         },
         {
-          "title": "中国大市场活力加速释放",
-          "url": "https://www.toutiao.com/trending/7619896276561432090/",
+          "title": "英国桥洞现中国烧烤摊 烤茄子卖41元",
+          "url": "https://www.toutiao.com/trending/7619661137461903401/",
           "source": "今日头条",
           "ranks": [
-            3
+            2,
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时47分]"
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时40分]"
+        },
+        {
+          "title": "日媒：中国车企全球销量首次居榜首",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E9%A6%96%E6%AC%A1%E5%B1%85%E6%A6%9C%E9%A6%96",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时40分]"
         },
         {
           "title": "如果取消中国足协，解散中超、中甲，各省自己搞省超，那么十年后，中国足球能拿亚洲冠军吗？",
@@ -148,87 +176,15 @@
           "time_info": "[00时19分 ~ 07时17分]"
         },
         {
-          "title": "英国桥洞现中国烧烤摊 烤茄子卖41元",
-          "url": "https://www.toutiao.com/trending/7619661137461903401/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 13时47分]"
-        },
-        {
-          "title": "日媒：中国车企全球销量首次居榜首",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E9%A6%96%E6%AC%A1%E5%B1%85%E6%A6%9C%E9%A6%96",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 13时47分]"
-        },
-        {
-          "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",
-          "url": "https://flash.jin10.com/detail/20260322131458099800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲",
-          "url": "https://wallstreetcn.com/livenews/3074493",
+          "title": "潘功胜：中国没有必要，也无意通过汇率贬值获取贸易竞争优势",
+          "url": "https://wallstreetcn.com/livenews/3074498",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "伊朗称国产防空系统击中美军F-35战机",
-          "url": "https://wallstreetcn.com/livenews/3074489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时47分]"
-        },
-        {
-          "title": "中国发展高层论坛2026年年会今日开幕",
-          "url": "https://wallstreetcn.com/livenews/3074481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 13时47分]"
-        },
-        {
-          "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
-          "url": "https://wallstreetcn.com/livenews/3074485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时47分]"
+          "time_info": "14时40分"
         },
         {
           "title": "中国发展高层论坛召开，潘功胜、李云泽、吴清出席",
@@ -238,8 +194,72 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时40分]"
+        },
+        {
+          "title": "中国发展高层论坛2026年年会今日开幕",
+          "url": "https://wallstreetcn.com/livenews/3074481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 14时40分]"
+        },
+        {
+          "title": "伊朗称国产防空系统击中美军F-35战机",
+          "url": "https://wallstreetcn.com/livenews/3074489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时47分]"
+          "time_info": "[12时12分 ~ 14时40分]"
+        },
+        {
+          "title": "李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲",
+          "url": "https://wallstreetcn.com/livenews/3074493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时40分]"
+        },
+        {
+          "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
+          "url": "https://wallstreetcn.com/livenews/3074485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时40分]"
+        },
+        {
+          "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",
+          "url": "https://flash.jin10.com/detail/20260322131458099800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时40分]"
         },
         {
           "title": "丁彦雨航正式宣布退役，怎样评价他的职业生涯，他是中国最让人可惜的侧翼球员吗？",
@@ -291,6 +311,29 @@
           "time_info": "[12时12分 ~ 13时47分]"
         },
         {
+          "title": "李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲",
+          "url": "https://flash.jin10.com/detail/20260322122131688800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时40分]"
+        },
+        {
+          "title": "中国道教协会：从未委托所谓“中国易经协会”等机构开展涉及道教认证活动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32806205",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
           "title": "中国车企全球销量超日本居榜首",
           "url": "https://www.toutiao.com/trending/7618782241292451859/",
           "source": "今日头条",
@@ -300,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲",
-          "url": "https://flash.jin10.com/detail/20260322122131688800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "中国发展高层论坛今日召开 蓝佛安、潘功胜将发声",
@@ -374,7 +406,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -393,7 +425,7 @@
     },
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -403,8 +435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时40分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -442,8 +474,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 14时40分]"
         },
         {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
@@ -461,6 +493,19 @@
           "time_info": "[02时24分 ~ 07时17分]"
         },
         {
+          "title": "为何“临时豁免海上伊朗石油”？美国“形势所迫”：全球原油缓冲正迅速减少",
+          "url": "https://wallstreetcn.com/articles/3768051",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时40分]"
+        },
+        {
           "title": "美国总统特使威特科夫：库什纳、白宫助手格伦鲍姆均在美国代表团成员之中。",
           "url": "https://flash.jin10.com/detail/20260322032550030800",
           "source": "金十数据",
@@ -473,6 +518,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时17分 ~ 09时19分]"
+        },
+        {
+          "title": "美媒：万斯或放弃下届美国总统大选",
+          "url": "https://news.ifeng.com/c/8rhIMBNSChS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时40分]"
         },
         {
           "title": "美国总统特使威特科夫：美国和乌克兰致力于达成全面和平协议。",
@@ -517,19 +573,6 @@
           "time_info": "[04时17分 ~ 07时17分]"
         },
         {
-          "title": "为何“临时豁免海上伊朗石油”？美国“形势所迫”：全球原油缓冲正迅速减少",
-          "url": "https://wallstreetcn.com/articles/3768051",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 13时47分]"
-        },
-        {
           "title": "美国总统特使威特科夫：美国和乌克兰代表团举行了建设性会谈。",
           "url": "https://flash.jin10.com/detail/20260322032522088800",
           "source": "金十数据",
@@ -566,17 +609,6 @@
           "time_info": "[01时18分 ~ 06时16分]"
         },
         {
-          "title": "美媒：万斯或放弃下届美国总统大选",
-          "url": "https://news.ifeng.com/c/8rhIMBNSChS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时47分]"
-        },
-        {
           "title": "伊朗：成功打击美国海军第五舰队",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%88%90%E5%8A%9F%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
           "source": "百度热搜",
@@ -600,6 +632,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时18分]"
+        },
+        {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
@@ -650,6 +693,18 @@
           "time_info": "[01时19分 ~ 02时24分]"
         },
         {
+          "title": "中东疯抢美国狂砸，谁在操纵原油绞肉机？",
+          "url": "https://flash.jin10.com/detail/20260322120026961800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时40分]"
+        },
+        {
           "title": "美国国债遭大规模抛售",
           "url": "https://www.douyin.com/hot/2438612",
           "source": "抖音",
@@ -670,17 +725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "中东疯抢美国狂砸，谁在操纵原油绞肉机？",
-          "url": "https://flash.jin10.com/detail/20260322120026961800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "伊朗驻印度大使馆：伊朗总统向印度总理莫迪表示，结束地区战争与冲突的先决条件是美国和以色列立即停止侵略。",
@@ -750,11 +794,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时40分]"
         },
         {
           "title": "伊朗外长称准备允许日本船只通过霍尔木兹海峡，日方态度谨慎",
@@ -800,11 +845,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时40分]"
         },
         {
           "title": "麻药缺货,日本拔牙靠硬挺",
@@ -812,11 +858,12 @@
           "source": "贴吧",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时40分]"
         },
         {
           "title": "韩国加入七国联合声明，谴责伊朗封锁霍尔木兹海峡",
@@ -844,6 +891,19 @@
           "time_info": "[00时19分 ~ 06时16分]"
         },
         {
+          "title": "为何日本“谄媚外交”在美遇窘",
+          "url": "https://www.toutiao.com/trending/7619204951382605865/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时40分]"
+        },
+        {
           "title": "卢特尼克：已在俄亥俄州启动价值330亿美元的日本投资项目",
           "url": "https://flash.jin10.com/detail/20260322015520987800",
           "source": "金十数据",
@@ -863,11 +923,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时40分]"
         },
         {
           "title": "日本外务大臣茂木敏充：若达成停火协议，日本可能考虑参与霍尔木兹海峡扫雷行动。",
@@ -875,30 +936,30 @@
           "source": "金十数据",
           "ranks": [
             3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时47分]"
-        },
-        {
-          "title": "为何日本“谄媚外交”在美遇窘",
-          "url": "https://www.toutiao.com/trending/7619204951382605865/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            9
+            18,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时47分]"
+          "time_info": "[12时12分 ~ 14时40分]"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "法国高蒙影业买下《年会不能停！》版权，将翻拍法语版，对此你有何期待？",
+          "url": "https://www.zhihu.com/question/2018015452656268906",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时40分]"
+        },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3074453",
@@ -911,17 +972,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 12时12分]"
-        },
-        {
-          "title": "法国高蒙影业买下《年会不能停！》版权，将翻拍法语版，对此你有何期待？",
-          "url": "https://www.zhihu.com/question/2018015452656268906",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 13时47分]"
         },
         {
           "title": "根据伊朗外交部公布的数据，自2月28日战争爆发以来，伊朗外长阿拉格奇与印度外交部长苏杰生通话次数最多，共5次。此外，他还与俄罗斯外长通话两次，与阿曼、法国、土耳其、埃及、巴基斯坦等国外长通话一次。",
@@ -972,6 +1022,17 @@
           "time_info": "[01时19分 ~ 02时24分]"
         },
         {
+          "title": "瞿颖西班牙 王俊凯新加坡",
+          "url": "https://s.weibo.com/weibo?q=%E7%9E%BF%E9%A2%96%E8%A5%BF%E7%8F%AD%E7%89%99%20%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%96%B0%E5%8A%A0%E5%9D%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
           "title": "英国核动力潜艇抵达阿拉伯海",
           "url": "https://www.toutiao.com/trending/7619244465714298934/",
           "source": "今日头条",
@@ -1016,11 +1077,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时40分]"
         },
         {
           "title": "伊朗向美英印度洋军事基地发射导弹",
@@ -1147,11 +1209,24 @@
           "ranks": [
             1,
             7,
-            13
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 14时40分]"
+        },
+        {
+          "title": "高盛宏观交易员警告：各国央行错失了稳定市场的机会，\"能源正在驱动一切\"",
+          "url": "https://wallstreetcn.com/articles/3768076",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时19分 ~ 13时47分]"
+          "time_info": "[13时47分 ~ 14时40分]"
         },
         {
           "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
@@ -1164,17 +1239,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 13时47分]"
-        },
-        {
-          "title": "高盛宏观交易员警告：各国央行错失了稳定市场的机会，\"能源正在驱动一切\"",
-          "url": "https://wallstreetcn.com/articles/3768076",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "伊朗再发警告：若伊能源设施遭袭 将打击美及其盟友三类关键设施",
@@ -1190,6 +1254,61 @@
       ]
     },
     {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "华为发布新一代算力芯片昇腾950PR",
+          "url": "https://wallstreetcn.com/livenews/3074466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            19,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 14时40分]"
+        },
+        {
+          "title": "特斯拉：打造TERAFAB芯片工厂是为了弥合当下芯片产能与未来需求的鸿沟",
+          "url": "https://flash.jin10.com/detail/20260322125424155800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时40分]"
+        },
+        {
+          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
+          "url": "https://wallstreetcn.com/articles/3768071",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
+          "title": "华为重磅发布新一代算力芯片",
+          "url": "https://flash.jin10.com/detail/20260321215911618800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[GLOBAL_FILTER] # 过滤标题党 震惊",
       "match_count": 3,
       "titles": [
@@ -1200,20 +1319,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 14时40分]"
         },
         {
           "title": "定居成都老外被“12345”执行力震惊",
           "url": "https://www.baidu.com/s?wd=%E5%AE%9A%E5%B1%85%E6%88%90%E9%83%BD%E8%80%81%E5%A4%96%E8%A2%AB%E2%80%9C12345%E2%80%9D%E6%89%A7%E8%A1%8C%E5%8A%9B%E9%9C%87%E6%83%8A",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 14时40分]"
         },
         {
           "title": "父母用柿饼装嘴肿 宝宝一脸震惊",
@@ -1239,11 +1359,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时40分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -1251,64 +1372,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时40分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
           "url": "https://wallstreetcn.com/livenews/3074495",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "华为发布新一代算力芯片昇腾950PR",
-          "url": "https://wallstreetcn.com/livenews/3074466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            19,
-            25
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 13时47分]"
-        },
-        {
-          "title": "特斯拉：打造TERAFAB芯片工厂是为了弥合当下芯片产能与未来需求的鸿沟",
-          "url": "https://flash.jin10.com/detail/20260322125424155800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "华为重磅发布新一代算力芯片",
-          "url": "https://flash.jin10.com/detail/20260321215911618800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时40分]"
         }
       ]
     },
@@ -1347,11 +1428,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 13时47分]"
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时40分]"
         }
       ]
     }
