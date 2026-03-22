@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-23T06:17:12.859564+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-03-23T07:19:58.491459+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
           "url": "https://www.cls.cn/detail/2320263",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "伊朗战争已三周，美国“稳油价”的牌“几乎打完”，原油“期现价差”越拉越大",
@@ -29,8 +30,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
+        },
+        {
+          "title": "美国大V吐槽：美军这么干，和自杀式袭击者有啥区别",
+          "url": "https://news.ifeng.com/c/8riAiFj6ky8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时18分 ~ 07时19分]"
         },
         {
           "title": "古巴外长：愿同美国对话",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 06时17分]"
-        },
-        {
-          "title": "美国大V吐槽：美军这么干，和自杀式袭击者有啥区别",
-          "url": "https://news.ifeng.com/c/8riAiFj6ky8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时18分 ~ 06时17分]"
         },
         {
           "title": "美国农业部长罗林斯：将公布更多与增加化肥运输量相关的公告。",
@@ -74,22 +75,42 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时19分]"
         },
         {
-          "title": "美国国务院建议全球范围内的美国公民提高安全警惕。",
-          "url": "https://flash.jin10.com/detail/20260323052659932800",
-          "source": "金十数据",
+          "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
+          "url": "https://wallstreetcn.com/livenews/3074621",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3,
+            8,
+            10,
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时19分]"
+        },
+        {
+          "title": "“最后警告”！伊朗议长警告打击资助美国军事行动的金融机构",
+          "url": "https://wallstreetcn.com/livenews/3074620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            11,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时19分]"
         },
         {
           "title": "伊朗总统：美国栽赃，伊朗从未寻求发展核武器",
@@ -105,32 +126,15 @@
           "time_info": "[00时20分 ~ 03时20分]"
         },
         {
-          "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
-          "url": "https://wallstreetcn.com/livenews/3074621",
+          "title": "美国务院建议全球各地美国公民提高警惕",
+          "url": "https://wallstreetcn.com/livenews/3074650",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            8,
-            10,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时17分]"
-        },
-        {
-          "title": "“最后警告”！伊朗议长警告打击资助美国军事行动的金融机构",
-          "url": "https://wallstreetcn.com/livenews/3074620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "美国财长贝森特：无论是俄罗斯石油、伊朗石油，还是由32个国家组成的联盟所实施的、历史上规模最大的战略石油储备（SPR）释放计划，都确保了这一点。",
@@ -265,6 +269,18 @@
           "time_info": "[00时20分 ~ 04时18分]"
         },
         {
+          "title": "美国国务院建议全球范围内的美国公民提高安全警惕。",
+          "url": "https://flash.jin10.com/detail/20260323052659932800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
           "title": "市场消息：美国财长贝森特称，有时候必须升级事态才能缓和局势。",
           "url": "https://flash.jin10.com/detail/20260322215621177800",
           "source": "金十数据",
@@ -370,6 +386,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时17分]"
+        },
+        {
+          "title": "美国务院建议全球各地美国公民提高警惕",
+          "url": "https://flash.jin10.com/detail/20260323062507290800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "古巴副外长：古巴正为美国可能发起军事侵略做准备",
+          "url": "https://wallstreetcn.com/livenews/3074642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "美国10年期国债期货下跌8点，30年期国债期货下跌15点。",
+          "url": "https://flash.jin10.com/detail/20260323060235108800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "唐宁街10号（英国首相府）：英国首相斯塔默今晚与美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260323060003087800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -386,8 +446,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "电影《挽救计划》北美票房破纪录，中国内地首日票房仅 900 万，原因何在？",
@@ -398,8 +458,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "中国股市债市规模均位居全球第二",
@@ -410,8 +470,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "中国古代有没有很猎奇的画？",
@@ -424,8 +484,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "中国发展高层论坛召开，潘功胜、李云泽、吴清出席",
@@ -435,8 +495,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "中国能源到底有啥底牌",
@@ -451,8 +511,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "库克点赞中国创新：中国开发者和制造商正成为新质生产力典范",
@@ -465,8 +525,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "伊朗称国产防空系统击中美军 F-35 战机，可能是用什么武器击中的？F-35 神话破灭了吗？",
@@ -476,8 +536,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "潘功胜：当前中国的社会融资条件处于宽松状态，将稳步推动金融业高水平开放",
@@ -520,6 +580,18 @@
           "time_info": "[00时20分 ~ 03时20分]"
         },
         {
+          "title": "苹果CEO库克直言对中国“等不及”",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B%E7%9B%B4%E8%A8%80%E5%AF%B9%E4%B8%AD%E5%9B%BD%E2%80%9C%E7%AD%89%E4%B8%8D%E5%8F%8A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时19分]"
+        },
+        {
           "title": "有哪些好看的经典国产老电影？",
           "url": "https://www.zhihu.com/question/359415555",
           "source": "知乎",
@@ -540,17 +612,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "苹果CEO库克直言对中国“等不及”",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B%E7%9B%B4%E8%A8%80%E5%AF%B9%E4%B8%AD%E5%9B%BD%E2%80%9C%E7%AD%89%E4%B8%8D%E5%8F%8A%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 05时19分]"
         },
         {
           "title": "中国古代为什么不把银子按照铜钱的形制铸造成钱币，省去了剪和称这类流程不是更方便百姓使用？",
@@ -578,7 +639,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "日本外相还在找补：提“珍珠港偷袭”，不奇怪",
@@ -588,8 +649,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "为何日本“谄媚外交”在美遇窘",
@@ -602,8 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "起底！这个怂恿台湾出兵霍尔木兹的“日本人”，什么来头？",
@@ -613,8 +674,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "全球惊现 4 月加息预期，欧盟、美国、日本均现鹰派特征，这将如何改变当下金融市场定价逻辑？",
@@ -624,8 +685,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "肥料卡脖子,日本农业遭重",
@@ -636,8 +697,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "炼油仙人登场,日本吃上地沟油",
@@ -648,19 +709,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
-        },
-        {
-          "title": "金正恩被再次推举为朝鲜国务委员长",
-          "url": "https://wallstreetcn.com/livenews/3074639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "LCK解说把BLG当韩国队",
@@ -676,6 +726,18 @@
           "time_info": "[01时18分 ~ 03时20分]"
         },
         {
+          "title": "金正恩被再次推举为朝鲜国务委员长",
+          "url": "https://wallstreetcn.com/livenews/3074639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
           "title": "外国投资者逃离日本股市",
           "url": "https://www.toutiao.com/trending/7619109342752620607/",
           "source": "今日头条",
@@ -685,6 +747,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "金正恩被再次推举为朝鲜国务委员长",
+          "url": "https://news.ifeng.com/c/8riWttE7GS3",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "金正恩被再次推举为朝鲜国务委员长",
+          "url": "https://flash.jin10.com/detail/20260323055111638800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -701,11 +785,12 @@
             3,
             8,
             10,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "印度实力露馅,科技全线拉胯",
@@ -716,8 +801,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "印度总理莫迪主持政府会议，评估中东战争影响",
@@ -727,11 +812,12 @@
             2,
             7,
             9,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时17分]"
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时19分]"
         },
         {
           "title": "印度：明起将商用液化石油气销售配额提高20%",
@@ -783,8 +869,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "周一悉尼盘初，美元兑日元反弹0.06%，报价为159.34。 澳元兑美元跌0.31%，报0.7001；纽元兑美元跌0.30%，报0.5814。 欧元兑美元跌0.24%，报1.1542；英镑兑美元跌超0.17%，报1.3304。 美元兑瑞郎涨超0.05%，报0.7884。 瑞典克朗兑美元跌超0.11%，丹麦克朗兑美元跌超0.26%，挪威克朗兑美元跌超0.22%。 波兰兹罗提兑美元跌0.05%。",
@@ -794,11 +880,12 @@
             5,
             10,
             12,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时17分]"
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时19分]"
         },
         {
           "title": "英国政府顾问：应考虑对能源利润设限",
@@ -808,11 +895,12 @@
             8,
             13,
             15,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时17分]"
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时19分]"
         },
         {
           "title": "德国保守派料将在社会民主党传统重镇赢得选举",
@@ -853,8 +941,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "伊朗副总统：当前伊朗能源和基本物资供应稳定",
@@ -889,11 +977,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时19分]"
         },
         {
           "title": "当地时间22日，伊朗第一副总统阿雷夫发表声明表示，当前伊朗能源和基本物资供应稳定。",
@@ -910,6 +999,46 @@
       ]
     },
     {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
+          "url": "https://wallstreetcn.com/articles/3768085",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
+        },
+        {
+          "title": "华为发布新一代算力芯片",
+          "url": "https://www.toutiao.com/trending/7619092765980868650/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 05时19分]"
+        },
+        {
+          "title": "维权投资者Elliott入股芯片设计软件巨头Synopsys。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3074643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
       "match_count": 3,
       "titles": [
@@ -921,8 +1050,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "小孩看机器人跳舞挨了一巴掌",
@@ -938,8 +1067,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "全网给U航机器人写剧本",
@@ -954,43 +1083,14 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
-          "url": "https://wallstreetcn.com/articles/3768085",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
-        },
-        {
-          "title": "华为发布新一代算力芯片",
-          "url": "https://www.toutiao.com/trending/7619092765980868650/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
         }
       ]
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -1001,8 +1101,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时19分]"
+        },
+        {
+          "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
+          "url": "https://flash.jin10.com/detail/20260323064200733800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     }
