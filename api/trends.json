@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T14:54:27.824672+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-03-24T15:49:46.052394+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 101,
+      "match_count": 104,
       "titles": [
         {
           "title": "美国纽约机场接连发生事故",
@@ -33,6 +33,19 @@
           "time_info": "[00时48分 ~ 09时13分]"
         },
         {
+          "title": "伊朗否认议长与美国谈判，指假消息为暗杀创造条件，称美曾试图通过中间方谈、伊未回应",
+          "url": "https://wallstreetcn.com/articles/3768196",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 15时49分]"
+        },
+        {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
           "url": "https://www.zhihu.com/question/2019499450662348649",
           "source": "知乎",
@@ -43,19 +56,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时48分 ~ 09时13分]"
-        },
-        {
-          "title": "伊朗否认议长与美国谈判，指假消息为暗杀创造条件，称美曾试图通过中间方谈、伊未回应",
-          "url": "https://wallstreetcn.com/articles/3768196",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 14时54分]"
         },
         {
           "title": "伊朗否认与美国沟通",
@@ -72,6 +72,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时48分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普又被“光速打脸”？伊朗议长：并未与美国进行谈判！",
+          "url": "https://www.cls.cn/detail/2322286",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时49分]"
         },
         {
           "title": "美伊各自曝出“谈判条件”，美国要“停核和军控”，伊朗要“保证和赔款”",
@@ -114,17 +127,17 @@
           "time_info": "[00时48分 ~ 07时24分]"
         },
         {
-          "title": "特朗普又被“光速打脸”？伊朗议长：并未与美国进行谈判！",
-          "url": "https://www.cls.cn/detail/2322286",
-          "source": "财联社热门",
+          "title": "美国得州一炼油厂发生爆炸",
+          "url": "https://www.douyin.com/hot/2441363",
+          "source": "抖音",
           "ranks": [
-            9,
+            6,
             5,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
         },
         {
           "title": "美国发布海外公民安全警告",
@@ -140,19 +153,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时40分 ~ 06时23分]"
-        },
-        {
-          "title": "美国得州一炼油厂发生爆炸",
-          "url": "https://www.douyin.com/hot/2441363",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
         },
         {
           "title": "美国得州炼油厂发生爆炸",
@@ -190,6 +190,31 @@
           "time_info": "[13时55分 ~ 14时54分]"
         },
         {
+          "title": "以高级官员：伊朗和美国本周将在巴基斯坦举行会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32816295",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时49分]"
+        },
+        {
+          "title": "美国一炼油厂爆炸 黑烟滚滚",
+          "url": "https://www.toutiao.com/trending/7620617856392232996/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "据纽约时报：美国国防部官员考虑向伊朗部署空降部队。",
           "url": "https://flash.jin10.com/detail/20260324021204721800",
           "source": "金十数据",
@@ -210,19 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "以高级官员：伊朗和美国本周将在巴基斯坦举行会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32816295",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 14时54分]"
         },
         {
           "title": "美国总统特朗普：所有在打击犯罪特别小组服役的国民警卫队成员，都将享受与现役军人同等的待遇。",
@@ -269,6 +281,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "解读美国金融市场波动背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E6%B3%A2%E5%8A%A8%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "据Politico：美国共和党参议员布里特、莫雷诺、戴恩斯、格雷厄姆与美国总统特朗普会面，寻求结束国土安全部停摆。",
           "url": "https://flash.jin10.com/detail/20260324064457888800",
           "source": "金十数据",
@@ -278,6 +301,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美国得州一炼油厂爆炸黑烟冲天",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E4%B8%80%E7%82%BC%E6%B2%B9%E5%8E%82%E7%88%86%E7%82%B8%E9%BB%91%E7%83%9F%E5%86%B2%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            18,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee：可能会出现需要加息的情况",
+          "url": "https://wallstreetcn.com/articles/3768179",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 15时49分]"
+        },
+        {
+          "title": "伊朗议长卡利巴夫否认与美国谈判，称美为操纵市场散布假新闻，美国则称正与伊朗议长秘密谈判，谁在说谎？",
+          "url": "https://www.zhihu.com/question/2019700780731425722",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
+        },
+        {
+          "title": "以媒：美国计划4月9日结束对伊战争",
+          "url": "https://www.toutiao.com/trending/7620582651753250835/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
         },
         {
           "title": "美国旧金山联储主席戴利：错综复杂的冲突可能会“放大货币政策的权衡难题”。 鉴于所面临的风险，美联储需要保持政策灵活性。 如果给出太多的前瞻指引，将面临“确定性错觉”风险。 承认不确定性是最佳沟通（策略）。",
@@ -427,19 +500,6 @@
           "time_info": "[05时28分 ~ 06时23分]"
         },
         {
-          "title": "美国得州一炼油厂爆炸黑烟冲天",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E4%B8%80%E7%82%BC%E6%B2%B9%E5%8E%82%E7%88%86%E7%82%B8%E9%BB%91%E7%83%9F%E5%86%B2%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
-        },
-        {
           "title": "为什么 m1911 只比转轮手枪多一发子弹却至今受到很多美国军人警察喜欢？",
           "url": "https://www.zhihu.com/question/8187119891",
           "source": "知乎",
@@ -451,40 +511,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时42分 ~ 05时28分]"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee：可能会出现需要加息的情况",
-          "url": "https://wallstreetcn.com/articles/3768179",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时11分]"
-        },
-        {
-          "title": "伊朗议长卡利巴夫否认与美国谈判，称美为操纵市场散布假新闻，美国则称正与伊朗议长秘密谈判，谁在说谎？",
-          "url": "https://www.zhihu.com/question/2019700780731425722",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
-        },
-        {
-          "title": "以媒：美国计划4月9日结束对伊战争",
-          "url": "https://www.toutiao.com/trending/7620582651753250835/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
         },
         {
           "title": "伊朗革命卫队称美国尚未真正认清其实力",
@@ -727,9 +753,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "美国被曝正向多国索要保护费",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%AD%A3%E5%90%91%E5%A4%9A%E5%9B%BD%E7%B4%A2%E8%A6%81%E4%BF%9D%E6%8A%A4%E8%B4%B9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "据伊朗媒体：伊朗伊斯兰革命卫队表示，美国总统的“矛盾行为”并不会导致前线出现任何疏忽。",
@@ -749,7 +786,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -1167,7 +1204,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -1186,7 +1223,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "朝鲜称与日本没什么可谈的",
@@ -1231,11 +1268,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%EF%BC%9A%E6%AD%A3%E5%BC%8F%E5%B0%86%E9%9F%A9%E5%9B%BD%E5%AE%9A%E4%B9%89%E4%B8%BA%E5%A4%B4%E5%8F%B7%E6%95%8C%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
         },
         {
           "title": "韩国人怎么看BTS光化门演唱会",
@@ -1264,6 +1302,17 @@
           "time_info": "[02时40分 ~ 06时23分]"
         },
         {
+          "title": "金正恩正式将韩国定义为头号敌国",
+          "url": "https://www.toutiao.com/trending/7620671150137593382/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时49分]"
+        },
+        {
           "title": "评论员：日本的“偷”与世界的“笑”",
           "url": "https://www.toutiao.com/trending/7620288879169454090/",
           "source": "今日头条",
@@ -1275,15 +1324,15 @@
           "time_info": "[06时22分 ~ 06时23分]"
         },
         {
-          "title": "金正恩正式将韩国定义为头号敌国",
-          "url": "https://www.toutiao.com/trending/7620671150137593382/",
-          "source": "今日头条",
+          "title": "美国银行：韩国新行长或采取偏紧缩的政策立场",
+          "url": "https://flash.jin10.com/detail/20260324153522646800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "韩国KOSPI指数站上5500点，日内涨1.84%。",
@@ -1308,6 +1357,17 @@
           "time_info": "09时13分"
         },
         {
+          "title": "日本石油协会将停止公布石油产品库存数据，称现行方法难以保证准确性。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3075756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "SK海力士将为美国ADR挂牌交易发行新的股票。（韩国经济日报）",
           "url": "https://wallstreetcn.com/livenews/3075464",
           "source": "华尔街见闻-快讯",
@@ -1317,6 +1377,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "警惕！日本海上自卫队大规模改组，细节披露",
+          "url": "https://news.ifeng.com/c/8rkcSV48KmM",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
         },
         {
           "title": "F1日本站赛前指南",
@@ -1420,18 +1493,6 @@
           "time_info": "[13时55分 ~ 14时54分]"
         },
         {
-          "title": "警惕！日本海上自卫队大规模改组，细节披露",
-          "url": "https://news.ifeng.com/c/8rkcSV48KmM",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
-        },
-        {
           "title": "日本自卫队大规模调整 有何意图",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%B0%83%E6%95%B4+%E6%9C%89%E4%BD%95%E6%84%8F%E5%9B%BE",
           "source": "百度热搜",
@@ -1449,11 +1510,25 @@
           "url": "https://news.ifeng.com/c/8rkhMequKq8",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时49分]"
+        },
+        {
+          "title": "金正恩正式将韩国定义为头号敌国",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E6%AD%A3%E5%BC%8F%E5%B0%86%E9%9F%A9%E5%9B%BD%E5%AE%9A%E4%B9%89%E4%B8%BA%E5%A4%B4%E5%8F%B7%E6%95%8C%E5%9B%BD%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时49分]"
         },
         {
           "title": "钟声：国防泡沫挽救不了日本经济",
@@ -1485,18 +1560,6 @@
           "ranks": [
             13,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时54分]"
-        },
-        {
-          "title": "金正恩正式将韩国定义为头号敌国",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E6%AD%A3%E5%BC%8F%E5%B0%86%E9%9F%A9%E5%9B%BD%E5%AE%9A%E4%B9%89%E4%B8%BA%E5%A4%B4%E5%8F%B7%E6%95%8C%E5%9B%BD%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1536,6 +1599,17 @@
           "time_info": "09时13分"
         },
         {
+          "title": "金正恩：朝鲜将韩国视为最敌对国家",
+          "url": "https://www.cls.cn/detail/2322737",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "消息人士：韩国国民年金公团正在进行战略性外汇对冲操作。",
           "url": "https://flash.jin10.com/detail/20260324132619041800",
           "source": "金十数据",
@@ -1553,7 +1627,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -1586,7 +1660,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -1597,7 +1671,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -1611,6 +1685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "据英国金融时报：日本三井住友金融集团正为可能收购杰富瑞做准备。",
+          "url": "https://flash.jin10.com/detail/20260324152450801800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "报道：日本自卫队大幅扩充太空部队规模",
@@ -1723,6 +1808,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "日本网友批评高市访美姿态谄媚有损国家尊严，外交部：不予评论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32814585",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "日本政府：将从全国11个地点释放原油储备。",
           "url": "https://flash.jin10.com/detail/20260324131713599800",
           "source": "金十数据",
@@ -1784,7 +1880,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -1913,7 +2009,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国发现世界第二大轻稀土矿",
@@ -2060,6 +2156,21 @@
           "time_info": "[12时10分 ~ 14时54分]"
         },
         {
+          "title": "中国石化回应高油价影响：若中东冲突延宕炼化业务面临巨大挑战，已有多套预案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815017",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 15时49分]"
+        },
+        {
           "title": "稳定发展是中国人民的坚实底气",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A8%B3%E5%AE%9A%E5%8F%91%E5%B1%95%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E5%9D%9A%E5%AE%9E%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -2069,6 +2180,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时10分 ~ 13时55分]"
+        },
+        {
+          "title": "中国有全球第一的电竞市场，为何世界电竞第一人是韩国选手 Faker，不是中国电竞选手？",
+          "url": "https://www.zhihu.com/question/2019149381236991824",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
+        },
+        {
+          "title": "中国发现世界第二大轻稀土矿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%BD%BB%E7%A8%80%E5%9C%9F%E7%9F%BF",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
         },
         {
           "title": "中国核电让巴基斯坦停电时间少一半",
@@ -2086,20 +2223,6 @@
           "time_info": "[00时48分 ~ 06时23分]"
         },
         {
-          "title": "中国石化回应高油价影响：若中东冲突延宕炼化业务面临巨大挑战，已有多套预案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815017",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 14时54分]"
-        },
-        {
           "title": "美教授：中国是国际舞台仅剩的成年人",
           "url": "https://www.toutiao.com/trending/7620315118065713193/",
           "source": "今日头条",
@@ -2110,18 +2233,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时42分 ~ 07时24分]"
-        },
-        {
-          "title": "中国有全球第一的电竞市场，为何世界电竞第一人是韩国选手 Faker，不是中国电竞选手？",
-          "url": "https://www.zhihu.com/question/2019149381236991824",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
         },
         {
           "title": "喀麦隆称台湾为中国一省 台当局破防",
@@ -2136,30 +2247,40 @@
           "time_info": "[05时28分 ~ 07时24分]"
         },
         {
-          "title": "中国发现世界第二大轻稀土矿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%BD%BB%E7%A8%80%E5%9C%9F%E7%9F%BF",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
-        },
-        {
           "title": "中国的垃圾真的不够烧了吗",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9E%83%E5%9C%BE%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%A4%9F%E7%83%A7%E4%BA%86%E5%90%97",
           "source": "百度热搜",
           "ranks": [
             5,
             22,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
+        },
+        {
+          "title": "打卡春天里的大美中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "中国发现世界第二大轻稀土矿",
+          "url": "https://www.douyin.com/hot/2441894",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "中园石化碰瓷中国石化",
@@ -2187,6 +2308,19 @@
           "time_info": "[04时31分 ~ 06时23分]"
         },
         {
+          "title": "中国航空总人口超5亿 意味着什么",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E6%80%BB%E4%BA%BA%E5%8F%A3%E8%B6%855%E4%BA%BF+%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时49分]"
+        },
+        {
           "title": "日本汽车惨败但中国就“赢”了吗",
           "url": "https://www.toutiao.com/trending/7620622151061605942/",
           "source": "今日头条",
@@ -2210,16 +2344,27 @@
           "time_info": "[02时40分 ~ 07时24分]"
         },
         {
-          "title": "中国航空总人口超5亿 意味着什么",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E6%80%BB%E4%BA%BA%E5%8F%A3%E8%B6%855%E4%BA%BF+%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
+          "title": "为什么 BBA 在外国都被当做出租车，而在中国它就是豪华车呢？",
+          "url": "https://www.zhihu.com/question/1920187299574061045",
+          "source": "知乎",
           "ranks": [
-            15,
-            25
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时54分]"
+          "time_info": "[14时54分 ~ 15时49分]"
+        },
+        {
+          "title": "中国日均词元调用量突破140万亿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%A5%E5%9D%87%E8%AF%8D%E5%85%83%E8%B0%83%E7%94%A8%E9%87%8F%E7%AA%81%E7%A0%B4140%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时49分]"
         },
         {
           "title": "富时中国A50指数期货开盘涨超0.9%。",
@@ -2288,17 +2433,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "为什么 BBA 在外国都被当做出租车，而在中国它就是豪华车呢？",
-          "url": "https://www.zhihu.com/question/1920187299574061045",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
           "title": "国家数据局局长刘烈宏：第九届数字中国建设峰会现场体验区新增“人工智能”板块",
           "url": "https://wallstreetcn.com/livenews/3075601",
           "source": "华尔街见闻-快讯",
@@ -2310,21 +2444,21 @@
           "time_info": "12时11分"
         },
         {
-          "title": "中国日均词元调用量突破140万亿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%A5%E5%9D%87%E8%AF%8D%E5%85%83%E8%B0%83%E7%94%A8%E9%87%8F%E7%AA%81%E7%A0%B4140%E4%B8%87%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "中国电竞2026有哪些看点",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%AB%9E2026%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "15时49分"
         }
       ]
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
@@ -2355,8 +2489,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时48分 ~ 14时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时48分 ~ 15时49分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -2369,6 +2503,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时48分 ~ 12时11分]"
+        },
+        {
+          "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
+          "url": "https://www.cls.cn/detail/2322334",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
         },
         {
           "title": "伊朗能源部长：电力与供水保障未受影响",
@@ -2391,19 +2538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
-        },
-        {
-          "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
-          "url": "https://www.cls.cn/detail/2322334",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
         },
         {
           "title": "标普500指数的11个板块中，可选消费板块收涨2.46%，原材料、信息技术/科技、工业、能源、公用事业板块至多涨1.49%，电信板块涨0.69%。",
@@ -2453,6 +2587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "美军将继续对伊朗实施打击 “暂停打击”仅适用于对伊朗能源设施的攻击",
+          "url": "https://www.cls.cn/detail/2322798",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "菲律宾能源部长称，该国石油供应仍然充足，截至3月20日，菲律宾有45天的石油供应。",
@@ -2574,23 +2719,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "标普全球评级：信用评级较低的亚洲能源进口商选择较少。",
+          "url": "https://flash.jin10.com/detail/20260324151227958800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "西班牙首相或将于4月访华",
           "url": "https://www.douyin.com/hot/2441415",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时49分]"
         },
         {
           "title": "英国政府：伊朗驻英国大使已被召至英国外交、联邦及发展事务部。",
@@ -2613,6 +2770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "三井住友金融集团在为可能收购Jefferies做准备。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3075753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "雅诗兰黛股价暴跌，报道称或将收购西班牙美妆企业Puig",
@@ -2671,6 +2839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "据英国金融时报： 三井住友金融集团已指派一个小型团队，确保在杰富瑞股价下跌带来机会时做好准备采取行动。",
+          "url": "https://flash.jin10.com/detail/20260324152552177800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "欧洲汽车制造商协会：欧洲汽车销量2月份增长1.7%至979,321辆。 2月电动车在欧盟新车注册中占比达66.7%。 特斯拉2月在欧盟、英国及EFTA市场份额升至1.8%，与比亚迪持平。 特斯拉纯电动车市场份额为9.3%。",
@@ -2739,6 +2918,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "摩根大通：宣布提供280万欧元用于支持法国小型企业。此举将有助于解决法国小型企业融资可得性问题。将在三年内提供180万欧元支持法国公共投资银行。",
+          "url": "https://flash.jin10.com/detail/20260324151340852800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "高盛：做空瑞典克朗，从而对冲能源冲击。",
           "url": "https://wallstreetcn.com/livenews/3075280",
           "source": "华尔街见闻-快讯",
@@ -2753,7 +2943,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "体验印度二次元初中生的一天",
@@ -2771,8 +2961,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 14时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时48分 ~ 15时49分]"
+        },
+        {
+          "title": "瑞银下调印度及欧元区股票评级，因油价波动影响显著",
+          "url": "https://flash.jin10.com/detail/20260324153230344800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "印度拥有超530万吨战略石油储备",
@@ -2800,6 +3001,17 @@
           "time_info": "[01时45分 ~ 03时42分]"
         },
         {
+          "title": "印度NIFTY50指数涨2%，刷新日高。 印度国债价格走升，10年期国债期货收益率下降3个基点至6.81%。",
+          "url": "https://wallstreetcn.com/livenews/3075741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "印度3月制造业PMI初值 53.8，前值 56.9。",
           "url": "https://wallstreetcn.com/livenews/3075660",
           "source": "华尔街见闻-快讯",
@@ -2809,6 +3021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "印度NIFTY指数涨2%，报22962.55点。",
+          "url": "https://wallstreetcn.com/livenews/3075735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "印度3月综合PMI初值 56.5，前值 58.9。",
@@ -2869,7 +3092,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗重创卡特尔氦气出口，全球芯片生产面临危机",
@@ -2922,7 +3145,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -2933,9 +3156,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "智立方：公司已与多家光模块、光芯片及产业链客户形成订单，相关产品目前交付有序、销售稳步增长。",
+          "url": "https://flash.jin10.com/detail/20260324152311897800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
