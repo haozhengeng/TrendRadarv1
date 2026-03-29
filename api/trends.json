@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T09:26:36.494848+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-03-29T12:31:44.019152+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 33,
+      "match_count": 43,
       "titles": [
         {
           "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
         },
         {
           "title": "伊朗称钢厂及核设施遭袭、无人机群袭以最大运输中心，警告美国地面行动将遭对等反制，考虑退出不扩散核武条约",
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 05时23分]"
+        },
+        {
+          "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
+          "url": "https://wallstreetcn.com/articles/3768639",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时24分 ~ 12时31分]"
         },
         {
           "title": "伊朗称击中一架美国F-16战斗机",
@@ -66,19 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时22分 ~ 07时23分]"
-        },
-        {
-          "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
-          "url": "https://wallstreetcn.com/articles/3768639",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时24分 ~ 09时26分]"
         },
         {
           "title": "法国阻止了美国银行巴黎办公室附近的袭击事件。（法新社）",
@@ -136,15 +137,37 @@
           "time_info": "[06时20分 ~ 07时23分]"
         },
         {
-          "title": "美国防部正为“在伊朗展开为期数周的地面行动”做准备",
-          "url": "https://wallstreetcn.com/livenews/3078648",
-          "source": "华尔街见闻-快讯",
+          "title": "叙利亚消息人士称，四架无人机袭击了位于叙利亚东北部哈塞克附近的美国卡斯拉克基地。",
+          "url": "https://flash.jin10.com/detail/20260329115436402800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "美国全国爆发反对特朗普政府集会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%A8%E5%9B%BD%E7%88%86%E5%8F%91%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%9B%86%E4%BC%9A%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "美国1000人包围政府机构大楼",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD1000%E4%BA%BA%E5%8C%85%E5%9B%B4%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%E5%A4%A7%E6%A5%BC%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时31分"
         },
         {
           "title": "伊朗伊斯兰革命卫队谴责对伊拉克库尔德斯坦地区主席住所的无人机袭击，称该攻击反映了“美国-以色列进行的恐怖行为”，旨在破坏地区稳定。",
@@ -185,6 +208,18 @@
           "time_info": "[04时20分 ~ 07时23分]"
         },
         {
+          "title": "美国防部正为“在伊朗展开为期数周的地面行动”做准备",
+          "url": "https://wallstreetcn.com/livenews/3078648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：有几位欧洲领导人说，这（伊朗战争）不是欧洲的战争。俄乌冲突也不是美国的战争，然而我们在这场冲突中的贡献却比世界上任何其他国家都多。",
           "url": "https://flash.jin10.com/detail/20260329020327331800",
           "source": "金十数据",
@@ -196,6 +231,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时20分]"
+        },
+        {
+          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
+          "url": "https://wallstreetcn.com/articles/3768645",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
         },
         {
           "title": "美国“最强导弹”，击落了美国“最强战机”",
@@ -259,6 +306,29 @@
           "time_info": "[01时22分 ~ 02时28分]"
         },
         {
+          "title": "委内瑞拉恢复启用驻美国外交机构",
+          "url": "https://wallstreetcn.com/livenews/3078639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
+          "url": "https://www.zhihu.com/question/2021274346899943516",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
+        },
+        {
           "title": "美国最强导弹击落了美国最强战机",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%BC%BA%E5%AF%BC%E5%BC%B9%E5%87%BB%E8%90%BD%E4%BA%86%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%BC%BA%E6%88%98%E6%9C%BA%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -276,9 +346,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美国爆发反特朗普政府集会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%9B%86%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "美国官员：美政府内部讨论过夺取哈尔克岛",
@@ -287,18 +368,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
-          "url": "https://wallstreetcn.com/articles/3768645",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -309,20 +379,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
         {
-          "title": "委内瑞拉恢复启用驻美国外交机构",
-          "url": "https://wallstreetcn.com/livenews/3078639",
-          "source": "华尔街见闻-快讯",
+          "title": "美国防部正为在伊朗地面行动做准备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E6%AD%A3%E4%B8%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8%E5%81%9A%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时31分"
         },
         {
           "title": "据伊拉克内政部和伊拉克民兵武装“人民动员组织”消息，美国和以色列28日晚对伊拉克北部多地发动袭击，造成至少5人死亡、9人受伤。",
@@ -331,7 +401,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -342,7 +412,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -353,20 +423,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
         {
-          "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
-          "url": "https://www.zhihu.com/question/2021274346899943516",
-          "source": "知乎",
+          "title": "美国国土安全部：骚乱者向警察投掷石头、瓶子和水泥块。两名被水泥块击中的警员正在接受医疗救治。洛杉矶警察局正在对现场进行响应。两名骚乱者因袭击联邦执法人员被逮捕。",
+          "url": "https://flash.jin10.com/detail/20260329104016887800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时31分"
+        },
+        {
+          "title": "美国国土安全部：1000名暴乱者包围了洛杉矶的罗伊巴尔联邦大楼。",
+          "url": "https://flash.jin10.com/detail/20260329103848021800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "美国国土安全部监察长办公室官员正在调查卡拉·伍里希在联邦紧急事务管理局合同签订过程中的角色。",
@@ -375,7 +456,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -386,31 +467,64 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美民众说反对美国正在发生的事",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B0%91%E4%BC%97%E8%AF%B4%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%9C%A8%E5%8F%91%E7%94%9F%E7%9A%84%E4%BA%8B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "据福克斯新闻：美国国土安全部特工发射催泪瓦斯，将反移民及海关执法局的活动人士从大楼附近驱离。",
+          "url": "https://flash.jin10.com/detail/20260329100932083800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "据福克斯新闻：在“不要国王”抗议活动开始数小时后，有煽动者在洛杉矶市中心踢踹并围堵美国国土安全部大楼的围栏。",
+          "url": "https://flash.jin10.com/detail/20260329100748886800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "他们为何说中国是“必选项”",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BD%95%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF%E2%80%9C%E5%BF%85%E9%80%89%E9%A1%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
-        },
         {
           "title": "2026中国网络媒体论坛",
           "url": "https://www.douyin.com/hot/2446469",
           "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
+        },
+        {
+          "title": "他们为何说中国是“必选项”",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BD%95%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF%E2%80%9C%E5%BF%85%E9%80%89%E9%A1%B9%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             3
           ],
@@ -425,11 +539,12 @@
           "ranks": [
             11,
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
         },
         {
           "title": "中国“无人军团”集中亮相",
@@ -440,11 +555,12 @@
             22,
             20,
             7,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 12时31分]"
         },
         {
           "title": "中国军号发布视频：真正的史诗",
@@ -456,11 +572,12 @@
             11,
             14,
             17,
-            18
+            18,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时28分 ~ 09时26分]"
+          "appearance_count": 10,
+          "time_info": "[02时28分 ~ 12时31分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -514,6 +631,17 @@
           "time_info": "[00时23分 ~ 02时28分]"
         },
         {
+          "title": "日本舆论要求政府尽快向中国道歉",
+          "url": "https://www.toutiao.com/trending/7621869700113350662/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "中国地震台网自动测定：03月29日02时38分在印尼西南群岛附近（南纬7.75度，东经127.93度）发生6.1级左右地震，最终结果以正式速报为准。",
           "url": "https://flash.jin10.com/detail/20260329024608617800",
           "source": "金十数据",
@@ -558,26 +686,26 @@
           "time_info": "[00时23分 ~ 06时20分]"
         },
         {
-          "title": "中国国防部派团赴欧洲举行机制性对话",
-          "url": "https://wallstreetcn.com/livenews/3078647",
-          "source": "华尔街见闻-快讯",
+          "title": "国产摩托车首夺世界冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%91%A9%E6%89%98%E8%BD%A6%E9%A6%96%E5%A4%BA%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时31分"
         },
         {
-          "title": "中国黄金集团与山东黄金集团举行工作会商",
-          "url": "https://wallstreetcn.com/livenews/3078644",
-          "source": "华尔街见闻-快讯",
+          "title": "沙特产业界人士在中关村向中国企业释放合作信号",
+          "url": "https://flash.jin10.com/detail/20260329114431247800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时31分"
         },
         {
           "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
@@ -586,11 +714,36 @@
           "ranks": [
             13,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 09时26分]"
+          "appearance_count": 5,
+          "time_info": "[06时20分 ~ 12时31分]"
+        },
+        {
+          "title": "中国国防部派团赴欧洲举行机制性对话",
+          "url": "https://wallstreetcn.com/livenews/3078647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
+        },
+        {
+          "title": "中国黄金集团与山东黄金集团举行工作会商",
+          "url": "https://wallstreetcn.com/livenews/3078644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
         },
         {
           "title": "中国AI不会因几张邀请函停滞",
@@ -611,20 +764,76 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
         },
         {
           "title": "中国太空基建新成果",
           "url": "https://www.douyin.com/hot/2447092",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
+        },
+        {
+          "title": "不只便宜还高档，中国电动车在美国越来越受欢迎了",
+          "url": "https://wallstreetcn.com/articles/3768646",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时31分"
+        },
+        {
+          "title": "中国地震台网正式测定：03月29日11时12分在台湾屏东县发生3.3级地震，震源深度23千米。",
+          "url": "https://flash.jin10.com/detail/20260329112149090800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "中国地震台网自动测定：03月29日11时12分在台湾屏东县附近发生4.0级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260329111443912800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "德研究报告：中国工业数字化水平全球领先",
+          "url": "https://flash.jin10.com/detail/20260329104830381800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "中国军号发视频：真正的史诗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E8%A7%86%E9%A2%91%EF%BC%9A%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%8F%B2%E8%AF%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "精准杀伤癌细胞利器 中国有重大进展",
@@ -638,13 +847,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "廖岷出席中国-世界银行集团全球生态系统与转型中心办公室揭牌仪式",
+          "url": "https://flash.jin10.com/detail/20260329103358402800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "中国国防部派团赴欧洲举行机制性对话",
           "url": "https://flash.jin10.com/detail/20260329081549410800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -655,7 +875,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -674,30 +894,19 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "日本17岁高中生偷大米被抓",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352448&amp;topic_name=%E6%97%A5%E6%9C%AC17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%B7%E5%A4%A7%E7%B1%B3%E8%A2%AB%E6%8A%93",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
-        },
-        {
-          "title": "U23国足1:1朝鲜",
-          "url": "https://www.douyin.com/hot/2447033",
-          "source": "抖音",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
         },
         {
           "title": "日本被要求：尽快向中方道歉",
@@ -707,11 +916,25 @@
             9,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
+        },
+        {
+          "title": "U23国足1:1朝鲜",
+          "url": "https://www.douyin.com/hot/2447033",
+          "source": "抖音",
+          "ranks": [
+            1,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
         },
         {
           "title": "没肉没蔬菜,日本小学午餐寒酸",
@@ -719,11 +942,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
         },
         {
           "title": "F1日本站排位赛战报",
@@ -767,24 +991,13 @@
           "time_info": "[00时23分 ~ 07时23分]"
         },
         {
-          "title": "日本1-0绝杀苏格兰",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC1-0%E7%BB%9D%E6%9D%80%E8%8B%8F%E6%A0%BC%E5%85%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
           "title": "韩国0-4惨败科特迪瓦",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD0-4%E6%83%A8%E8%B4%A5%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -793,11 +1006,24 @@
           "url": "https://www.douyin.com/hot/2446811",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 12时31分]"
+        },
+        {
+          "title": "日本1-0绝杀苏格兰",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC1-0%E7%BB%9D%E6%9D%80%E8%8B%8F%E6%A0%BC%E5%85%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
         },
         {
           "title": "据日经新闻：特斯拉(TSLA.O)计划将把其在日本的服务中心网络规模扩大一倍。",
@@ -812,6 +1038,30 @@
           "time_info": "[05时23分 ~ 07时23分]"
         },
         {
+          "title": "日本警视厅对强闯我驻日使馆不法之徒所属部队驻地等展开搜查。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3078641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
+        },
+        {
+          "title": "如何看待索尼、本田合作造车项目「AFEELA」宣布告吹？原因可能是什么？跨界造车对日本难在哪儿？",
+          "url": "https://www.zhihu.com/question/2020207610469593657",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时31分]"
+        },
+        {
           "title": "U23国足1-1朝鲜两连平",
           "url": "https://www.toutiao.com/trending/7622299568033762862/",
           "source": "今日头条",
@@ -824,26 +1074,26 @@
           "time_info": "[00时23分 ~ 01时22分]"
         },
         {
-          "title": "日本警视厅对强闯我驻日使馆不法之徒所属部队驻地等展开搜查。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3078641",
-          "source": "华尔街见闻-快讯",
+          "title": "日本警视厅对强闯我驻日使馆不法之徒所属部队驻地等展开搜查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32855736",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时31分"
         },
         {
-          "title": "如何看待索尼、本田合作造车项目「AFEELA」宣布告吹？原因可能是什么？跨界造车对日本难在哪儿？",
-          "url": "https://www.zhihu.com/question/2020207610469593657",
-          "source": "知乎",
+          "title": "俄罗斯警告韩国",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E9%9F%A9%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时31分"
         },
         {
           "title": "韩国财政部长：仍在考虑进口俄罗斯石脑油。",
@@ -852,7 +1102,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -863,9 +1113,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "韩媒谈韩国0-4科特迪瓦：巨大灾难",
+          "url": "https://www.toutiao.com/trending/7621725930335174692/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "日本警视厅对强闯我驻日使馆不法之徒所属部队驻地等展开搜查",
@@ -874,7 +1135,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -882,7 +1143,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "德国中医河南买菜被送葱：感觉很亲切",
@@ -891,7 +1152,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -916,7 +1177,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -954,12 +1215,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "德国中医河南买菜被送葱：成了自己人",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E4%B8%AD%E5%8C%BB%E6%B2%B3%E5%8D%97%E4%B9%B0%E8%8F%9C%E8%A2%AB%E9%80%81%E8%91%B1%EF%BC%9A%E6%88%90%E4%BA%86%E8%87%AA%E5%B7%B1%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中东战火蔓延！胡塞武装“参战”，“第二大能源要道”曼德海峡也悬了？",
@@ -971,11 +1243,12 @@
             6,
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
         },
         {
           "title": "泰国就本国油轮通行霍尔木兹海峡与伊朗达成协议，对泰国能源安全保障有多重要？通行要满足哪些条件？",
@@ -1013,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 07时23分]"
+        },
+        {
+          "title": "新能源车充电涨价因用油发电系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E6%B6%A8%E4%BB%B7%E5%9B%A0%E7%94%A8%E6%B2%B9%E5%8F%91%E7%94%B5%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "分析师：胡塞武装参战 曼德海峡航运问题或成能源市场新风险点",
@@ -1056,40 +1340,8 @@
       ]
     },
     {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中东战火下半导体供应链受阻：氦气之外 这些光刻工艺材料也受影响",
-          "url": "https://www.cls.cn/detail/2327729",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
-        },
-        {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "人工智能会取代哪些岗位？",
@@ -1105,6 +1357,50 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时28分 ~ 07时23分]"
+        },
+        {
+          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
+          "url": "https://wallstreetcn.com/livenews/3078656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中东战火下半导体供应链受阻：氦气之外 这些光刻工艺材料也受影响",
+          "url": "https://www.cls.cn/detail/2327729",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时31分]"
         }
       ]
     }
