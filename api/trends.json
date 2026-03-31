@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T07:28:59.786611+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-03-31T09:25:02.147259+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 76,
+      "match_count": 81,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
         },
         {
           "title": "伊朗称美国提的建议非常极端且不合理，美伊双方目前的核心矛盾究竟是什么？双方和谈的可能性有多大？",
@@ -46,11 +47,34 @@
           "url": "https://news.ifeng.com/c/8rvgSIijKUQ",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时34分 ~ 07时28分]"
+          "appearance_count": 7,
+          "time_info": "[05时34分 ~ 09时25分]"
+        },
+        {
+          "title": "美以伊战争丨美媒爆料：海湾国家游说美国继续打伊朗",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "鲁比奥放话：美国不会允许伊朗向通过霍尔木兹海峡的船舶收费",
+          "url": "https://news.ifeng.com/c/8rvNeKm998d",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
@@ -70,7 +94,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -245,6 +269,18 @@
           "time_info": "[05时35分 ~ 06时27分]"
         },
         {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2329789",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 09时25分]"
+        },
+        {
           "title": "WTI 原油逼近 100 美元，美国钻井商却反其道而行之削减钻机数量，这背后是出于哪些考量？",
           "url": "https://www.zhihu.com/question/2021154400396218975",
           "source": "知乎",
@@ -303,6 +339,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时02分]"
+        },
+        {
+          "title": "美国考虑削减医疗支出，补贴伊朗战争开销",
+          "url": "https://news.ifeng.com/c/8rw4Kl0DGBM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "摩根士丹利旗下E*Trade洽谈在SpaceX美国IPO中主导散户部分的承销。（路透）",
@@ -473,6 +520,17 @@
           "time_info": "[04时37分 ~ 05时35分]"
         },
         {
+          "title": "伊拉克一所美国大学遭袭",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E4%B8%80%E6%89%80%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E9%81%AD%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
           "title": "美国至3月30日6个月国债竞拍-投标倍数 2.83，前值3.03。",
           "url": "https://flash.jin10.com/detail/20260330233204139801",
           "source": "金十数据",
@@ -534,18 +592,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2329789",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -655,7 +702,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -699,7 +746,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -732,7 +779,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -787,7 +834,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -836,6 +883,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "GasBuddy：美国汽油平均零售价格自2022年8月以来首次突破每加仑4美元大关。",
+          "url": "https://wallstreetcn.com/livenews/3079669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "美国白宫：美国不支持伊朗对霍尔木兹海峡征收过路费。",
           "url": "https://flash.jin10.com/detail/20260331014148415800",
           "source": "金十数据",
@@ -875,15 +933,324 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
       ]
     },
     {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "中方反制日本国会众议员古屋圭司",
+          "url": "https://www.douyin.com/hot/2448381",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2,
+            4,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
+        },
+        {
+          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860602",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
+        },
+        {
+          "title": "F1日本站赛后报告",
+          "url": "https://search.bilibili.com/all?keyword=F1%E6%97%A5%E6%9C%AC%E7%AB%99%E8%B5%9B%E5%90%8E%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时28分]"
+        },
+        {
+          "title": "朝鲜重启旅游指日可待？",
+          "url": "https://news.ifeng.com/c/8rv2swKLEHW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 07时28分]"
+        },
+        {
+          "title": "日本民众：不要挑起战争的首相",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%8C%91%E8%B5%B7%E6%88%98%E4%BA%89%E7%9A%84%E9%A6%96%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            25,
+            13,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时47分 ~ 07时28分]"
+        },
+        {
+          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
+          "url": "https://news.ifeng.com/c/8ruYQEhDxBO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
+        },
+        {
+          "title": "安东内利日本站再夺魁",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E6%97%A5%E6%9C%AC%E7%AB%99%E5%86%8D%E5%A4%BA%E9%AD%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
+        },
+        {
+          "title": "韩国财长： 已额外获得可供应一个月的尿素储备。",
+          "url": "https://wallstreetcn.com/livenews/3079694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "日本国债早盘走高",
+          "url": "https://flash.jin10.com/detail/20260331091221375800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "日本30年期国债收益率下行8个基点至3.71%。 日本40年期国债收益率下行8个基点至3.95%。",
+          "url": "https://wallstreetcn.com/livenews/3079691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "韩国总统李在明：向可再生能源转型比以往任何时候都更加紧迫。",
+          "url": "https://flash.jin10.com/detail/20260331090916903800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "干预与加息都失灵，日本还能靠什么挽救日元？",
+          "url": "https://flash.jin10.com/detail/20260330233600402800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时02分]"
+        },
+        {
+          "title": "韩国考虑35年来首次实施公众出行限行措施",
+          "url": "https://wallstreetcn.com/livenews/3079551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时37分]"
+        },
+        {
+          "title": "韩国2月工业产出年率 -2.2%，预期6%，前值由7.10%修正为6.8%。",
+          "url": "https://flash.jin10.com/detail/20260331070002715800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "韩国总统李在明： 需要采取更积极的措施来应对能源危机。 呼吁公众参与节能减排。 向可再生能源的转型比以往任何时候都更加紧迫。 在可再生能源丰富的地区，应加大对电动汽车的支持力度。",
+          "url": "https://wallstreetcn.com/livenews/3079689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "韩国2月季调后工业产出月率 5.4%，预期1.8%，前值由-1.90%修正为-2.4%。",
+          "url": "https://flash.jin10.com/detail/20260331070002234800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "日本首相高市高市早苗：将考虑对向日本提供重要物资的国家提供支持和进行合作。 已在经济产业省下设工作组，以确保重要物资供应。 医疗必需品绝不能短缺。",
+          "url": "https://wallstreetcn.com/livenews/3079688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "韩国总统李在明：敦促民众参与节油。",
+          "url": "https://flash.jin10.com/detail/20260331090751978800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "韩国总统李在明：需对能源危机作出更积极的回应。",
+          "url": "https://flash.jin10.com/detail/20260331090432168800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "马斯克：特斯拉(TSLA.O)正在日本进行大规模投资，包括服务设施和超级充电站的建设。特斯拉的许多零部件都是在日本制造的。在过去的20年里，松下一直是我们的最大战略供应商。",
+          "url": "https://flash.jin10.com/detail/20260331000652266800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：无法对具体的汇率水平发表评论。 不仅是石油期货市场，外汇市场也受到了投机行为的推动。 将随时在各方面做出回应，并时刻关注外汇波动对民众生活的影响。 日元兑欧元已略有回升，但在G7国家中，日本对中东地区的依赖程度最高。",
+          "url": "https://wallstreetcn.com/livenews/3079676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "韩国央行行长提名人申铉松：韩元流动性良好，影响韩元的外部因素已显著改善，现在无需对韩元汇率过于担心，关键在于汇率能够吸收多少风险。",
+          "url": "https://wallstreetcn.com/livenews/3079672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "韩国央行行长提名人申铉松：中东危机带来的通胀压力有限。",
+          "url": "https://flash.jin10.com/detail/20260331085223047800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：准备在外汇市场采取一切必要措施。",
+          "url": "https://flash.jin10.com/detail/20260331084936416800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：外汇走势系投机所致。",
+          "url": "https://flash.jin10.com/detail/20260331084934309800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "日本5年期国债收益率上行1个基点至1.790%。",
+          "url": "https://wallstreetcn.com/livenews/3079662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
@@ -893,8 +1260,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
         },
         {
           "title": "中国首款7吨级大型运输无人机即将首飞",
@@ -904,8 +1271,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
         },
         {
           "title": "独家|中国商业航天重大突破！力箭二号首飞成功 成本直追SpaceX",
@@ -1002,8 +1369,23 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
+        },
+        {
+          "title": "4月国产游戏大作前瞻",
+          "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E5%A4%A7%E4%BD%9C%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            18,
+            15,
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时49分 ~ 09时25分]"
         },
         {
           "title": "中国经济硬核数据上新",
@@ -1017,18 +1399,15 @@
           "time_info": "[00时01分 ~ 01时02分]"
         },
         {
-          "title": "4月国产游戏大作前瞻",
-          "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E5%A4%A7%E4%BD%9C%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
+          "title": "韩国向中国14个城市发放十年签",
+          "url": "https://www.toutiao.com/trending/7621978651006353427/",
+          "source": "今日头条",
           "ranks": [
-            29,
-            18,
-            15,
-            22
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时49分 ~ 07时28分]"
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "五大金融机构首席经济学家热议经济趋势：一季度中国GDP增速有望达到5%左右",
@@ -1037,7 +1416,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1052,6 +1431,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "预计2035年中国不孕不育夫妇7440万对",
+          "url": "https://www.toutiao.com/trending/7622737197472464959/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "中国U16女足战胜英格兰",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDU16%E5%A5%B3%E8%B6%B3%E6%88%98%E8%83%9C%E8%8B%B1%E6%A0%BC%E5%85%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.36%，报6569.63点。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.75%，中概互联网指数ETF（KWEB）收跌0.47%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
@@ -1077,6 +1478,28 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "日方称愿缓和与中国的外交紧张关系，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32862166",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "他让世界记住了中国摩托",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%96%E8%AE%A9%E4%B8%96%E7%95%8C%E8%AE%B0%E4%BD%8F%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%91%A9%E6%89%98",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
           "title": "国产摩托车夺冠背后的工业奇迹",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%91%A9%E6%89%98%E8%BD%A6%E5%A4%BA%E5%86%A0%E8%83%8C%E5%90%8E%E7%9A%84%E5%B7%A5%E4%B8%9A%E5%A5%87%E8%BF%B9",
           "source": "bilibili 热搜",
@@ -1088,6 +1511,28 @@
           "time_info": "[04时36分 ~ 04时37分]"
         },
         {
+          "title": "富时中国A50指数期货盘初跌0.05%，上一个交易日夜盘收跌0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3079684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "富时中国A50指数期货开跌0.05%。",
+          "url": "https://flash.jin10.com/detail/20260331090014355800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "中国—尼加拉瓜自贸协定联合委员会举行第一次会议",
           "url": "https://wallstreetcn.com/livenews/3079478",
           "source": "华尔街见闻-快讯",
@@ -1097,12 +1542,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "中信证券：价格上涨+国产突破，碳纤维或迎机遇",
+          "url": "https://wallstreetcn.com/livenews/3079665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "西班牙：禁止参与伊朗战争的美以军机通行",
@@ -1110,11 +1566,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时47分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[02时47分 ~ 09时25分]"
         },
         {
           "title": "西班牙对袭击伊朗军机关闭领空",
@@ -1123,11 +1580,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
         },
         {
           "title": "西班牙对参与美伊战事的军机关闭领空",
@@ -1139,6 +1597,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 07时28分]"
+        },
+        {
+          "title": "德国2-1加纳",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD2-1%E5%8A%A0%E7%BA%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "法国3-1哥伦比亚",
@@ -1158,7 +1627,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1169,7 +1638,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1270,6 +1739,17 @@
           "time_info": "[02时47分 ~ 03时50分]"
         },
         {
+          "title": "法国青年马库斯称自己不是犹太人",
+          "url": "https://www.toutiao.com/trending/7622717269382561833/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
           "title": "英国海上贸易行动办公室：已收到一起发生在阿联酋迪拜西北31海里处的事件报告。一个不明飞行物击中了该油轮的右舷，导致船舶起火。所有船员均已确认安全并处于可控状态。",
           "url": "https://flash.jin10.com/detail/20260331054225603800",
           "source": "金十数据",
@@ -1287,9 +1767,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "欧洲股指期货转涨，欧洲斯托克50指数期货涨0.05%，德国DAX指数期货涨0.15%。",
+          "url": "https://flash.jin10.com/detail/20260331090247094800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "英国金融行为监管局：得出结论认为，汽车金融补救计划对新车金融市场的影响有限。",
@@ -1305,294 +1796,8 @@
       ]
     },
     {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "中方反制日本国会众议员古屋圭司",
-          "url": "https://www.douyin.com/hot/2448381",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860602",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "F1日本站赛后报告",
-          "url": "https://search.bilibili.com/all?keyword=F1%E6%97%A5%E6%9C%AC%E7%AB%99%E8%B5%9B%E5%90%8E%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "朝鲜重启旅游指日可待？",
-          "url": "https://news.ifeng.com/c/8rv2swKLEHW",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "日本民众：不要挑起战争的首相",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%8C%91%E8%B5%B7%E6%88%98%E4%BA%89%E7%9A%84%E9%A6%96%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            25,
-            13,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时47分 ~ 07时28分]"
-        },
-        {
-          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
-          "url": "https://news.ifeng.com/c/8ruYQEhDxBO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "安东内利日本站再夺魁",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E6%97%A5%E6%9C%AC%E7%AB%99%E5%86%8D%E5%A4%BA%E9%AD%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "干预与加息都失灵，日本还能靠什么挽救日元？",
-          "url": "https://flash.jin10.com/detail/20260330233600402800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "韩国考虑35年来首次实施公众出行限行措施",
-          "url": "https://wallstreetcn.com/livenews/3079551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时37分]"
-        },
-        {
-          "title": "韩国2月工业产出年率 -2.2%，预期6%，前值由7.10%修正为6.8%。",
-          "url": "https://flash.jin10.com/detail/20260331070002715800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "韩国2月季调后工业产出月率 5.4%，预期1.8%，前值由-1.90%修正为-2.4%。",
-          "url": "https://flash.jin10.com/detail/20260331070002234800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "马斯克：特斯拉(TSLA.O)正在日本进行大规模投资，包括服务设施和超级充电站的建设。特斯拉的许多零部件都是在日本制造的。在过去的20年里，松下一直是我们的最大战略供应商。",
-          "url": "https://flash.jin10.com/detail/20260331000652266800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时34分 ~ 06时27分]"
-        },
-        {
-          "title": "外资买成芯片设计ETF第一大持有人，年内上市ETF首现",
-          "url": "https://www.cls.cn/detail/2329225",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时37分]"
-        },
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3079569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时27分]"
-        },
-        {
-          "title": "半导体指数跌超4%，相干公司跌约10%，美光跌超8%",
-          "url": "https://wallstreetcn.com/livenews/3079527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 03时50分]"
-        },
-        {
-          "title": "纳指科技股指数收跌约1.3%，半导体指数跌超4.2%，小盘股指跌超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3079560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时27分]"
-        },
-        {
-          "title": "标普500指数收跌25.13点，跌幅0.39%，报6343.72点。 道琼斯工业平均指数收涨49.50点，涨幅0.11%，报45216.14点。 纳斯达克综合指数（纳指）收跌153.716点，跌幅0.73%，报20794.641点。 纳斯达克100指数收跌179.394点，跌幅0.78%，报22953.378点。 费城半导体指数收跌4.23%，报7142.334点。 费城证交所KBW银行指数收涨0.19%，报149.04点。 道琼斯KBW地区银行指数收涨0.33%，报123.52点。 纳斯达克生物科技指数收涨0.63%，报5584.44点。",
-          "url": "https://wallstreetcn.com/livenews/3079560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
-          "url": "https://wallstreetcn.com/livenews/3079581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "中东冲突震动全球半导体供应链，氦气现货暴涨超 50%，为什么会这样？氦气涨价，会影响什么？",
-          "url": "https://www.zhihu.com/question/2021584407622940446",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "涨价周期开启，半导体产业迎量价齐升新阶段",
-          "url": "https://wallstreetcn.com/livenews/3079605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "据港交所文件：中微半导体（ 深圳）股份有限公司向港交所提交上市申请书。",
-          "url": "https://wallstreetcn.com/livenews/3079471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
@@ -1601,11 +1806,12 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
         },
         {
           "title": "美联储威廉姆斯：能源价格的经济影响前景取决于市场定价水平。",
@@ -1693,13 +1899,24 @@
           "time_info": "[04时37分 ~ 06时27分]"
         },
         {
+          "title": "G7准备采取一切必要措施 以维护能源市场稳定",
+          "url": "https://www.cls.cn/detail/2329736",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
           "title": "锚定新能源和算力两大赛道，50亿元级项目屡见不鲜",
           "url": "https://wallstreetcn.com/livenews/3079608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1721,15 +1938,149 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
       ]
     },
     {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 06时27分]"
+        },
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 09时25分]"
+        },
+        {
+          "title": "外资买成芯片设计ETF第一大持有人，年内上市ETF首现",
+          "url": "https://www.cls.cn/detail/2329225",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 04时37分]"
+        },
+        {
+          "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3079569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时27分]"
+        },
+        {
+          "title": "中东冲突震动全球半导体供应链，氦气现货暴涨超 50%，为什么会这样？氦气涨价，会影响什么？",
+          "url": "https://www.zhihu.com/question/2021584407622940446",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 09时25分]"
+        },
+        {
+          "title": "半导体指数跌超4%，相干公司跌约10%，美光跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3079527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时50分]"
+        },
+        {
+          "title": "纳指科技股指数收跌约1.3%，半导体指数跌超4.2%，小盘股指跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3079560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时27分]"
+        },
+        {
+          "title": "标普500指数收跌25.13点，跌幅0.39%，报6343.72点。 道琼斯工业平均指数收涨49.50点，涨幅0.11%，报45216.14点。 纳斯达克综合指数（纳指）收跌153.716点，跌幅0.73%，报20794.641点。 纳斯达克100指数收跌179.394点，跌幅0.78%，报22953.378点。 费城半导体指数收跌4.23%，报7142.334点。 费城证交所KBW银行指数收涨0.19%，报149.04点。 道琼斯KBW地区银行指数收涨0.33%，报123.52点。 纳斯达克生物科技指数收涨0.63%，报5584.44点。",
+          "url": "https://wallstreetcn.com/livenews/3079560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
+          "url": "https://wallstreetcn.com/livenews/3079581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "涨价周期开启，半导体产业迎量价齐升新阶段",
+          "url": "https://wallstreetcn.com/livenews/3079605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "据港交所文件：中微半导体（ 深圳）股份有限公司向港交所提交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3079471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
@@ -1765,6 +2116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "两部门：推动人工智能、脑机接口等与医疗装备融合创新",
+          "url": "https://flash.jin10.com/detail/20260331090905354800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
@@ -1813,7 +2175,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1843,11 +2205,12 @@
             13,
             12,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 09时25分]"
         },
         {
           "title": "具身智能领域首份行业标准发布",
