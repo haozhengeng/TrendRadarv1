@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T17:01:59.994320+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-04-02T18:04:24.761391+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 182,
+      "match_count": 187,
       "titles": [
         {
           "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
@@ -27,8 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 17时01分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 18时04分]"
+        },
+        {
+          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
+          "url": "https://wallstreetcn.com/articles/3769031",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 18时04分]"
         },
         {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时42分 ~ 09时21分]"
-        },
-        {
-          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
-          "url": "https://wallstreetcn.com/articles/3769031",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 17时01分]"
         },
         {
           "title": "WTI日内涨近1%，报道称阿联酋准备帮助美国武力打开霍尔木兹海峡",
@@ -151,8 +151,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 17时01分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 18时04分]"
         },
         {
           "title": "美国实施载人绕月飞行任务",
@@ -161,11 +161,43 @@
           "ranks": [
             1,
             13,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 17时01分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 18时04分]"
+        },
+        {
+          "title": "解读美国载人绕月任务背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 18时04分]"
+        },
+        {
+          "title": "伊朗总统发表致美国人民公开信",
+          "url": "https://www.toutiao.com/trending/7623926704578399782/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            12,
+            14,
+            13,
+            17,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 18时04分]"
         },
         {
           "title": "外交部回应「美国颁发在委投资矿产通用许可证将中俄排除在外」，称坚决反对，如何看待美方此举？",
@@ -180,19 +212,6 @@
           "time_info": "[12时22分 ~ 14时08分]"
         },
         {
-          "title": "解读美国载人绕月任务背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 17时01分]"
-        },
-        {
           "title": "美国执行载人绕月任务火箭发射升空",
           "url": "https://www.toutiao.com/trending/7623332124256829494/",
           "source": "今日头条",
@@ -205,22 +224,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时29分 ~ 16时01分]"
-        },
-        {
-          "title": "伊朗总统发表致美国人民公开信",
-          "url": "https://www.toutiao.com/trending/7623926704578399782/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            12,
-            14,
-            13,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 17时01分]"
         },
         {
           "title": "美国老百姓怎么看张雪机车夺冠",
@@ -465,11 +468,12 @@
           "source": "微博",
           "ranks": [
             2,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 17时01分]"
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时04分]"
         },
         {
           "title": "【伊朗最高领袖发表致辞，缅怀冲突死难者】4月1日，伊朗最高领袖穆杰塔巴·哈梅内伊就当天的伊朗伊斯兰共和国日暨自然日发表书面致辞，呼吁伊朗人民植树，缅怀在美以伊冲突中的死难者。穆杰塔巴表示，美国和以色列对伊朗的军事打击肆无忌惮，毫无道德底线，造成人员伤亡并严重破坏了伊朗的自然环境。他呼吁人民植树，播撒希望的种子，他称此举象征着发展、希望以及伊朗人民对敌人的回应。（央视）",
@@ -1216,6 +1220,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "美国AI又被电力设备“卡脖子”：今年近半数据中心受阻 开发商盯上二手变压器",
+          "url": "https://www.cls.cn/detail/2333025",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "美国50多年来首次载人飞向月球",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD50%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E9%A3%9E%E5%90%91%E6%9C%88%E7%90%83%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -1266,7 +1281,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -1324,6 +1339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普卖油表态遭分析师反驳：美国并没有那么多航空燃油！",
+          "url": "https://www.cls.cn/detail/2333042",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "加拿大央行会议纪要：目前评估伊朗战争对经济前景的影响为时过早。",
@@ -1478,6 +1504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "美国加州发生4.9级地震",
+          "url": "https://wallstreetcn.com/livenews/3081485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "伊朗官员Tabatabai：伊朗总统佩泽希齐扬给美国人民的重要信件将在几小时内发布。",
@@ -2052,6 +2089,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "美国银行全球研究部预计，英国央行将在2027年4月、7月和11月分别降息25个基点。",
+          "url": "https://flash.jin10.com/detail/20260402171213791800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "加拿大总理卡尼表示，他与特朗普进行了电话交谈，并讨论了中东冲突。",
           "url": "https://wallstreetcn.com/livenews/3081179",
           "source": "华尔街见闻-快讯",
@@ -2085,6 +2133,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "美国银行全球研究部预计，英国央行将在6月和7月各加息25个基点，而此前的预测是今年6月和9月降息。",
+          "url": "https://flash.jin10.com/detail/20260402171151086800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "市场消息：美国汽车行业组织呼吁废除美国联邦燃油税，并以车辆使用费取而代之，用于道路维修资金。",
           "url": "https://flash.jin10.com/detail/20260402051214401800",
           "source": "金十数据",
@@ -2110,7 +2169,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "“中国床垫第一股”被立案",
@@ -2235,17 +2294,31 @@
           "time_info": "[00时02分 ~ 14时08分]"
         },
         {
+          "title": "经济日报头版头条：驳“中国经济失速论”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32876233",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 18时04分]"
+        },
+        {
           "title": "张雪 中国摩托的爽文",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%20%E4%B8%AD%E5%9B%BD%E6%91%A9%E6%89%98%E7%9A%84%E7%88%BD%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
             2,
             1,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 18时04分]"
         },
         {
           "title": "中国国民党主席再度访陆“台独”破防",
@@ -2338,16 +2411,15 @@
           "time_info": "16时01分"
         },
         {
-          "title": "经济日报头版头条：驳“中国经济失速论”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32876233",
-          "source": "澎湃新闻",
+          "title": "南向资金今日大幅净买入198.28亿元。港股通（沪）方面，盈富基金、恒生中国企业分别获净买入67.68亿港元、13.44亿港元；中国海洋石油净卖出额居首，金额为13.66亿港元；港股通（深）方面，盈富基金、恒生中国企业分别获净买入17.78亿港元、12.5亿港元；阿里巴巴-W净卖出额居首，金额为2.59亿港元。",
+          "url": "https://flash.jin10.com/detail/20260402173122878800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 17时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "中国鱼子酱占全球产量 60%，松露、蓝莓等也逐渐实现国产化，中国为啥总能把「餐桌贵族」打成「土特产」？",
@@ -2374,6 +2446,18 @@
           "time_info": "[16时01分 ~ 17时01分]"
         },
         {
+          "title": "张雪机车冠军车手期待来中国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%86%A0%E5%86%9B%E8%BD%A6%E6%89%8B%E6%9C%9F%E5%BE%85%E6%9D%A5%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 18时04分]"
+        },
+        {
           "title": "市场消息：Stellantis(STLA.N)正洽谈在加拿大一家闲置工厂生产中国电动汽车。",
           "url": "https://flash.jin10.com/detail/20260402023450326800",
           "source": "金十数据",
@@ -2384,6 +2468,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时53分]"
+        },
+        {
+          "title": "力箭二号打响头炮，2026中国商业航天进入“密集发射期”⎜观察",
+          "url": "https://www.cls.cn/detail/2333058",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时04分]"
+        },
+        {
+          "title": "韩国向中国 14 城发放十年签，被调侃「不如去延吉」，能撬动周末赴韩旅行潮吗？韩国旅游最吸引你的是什么？",
+          "url": "https://www.zhihu.com/question/2022315114452316825",
+          "source": "知乎",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时04分]"
         },
         {
           "title": "中东股市收盘播报｜周三（4月1日），沙特证交所全股指数收涨0.23%，沙特阿美（ARAMCO.AB）收涨0.58%，在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.09%。 卡塔尔证交所指数收涨0.81%，科威特证交所超级市场价格回报指数收涨0.84%。 埃及证交所EGX 30指数收涨3.11%，埃及镑兑美元收涨1.71%，报53.6272埃及镑，3月31日曾跌至54.8317埃及镑创历史新低。 迪拜金融市场综合指数收涨2.03%，阿布扎比证券市场综合指数收涨1.35%。",
@@ -2398,30 +2507,6 @@
           "time_info": "[02时47分 ~ 03时53分]"
         },
         {
-          "title": "力箭二号打响头炮，2026中国商业航天进入“密集发射期”⎜观察",
-          "url": "https://www.cls.cn/detail/2333058",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 17时01分]"
-        },
-        {
-          "title": "韩国向中国 14 城发放十年签，被调侃「不如去延吉」，能撬动周末赴韩旅行潮吗？韩国旅游最吸引你的是什么？",
-          "url": "https://www.zhihu.com/question/2022315114452316825",
-          "source": "知乎",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 17时01分]"
-        },
-        {
           "title": "一中国公民涉及超7亿房产在英被冻结",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B6%89%E5%8F%8A%E8%B6%857%E4%BA%BF%E6%88%BF%E4%BA%A7%E5%9C%A8%E8%8B%B1%E8%A2%AB%E5%86%BB%E7%BB%93",
           "source": "百度热搜",
@@ -2433,17 +2518,6 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "张雪机车冠军车手期待来中国",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%86%A0%E5%86%9B%E8%BD%A6%E6%89%8B%E6%9C%9F%E5%BE%85%E6%9D%A5%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
           "title": "中国地震台网自动测定：04月02日15时39分在新疆吐鲁番市托克逊县附近（北纬43.21度，东经87.73度）发生4.7级左右地震，最终结果以正式速报为准。",
           "url": "https://flash.jin10.com/detail/20260402154249869800",
           "source": "金十数据",
@@ -2453,6 +2527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
+        },
+        {
+          "title": "乘联分会：2026年3月全国乘用车厂商新能源批发预估112万辆，同比去年持平，环比2月增长55%。3月特斯拉中国批发销量85,670辆。",
+          "url": "https://wallstreetcn.com/livenews/3081496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "中国地震台网正式测定：04月01日23时25分在西藏日喀则市仲巴县（北纬30.38度，东经84.33度）发生3.2级地震，震源深度10千米。",
@@ -2477,6 +2562,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "伊朗已向中国寻求安全保障？外交部回应",
+          "url": "https://www.cls.cn/detail/2333337",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "中国地震台网自动测定：04月02日06时48分在印尼马鲁古海峡附近（北纬1.21度，东经126.32度）发生7.5级左右地震，最终结果以正式速报为准。",
           "url": "https://flash.jin10.com/detail/20260402065637825800",
           "source": "金十数据",
@@ -2486,6 +2582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "中国央行：3月公开市场国债买卖净投放500亿元",
+          "url": "https://wallstreetcn.com/livenews/3081491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "中国台湾证交所加权股价指数收低1.8%报32,572.43点。",
@@ -2549,7 +2656,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -2563,6 +2670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
+        },
+        {
+          "title": "中国中冶：已回购5027.75万股A股股份、1963.70万股H股股份",
+          "url": "https://flash.jin10.com/detail/20260402171518808800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "富时中国A50指数期货开涨0.11%。",
@@ -2579,7 +2697,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "日本核原料能造5500枚核弹头",
@@ -2640,11 +2758,12 @@
             12,
             18,
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 17时01分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 18时04分]"
         },
         {
           "title": "军报：日本具备制造核武器条件",
@@ -2658,8 +2777,22 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 18时04分]"
+        },
+        {
+          "title": "专家：日本右翼的刀已经亮出来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E7%9A%84%E5%88%80%E5%B7%B2%E7%BB%8F%E4%BA%AE%E5%87%BA%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            1,
+            21,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时21分 ~ 17时01分]"
+          "time_info": "[12时22分 ~ 18时04分]"
         },
         {
           "title": "日本终于露出獠牙",
@@ -2674,17 +2807,17 @@
           "time_info": "[09时21分 ~ 14时08分]"
         },
         {
-          "title": "专家：日本右翼的刀已经亮出来了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E7%9A%84%E5%88%80%E5%B7%B2%E7%BB%8F%E4%BA%AE%E5%87%BA%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "媒体披露日本已具备制造核武器的几乎所有物质和技术条件，日本会打破「无核三原则」吗？若拥核意味着什么？",
+          "url": "https://www.zhihu.com/question/2022977025393124304",
+          "source": "知乎",
           "ranks": [
-            19,
-            1,
-            21
+            4,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 17时01分]"
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时04分]"
         },
         {
           "title": "2年期日本国债收益率上升1.0个基点，至1.355%。20年期日本国债收益率上升1个基点，至3.205%。",
@@ -2696,17 +2829,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "日本决定加入英国主导的霍尔木兹海峡问题线上会谈。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3081465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
         },
         {
           "title": "解放军报披露日本已具备拥核能力",
@@ -2735,16 +2857,16 @@
           "time_info": "[04时36分 ~ 06时29分]"
         },
         {
-          "title": "媒体披露日本已具备制造核武器的几乎所有物质和技术条件，日本会打破「无核三原则」吗？若拥核意味着什么？",
-          "url": "https://www.zhihu.com/question/2022977025393124304",
-          "source": "知乎",
+          "title": "日本决定加入英国主导的霍尔木兹海峡问题线上会谈。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3081465",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            8
+            2,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时01分 ~ 17时01分]"
+          "time_info": "[17时01分 ~ 18时04分]"
         },
         {
           "title": "拉爆日本摩托的张雪赢下三场豪赌",
@@ -2811,6 +2933,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "俄罗斯重新将28名日本人列为战犯",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%87%8D%E6%96%B0%E5%B0%8628%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%88%97%E4%B8%BA%E6%88%98%E7%8A%AF",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "20年期日本国债收益率上升7.0个基点，至3.265%。",
@@ -3025,7 +3158,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "国乒男线对德国3连败",
@@ -3064,8 +3197,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 17时01分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 18时04分]"
         },
         {
           "title": "ICE数据显示，荷兰批发市场近月天然气价格下跌6.24%，报47.59欧元/兆瓦时，英国天然气期货近月合约价格下跌6.07%，报120.33便士/撒姆。",
@@ -3090,17 +3223,6 @@
           "time_info": "09时21分"
         },
         {
-          "title": "英国央行调查：预计未来12个月物价涨幅升至3.7%，此前预计为3.4%。 预计3月份CPI增速从3%升至3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3081462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
           "title": "德国汉莎航空首席执行官：今年超过80%的燃油需求已通过套期保值合约对冲油价波动风险。",
           "url": "https://flash.jin10.com/detail/20260401234412463800",
           "source": "金十数据",
@@ -3122,6 +3244,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时29分]"
+        },
+        {
+          "title": "英国央行调查：预计未来12个月物价涨幅升至3.7%，此前预计为3.4%。 预计3月份CPI增速从3%升至3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3081462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 18时04分]"
+        },
+        {
+          "title": "意大利、挪威、西班牙等15国外长发表联合声明",
+          "url": "https://news.ifeng.com/c/8rzXs4rZ381",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时04分]"
         },
         {
           "title": "泽林斯基：我们本该把握机会赢下瑞典",
@@ -3148,17 +3293,6 @@
           "time_info": "[00时02分 ~ 03时53分]"
         },
         {
-          "title": "意大利、挪威、西班牙等15国外长发表联合声明",
-          "url": "https://news.ifeng.com/c/8rzXs4rZ381",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 17时01分]"
-        },
-        {
           "title": "德国汉莎航空首席执行官：航空燃料供应短缺很可能首先在欧洲以外地区显现。",
           "url": "https://flash.jin10.com/detail/20260401234249922800",
           "source": "金十数据",
@@ -3176,7 +3310,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3209,7 +3343,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3223,6 +3357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "抄底时刻到了？摩根大通资管逆势扫货美英国债！",
+          "url": "https://flash.jin10.com/detail/20260402172627103800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "德国DAX 30指数初步收涨2.66%，报23282.96点。 法国股指初步收涨2.03%，意大利股指初步收涨3.04%、银行指数涨4.40%，英国股指初步收涨1.63%。",
@@ -3242,7 +3387,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3275,7 +3420,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3308,7 +3453,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3319,7 +3464,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3330,7 +3475,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3352,7 +3497,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3363,9 +3508,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        },
+        {
+          "title": "美银全球研究：预计英国央行将在2026年6月和7月各加息25个基点，而此前预期为今年6月和9月降息。",
+          "url": "https://wallstreetcn.com/livenews/3081476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "英国政府初步数据显示，2025年英国温室气体排放量下降了2%。",
@@ -3374,7 +3530,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3437,7 +3593,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "李强：持续扩大绿电供给，着力推进新型电网建设，加快能源结构调整优化",
@@ -3473,6 +3629,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 04时36分]"
+        },
+        {
+          "title": "曝海湾国家考虑新建输油管道绕开霍尔木兹海峡，可行性有多大？能在短期内解决全球能源危机问题吗？",
+          "url": "https://www.zhihu.com/question/2023015996944904385",
+          "source": "知乎",
+          "ranks": [
+            18,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 18时04分]"
         },
         {
           "title": "氢能源能成为世界主流能源吗？",
@@ -3537,19 +3706,6 @@
           "time_info": "[04时36分 ~ 05时35分]"
         },
         {
-          "title": "曝海湾国家考虑新建输油管道绕开霍尔木兹海峡，可行性有多大？能在短期内解决全球能源危机问题吗？",
-          "url": "https://www.zhihu.com/question/2023015996944904385",
-          "source": "知乎",
-          "ranks": [
-            18,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 17时01分]"
-        },
-        {
           "title": "摩洛哥能源部表示，该国柴油库存可维持51天，天然气和煤炭供应已确保至6月底。",
           "url": "https://flash.jin10.com/detail/20260402154338203800",
           "source": "金十数据",
@@ -3570,6 +3726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
+        },
+        {
+          "title": "上期能源对部分客户采取限制开仓监管措施",
+          "url": "https://flash.jin10.com/detail/20260402172619985800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "新西兰总理卢克森宣布内阁重组：西门·布朗将接管能源事务；克里斯·比肖普将成为总检察长。",
@@ -3600,7 +3767,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3611,7 +3778,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3622,7 +3789,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3641,8 +3808,19 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "印度对美元兑卢比远期实施20%波动性保证金 以遏制波动",
+          "url": "https://wallstreetcn.com/livenews/3081511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
         {
           "title": "星展银行首席经济学家：印度在贸易和能源领域均易受战争影响。",
           "url": "https://flash.jin10.com/detail/20260402060135878800",
@@ -3722,7 +3900,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -3785,7 +3963,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股大类资产类ETF，能源业ETF跌超3.7%",
@@ -3820,6 +3998,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时29分]"
+        },
+        {
+          "title": "依法严惩芯片制造等领域侵权犯罪 检察机关这样服务新质生产力发展",
+          "url": "https://wallstreetcn.com/livenews/3081477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "标普500指数涨幅扩大至1%，工业板块目前涨2.1%，电信、科技、可选消费、原材料板块至少涨1.3%，能源板块重挫3.8%。 道指目前涨418点、涨幅0.9%，纳指涨314点、涨幅1.4%，生物科技指数涨1%，半导体指数涨3.6%，银行指数涨1.7%，罗素2000指数也涨1.3%。",
