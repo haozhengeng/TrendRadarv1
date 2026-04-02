@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T09:21:35.538369+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-04-02T12:22:56.079061+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 161,
+      "match_count": 169,
       "titles": [
         {
           "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
@@ -19,6 +19,20 @@
           "time_info": "[00时02分 ~ 05时35分]"
         },
         {
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 12时22分]"
+        },
+        {
           "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
           "url": "https://wallstreetcn.com/articles/3768995",
           "source": "华尔街见闻",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时42分 ~ 09时21分]"
-        },
-        {
-          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 09时21分]"
         },
         {
           "title": "WTI日内涨近1%，报道称阿联酋准备帮助美国武力打开霍尔木兹海峡",
@@ -64,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 09时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 12时22分]"
         },
         {
           "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
@@ -85,22 +86,36 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 09时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 12时22分]"
         },
         {
-          "title": "美国执行载人绕月任务火箭发射升空",
-          "url": "https://www.toutiao.com/trending/7623332124256829494/",
-          "source": "今日头条",
+          "title": "伊朗总统发表致美国人民的公开信",
+          "url": "https://news.ifeng.com/c/8rywsqCsT2r",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时21分]"
+          "time_info": "[09时21分 ~ 12时22分]"
+        },
+        {
+          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
+          "url": "https://wallstreetcn.com/articles/3769031",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
         },
         {
           "title": "美国老百姓怎么看张雪机车夺冠",
@@ -112,17 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "美国实施载人绕月飞行任务",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%AE%9E%E6%96%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         },
         {
           "title": "市场消息：北约担忧特朗普会削弱联盟，此前美国威胁要退出北约。",
@@ -164,7 +168,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -181,17 +185,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时53分 ~ 06时29分]"
-        },
-        {
-          "title": "伊朗总统发表致美国人民的公开信",
-          "url": "https://news.ifeng.com/c/8rywsqCsT2r",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国航空航天局（NASA）正在排查一个可能导致阿尔忒弥斯二号发射延迟的问题。",
@@ -227,13 +220,25 @@
           "time_info": "01时43分"
         },
         {
+          "title": "【早报】伊朗总统发表致美国人民公开信；宇树科技、中科宇航被抽中现场检查",
+          "url": "https://www.cls.cn/detail/2332729",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 12时22分]"
+        },
+        {
           "title": "美国总统特朗普：打算纠正前任在伊朗问题上所犯的错误。",
           "url": "https://flash.jin10.com/detail/20260402091039406800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -249,26 +254,27 @@
           "time_info": "00时03分"
         },
         {
-          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
-          "url": "https://wallstreetcn.com/articles/3769031",
-          "source": "华尔街见闻",
+          "title": "美国执行载人绕月任务火箭发射升空",
+          "url": "https://www.toutiao.com/trending/7623332124256829494/",
+          "source": "今日头条",
           "ranks": [
-            4
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 12时22分]"
         },
         {
-          "title": "伊朗总统致美国人民公开信",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "外交部回应「美国颁发在委投资矿产通用许可证将中俄排除在外」，称坚决反对，如何看待美方此举？",
+          "url": "https://www.zhihu.com/question/2022701322135171727",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "12时22分"
         },
         {
           "title": "加拿大央行：在3月份货币政策会议上讨论了石油冲击对CPI的长期影响，但现在做出判断还言之过早。 央行官员们同意，他们可以花时间来观察（美国和以色列发动的）伊朗战争将如何演变。 除了伊朗战争，加拿大经济面临的风险还包括美国墨西哥加拿大贸易协议（USMCA）等。",
@@ -299,20 +305,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
         {
-          "title": "解读美国载人绕月任务背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "特朗普称美国不需要霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8rzRllzwjx1",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "12时22分"
         },
         {
           "title": "美国海啸预警系统：印尼、菲律宾和马来西亚沿岸距震中1000公里范围内，可能产生由此次地震引发的海啸波。",
@@ -332,7 +338,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -343,21 +349,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "【早报】伊朗总统发表致美国人民公开信；宇树科技、中科宇航被抽中现场检查",
-          "url": "https://www.cls.cn/detail/2332729",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时21分]"
         },
         {
           "title": "【伊朗最高领袖发表致辞，缅怀冲突死难者】4月1日，伊朗最高领袖穆杰塔巴·哈梅内伊就当天的伊朗伊斯兰共和国日暨自然日发表书面致辞，呼吁伊朗人民植树，缅怀在美以伊冲突中的死难者。穆杰塔巴表示，美国和以色列对伊朗的军事打击肆无忌惮，毫无道德底线，造成人员伤亡并严重破坏了伊朗的自然环境。他呼吁人民植树，播撒希望的种子，他称此举象征着发展、希望以及伊朗人民对敌人的回应。（央视）",
@@ -373,6 +367,19 @@
           "time_info": "[03时53分 ~ 05时35分]"
         },
         {
+          "title": "美国执行载人绕月任务火箭发射升空",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A7%E8%A1%8C%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 12时22分]"
+        },
+        {
           "title": "美国参议院共和党成员们将尝试在周四通过国土安全部（DHS）拨款草案。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3081090",
           "source": "华尔街见闻-快讯",
@@ -384,6 +391,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时35分]"
+        },
+        {
+          "title": "美国实施载人绕月飞行任务",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%AE%9E%E6%96%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗对普通美国人没有敌意。",
@@ -472,18 +491,6 @@
           "time_info": "[06时29分 ~ 07时29分]"
         },
         {
-          "title": "美国执行载人绕月任务火箭发射升空",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A7%E8%A1%8C%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时21分]"
-        },
-        {
           "title": "加拿大央行纪要：官员们将比往常更多地依赖判断力。",
           "url": "https://flash.jin10.com/detail/20260402013210998800",
           "source": "金十数据",
@@ -520,6 +527,18 @@
           "time_info": "[06时28分 ~ 09时21分]"
         },
         {
+          "title": "伊朗总统致美国人民公开信",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
+        },
+        {
           "title": "加拿大央行会议纪要：官员们同意在应对战争后果时应保持政策灵活性。",
           "url": "https://flash.jin10.com/detail/20260402013154349800",
           "source": "金十数据",
@@ -542,6 +561,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时53分]"
+        },
+        {
+          "title": "解读美国载人绕月任务背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
         },
         {
           "title": "加拿大央行会议纪要：可以稍作观望，观察伊朗局势的发展及其对经济前景的影响。",
@@ -605,6 +636,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时29分]"
+        },
+        {
+          "title": "伊朗总统发表致美国人民公开信",
+          "url": "https://www.toutiao.com/trending/7623926704578399782/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 12时22分]"
         },
         {
           "title": "加拿大央行会议纪要：2022年通胀飙升后，公众对通胀的认知仍处于高位，且汽油价格对家庭通胀预期的评估具有重大影响。",
@@ -677,6 +721,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时29分]"
+        },
+        {
+          "title": "美国载人绕月任务火箭发射升空 伊朗总统发表致美国人民公开信 | 环球市场",
+          "url": "https://www.cls.cn/detail/2332719",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
         },
         {
           "title": "加拿大央行会议纪要：鉴于通胀率接近目标水平，且核心指标显示通胀压力有限，管委会认为自身具备一定政策灵活性。",
@@ -763,6 +819,18 @@
           "time_info": "[06时29分 ~ 07时29分]"
         },
         {
+          "title": "直播丨经过多次调整，美国载人绕月飞行任务“阿耳忒弥斯2号”发射升空",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870834",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
+        },
+        {
           "title": "美国国防部：批准向新加坡出售“制导多弹头发射系统”——替代弹头及相关设备，预计交易金额为8314万美元。",
           "url": "https://flash.jin10.com/detail/20260402025210136800",
           "source": "金十数据",
@@ -799,16 +867,16 @@
           "time_info": "[06时29分 ~ 07时29分]"
         },
         {
-          "title": "伊朗总统发表致美国人民公开信",
-          "url": "https://www.toutiao.com/trending/7623926704578399782/",
-          "source": "今日头条",
+          "title": "美国TikTok禁令演不下去了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDTikTok%E7%A6%81%E4%BB%A4%E6%BC%94%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%E5%90%97%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            25,
-            12
+            11,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时21分]"
+          "time_info": "[09时21分 ~ 12时22分]"
         },
         {
           "title": "据ABC新闻：特朗普表示，美国正在与伊朗议会议长对话。",
@@ -857,6 +925,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗总统发表致美国人民公开信",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A1%A8%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
         },
         {
           "title": "美国财政部网站：美国将委内瑞拉临时总统德尔西·罗德里格斯从制裁名单中移除。",
@@ -972,7 +1052,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -988,13 +1068,24 @@
           "time_info": "00时03分"
         },
         {
+          "title": "美国50多年来首次载人飞向月球",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD50%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E9%A3%9E%E5%90%91%E6%9C%88%E7%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "美国总统特朗普：军事行动极大地阻碍了伊朗获得核武器的能力。",
           "url": "https://flash.jin10.com/detail/20260402090957697800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1005,7 +1096,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1016,7 +1107,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1027,7 +1118,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1060,7 +1151,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1082,7 +1173,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1104,7 +1195,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1115,18 +1206,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "美国TikTok禁令演不下去了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDTikTok%E7%A6%81%E4%BB%A4%E6%BC%94%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%E5%90%97%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1159,7 +1239,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1170,7 +1250,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1206,28 +1286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "伊朗总统发表致美国人民公开信",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A1%A8%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "美国载人绕月任务火箭发射升空 伊朗总统发表致美国人民公开信 | 环球市场",
-          "url": "https://www.cls.cn/detail/2332719",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         },
         {
           "title": "消息人士：委内瑞拉代总统罗德里格斯将任命美国境内国营石油公司PDVSA旗下子公司的新董事会。",
@@ -1280,7 +1338,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1294,6 +1352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "美国参议院民主党领袖猛批特朗普讲话",
+          "url": "https://wallstreetcn.com/livenews/3081295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "伊朗官员Tabatabai：伊朗总统佩泽希齐扬给美国人民的重要信件将在几小时内发布。",
@@ -1340,6 +1409,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "美国参议院民主党领袖猛批特朗普讲话",
+          "url": "https://flash.jin10.com/detail/20260402120440899800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "礼来减肥药GLP-1 Foundayo获得美国食品药品管理局（FDA）批准，在减肥药市场打开新的篇章。 礼来制药涨幅迅速扩大至4%，诺和诺德ADR迅速下跌。",
           "url": "https://wallstreetcn.com/livenews/3081008",
           "source": "华尔街见闻-快讯",
@@ -1349,6 +1429,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "继美国土安全部长被解职后，美媒爆料：特朗普曾私下讨论并考虑解雇司法部长",
+          "url": "https://wallstreetcn.com/livenews/3081293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "美国男子两次试图将陌生人推下轻轨",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%A4%E6%AC%A1%E8%AF%95%E5%9B%BE%E5%B0%86%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8E%A8%E4%B8%8B%E8%BD%BB%E8%BD%A8%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "美国至4月1日4个月国债竞拍-得标利率配置百分比 22.85%，前值96.91%。",
@@ -1379,7 +1481,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1445,7 +1547,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1478,7 +1580,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1500,7 +1602,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1527,24 +1629,13 @@
           "time_info": "02时47分"
         },
         {
-          "title": "直播丨经过多次调整，美国载人绕月飞行任务“阿耳忒弥斯2号”发射升空",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32870834",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
           "title": "美国总统特朗普：伊朗海军已不复存在，空军也已沦为废墟。",
           "url": "https://flash.jin10.com/detail/20260402090438852800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1555,7 +1646,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1577,7 +1668,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1621,7 +1712,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1643,7 +1734,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1764,9 +1855,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普：伊朗政权更迭不是美国目标",
+          "url": "https://wallstreetcn.com/livenews/3081278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "市场消息：美国总统特朗普已讨论解雇美国司法部长邦迪。",
@@ -1808,7 +1910,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -1849,7 +1951,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "“中国床垫第一股”被立案",
@@ -1901,6 +2003,21 @@
           "time_info": "[00时02分 ~ 07时29分]"
         },
         {
+          "title": "受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871524",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 12时22分]"
+        },
+        {
           "title": "英国议员怒批政府：自取其辱，回头还得买中国涡轮机",
           "url": "https://news.ifeng.com/c/8ryIDWAsoga",
           "source": "凤凰网",
@@ -1910,20 +2027,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时02分 ~ 07时29分]"
-        },
-        {
-          "title": "受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871524",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 09时21分]"
         },
         {
           "title": "“进口”保健品乱象曝光：销冠“澳洲优思益”实为纯国产",
@@ -1961,22 +2064,12 @@
             30,
             24,
             25,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 09时21分]"
-        },
-        {
-          "title": "中国鱼子酱占全球产量 60%，松露、蓝莓等也逐渐实现国产化，中国为啥总能把「餐桌贵族」打成「土特产」？",
-          "url": "https://www.zhihu.com/question/2022601317479118629",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 12时22分]"
         },
         {
           "title": "中国地震台网正式测定：04月02日06时48分在印尼马鲁古海峡发生7.4级地震，震源深度30千米。",
@@ -1999,6 +2092,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "中国金融时报：央行连续两日地量操作，不改资金面宽松态势",
+          "url": "https://wallstreetcn.com/livenews/3081308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "阿里发布国产最强编程模型Qwen3.6-Plus",
+          "url": "https://wallstreetcn.com/livenews/3081306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "中国鱼子酱占全球产量 60%，松露、蓝莓等也逐渐实现国产化，中国为啥总能把「餐桌贵族」打成「土特产」？",
+          "url": "https://www.zhihu.com/question/2022601317479118629",
+          "source": "知乎",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
         },
         {
           "title": "市场消息：Stellantis(STLA.N)正洽谈在加拿大一家闲置工厂生产中国电动汽车。",
@@ -2075,9 +2202,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "经济日报头版头条：驳“中国经济失速论”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32876233",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "汪海林谈中国娱乐圈去雄性化",
@@ -2086,7 +2224,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -2097,15 +2235,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "中国国民党主席再度访陆“台独”破防",
+          "url": "https://www.toutiao.com/trending/7622910939541258303/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "国乒男线对德国3连败",
@@ -2153,7 +2302,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -2193,6 +2342,18 @@
           "time_info": "[00时02分 ~ 03时53分]"
         },
         {
+          "title": "英国拟联手35国恢复霍尔木兹海峡能源运输",
+          "url": "https://news.ifeng.com/c/8rz2BvqG1xJ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
+        },
+        {
           "title": "德国汉莎航空首席执行官：航空燃料供应短缺很可能首先在欧洲以外地区显现。",
           "url": "https://flash.jin10.com/detail/20260401234249922800",
           "source": "金十数据",
@@ -2204,15 +2365,15 @@
           "time_info": "00时03分"
         },
         {
-          "title": "英国拟联手35国恢复霍尔木兹海峡能源运输",
-          "url": "https://news.ifeng.com/c/8rz2BvqG1xJ",
-          "source": "凤凰网",
+          "title": "海湾国家考虑新的输油管道以绕过霍尔木兹海峡。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3081302",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "12时22分"
         },
         {
           "title": "德国DAX30指数4月1日（周三）收盘上涨676.54点，涨幅2.99%，报23309.72点；<br/>英国富时100指数4月1日（周三）收盘上涨187.38点，涨幅1.84%，报10363.83点；<br/>法国CAC40指数4月1日（周三）收盘上涨164.33点，涨幅2.10%，报7981.27点；<br/>欧洲斯托克50指数4月1日（周三）收盘上涨163.97点，涨幅2.94%，报5733.70点；<br/>西班牙IBEX35指数4月1日（周三）收盘上涨536.50点，涨幅3.15%，报17586.10点；<br/>意大利富时MIB指数4月1日（周三）收盘上涨1425.79点，涨幅3.22%，报45735.50点。",
@@ -2281,6 +2442,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "据英国金融时报：作为协议的一部分，英国水务监管局可能暂停对泰晤士水务公司的处罚，直至2030年。",
+          "url": "https://flash.jin10.com/detail/20260402120557289800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "据英国金融时报：亚马逊(AMZN.O)正洽谈收购卫星公司全球星，与埃隆·马斯克的星链展开竞争。",
           "url": "https://flash.jin10.com/detail/20260402064145625800",
           "source": "金十数据",
@@ -2301,6 +2473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "泽林斯基：我们本该把握机会赢下瑞典",
+          "url": "https://www.toutiao.com/trending/7623309872821895218/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "德国国债价格高开低走",
@@ -2339,7 +2522,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "日本核原料能造5500枚核弹头",
@@ -2353,6 +2536,24 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时42分 ~ 07时29分]"
+        },
+        {
+          "title": "外交部回应日本强行部署远程导弹",
+          "url": "https://www.douyin.com/hot/2451473",
+          "source": "抖音",
+          "ranks": [
+            16,
+            14,
+            9,
+            11,
+            10,
+            8,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 12时22分]"
         },
         {
           "title": "马克龙访问日本",
@@ -2374,43 +2575,16 @@
           "time_info": "[00时02分 ~ 09时21分]"
         },
         {
-          "title": "外交部回应日本强行部署远程导弹",
-          "url": "https://www.douyin.com/hot/2451473",
-          "source": "抖音",
-          "ranks": [
-            16,
-            14,
-            9,
-            11,
-            10,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 09时21分]"
-        },
-        {
           "title": "泰国泡面先吃后付,日本人怒了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352621&amp;topic_name=%E6%B3%B0%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%85%88%E5%90%83%E5%90%8E%E4%BB%98%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%80%92%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 09时21分]"
-        },
-        {
-          "title": "解放军报披露日本已具备拥核能力",
-          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5%E6%8A%AB%E9%9C%B2%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%85%B7%E5%A4%87%E6%8B%A5%E6%A0%B8%E8%83%BD%E5%8A%9B",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 12时22分]"
         },
         {
           "title": "2年期日本国债收益率上升1.0个基点，至1.355%。20年期日本国债收益率上升1个基点，至3.205%。",
@@ -2419,9 +2593,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "日本终于露出獠牙",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%88%E4%BA%8E%E9%9C%B2%E5%87%BA%E7%8D%A0%E7%89%99%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
         },
         {
           "title": "周三（4月1日），彭博电动汽车价格回报指数涨2.90%，报3619.76点，亚太盘初以来持续上涨，北京时间14:00过后持续高位窄幅震荡。 成分股Ola Electric Mobility Ltd.收涨13.55%，蔚来集团H股收涨10.31%，浙江零跑科技H股收涨9%表现第三，日本电产株式会社涨7.48%涨幅第五大，Panasonic株式会社涨7.29%表现靠前。 文远知行则跌2.7%，雅迪集团控股H股收跌2.72%，微宏控股跌3%。",
@@ -2437,6 +2623,30 @@
           "time_info": "[04时36分 ~ 06时29分]"
         },
         {
+          "title": "解放军报披露日本已具备拥核能力",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5%E6%8A%AB%E9%9C%B2%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%85%B7%E5%A4%87%E6%8B%A5%E6%A0%B8%E8%83%BD%E5%8A%9B",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
+        },
+        {
+          "title": "军报：日本具备制造核武器条件",
+          "url": "https://www.douyin.com/hot/2451955",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时22分]"
+        },
+        {
           "title": "日本1:0英格兰",
           "url": "https://www.douyin.com/hot/2450690",
           "source": "抖音",
@@ -2446,28 +2656,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
-        },
-        {
-          "title": "日本终于露出獠牙",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%88%E4%BA%8E%E9%9C%B2%E5%87%BA%E7%8D%A0%E7%89%99%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "军报：日本具备制造核武器条件",
-          "url": "https://www.douyin.com/hot/2451955",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         },
         {
           "title": "星展银行首席经济学家：日本、新加坡和澳大利亚似乎可能加息。韩国央行也可采取澳洲联储式的积极举措。",
@@ -2503,6 +2691,28 @@
           "time_info": "07时29分"
         },
         {
+          "title": "日本10年期国债收益率上行5个基点至2.35%。 日本30年期国债收益率上行9个基点至3.705%。",
+          "url": "https://wallstreetcn.com/livenews/3081296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "日本拍卖10年期国债，认购倍数2.57，过去12个月均值为3.28。",
+          "url": "https://wallstreetcn.com/livenews/3081294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "韩国总统李在明：人工智能、核能、氢能技术是创新与韧性的关键，呼吁与法国就此展开合作。",
           "url": "https://flash.jin10.com/detail/20260402064015575800",
           "source": "金十数据",
@@ -2512,6 +2722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "专家：日本右翼的刀已经亮出来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E7%9A%84%E5%88%80%E5%B7%B2%E7%BB%8F%E4%BA%AE%E5%87%BA%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "韩国总统李在明：在供应链脆弱之际，与法国的合作将有助于经济安全与稳定。",
@@ -2525,15 +2746,158 @@
           "time_info": "07时29分"
         },
         {
+          "title": "10年期日本国债收益率上升8个基点，达到2.380%。",
+          "url": "https://flash.jin10.com/detail/20260402120030970800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "霍尔木兹海峡封锁期间，韩国增加了从美国的石油进口。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3081282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "据韩国媒体，韩国将在伊朗战争结束后继续维持燃油价格上限。",
+          "url": "https://wallstreetcn.com/livenews/3081281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "韩国央行表示，受油价影响，预计CPI将从4月加速上涨，政府将采取物价稳定措施以缓解CPI压力。",
           "url": "https://wallstreetcn.com/livenews/3081180",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "星展银行首席经济学家：印度在贸易和能源领域均易受战争影响。",
+          "url": "https://flash.jin10.com/detail/20260402060135878800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "印度政府公告：自4月2日起至6月30日止，对部分化学品的进口关税降至零。",
+          "url": "https://wallstreetcn.com/livenews/3081110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时29分]"
+        },
+        {
+          "title": "印度政府公告：自4月2日至6月30日，硝酸铵免征农业基础设施与发展税。",
+          "url": "https://flash.jin10.com/detail/20260402042846863800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "印度政府公告：自4月2日起至6月30日止，对部分化学品的进口关税降至零。",
+          "url": "https://flash.jin10.com/detail/20260402042540367800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "印度ETF遭遇创纪录资金流出，亚洲股市反弹前现撤资潮",
+          "url": "https://wallstreetcn.com/livenews/3081060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时47分]"
+        },
+        {
+          "title": "印度股指Sensex、Nifty指数下跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3081297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "印度卢比兑美元上涨1.7%，之前印度央行采取措施抑制投机。",
+          "url": "https://wallstreetcn.com/livenews/3081291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "航运数据显示，委内瑞拉3月份贸易公司石油日均出口量增至逾60万桶。更多石油运往印度和加勒比地区的货运用于储存，推高出口量。",
+          "url": "https://flash.jin10.com/detail/20260402052549875800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "评论员：印度加码S-400是给自己挖坑",
+          "url": "https://www.toutiao.com/trending/7623721773309247494/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         }
       ]
     },
@@ -2651,94 +3015,6 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "星展银行首席经济学家：印度在贸易和能源领域均易受战争影响。",
-          "url": "https://flash.jin10.com/detail/20260402060135878800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "印度政府公告：自4月2日起至6月30日止，对部分化学品的进口关税降至零。",
-          "url": "https://wallstreetcn.com/livenews/3081110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 06时29分]"
-        },
-        {
-          "title": "印度政府公告：自4月2日至6月30日，硝酸铵免征农业基础设施与发展税。",
-          "url": "https://flash.jin10.com/detail/20260402042846863800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时35分]"
-        },
-        {
-          "title": "印度政府公告：自4月2日起至6月30日止，对部分化学品的进口关税降至零。",
-          "url": "https://flash.jin10.com/detail/20260402042540367800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时35分]"
-        },
-        {
-          "title": "印度ETF遭遇创纪录资金流出，亚洲股市反弹前现撤资潮",
-          "url": "https://wallstreetcn.com/livenews/3081060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时47分]"
-        },
-        {
-          "title": "航运数据显示，委内瑞拉3月份贸易公司石油日均出口量增至逾60万桶。更多石油运往印度和加勒比地区的货运用于储存，推高出口量。",
-          "url": "https://flash.jin10.com/detail/20260402052549875800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "评论员：印度加码S-400是给自己挖坑",
-          "url": "https://www.toutiao.com/trending/7623721773309247494/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
       "match_count": 4,
       "titles": [
@@ -2791,8 +3067,19 @@
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "IBM(IBM.N)：与Arm(ARM.O)合作开发新硬件，助力企业运行人工智能和数据密集型工作负载。",
+          "url": "https://flash.jin10.com/detail/20260402121026257800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
         {
           "title": "文件显示，英特尔(INTC.O)计划向人工智能芯片初创公司Sambanova Systems再投资1500万美元。",
           "url": "https://flash.jin10.com/detail/20260402064514420800",
@@ -2803,6 +3090,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "国家药监局：到2030年初步构建药品监管与人工智能融合创新体系",
+          "url": "https://wallstreetcn.com/livenews/3081273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "具身智能机器人加速发展",
+          "url": "https://www.douyin.com/hot/2452147",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 前沿科技 量子 脑机 基因",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "脑机接口加速落地",
+          "url": "https://www.toutiao.com/trending/7622892036563157046/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     }
