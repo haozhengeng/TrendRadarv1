@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T14:07:52.016423+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-04-03T15:57:33.728932+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 104,
+      "match_count": 105,
       "titles": [
         {
           "title": "伊朗指控美国使用新型导弹，致21名运动员遇难",
@@ -110,11 +110,12 @@
             24,
             23,
             20,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 14时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 15时57分]"
         },
         {
           "title": "解读美国载人绕月任务背后",
@@ -127,11 +128,12 @@
             19,
             23,
             18,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 14时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 15时57分]"
         },
         {
           "title": "美国实施载人绕月飞行任务",
@@ -145,11 +147,12 @@
             25,
             27,
             20,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 12时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 15时57分]"
         },
         {
           "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
@@ -159,8 +162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 15时57分]"
         },
         {
           "title": "直播丨经过多次调整，美国载人绕月飞行任务“阿耳忒弥斯2号”发射升空",
@@ -258,7 +261,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -479,6 +482,19 @@
           "time_info": "[05时29分 ~ 06时25分]"
         },
         {
+          "title": "官宣：美国维持50%金属关税，对部分制成品征收25%关税，对专利药征100%关税，但遵守协议“豁免”",
+          "url": "https://wallstreetcn.com/articles/3769140",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 15时57分]"
+        },
+        {
           "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
           "url": "https://wallstreetcn.com/articles/3769031",
           "source": "华尔街见闻",
@@ -542,18 +558,6 @@
           "time_info": "[01时43分 ~ 03时43分]"
         },
         {
-          "title": "官宣：美国维持50%金属关税，对部分制成品征收25%关税，对专利药征100%关税，但遵守协议“豁免”",
-          "url": "https://wallstreetcn.com/articles/3769140",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 14时07分]"
-        },
-        {
           "title": "数据中心公司QTS计划为美国佐治亚州一个数据中心项目发行债券，从而融资46亿美元。 据知情人士透露，黑石集团参与投资者的QTS可能最快将于下周出售债券。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3081744",
           "source": "华尔街见闻-快讯",
@@ -565,6 +569,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 04时27分]"
+        },
+        {
+          "title": "美国宣布将对进口专利药及制药成分加征100%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32890919",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 15时57分]"
         },
         {
           "title": "一级交易商对美国政府债券的持仓在3月25日当周创历史新高，猛增170亿美元，至5570亿美元。",
@@ -687,17 +703,6 @@
           "time_info": "[01时43分 ~ 02时49分]"
         },
         {
-          "title": "美国宣布将对进口专利药及制药成分加征100%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32890919",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 14时07分]"
-        },
-        {
           "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
           "url": "https://wallstreetcn.com/livenews/3081792",
           "source": "华尔街见闻-快讯",
@@ -809,6 +814,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "美国官员：对钢铁、铝和铜关税的调整将避免进口商品价值被人为压低；关税调整不会产生重大经济影响，但将简化关税制度。",
@@ -949,7 +965,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -1048,7 +1064,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -1232,7 +1248,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "这个猛料，让日本网络炸裂了",
@@ -1306,11 +1322,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            2
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 15时57分]"
         },
         {
           "title": "李在明：韩国经济处于“战时状态”",
@@ -1346,6 +1363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "霸王茶姬疑似被日本抄袭",
+          "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%96%91%E4%BC%BC%E8%A2%AB%E6%97%A5%E6%9C%AC%E6%8A%84%E8%A2%AD&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "韩国40岁导演遭围殴致死引众怒",
@@ -1410,28 +1438,42 @@
           "time_info": "[06时25分 ~ 07时27分]"
         },
         {
-          "title": "韩国40岁导演遭围殴致死",
-          "url": "https://www.toutiao.com/trending/7623262693442600986/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 14时07分]"
-        },
-        {
           "title": "日本、韩国、伊朗、澳大利亚、约旦、乌兹别克斯坦、沙特阿拉伯、卡塔尔、伊拉克等九队入选世界杯，你怎么看？",
           "url": "https://www.zhihu.com/question/2022704110575599872",
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 15时57分]"
+        },
+        {
+          "title": "韩国40岁导演遭围殴致死",
+          "url": "https://www.toutiao.com/trending/7623262693442600986/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 15时57分]"
+        },
+        {
+          "title": "国乒女队已淘汰三任日本一姐",
+          "url": "https://www.toutiao.com/trending/7624030092540985380/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时23分 ~ 14时07分]"
+          "time_info": "[14时07分 ~ 15时57分]"
         },
         {
           "title": "日本内阁官房长官木原稔表示，日本政府并未计划派遣商务代表团访问俄罗斯，这否认了早前的媒体报道。",
@@ -1443,17 +1485,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "国乒女队已淘汰三任日本一姐",
-          "url": "https://www.toutiao.com/trending/7624030092540985380/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
         },
         {
           "title": "日本内阁官房长官木原稔：关于政府要求商社加入俄罗斯访问团的媒体报导“不属实”。",
@@ -1517,7 +1548,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -1737,7 +1768,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -1781,7 +1812,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -1844,7 +1875,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
@@ -1855,8 +1886,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 14时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 15时57分]"
         },
         {
           "title": "中国把数据中心搬进大海",
@@ -1925,8 +1956,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 15时57分]"
+        },
+        {
+          "title": "最大、首艘！中国“超级装备”上新",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E5%A4%A7%E3%80%81%E9%A6%96%E8%89%98%EF%BC%81%E4%B8%AD%E5%9B%BD%E2%80%9C%E8%B6%85%E7%BA%A7%E8%A3%85%E5%A4%87%E2%80%9D%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 15时57分]"
+        },
+        {
+          "title": "中国将在长江水下开高铁有何意义",
+          "url": "https://www.toutiao.com/trending/7624396908185800255/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "中国央行公开市场今日净回笼1452亿元人民币",
@@ -1951,18 +2005,6 @@
           "time_info": "09时24分"
         },
         {
-          "title": "最大、首艘！中国“超级装备”上新",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E5%A4%A7%E3%80%81%E9%A6%96%E8%89%98%EF%BC%81%E4%B8%AD%E5%9B%BD%E2%80%9C%E8%B6%85%E7%BA%A7%E8%A3%85%E5%A4%87%E2%80%9D%E4%B8%8A%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 14时07分]"
-        },
-        {
           "title": "星巴克：博裕目前持有星巴克中国零售业务60%的股份。",
           "url": "https://wallstreetcn.com/livenews/3081801",
           "source": "华尔街见闻-快讯",
@@ -1979,11 +2021,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 15时57分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -2003,22 +2046,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[02时49分 ~ 15时57分]"
         },
         {
           "title": "外交部回应「伊朗是否向中国寻求安全保障」，表示中方支持一切有利于和平的努力，释放哪些信号？",
           "url": "https://www.zhihu.com/question/2023064985580893986",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 15时57分]"
         },
         {
           "title": "经济日报头版头条再发文：驳“中国经济治理失效论”",
@@ -2026,11 +2071,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 15时57分]"
         },
         {
           "title": "专访丨驾驶“张雪机车”夺冠的车手德比斯：我的冠军成绩，就是中国制造的水平",
@@ -2038,11 +2084,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 15时57分]"
         },
         {
           "title": "中国财政部发行2年期债券，规模1700亿元，发行利率1.2402%，边际利率1.2641%，预期1.2700%，投标倍数2.67倍，边际倍数1.50倍； 中国财政部发行30年期债券，规模240亿元，发行利率2.3672%，预期2.3600%，投标倍数6.43倍，边际倍数10.31倍。",
@@ -2073,7 +2120,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -2106,9 +2153,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "中国欧盟商会与欧洲议会代表团举行会见",
+          "url": "https://wallstreetcn.com/livenews/3082047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "1亿现金失踪，公司状告实控人！“中国床垫第一股”喜临门连续“爆雷”一周股价蒸发近10亿",
@@ -2128,7 +2186,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -2186,12 +2244,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "哪家船厂会造中国第一艘核动力航母",
+          "url": "https://www.toutiao.com/trending/7624409167071022642/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "英国拟联手35国恢复霍尔木兹海峡能源运输",
@@ -2283,6 +2352,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "一艘法国所有的集装箱船驶出霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3082052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "法总理：中东冲突可能在法国引发恐怖主义威胁",
           "url": "https://wallstreetcn.com/livenews/3081701",
           "source": "华尔街见闻-快讯",
@@ -2303,6 +2383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "市场消息：一艘法国所有的集装箱船发出信号，表明其已驶出霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260403152840728800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "王毅同德国外长瓦德富尔通电话，双方重点就中东形势交换意见",
@@ -2327,6 +2418,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "提醒：德国、法国、意大利、英国等多国股市因耶稣受难日休市。",
+          "url": "https://wallstreetcn.com/livenews/3082032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "伊朗总统和芬兰总统通电话 伊朗总统拒绝在霍尔木兹海峡安排上的外部干预",
           "url": "https://flash.jin10.com/detail/20260403000048023800",
           "source": "金十数据",
@@ -2338,21 +2440,65 @@
           "time_info": "00时47分"
         },
         {
+          "title": "法国2月制造业产出同比 0.8%，前值 2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3082025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "法国2月工业产出环比 -0.7%，预期 -0.1%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3082024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "欧盟警告称，欧洲必须为“长期性”的能源冲击做好准备。 欧盟能源专员称，欧盟正在评估“所有可能性”，包括燃油配给制以及从战略储备中释放更多石油。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3081959",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "法国2月工业产出同比 -0.3%，预期 1.6%，前值 2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3082023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "法国2月制造业产出环比 0%，前值 0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3082022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "凯投宏观：能源成本转嫁潮开启 全球非燃料通胀风险陡增",
@@ -2364,6 +2510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "欧盟严肃预警：准备应对能源冲击长期化，燃料配给、释储均在考量",
+          "url": "https://flash.jin10.com/detail/20260403154949087800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "绿联与宁德新能源科技达成战略合作",
@@ -2497,9 +2654,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "欧洲央行官员Radev：能源危机可能蔓延至更广泛的经济领域。 应当利用有利的融资条件来进行准备工作。",
+          "url": "https://wallstreetcn.com/livenews/3082027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "惠誉：假设由于伊朗战争导致卡塔尔能源的液化天然气生产停产，产能恢复产能可能需要数年时间。",
