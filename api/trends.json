@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T12:31:27.878351+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-04-05T14:10:37.472003+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "霍尔木兹海峡现“通行方案”：法日等“美国传统盟友”船只首次通过",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 14时10分]"
         },
         {
           "title": "可能是伊朗战争迄今最全的一份“美国决策细节”披露",
@@ -67,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 14时10分]"
         },
         {
           "title": "美媒：至少16架美国MQ－9型“死神”无人机被击落",
@@ -260,37 +260,15 @@
           "time_info": "09时27分"
         },
         {
-          "title": "美国总统特朗普：根据我的指示，美国军方出动了数十架战机，携带世界上“最致命的武器”，将失踪的飞行员救回。他受了伤，但未来会完全康复。",
-          "url": "https://flash.jin10.com/detail/20260405121210468800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "美国总统特朗普：美国军方营救了我们一位了不起的机组人员。",
-          "url": "https://flash.jin10.com/detail/20260405121031640800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "【美官员：失踪美军飞行员已被找到】一名美国政府官员5日告诉半岛电视台，失踪的第二名美军飞行员已被找到，但尚未脱险，救援行动仍在进行中。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3082531",
+          "title": "美国卫星影像供应商暂缓发布中东冲突地区卫星图像",
+          "url": "https://wallstreetcn.com/livenews/3082551",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "14时10分"
         },
         {
           "title": "两架美国“黑鹰”被伊朗山民击中",
@@ -357,6 +335,30 @@
           "time_info": "[07时23分 ~ 09时27分]"
         },
         {
+          "title": "美国总统特朗普：根据我的指示，美国军方出动了数十架战机，携带世界上“最致命的武器”，将失踪的飞行员救回。他受了伤，但未来会完全康复。",
+          "url": "https://flash.jin10.com/detail/20260405121210468800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "美国总统特朗普：美国军方营救了我们一位了不起的机组人员。",
+          "url": "https://flash.jin10.com/detail/20260405121031640800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
           "title": "以军等美国开绿灯袭击伊朗能源设施",
           "url": "https://wallstreetcn.com/livenews/3082505",
           "source": "华尔街见闻-快讯",
@@ -367,6 +369,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 12时31分]"
+        },
+        {
+          "title": "【美官员：失踪美军飞行员已被找到】一名美国政府官员5日告诉半岛电视台，失踪的第二名美军飞行员已被找到，但尚未脱险，救援行动仍在进行中。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3082531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "两架美国“黑鹰”被伊朗山民击中",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E7%BE%8E%E5%9B%BD%E2%80%9C%E9%BB%91%E9%B9%B0%E2%80%9D%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%B1%B1%E6%B0%91%E5%87%BB%E4%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 14时10分]"
         },
         {
           "title": "媒体：美国与伊朗的谈判已陷入僵局",
@@ -380,6 +407,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时21分]"
+        },
+        {
+          "title": "美国总统特朗普：美军完成了美国历史上最大胆的搜救行动之一。",
+          "url": "https://flash.jin10.com/detail/20260405120951058800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "两架美国“黑鹰”被伊朗山民击中",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32906737",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "美媒：战机被击落事件彻底戳破了美国政府的虚假军事神话",
+          "url": "https://wallstreetcn.com/livenews/3082529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "市场消息：截至美国东部时间上午11:44（北京时间晚上11:44），离五角大楼最近的达美乐披萨店客流量高于平均水平。",
@@ -406,16 +469,28 @@
           "time_info": "[01时23分 ~ 02时29分]"
         },
         {
-          "title": "两架美国“黑鹰”被伊朗山民击中",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E7%BE%8E%E5%9B%BD%E2%80%9C%E9%BB%91%E9%B9%B0%E2%80%9D%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%B1%B1%E6%B0%91%E5%87%BB%E4%B8%AD",
-          "source": "百度热搜",
+          "title": "据半岛电视台：一名美国政府官员表示，在经过“激烈交火”后，被击落的F-15E战斗机上的第二名机组人员已获救。",
+          "url": "https://flash.jin10.com/detail/20260405112053099800",
+          "source": "金十数据",
           "ranks": [
             12,
-            18
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时31分]"
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "沙特借助美国载人绕月任务发射一颗卫星",
+          "url": "https://wallstreetcn.com/livenews/3082523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "市场消息：亲伊朗的伊拉克组织 Ashab al-Kahf 宣称对科威特境内的美国目标遭袭负责，并称此次袭击是为报复近期对沙拉姆切口岸的打击。",
@@ -429,26 +504,15 @@
           "time_info": "09时27分"
         },
         {
-          "title": "美国总统特朗普：美军完成了美国历史上最大胆的搜救行动之一。",
-          "url": "https://flash.jin10.com/detail/20260405120951058800",
+          "title": "应美国政府要求 “星球实验室”无限期暂停发布伊朗战事卫星影像",
+          "url": "https://flash.jin10.com/detail/20260405124234445800",
           "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "美媒：战机被击落事件彻底戳破了美国政府的虚假军事神话",
-          "url": "https://wallstreetcn.com/livenews/3082529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "14时10分"
         },
         {
           "title": "美国爱达荷州发生枪击案 造成3死2伤",
@@ -462,37 +526,26 @@
           "time_info": "09时27分"
         },
         {
-          "title": "两架美国“黑鹰”被伊朗山民击中",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32906737",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "美国前参议员表示特朗普已经住院",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E5%8F%82%E8%AE%AE%E5%91%98%E8%A1%A8%E7%A4%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E7%BB%8F%E4%BD%8F%E9%99%A2%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
         {
-          "title": "据半岛电视台：一名美国政府官员表示，在经过“激烈交火”后，被击落的F-15E战斗机上的第二名机组人员已获救。",
-          "url": "https://flash.jin10.com/detail/20260405112053099800",
-          "source": "金十数据",
+          "title": "伊朗称击落一架美国C-130运输机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E7%BE%8E%E5%9B%BDC-130%E8%BF%90%E8%BE%93%E6%9C%BA",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "14时10分"
         },
         {
           "title": "美国一辆汽车冲撞游行队伍 已致超20人受伤",
@@ -506,15 +559,26 @@
           "time_info": "09时27分"
         },
         {
-          "title": "沙特借助美国载人绕月任务发射一颗卫星",
-          "url": "https://wallstreetcn.com/livenews/3082523",
+          "title": "应美国政府要求 “星球实验室”无限期暂停发布伊朗战事卫星影像",
+          "url": "https://wallstreetcn.com/livenews/3082543",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "14时10分"
+        },
+        {
+          "title": "美国汽油均价升至4.1美元",
+          "url": "https://www.toutiao.com/trending/7624045614444920841/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "乌克兰总统泽连斯基的幕僚长表示，乌方预计美国特使威特科夫和库什纳将于本月率团访问基辅，以推动重启和平谈判。",
@@ -534,7 +598,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -589,7 +653,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
@@ -597,7 +661,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "中国散户又出手了！相信“回调就是上车机会”，3月以来净买入1.25万亿",
@@ -609,8 +673,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 14时10分]"
         },
         {
           "title": "中国军人用生命捍卫信仰",
@@ -707,8 +771,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 14时10分]"
         },
         {
           "title": "上万名老挝人，在中国边境县医院看病",
@@ -731,8 +795,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 14时10分]"
         },
         {
           "title": "中国驻以使馆：将再组织一批在以中国公民通过埃及塔巴口岸转移撤离",
@@ -740,11 +804,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 14时10分]"
         },
         {
           "title": "中国大型城市当中空置的写字楼最后的结局会是什么？",
@@ -830,9 +895,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "京彩中国节",
@@ -866,11 +931,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 14时10分]"
         },
         {
           "title": "京彩中国节",
@@ -878,11 +944,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 14时10分]"
         },
         {
           "title": "一季度电影票房超 118 亿元，4 部影片票房破 10 亿元，这反映了中国电影市场怎样的趋势？",
@@ -894,6 +961,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 03时25分]"
+        },
+        {
+          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
+          "url": "https://www.cls.cn/detail/2335441",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 14时10分]"
         },
         {
           "title": "中国地震台网自动测定：04月05日01时14分在台湾花莲县海域附近（北纬24.03度，东经121.67度）发生5.3级左右地震，最终结果以正式速报为准。",
@@ -909,16 +989,27 @@
           "time_info": "[02时29分 ~ 04时21分]"
         },
         {
-          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
-          "url": "https://www.cls.cn/detail/2335441",
-          "source": "财联社热门",
+          "title": "中国殡葬网正式上线运行 为公众提供殡葬信息查询服务",
+          "url": "https://wallstreetcn.com/livenews/3082527",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            8
+            9,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时31分]"
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "商务部打假“投资中国”APP",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E6%89%93%E5%81%87%E2%80%9C%E6%8A%95%E8%B5%84%E4%B8%AD%E5%9B%BD%E2%80%9DAPP",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "上万名老挝人在中国边境县医院看病",
@@ -956,17 +1047,6 @@
           "time_info": "09时27分"
         },
         {
-          "title": "中国殡葬网正式上线运行 为公众提供殡葬信息查询服务",
-          "url": "https://wallstreetcn.com/livenews/3082527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "3月中国大宗商品价格指数环比上涨4%",
           "url": "https://flash.jin10.com/detail/20260405081707514800",
           "source": "金十数据",
@@ -978,15 +1058,15 @@
           "time_info": "09时27分"
         },
         {
-          "title": "商务部打假“投资中国”APP",
-          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E6%89%93%E5%81%87%E2%80%9C%E6%8A%95%E8%B5%84%E4%B8%AD%E5%9B%BD%E2%80%9DAPP",
-          "source": "百度热搜",
+          "title": "中国古代有哪些推理小说（例如包公案）？",
+          "url": "https://www.zhihu.com/question/2018326815559611697",
+          "source": "知乎",
           "ranks": [
-            11
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "14时10分"
         },
         {
           "title": "中国地震台网正式测定：04月05日10时39分在新疆吐鲁番市高昌区（北纬43.34度，东经88.94度）发生3.6级地震，震源深度36千米。",
@@ -995,7 +1075,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -1006,7 +1086,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -1017,7 +1097,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -1036,7 +1116,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "无人继承的巨额遗产或在拖垮日本",
@@ -1055,15 +1135,15 @@
           "time_info": "[01时23分 ~ 07时23分]"
         },
         {
-          "title": "王曼昱大战韩国一姐",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%A7%E6%88%98%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%A7%90",
-          "source": "百度热搜",
+          "title": "伊朗籍男子在日本被殴打致死",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "14时10分"
         },
         {
           "title": "日本选手被王曼昱“打”哭",
@@ -1074,8 +1154,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 14时10分]"
+        },
+        {
+          "title": "王曼昱大战韩国一姐",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%A7%E6%88%98%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%A7%90",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "玉渊谭天丨警惕！日本再军事化举措落地中",
@@ -1083,11 +1174,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 14时10分]"
         },
         {
           "title": "伊朗籍男子在日本被围殴致死，警方介入",
@@ -1096,9 +1188,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "前自卫官：日本正走向“可实战”的军事体系",
@@ -1107,9 +1199,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "伊朗籍男子在日本被殴打致死",
@@ -1118,9 +1210,56 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "韩国政府声明：韩国财政部长向海湾国家大使请求确保石油、液化天然气、石脑油和尿素的稳定供应。",
+          "url": "https://flash.jin10.com/detail/20260405110239625800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "韩国政府声明：韩国财政部长呼吁海湾国家驻韩大使确保韩国船只及船员在霍尔木兹海峡附近的安全。",
+          "url": "https://flash.jin10.com/detail/20260405110158936800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "韩国政府声明：韩国财政部长在首尔会见海湾合作委员会各国大使，商讨中东危机。",
+          "url": "https://flash.jin10.com/detail/20260405110152349800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "一名伊朗籍男子在日本被殴打致死",
+          "url": "https://www.toutiao.com/trending/7625104501129707526/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "14时10分"
         },
         {
           "title": "日本前自卫官：日本正走向“可实战”的军事体系",
@@ -1129,42 +1268,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
         {
-          "title": "韩国政府声明：韩国财政部长向海湾国家大使请求确保石油、液化天然气、石脑油和尿素的稳定供应。",
-          "url": "https://flash.jin10.com/detail/20260405110239625800",
-          "source": "金十数据",
+          "title": "日媒：日本海上保安厅巡逻船突发离奇人命案，一船员死在弹药库内",
+          "url": "https://wallstreetcn.com/livenews/3082541",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "韩国政府声明：韩国财政部长呼吁海湾国家驻韩大使确保韩国船只及船员在霍尔木兹海峡附近的安全。",
-          "url": "https://flash.jin10.com/detail/20260405110158936800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "韩国政府声明：韩国财政部长在首尔会见海湾合作委员会各国大使，商讨中东危机。",
-          "url": "https://flash.jin10.com/detail/20260405110152349800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "14时10分"
         },
         {
           "title": "评论员：日本正修宽通往战争的道路",
@@ -1180,8 +1297,149 @@
       ]
     },
     {
+      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "月厨携圣剑入境,被英国海关拿下",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352794&amp;topic_name=%E6%9C%88%E5%8E%A8%E6%90%BA%E5%9C%A3%E5%89%91%E5%85%A5%E5%A2%83%2C%E8%A2%AB%E8%8B%B1%E5%9B%BD%E6%B5%B7%E5%85%B3%E6%8B%BF%E4%B8%8B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 14时10分]"
+        },
+        {
+          "title": "瞿颖 作为西班牙人",
+          "url": "https://s.weibo.com/weibo?q=%E7%9E%BF%E9%A2%96%20%E4%BD%9C%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时23分]"
+        },
+        {
+          "title": "德国外长呼吁欧盟决策取消全体一致通过原则",
+          "url": "https://wallstreetcn.com/livenews/3082445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 14时10分]"
+        },
+        {
+          "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
+          "url": "https://flash.jin10.com/detail/20260405042122287800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时23分 ~ 09时27分]"
+        },
+        {
+          "title": "德国地学研究中心GFZ：澳大利亚北领地发生6级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260405023854440800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            15,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时25分 ~ 07时23分]"
+        },
+        {
+          "title": "英媒：英国寻求吸引Anthropic扩大在英业务",
+          "url": "https://flash.jin10.com/detail/20260405130944035800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "霍尔木兹航运追踪：海峡七天通航量创战后之最 首艘法国船只穿行",
+          "url": "https://www.cls.cn/detail/2335447",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "诺和诺德CEO：减肥市场潜力巨大。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3082534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
+        },
+        {
+          "title": "针对德国中餐从业人员盗抢案件频发",
+          "url": "https://www.baidu.com/s?wd=%E9%92%88%E5%AF%B9%E5%BE%B7%E5%9B%BD%E4%B8%AD%E9%A4%90%E4%BB%8E%E4%B8%9A%E4%BA%BA%E5%91%98%E7%9B%97%E6%8A%A2%E6%A1%88%E4%BB%B6%E9%A2%91%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 04时21分]"
+        },
+        {
+          "title": "德国外长呼吁欧盟决策取消全体一致通过原则",
+          "url": "https://flash.jin10.com/detail/20260405120515807800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "不确定性增加，许多德国人改变旅行计划",
+          "url": "https://wallstreetcn.com/livenews/3082546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "为破解能源瓶颈制约，浙江又开工一台华龙一号核电机组",
@@ -1195,8 +1453,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 14时10分]"
         },
         {
           "title": "欧盟五国呼吁对能源企业超额利润征税",
@@ -1232,6 +1490,17 @@
           "time_info": "[00时25分 ~ 07时23分]"
         },
         {
+          "title": "应对能源危机，埃及上调电价",
+          "url": "https://wallstreetcn.com/livenews/3082553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "意大利总理梅洛尼和阿联酋总统阿勒纳哈扬就共同防务及能源投资合作事宜展开讨论。",
           "url": "https://flash.jin10.com/detail/20260405000513060800",
           "source": "金十数据",
@@ -1261,22 +1530,24 @@
           "url": "https://flash.jin10.com/detail/20260405111244673800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "国际能源署警告：伊朗战争期间各国不得囤积燃料",
           "url": "https://flash.jin10.com/detail/20260405110842751800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "【科威特称两座发电和海水淡化厂遭伊朗无人机袭击】记者获悉，科威特电力、水利和可再生能源部当地时间5日凌晨发表声明称，科威特两座发电和海水淡化厂遭到伊朗无人机袭击，造成重大财产损失，两台发电机组停运，暂无人员伤亡报告。 声明称，技术和应急团队正根据应急预案开展工作，以保障电力和水供应系统正常运作。（央视）",
@@ -1285,7 +1556,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -1299,122 +1570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "月厨携圣剑入境,被英国海关拿下",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352794&amp;topic_name=%E6%9C%88%E5%8E%A8%E6%90%BA%E5%9C%A3%E5%89%91%E5%85%A5%E5%A2%83%2C%E8%A2%AB%E8%8B%B1%E5%9B%BD%E6%B5%B7%E5%85%B3%E6%8B%BF%E4%B8%8B",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时31分]"
-        },
-        {
-          "title": "瞿颖 作为西班牙人",
-          "url": "https://s.weibo.com/weibo?q=%E7%9E%BF%E9%A2%96%20%E4%BD%9C%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时23分]"
-        },
-        {
-          "title": "德国外长呼吁欧盟决策取消全体一致通过原则",
-          "url": "https://wallstreetcn.com/livenews/3082445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
-          "url": "https://flash.jin10.com/detail/20260405042122287800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时23分 ~ 09时27分]"
-        },
-        {
-          "title": "德国地学研究中心GFZ：澳大利亚北领地发生6级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260405023854440800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时25分 ~ 07时23分]"
-        },
-        {
-          "title": "诺和诺德CEO：减肥市场潜力巨大。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3082534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "针对德国中餐从业人员盗抢案件频发",
-          "url": "https://www.baidu.com/s?wd=%E9%92%88%E5%AF%B9%E5%BE%B7%E5%9B%BD%E4%B8%AD%E9%A4%90%E4%BB%8E%E4%B8%9A%E4%BA%BA%E5%91%98%E7%9B%97%E6%8A%A2%E6%A1%88%E4%BB%B6%E9%A2%91%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 04时21分]"
-        },
-        {
-          "title": "霍尔木兹航运追踪：海峡七天通航量创战后之最 首艘法国船只穿行",
-          "url": "https://www.cls.cn/detail/2335447",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "德国外长呼吁欧盟决策取消全体一致通过原则",
-          "url": "https://flash.jin10.com/detail/20260405120515807800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         }
       ]
     },
