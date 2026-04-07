@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-08T00:23:41.544875+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-08T01:51:32.394193+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 35,
+      "match_count": 49,
       "titles": [
-        {
-          "title": "美国能源信息署（EIA）：预计中东国家将在4月关闭900万桶/日的石油产量。",
-          "url": "https://wallstreetcn.com/livenews/3083626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
         {
           "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
           "url": "https://wallstreetcn.com/articles/3769328",
@@ -26,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "EIA短期能源展望报告：预计美国4月原油平均日产量为1364万桶，3月为1356万桶；预计5月平均日产量为1359万桶。",
-          "url": "https://flash.jin10.com/detail/20260408001550364800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "美国否认将在伊朗使用核武器",
@@ -46,6 +24,28 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "霍尔木兹危机引发油价飙升，美国石油钻探商拟扩大产量",
+          "url": "https://wallstreetcn.com/livenews/3083657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "EIA短期能源展望报告：预计美国4月原油平均日产量为1364万桶，3月为1356万桶；预计5月平均日产量为1359万桶。",
+          "url": "https://flash.jin10.com/detail/20260408001550364800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,15 +85,39 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国代理司法部长：我们将始终调查泄露机密信息的行为，此类行为会危及军人或特工的安全。",
+          "url": "https://flash.jin10.com/detail/20260408012511800800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：预计中东国家将在4月关闭900万桶/日的石油产量。",
+          "url": "https://wallstreetcn.com/livenews/3083626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
           "title": "伊朗关闭与美国所有外交渠道",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%89%80%E6%9C%89%E5%A4%96%E4%BA%A4%E6%B8%A0%E9%81%93%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "伊朗关闭与美国所有沟通渠道",
@@ -103,8 +127,75 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "伊朗已关闭与美国的所有外交和间接沟通渠道，冲突会进一步升级吗？美伊如果彻底断联，会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2024968466726229181",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
+          "url": "https://wallstreetcn.com/articles/3769340",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "伊朗再称没有与美国谈判",
+          "url": "https://news.ifeng.com/c/8s8ZoPSDzwj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "伊朗已关闭与美国外交和间接沟通渠道",
+          "url": "https://www.toutiao.com/trending/7625776411915305003/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "伊朗终止同美国直接外交联系",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%BB%88%E6%AD%A2%E5%90%8C%E7%BE%8E%E5%9B%BD%E7%9B%B4%E6%8E%A5%E5%A4%96%E4%BA%A4%E8%81%94%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "伊朗媒体：伊朗已关闭与美国的所有外交渠道和间接沟通渠道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32918729",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "万斯：若伊朗未达成协议 美国或拿出“尚未动用的手段”",
@@ -129,48 +220,26 @@
           "time_info": "00时23分"
         },
         {
-          "title": "伊朗已关闭与美国的所有外交和间接沟通渠道，冲突会进一步升级吗？美伊如果彻底断联，会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2024968466726229181",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
-          "url": "https://wallstreetcn.com/articles/3769340",
-          "source": "华尔街见闻",
+          "title": "美国代理司法部长就伊朗问题表示，司法部已向白宫提供法律意见。",
+          "url": "https://flash.jin10.com/detail/20260408011803549800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时51分"
         },
         {
-          "title": "伊朗再称没有与美国谈判",
-          "url": "https://news.ifeng.com/c/8s8ZoPSDzwj",
-          "source": "凤凰网",
+          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：石油价格可能会按滞胀的方式推高价格。 招聘偏低、解雇偏低，这都是不确定性。 我对经济前景持谨慎态度，并感到紧张。 高通胀持续的时间越长，就约会根深蒂固地融入经济。",
+          "url": "https://wallstreetcn.com/livenews/3083651",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "伊朗已关闭与美国外交和间接沟通渠道",
-          "url": "https://www.toutiao.com/trending/7625776411915305003/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时51分"
         },
         {
           "title": "EIA短期能源展望报告：预计2027年美国原油消费量为2072.00万桶/日，此前预期为2073.00万桶/日。",
@@ -193,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "古巴国家主席：美国没有“借口”对古巴发动军事行动",
+          "url": "https://wallstreetcn.com/livenews/3083646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "EIA短期能源展望报告：预计2026年美国原油需求降速为4.00万桶/日，此前为-1.00万桶/日。",
@@ -228,26 +308,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "伊朗终止同美国直接外交联系",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%BB%88%E6%AD%A2%E5%90%8C%E7%BE%8E%E5%9B%BD%E7%9B%B4%E6%8E%A5%E5%A4%96%E4%BA%A4%E8%81%94%E7%B3%BB",
-          "source": "百度热搜",
+          "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.897%，投标倍数2.68。",
+          "url": "https://wallstreetcn.com/livenews/3083644",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "伊朗媒体：伊朗已关闭与美国的所有外交渠道和间接沟通渠道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32918729",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时51分"
         },
         {
           "title": "EIA短期能源展望报告：预计2026年美国原油产量将减少8.00万桶/日，此前为2.00万桶/日。",
@@ -261,6 +330,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国国土安全部部长表示，政府可能会停止在所谓“庇护城市”的主要机场为国际旅客办理入境手续。",
+          "url": "https://flash.jin10.com/detail/20260408010818281800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
           "title": "EIA短期能源展望报告：预计2027年美国原油产量将增加44.00万桶/日，此前为22.00万桶/日。",
           "url": "https://flash.jin10.com/detail/20260408000852382800",
           "source": "金十数据",
@@ -272,6 +352,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "标普500指数维持0.4%的跌幅。据纽约时报，美国、以色列、伊朗在最后期限之前加快互相打击的行动。",
+          "url": "https://wallstreetcn.com/livenews/3083642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
           "title": "EIA短期能源展望报告：预计2026年美国原油产量为1351.00万桶/日，此前预期为1361.00万桶/日。预计2027年美国原油产量为1395.00万桶/日，此前预期为1383.00万桶/日。",
           "url": "https://flash.jin10.com/detail/20260408000838423800",
           "source": "金十数据",
@@ -281,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "古巴国家主席：美国没有“借口”对古巴发动军事行动",
+          "url": "https://flash.jin10.com/detail/20260408010624002800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "伊朗称与美国之间的外交及间接对话渠道并未关闭",
@@ -316,6 +418,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "白宫否认美国正考虑在伊朗使用核武器",
+          "url": "https://wallstreetcn.com/livenews/3083638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
           "title": "EIA短期能源展望报告：预计2027年美国原油需求增速为15.00万桶/日，此前为13.00万桶/日。",
           "url": "https://flash.jin10.com/detail/20260408000723971800",
           "source": "金十数据",
@@ -349,6 +462,39 @@
           "time_info": "00时23分"
         },
         {
+          "title": "标普500指数跌幅收窄至0.4%，Axios援引美国和以色列官员的讲话报道称，伊朗谈判在过去24小时出现些许进展，美国总统特朗普所谓的最后期限正不断临近。",
+          "url": "https://wallstreetcn.com/livenews/3083634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国至4月7日3年期国债竞拍-投标倍数 2.68，前值2.55。",
+          "url": "https://flash.jin10.com/detail/20260408010205410800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国至4月7日3年期国债竞拍-得标利率配置百分比 64.47%，前值17.59%。",
+          "url": "https://flash.jin10.com/detail/20260408010205391800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
           "title": "国际油价回吐部分涨幅，布伦特原油期货转跌，美国原油仍有望录得2022年以来最高收盘价。",
           "url": "https://flash.jin10.com/detail/20260407235758177800",
           "source": "金十数据",
@@ -358,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美国至4月7日3年期国债竞拍-得标利率 3.897%，前值3.58%。",
+          "url": "https://flash.jin10.com/detail/20260408010205383800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "伊拉克“真主党旅”表示，他们将释放被绑架的美国记者雪莉·基特尔森。这名记者必须立即离开伊拉克。",
@@ -396,8 +553,19 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
         {
           "title": "EIA短期能源展望报告：霍尔木兹海峡关闭导致的中东石油减产将在4月份增至910万桶/日。",
           "url": "https://flash.jin10.com/detail/20260408001634822800",
@@ -421,15 +589,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
-          "url": "https://wallstreetcn.com/articles/3769368",
-          "source": "华尔街见闻",
+          "title": "“期限”将至 五角大楼被曝欲打击伊朗军民两用能源设施",
+          "url": "https://www.cls.cn/detail/2336577",
+          "source": "财联社热门",
           "ranks": [
-            4
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "EIA短期能源展望报告：预计2026年全球石油产量为1.043亿桶/日，此前预测为1.07亿桶/日；预计2027年产量为1.095亿桶/日，此前预测为1.096亿桶/日。",
@@ -454,15 +622,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "“期限”将至 五角大楼被曝欲打击伊朗军民两用能源设施",
-          "url": "https://www.cls.cn/detail/2336577",
-          "source": "财联社热门",
+          "title": "市场消息：马达加斯加因伊朗冲突引发的能源危机宣布进入紧急状态。",
+          "url": "https://flash.jin10.com/detail/20260408010659794800",
+          "source": "金十数据",
           "ranks": [
-            11
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时51分"
         },
         {
           "title": "EIA短期能源展望报告：预计2026年天然气价格为3.81美元/桶，此前预期为3.90美元/桶。预计2027年天然气价格为3.73美元/桶，此前预期为4.00美元/桶。",
@@ -474,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "金十图示：EIA短期能源展望报告重点一览——上调今明两年美、布两油价格预期，下调今明两年WTI原油消费量预期。",
+          "url": "https://flash.jin10.com/detail/20260408012333774800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "EIA将于十分钟后公布月度短期能源展望报告。",
@@ -490,19 +669,8 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "中国驻沙特大使馆紧急提醒：在沙特中国公民注意安全",
-          "url": "https://wallstreetcn.com/livenews/3083625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
         {
           "title": "外国人来中国旅游更火了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E6%9B%B4%E7%81%AB%E4%BA%86%23&t=31&band_rank=3&Refer=top",
@@ -511,8 +679,31 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "我驻卡塔尔大使馆提醒在卡中国公民加强安全防范",
+          "url": "https://flash.jin10.com/detail/20260408012817665800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时51分"
+        },
+        {
+          "title": "中国驻沙特大使馆紧急提醒：在沙特中国公民注意安全",
+          "url": "https://wallstreetcn.com/livenews/3083625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "中国国民党主席郑丽文率团抵达大陆",
@@ -522,19 +713,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "中国父系基因有几种？",
           "url": "https://www.zhihu.com/question/652397760",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "中国前女首富、唐僧饰演者迟重瑞的妻子陈丽华逝世，如何评价她的一生？她有哪些故事令你印象深刻？",
@@ -544,36 +736,59 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "中国摩托车企组团进军高端市场",
           "url": "https://www.toutiao.com/trending/7626015040579046938/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "中东局势升级 我驻沙特使馆提醒中国公民加强安全防范",
+          "url": "https://flash.jin10.com/detail/20260408011731361800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时51分"
+        },
+        {
+          "title": "瑞银：来自中国的黄金需求将持续下去",
+          "url": "https://www.toutiao.com/trending/7625255490339504138/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "周二（4月7日）欧市尾盘，ICE英国天然气期货涨4.87%，报133.08便士/千卡。 TTF基准荷兰天然气期货涨4.72%，报52.400欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.08%，报70.61欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3083618",
+          "title": "法国将快速通过立法以保护其陷入困境的农民",
+          "url": "https://wallstreetcn.com/livenews/3083654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时51分"
         },
         {
           "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
@@ -581,6 +796,17 @@
           "source": "财联社热门",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "周二（4月7日）欧市尾盘，ICE英国天然气期货涨4.87%，报133.08便士/千卡。 TTF基准荷兰天然气期货涨4.72%，报52.400欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.08%，报70.61欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -612,7 +838,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国际观察丨日本历史教科书中了怎样的毒",
@@ -622,19 +848,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "韩国回应特朗普",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "朝鲜外务省称对韩国的态度不会改变",
+          "url": "https://wallstreetcn.com/livenews/3083637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时51分"
         }
       ]
     },
@@ -650,8 +888,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         },
         {
           "title": "Y 染色体比 X 染色体少那么多基因，那男性比女性到底有什么不同？",
@@ -661,8 +899,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         }
       ]
     },
@@ -678,8 +916,25 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗战争升级，贝莱德印度ETF遭遇数十亿美元资金外流",
+          "url": "https://wallstreetcn.com/livenews/3083636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时51分"
         }
       ]
     },
@@ -695,8 +950,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时51分]"
         }
       ]
     }
