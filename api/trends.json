@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T14:16:56.507786+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-04-08T16:08:02.462839+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 119,
+      "match_count": 122,
       "titles": [
         {
           "title": "美国否认将在伊朗使用核武器",
@@ -27,11 +27,12 @@
             13,
             12,
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 14时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 16时08分]"
         },
         {
           "title": "伊朗已关闭与美国的所有外交和间接沟通渠道，冲突会进一步升级吗？美伊如果彻底断联，会带来哪些连锁反应？",
@@ -73,6 +74,18 @@
           "time_info": "[00时23分 ~ 06时31分]"
         },
         {
+          "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
+          "url": "https://wallstreetcn.com/articles/3769438",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时08分]"
+        },
+        {
           "title": "伊朗再称没有与美国谈判",
           "url": "https://news.ifeng.com/c/8s8ZoPSDzwj",
           "source": "凤凰网",
@@ -82,6 +95,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 07时39分]"
+        },
+        {
+          "title": "白宫否认美国正考虑在伊朗使用核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32919025",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时30分 ~ 16时08分]"
         },
         {
           "title": "伊朗关闭与美国所有沟通渠道",
@@ -137,31 +165,6 @@
           "time_info": "[02时50分 ~ 07时39分]"
         },
         {
-          "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
-          "url": "https://wallstreetcn.com/articles/3769438",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时16分]"
-        },
-        {
-          "title": "白宫否认美国正考虑在伊朗使用核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32919025",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时30分 ~ 14时16分]"
-        },
-        {
           "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
           "url": "https://wallstreetcn.com/articles/3769328",
           "source": "华尔街见闻",
@@ -173,13 +176,35 @@
           "time_info": "[00时23分 ~ 02时50分]"
         },
         {
+          "title": "美国伊朗双方同意停火两周，将开启谈判，双方为何此时接受停火？彻底结束战争的可能性有多大？",
+          "url": "https://www.zhihu.com/question/2025108629058052769",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时08分]"
+        },
+        {
+          "title": "伊朗称美国已原则上承诺履行以下义务：不再进行军事行动、承认伊朗对霍尔木兹海峡持续控制权、支付损失赔偿等",
+          "url": "https://www.cls.cn/detail/2337744",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
           "title": "特朗普宣布美国将协助霍尔木兹海峡航运，“会赚到大钱！”",
           "url": "https://flash.jin10.com/detail/20260408141041289800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -327,17 +352,6 @@
           "time_info": "05时36分"
         },
         {
-          "title": "美国伊朗双方同意停火两周，将开启谈判，双方为何此时接受停火？彻底结束战争的可能性有多大？",
-          "url": "https://www.zhihu.com/question/2025108629058052769",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时16分]"
-        },
-        {
           "title": "美国驻伊拉克巴格达外交设施遭袭击",
           "url": "https://wallstreetcn.com/livenews/3083716",
           "source": "华尔街见闻-快讯",
@@ -435,6 +449,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时31分]"
+        },
+        {
+          "title": "伊朗议长将率团与美国谈判",
+          "url": "https://www.toutiao.com/trending/7626286982997642790/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
         },
         {
           "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
@@ -980,6 +1005,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "荷兰外长：我欢迎美国和伊朗之间为期两周的停火协议。所有各方都必须遵守，并朝着冲突的可持续解决方案努力。霍尔木兹海峡的重新开放对所有航运至关重要。",
+          "url": "https://flash.jin10.com/detail/20260408155534953800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "美国副总统万斯称，美国必须设法让Orban连任匈牙利总理。 总统特朗普声称，美国一直都支持Orban。",
           "url": "https://wallstreetcn.com/livenews/3083608",
           "source": "华尔街见闻-快讯",
@@ -1357,7 +1393,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "外国人来中国旅游更火了",
@@ -1371,6 +1407,17 @@
           "time_info": "[00时23分 ~ 09时26分]"
         },
         {
+          "title": "伊朗表态，感谢中国、俄罗斯",
+          "url": "https://news.ifeng.com/c/8s8yvBMhUVU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时08分]"
+        },
+        {
           "title": "中国前女首富、唐僧饰演者迟重瑞的妻子陈丽华逝世，如何评价她的一生？她有哪些故事令你印象深刻？",
           "url": "https://www.zhihu.com/question/2024803246716315093",
           "source": "知乎",
@@ -1380,17 +1427,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗表态，感谢中国、俄罗斯",
-          "url": "https://news.ifeng.com/c/8s8yvBMhUVU",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时16分]"
         },
         {
           "title": "中国国民党主席郑丽文率团抵达大陆",
@@ -1413,6 +1449,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "扩能提质 中国服务业发展乘势而上",
+          "url": "https://www.toutiao.com/trending/7625667752212217910/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
+          "title": "外交部：中国政府一贯要求中资企业依法依规经营",
+          "url": "https://flash.jin10.com/detail/20260408160302636800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "中国摩托车企组团进军高端市场",
@@ -1603,6 +1661,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "中国台湾3月季调后CPI月率 0.19%，前值0.19%。",
+          "url": "https://flash.jin10.com/detail/20260408160020902800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "富时中国A50指数期货开盘涨1.56%。",
           "url": "https://flash.jin10.com/detail/20260408090020553800",
           "source": "金十数据",
@@ -1612,6 +1681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "中国台湾3月未季调CPI年率 1.2%，预期1.65%，前值1.75%。",
+          "url": "https://flash.jin10.com/detail/20260408160007417800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "中国财政部发行91天期债券，规模300亿元，发行利率1.0335%，边际利率1.0778%，预期1.0500%，投标倍数3.46倍，边际倍数1.43倍； 中国财政部发行3年期债券，规模1700亿元，发行利率1.3074%，边际利率1.3394%，预期1.3200%，投标倍数2.55倍，边际倍数5.02倍。",
@@ -1636,15 +1716,37 @@
           "time_info": "09时26分"
         },
         {
+          "title": "特朗普认为是中国促使伊朗进行谈判？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3084127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "中国台湾证交所加权股价指数收高4.6%报34,761.38点。",
           "url": "https://wallstreetcn.com/livenews/3084017",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "俄媒：中国绿色发展提升抵御能源市场危机冲击的能力",
+          "url": "https://wallstreetcn.com/livenews/3084121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "本田中国3月汽车销量为36,201辆，同比下降34.3%。 本田中国1-3月终端汽车累计销量同比下降22.4%。",
@@ -1697,7 +1799,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1727,7 +1829,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "德国2年期国债收益率下行24个基点至2.49%，为自2023年3月以来最大单日跌幅。",
@@ -1736,9 +1838,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "英国近百万青年陷入就业危机，军方趁势推动扩军计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32917001",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 16时08分]"
         },
         {
           "title": "法国将快速通过立法以保护其陷入困境的农民",
@@ -1751,17 +1865,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时50分]"
-        },
-        {
-          "title": "英国近百万青年陷入就业危机，军方趁势推动扩军计划",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32917001",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时16分]"
         },
         {
           "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
@@ -1781,7 +1884,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1803,7 +1906,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1847,7 +1950,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1858,7 +1961,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1869,7 +1972,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1880,7 +1983,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1891,9 +1994,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "法国外长：文明是无法抹去的。不能把伊朗这个伟大的国家和伟大的人民与那个神权政权混为一谈。",
+          "url": "https://flash.jin10.com/detail/20260408155637420800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "德国3月纯电车注册量超过油车",
@@ -1902,7 +2016,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1913,7 +2027,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1935,7 +2049,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1957,7 +2071,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1979,7 +2093,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1995,21 +2109,65 @@
           "time_info": "00时23分"
         },
         {
+          "title": "市场消息：西班牙认为以色列继续对黎巴嫩的战争“不可接受”",
+          "url": "https://flash.jin10.com/detail/20260408155039523800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心",
+          "url": "https://wallstreetcn.com/livenews/3084114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "美伊停火两周，欧洲斯托克50指数期货上涨5.3%，德国DAX指数期货上涨5.2%，富时100指数期货上涨2.9%。",
           "url": "https://flash.jin10.com/detail/20260408135627721800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "西班牙首相桑切斯将访华",
+          "url": "https://wallstreetcn.com/livenews/3084109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "外交部：愿借西班牙首相访华契机推动两国关系百尺竿头更进一步",
+          "url": "https://flash.jin10.com/detail/20260408154843189800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "韩国回应特朗普",
@@ -2028,6 +2186,28 @@
           "time_info": "[00时23分 ~ 07时39分]"
         },
         {
+          "title": "王毅将访问朝鲜",
+          "url": "https://www.toutiao.com/trending/7626281600566804530/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
+          "title": "美军大批F35将入驻日本三泽基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%A4%A7%E6%89%B9F35%E5%B0%86%E5%85%A5%E9%A9%BB%E6%97%A5%E6%9C%AC%E4%B8%89%E6%B3%BD%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
           "title": "国际观察丨日本历史教科书中了怎样的毒",
           "url": "https://m.thepaper.cn/newsDetail_forward_32914128",
           "source": "澎湃新闻",
@@ -2037,6 +2217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时51分]"
+        },
+        {
+          "title": "韩国：朝鲜发射不明发射体失败",
+          "url": "https://news.ifeng.com/c/8s9JUI6V4dc",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时08分]"
         },
         {
           "title": "韩国首尔综指日内涨幅扩大至7.1%。",
@@ -2050,15 +2241,26 @@
           "time_info": "12时31分"
         },
         {
-          "title": "韩国：朝鲜发射不明发射体失败",
-          "url": "https://news.ifeng.com/c/8s9JUI6V4dc",
-          "source": "凤凰网",
+          "title": "王毅将访问朝鲜",
+          "url": "https://www.douyin.com/hot/2459480",
+          "source": "抖音",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时16分]"
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
+          "title": "王毅将访问朝鲜",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
         },
         {
           "title": "韩国2月经常帐盈余创史上最大月度盈余。",
@@ -2070,6 +2272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "外交部介绍王毅外长访问朝鲜有关安排",
+          "url": "https://flash.jin10.com/detail/20260408155932025800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "韩国2月商品贸易盈余扩大至233.64亿美元，经常帐顺差扩大至231.93亿美元。",
@@ -2100,7 +2313,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -2111,7 +2324,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -2180,12 +2393,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "王毅将访问朝鲜",
+          "url": "https://wallstreetcn.com/livenews/3084108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         }
       ]
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "俄称世界能源市场已发生重大变化",
@@ -2348,6 +2572,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "外交部：世界经济和能源安全受到影响的根源在于伊朗战事",
+          "url": "https://flash.jin10.com/detail/20260408155048707800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "EIA将于十分钟后公布月度短期能源展望报告。",
           "url": "https://flash.jin10.com/detail/20260407235000001800",
           "source": "金十数据",
@@ -2362,7 +2597,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球首只纯内存芯片ETF横空出世 对存储股是喜是忧？",
@@ -2385,6 +2620,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时51分 ~ 05时36分]"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，美光科技、闪迪涨超8%，西部数据、希捷科技涨超7%。能源股大跌，西方石油下跌7.8%，APA集团下跌9.8%，钻井能源下跌7.9%，康菲石油下跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3084152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "港股午评：恒指跳空高开收涨2.82% 半导体板块强势领涨",
@@ -2439,7 +2685,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         }
@@ -2447,8 +2693,19 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "印度外交部：缓和局势、对话与外交是尽早结束当前冲突的关键。",
+          "url": "https://flash.jin10.com/detail/20260408160132477800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
         {
           "title": "富时罗素指数公司：印度尼西亚（印尼）市场地位保持不变。 将越南归类为二级新兴市场，9月21日生效。",
           "url": "https://wallstreetcn.com/livenews/3083711",
@@ -2461,6 +2718,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 06时31分]"
+        },
+        {
+          "title": "印度外交部：我们期待霍尔木兹海峡能够恢复畅通无阻的航行自由和全球商业流动。",
+          "url": "https://flash.jin10.com/detail/20260408160117108800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "印度外交部：欢迎中东停火。",
+          "url": "https://flash.jin10.com/detail/20260408160104475800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "印度10年期国债收益率下行10个基点至6.95%。 印度卢比兑美元上涨0.4%至92.6750。",
