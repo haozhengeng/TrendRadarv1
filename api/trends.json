@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T07:32:44.059404+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-04-09T09:27:40.979825+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 105,
+      "match_count": 113,
       "titles": [
         {
           "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
@@ -28,11 +28,12 @@
             4,
             2,
             3,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 09时27分]"
         },
         {
           "title": "伊朗称美国原则上承诺履行八项义务，若美不接受“十点计划”，停火协议将无效",
@@ -41,11 +42,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
         },
         {
           "title": "美国年轻人为何被锁死一生",
@@ -55,8 +57,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
+        },
+        {
+          "title": "一图看懂｜和伊朗打了39天，美国至少烧了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926612",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
         },
         {
           "title": "比尔·盖茨同意就爱泼斯坦案在美国国会作证",
@@ -66,21 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
-        },
-        {
-          "title": "一图看懂｜和伊朗打了39天，美国至少烧了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926612",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
         },
         {
           "title": "美国白宫：匈牙利能源公司MOL集团从美国及美国企业购入51万吨原油，价值5亿美元。",
@@ -144,7 +147,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -166,7 +169,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -302,24 +305,25 @@
           "time_info": "[04时35分 ~ 05时36分]"
         },
         {
+          "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
+          "url": "https://wallstreetcn.com/articles/3769466",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 09时27分]"
+        },
+        {
           "title": "美国考虑取消针对委内瑞拉央行的制裁，从而解锁石油供应。",
           "url": "https://wallstreetcn.com/livenews/3084600",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
-          "url": "https://wallstreetcn.com/articles/3769466",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -449,7 +453,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -526,7 +530,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -630,6 +634,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "EIA年度能源展望报告：美国原油产量将保持相对稳定，到2050年将小幅下降。",
           "url": "https://flash.jin10.com/detail/20260409025941762800",
           "source": "金十数据",
@@ -658,7 +673,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -669,7 +684,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -779,9 +794,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "伊媒称美国已受无可否认且毁灭性失败",
+          "url": "https://www.toutiao.com/trending/7625527915279171630/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "美国副总统万斯：我们牌面很好，会打好这张牌。",
@@ -850,6 +876,28 @@
           "time_info": "04时35分"
         },
         {
+          "title": "美国驻伊拉克大使馆敦促美国公民尽快撤离",
+          "url": "https://wallstreetcn.com/livenews/3084659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "详解美国重返月球整体计划",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%BE%8E%E5%9B%BD%E9%87%8D%E8%BF%94%E6%9C%88%E7%90%83%E6%95%B4%E4%BD%93%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "美国总统特朗普：许多与美国/伊朗谈判毫无关系的人正在发送各种协议、清单和信件。在很多情况下，他们都是彻头彻尾的骗子、江湖术士，甚至更恶劣。",
           "url": "https://flash.jin10.com/detail/20260409000623381800",
           "source": "金十数据",
@@ -892,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美媒爆料美国未就涉伊朗临时停火协议及时与以色列协商，内塔尼亚胡否认",
+          "url": "https://wallstreetcn.com/livenews/3084658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普周二与以色列总理内塔尼亚胡进行了通话。",
@@ -1048,6 +1107,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "加拿大皇家资本市场：美伊停火后 霍尔木兹海峡的重新开放或将“极其混乱”",
+          "url": "https://wallstreetcn.com/livenews/3084654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "伊朗外交部：伊朗外交部长与土耳其外长通话时表示，德黑兰同意停火，是以其提出的十点方案作为与美国谈判的基础。",
           "url": "https://flash.jin10.com/detail/20260408235845669800",
           "source": "金十数据",
@@ -1147,6 +1217,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "美国前陆军雇员被控向记者泄露机密军事信息",
+          "url": "https://flash.jin10.com/detail/20260409083852293800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "美国副总统万斯：伊朗人认为停火协议包括黎巴嫩，但事实并非如此。",
           "url": "https://flash.jin10.com/detail/20260409033511232800",
           "source": "金十数据",
@@ -1167,6 +1248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "美国驻伊拉克大使馆敦促美国公民尽快撤离",
+          "url": "https://flash.jin10.com/detail/20260409083354751800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "美国驻伊拉克大使馆：伊拉克武装组织周三利用无人机打击周边的外交设施。",
@@ -1193,8 +1285,268 @@
       ]
     },
     {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "日本老人在华求职,月薪要5w",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352960&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%80%81%E4%BA%BA%E5%9C%A8%E5%8D%8E%E6%B1%82%E8%81%8C%2C%E6%9C%88%E8%96%AA%E8%A6%815w",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
+        },
+        {
+          "title": "王毅将访问朝鲜",
+          "url": "https://www.douyin.com/hot/2459480",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
+        },
+        {
+          "title": "外交部回应朝鲜发射弹道导弹",
+          "url": "https://www.toutiao.com/trending/7626196538947305526/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            2,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时32分]"
+        },
+        {
+          "title": "中方回应朝鲜连续2天发射弹道导弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9C%9D%E9%B2%9C%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E5%8F%91%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10,
+            8,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时32分]"
+        },
+        {
+          "title": "日本考虑就确保石油供应问题支持亚洲“本土”企业。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3084605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
+          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
+          "url": "https://wallstreetcn.com/livenews/3084561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时36分]"
+        },
+        {
+          "title": "日本五年期国债收益率上升2.0个基点，至1.805%。",
+          "url": "https://flash.jin10.com/detail/20260409090123978800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "韩美空军将举行由韩国主导的联合军演",
+          "url": "https://wallstreetcn.com/livenews/3084670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "日本30年期国债收益率上行6个基点至3.655%。 日经225指数日内跌幅扩大至0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3084669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "朝鲜进行一系列重要武器系统试验",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E4%B8%80%E7%B3%BB%E5%88%97%E9%87%8D%E8%A6%81%E6%AD%A6%E5%99%A8%E7%B3%BB%E7%BB%9F%E8%AF%95%E9%AA%8C",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "朝鲜进行一系列重要武器系统试验",
+          "url": "https://wallstreetcn.com/livenews/3084617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "日本30年期国债收益率上行4个基点至3.635%。 日本20年期国债收益率上行4.5个基点至3.310%。",
+          "url": "https://wallstreetcn.com/livenews/3084662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "日本30年期国债收益率上升4.0个基点，至3.635%。日本20年期国债收益率上升4.5个基点，至3.310%。",
+          "url": "https://flash.jin10.com/detail/20260409085228434800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "朝鲜进行一系列重要武器系统试验",
+          "url": "https://flash.jin10.com/detail/20260409063359293800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "前日本央行官员：日本央行很可能在4月提高利率",
+          "url": "https://wallstreetcn.com/livenews/3084590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "日本10年期国债收益率上行1.5个基点至2.380%。",
+          "url": "https://wallstreetcn.com/livenews/3084657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "日本央行前官员：日本央行可能在4月份加息",
+          "url": "https://flash.jin10.com/detail/20260409053445582800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "日本央行前执行董事Masaaki Kaizuka称，日本央行本月可能会提高基准利率，以避免在控制通胀方面落后。",
+          "url": "https://flash.jin10.com/detail/20260409051523248800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "韩国首尔综指跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3084651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "日经225指数低开0.2%，韩国首尔综指低开0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3084649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "日本4月3日当周净买进国外股票 14374亿日元，前值 1406亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3084645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "日本4月3日当周外资净买进日本债券 24214亿日元，前值 -26463亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3084644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "西班牙首相桑切斯将访华",
@@ -1203,11 +1555,12 @@
           "ranks": [
             2,
             1,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
         },
         {
           "title": "俄罗斯、欧盟、法国、德国、新西兰、印度等多方表态",
@@ -1217,8 +1570,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
         },
         {
           "title": "法国、德国、英国等多国发表联合声明：欢迎美伊停火，敦促迅速持久地结束战争",
@@ -1228,11 +1581,12 @@
             9,
             8,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
         },
         {
           "title": "英国3月三个月RICS房价指数为-23，创2024年1月以来新低。",
@@ -1241,7 +1595,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -1252,7 +1606,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -1263,7 +1617,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -1290,6 +1644,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
+          "title": "西班牙敦促以色列在“所有战线”停火",
+          "url": "https://wallstreetcn.com/livenews/3084671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "英国两年期国债收益率涨24个基点",
@@ -1437,157 +1802,8 @@
       ]
     },
     {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "日本老人在华求职,月薪要5w",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352960&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%80%81%E4%BA%BA%E5%9C%A8%E5%8D%8E%E6%B1%82%E8%81%8C%2C%E6%9C%88%E8%96%AA%E8%A6%815w",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
-        },
-        {
-          "title": "王毅将访问朝鲜",
-          "url": "https://www.douyin.com/hot/2459480",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
-        },
-        {
-          "title": "外交部回应朝鲜发射弹道导弹",
-          "url": "https://www.toutiao.com/trending/7626196538947305526/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            2,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
-        },
-        {
-          "title": "中方回应朝鲜连续2天发射弹道导弹",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9C%9D%E9%B2%9C%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E5%8F%91%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            10,
-            8,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
-        },
-        {
-          "title": "日本考虑就确保石油供应问题支持亚洲“本土”企业。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3084605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
-          "url": "https://wallstreetcn.com/livenews/3084561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时36分]"
-        },
-        {
-          "title": "朝鲜进行一系列重要武器系统试验",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E4%B8%80%E7%B3%BB%E5%88%97%E9%87%8D%E8%A6%81%E6%AD%A6%E5%99%A8%E7%B3%BB%E7%BB%9F%E8%AF%95%E9%AA%8C",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "朝鲜进行一系列重要武器系统试验",
-          "url": "https://wallstreetcn.com/livenews/3084617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "朝鲜进行一系列重要武器系统试验",
-          "url": "https://flash.jin10.com/detail/20260409063359293800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "前日本央行官员：日本央行很可能在4月提高利率",
-          "url": "https://wallstreetcn.com/livenews/3084590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "日本央行前官员：日本央行可能在4月份加息",
-          "url": "https://flash.jin10.com/detail/20260409053445582800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "日本央行前执行董事Masaaki Kaizuka称，日本央行本月可能会提高基准利率，以避免在控制通胀方面落后。",
-          "url": "https://flash.jin10.com/detail/20260409051523248800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 8,
+      "match_count": 18,
       "titles": [
         {
           "title": "如何评价中国乒协公布伦敦世乒赛团体赛参赛名单，称樊振东因个人原因放弃？对国乒卫冕影响有多大？",
@@ -1597,8 +1813,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
         },
         {
           "title": "日本73岁老人来中国求职",
@@ -1628,6 +1844,17 @@
           "time_info": "[03时18分 ~ 05时36分]"
         },
         {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3084679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "排除中国法律管辖？洲际酒店被约谈",
           "url": "https://www.baidu.com/s?wd=%E6%8E%92%E9%99%A4%E4%B8%AD%E5%9B%BD%E6%B3%95%E5%BE%8B%E7%AE%A1%E8%BE%96%EF%BC%9F%E6%B4%B2%E9%99%85%E9%85%92%E5%BA%97%E8%A2%AB%E7%BA%A6%E8%B0%88",
           "source": "百度热搜",
@@ -1651,6 +1878,18 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
+          "title": "水稻育种新突破：中国科学家揭示免疫驯化机制与广谱抗病育种技术",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927797",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时27分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨3.1%。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，CHAU涨7.7%，EMXC涨5.9%，CQQQ涨5.8%，ASHS涨5.7%，KWEB涨3.74%。",
           "url": "https://wallstreetcn.com/livenews/3084558",
           "source": "华尔街见闻-快讯",
@@ -1662,15 +1901,70 @@
           "time_info": "04时35分"
         },
         {
-          "title": "水稻育种新突破：中国科学家揭示免疫驯化机制与广谱抗病育种技术",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32927797",
-          "source": "澎湃新闻",
+          "title": "丹麦把台湾人“居留证国籍”改为中国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%B9%E9%BA%A6%E6%8A%8A%E5%8F%B0%E6%B9%BE%E4%BA%BA%E2%80%9C%E5%B1%85%E7%95%99%E8%AF%81%E5%9B%BD%E7%B1%8D%E2%80%9D%E6%94%B9%E4%B8%BA%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "富时中国A50指数期货开盘跌0.11%。",
+          "url": "https://flash.jin10.com/detail/20260409090028402800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.05%，上一个交易日夜盘收涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3084665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "信长星会见中国国民党主席郑丽文",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%A1%E9%95%BF%E6%98%9F%E4%BC%9A%E8%A7%81%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "5年来首个 印度商业代表团访问中国",
+          "url": "https://www.baidu.com/s?wd=5%E5%B9%B4%E6%9D%A5%E9%A6%96%E4%B8%AA+%E5%8D%B0%E5%BA%A6%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "伊朗驻华大使感谢中国投下反对票",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E6%8A%95%E4%B8%8B%E5%8F%8D%E5%AF%B9%E7%A5%A8%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "09时27分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨3.05%，报6876.97点。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，中国科技指数ETF（CQQQ）收涨5.94%，中概互联网指数ETF（KWEB）收涨3.71%。 沪深300 2X做多涨8.15%，MSCI新兴市场ex中国ETF涨6.09%，XtrackersHarvest中证50（ASHS）收涨5.57%，德银嘉实沪深300指数ETF（ASHR）收涨4.07%。",
@@ -1682,12 +1976,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "中国小电驴火爆东南亚",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E7%94%B5%E9%A9%B4%E7%81%AB%E7%88%86%E4%B8%9C%E5%8D%97%E4%BA%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3084648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "中国即将发行或正在发行的地方政府债",
+          "url": "https://wallstreetcn.com/livenews/3084647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "油价再调整,新能源车主赢麻",
@@ -1697,8 +2024,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时27分]"
         },
         {
           "title": "标普500指数的11个板块中，工业板块收涨3.75%，电信、原材料板块涨约3.4%，可选消费、信息技术/科技板块涨约2.8%，能源板块则收跌3.66%。",
@@ -1735,6 +2062,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "美股三大指数均涨超2% 能源巨头重挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E6%B6%A8%E8%B6%852%25+%E8%83%BD%E6%BA%90%E5%B7%A8%E5%A4%B4%E9%87%8D%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "机构：高能源价格可能开始对交易造成压力",
           "url": "https://flash.jin10.com/detail/20260409034133088800",
           "source": "金十数据",
@@ -1749,7 +2087,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -1758,9 +2096,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时27分]"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
+          "url": "https://www.cls.cn/detail/2338535",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时27分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
@@ -1774,15 +2124,15 @@
           "time_info": "06时31分"
         },
         {
-          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
-          "url": "https://www.cls.cn/detail/2338535",
-          "source": "财联社热门",
+          "title": "恒指低开0.53%，报25756.41点；恒生科技指数跌1.11%。阿里巴巴、快手、华虹半导体等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3084678",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "09时27分"
         },
         {
           "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
@@ -1846,11 +2196,12 @@
           "url": "https://wallstreetcn.com/articles/3769455",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时27分]"
         },
         {
           "title": "奥地利总统谈及中东局势，称：很高兴各方意识到，战争言论和升级行动无法解决冲突。 （美国总统特朗普）最近几天发出的威胁令人震惊。",
@@ -1862,6 +2213,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "通用智能机器人企业智平方完成股改",
+          "url": "https://wallstreetcn.com/livenews/3084660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "通用智能机器人企业智平方完成股改",
+          "url": "https://flash.jin10.com/detail/20260409084552216800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
