@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T14:27:17.468467+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-04-14T16:22:40.469150+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 105,
+      "match_count": 106,
       "titles": [
         {
           "title": "美媒刊文：打来打去，美国盟友成伊朗战争的“输家”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 16时22分]"
         },
         {
           "title": "当大男子主义色彩的美国防长成为战争推手",
@@ -90,6 +90,17 @@
           "time_info": "[00时55分 ~ 04时44分]"
         },
         {
+          "title": "布林肯：美国政府正将自己逼入困境",
+          "url": "https://news.ifeng.com/c/8sJS1fQn4aK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时22分]"
+        },
+        {
           "title": "伊朗申请不去美国踢世界杯，国际足协拒绝",
           "url": "https://news.ifeng.com/c/8sI8apkUful",
           "source": "凤凰网",
@@ -99,17 +110,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "布林肯：美国政府正将自己逼入困境",
-          "url": "https://news.ifeng.com/c/8sJS1fQn4aK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时27分]"
         },
         {
           "title": "美国总统特朗普：昨日有34艘船只通过霍尔木兹海峡。",
@@ -187,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "受本田电动汽车发展放缓的影响，旭化成将推迟其位于加拿大的电池材料工厂的运营时间至2029年以后。",
+          "url": "https://flash.jin10.com/detail/20260414160732079800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美国原油期货下跌逾2美元或2.1%，至每桶96.99美元。",
@@ -333,6 +344,18 @@
           "time_info": "[12时39分 ~ 14时27分]"
         },
         {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
+        },
+        {
           "title": "美国能源部长赖特：就目前情况来看，若想让石油和天然气价格在今年夏季开始回落，将是一个非常激进的时间表。",
           "url": "https://flash.jin10.com/detail/20260414050156790800",
           "source": "金十数据",
@@ -427,17 +450,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时40分]"
-        },
-        {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
         },
         {
           "title": "国际能源署（IEA）署长Birol：油价并没有体现出（伊朗战争）问题的严峻程度。 希望无需再次释放石油储备，但“我们准备（再次采取这样的）行动”。 （美国和以色列挑起）伊朗战争以来，超过80处石油与天然气设施遭到破坏，其中包括输送枢纽与炼油厂。",
@@ -592,7 +604,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1021,7 +1033,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1186,7 +1198,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
@@ -1194,7 +1206,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "中国为全球市场点亮“希望之光”",
@@ -1219,8 +1231,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 16时22分]"
         },
         {
           "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
@@ -1271,8 +1283,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 16时22分]"
         },
         {
           "title": "西班牙首相称世界离不开中国",
@@ -1297,8 +1309,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 16时22分]"
         },
         {
           "title": "中国正计划向伊朗提供武器？外交部：反对无根据的抹黑或恶意关联",
@@ -1363,18 +1375,6 @@
           "time_info": "[00时55分 ~ 09时31分]"
         },
         {
-          "title": "日本警方再次逮捕强闯中国使馆自卫官",
-          "url": "https://www.toutiao.com/trending/7628432827289239588/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时27分]"
-        },
-        {
           "title": "财晓得｜这波中国科技大爆发，应该如何把握投资机会？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32800051",
           "source": "澎湃新闻",
@@ -1385,18 +1385,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "日警方再次逮捕强闯中国使馆自卫官",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E6%96%B9%E5%86%8D%E6%AC%A1%E9%80%AE%E6%8D%95%E5%BC%BA%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E8%87%AA%E5%8D%AB%E5%AE%98",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时27分]"
         },
         {
           "title": "春日里的中国花经济",
@@ -1410,6 +1398,19 @@
           "time_info": "[12时39分 ~ 14时27分]"
         },
         {
+          "title": "日本警方再次逮捕强闯中国使馆自卫官",
+          "url": "https://www.toutiao.com/trending/7628432827289239588/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时22分]"
+        },
+        {
           "title": "为什么在中国神话体系里，厉害的神都在天上或者地上某个地区，没有地位尊贵的「海洋之神」呢？",
           "url": "https://www.zhihu.com/question/2026209687700272121",
           "source": "知乎",
@@ -1418,8 +1419,33 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 16时22分]"
+        },
+        {
+          "title": "日警方再次逮捕强闯中国使馆自卫官",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E6%96%B9%E5%86%8D%E6%AC%A1%E9%80%AE%E6%8D%95%E5%BC%BA%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E8%87%AA%E5%8D%AB%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            1,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时27分]"
+          "time_info": "[12时39分 ~ 16时22分]"
+        },
+        {
+          "title": "中国国青男篮李沂泽被网友扒出疑似改年龄换名字，原为 06 年出生的张涵泊，篮协已介入调查，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2026270826924695607",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "中国计划向伊朗提供武器？外交部回应",
@@ -1437,17 +1463,6 @@
           "title": "中国成功发射一箭八星",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AB%E6%98%9F",
           "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "中国国青男篮李沂泽被网友扒出疑似改年龄换名字，原为 06 年出生的张涵泊，篮协已介入调查，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2026270826924695607",
-          "source": "知乎",
           "ranks": [
             5
           ],
@@ -1480,6 +1495,28 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
+          "title": "感受中国对外开放的时代脉动",
+          "url": "https://www.toutiao.com/trending/7628027962872348735/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "中国式现代化万千气象看江西",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E6%B1%9F%E8%A5%BF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "日产：全球市场战略以日本、美国和中国市场为核心。",
           "url": "https://flash.jin10.com/detail/20260414091729692800",
           "source": "金十数据",
@@ -1489,6 +1526,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "连续成功！这枚火箭又\"一箭8星\"，中国商业航天进入\"专车时代\"",
+          "url": "https://www.cls.cn/detail/2343274",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
+        },
+        {
+          "title": "中国3月新增社融5.23万亿元，新增人民币贷款2.99万亿元，M2同比增长8.5%",
+          "url": "https://wallstreetcn.com/articles/3769832",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时22分]"
+        },
+        {
+          "title": "拉夫罗夫已抵达中国开始访问",
+          "url": "https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E5%B7%B2%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%A7%8B%E8%AE%BF%E9%97%AE",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时22分]"
         },
         {
           "title": "中国式调解：给阿巴和平以最大机会",
@@ -1504,29 +1577,6 @@
           "time_info": "[01时53分 ~ 05时40分]"
         },
         {
-          "title": "中国3月新增社融5.23万亿元，新增人民币贷款2.99万亿元，M2同比增长8.5%",
-          "url": "https://wallstreetcn.com/articles/3769832",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时27分]"
-        },
-        {
-          "title": "拉夫罗夫已抵达中国开始访问",
-          "url": "https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E5%B7%B2%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%A7%8B%E8%AE%BF%E9%97%AE",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时27分]"
-        },
-        {
           "title": "国产摩托车被严重低估了吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%91%A9%E6%89%98%E8%BD%A6%E8%A2%AB%E4%B8%A5%E9%87%8D%E4%BD%8E%E4%BC%B0%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -1537,6 +1587,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时39分 ~ 14时27分]"
+        },
+        {
+          "title": "为什么近五年的国产爆款剧里，「不完美的女主角」越来越多了，而男性主角却似乎被困在了「完美人设」里？",
+          "url": "https://www.zhihu.com/question/2026427289135591886",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
+        },
+        {
+          "title": "全球争购中国变压器 变压器高景气度有望延续",
+          "url": "https://www.cls.cn/detail/2342912",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 16时22分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -1556,39 +1628,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
-        },
-        {
-          "title": "连续成功！这枚火箭又\"一箭8星\"，中国商业航天进入\"专车时代\"",
-          "url": "https://www.cls.cn/detail/2343274",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "为什么近五年的国产爆款剧里，「不完美的女主角」越来越多了，而男性主角却似乎被困在了「完美人设」里？",
-          "url": "https://www.zhihu.com/question/2026427289135591886",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "全球争购中国变压器 变压器高景气度有望延续",
-          "url": "https://www.cls.cn/detail/2342912",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1639,6 +1678,17 @@
           "time_info": "[14时26分 ~ 14时27分]"
         },
         {
+          "title": "英方以“国家安全”为由排除中国产品参与其风电项目 商务部回应",
+          "url": "https://www.cls.cn/detail/2343171",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "中国地震台网正式测定：04月14日12时12分在四川内江市资中县（北纬29.67度，东经104.85度）发生3.1级地震，震源深度6千米。",
           "url": "https://flash.jin10.com/detail/20260414121616795800",
           "source": "金十数据",
@@ -1678,7 +1728,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1716,13 +1766,24 @@
           "time_info": "12时40分"
         },
         {
+          "title": "外交部：希望韩国政府恪守一个中国原则",
+          "url": "https://wallstreetcn.com/livenews/3087537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "中国台湾证交所加权股价指数收高2.4%报36,296.12点。",
           "url": "https://wallstreetcn.com/livenews/3087437",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1824,12 +1885,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "外交部：藏南地区是中国领土，中方从不承认所谓“阿鲁纳恰尔邦”",
+          "url": "https://wallstreetcn.com/livenews/3087523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "san值狂掉,日本活虫笔走红",
@@ -1839,11 +1911,12 @@
             21,
             22,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 16时22分]"
         },
         {
           "title": "日本饿熊袭人,开启猎杀新赛季",
@@ -1853,8 +1926,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "日本2月库存月率终值 0.3%，前值0.3%。",
@@ -2043,7 +2116,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2054,7 +2127,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2131,7 +2204,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2175,7 +2248,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2208,9 +2281,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "日本首相高市早苗与阿曼苏丹通电话。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3087527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -2238,11 +2322,12 @@
             4,
             8,
             9,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 16时22分]"
         },
         {
           "title": "西班牙首相访华有何目的",
@@ -2251,11 +2336,12 @@
           "ranks": [
             1,
             6,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 16时22分]"
         },
         {
           "title": "德国3月批发物价指数月率 2.7%，前值0.6%。",
@@ -2264,7 +2350,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2275,7 +2361,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2336,7 +2422,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2391,7 +2477,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2413,7 +2499,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2545,7 +2631,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
@@ -2553,7 +2639,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "新能源车牌绿色变白色？交管部门回应",
@@ -2580,8 +2666,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 16时22分]"
         },
         {
           "title": "霍尔木兹海峡船舶通行再次完全中断，全球能源与航运要面临多大冲击？接下来油价会怎么走？",
@@ -2605,8 +2691,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -2643,6 +2729,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 14时27分]"
+        },
+        {
+          "title": "IEA月报：恢复霍尔木兹海峡通行是缓解能源供应和价格压力的首要关键因素。",
+          "url": "https://flash.jin10.com/detail/20260414160716231800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "欧洲央行管委Rehn：中东战争对能源生产基础设施造成的损害修复工作将在战争急性阶段结束后持续很长时间。 2026年总体通胀上升不可避免，但其中期影响仍不明朗。 利率决策不会事先锁定。 现在放慢绿色转型将是“严重错误”。 中东冲突凸显绿色转型对欧洲韧性和竞争力的重要性。",
+          "url": "https://wallstreetcn.com/livenews/3087550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "国际能源署（IEA）：预计受战争影响，全球石油需求将出现自2020年以来的首次下降。 预计2026年全球原油供应将减少150万桶/日，而此前预测为增加110万桶/日。 预计2026年全球原油供应将超过需求41万桶/日，上一份报告为246万桶/日。 因战争影响，2026年全球原油需求预计减少8万桶/日，前一份报告为增加64万桶/日。 恢复霍尔木兹海峡的运输是缓解能源供应和价格压力的最关键变量。 4月初霍尔木兹海峡的原油、燃料和NGL运输量为380万桶/日，战前超过2000万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3087548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "标普500指数初步收涨1%，金融、科技板块涨超1.6%，能源板块涨0.3%，日用消费品板块跌1%，公用事业板块跌1.2%。 纳斯达克100指数初步收涨1%，成分股中，铿腾电子涨8.4%，Atlassian涨7.2%，Workday、Adobe、新思科技、AppLovin、CrowdStrike、Arm控股、PayPal、财捷Intuit、路透、英特尔至少涨4.5%，沃尔玛跌1.8%，卡夫亨氏跌2.7%，Fastenal跌7%。",
@@ -2687,6 +2806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "IEA月报：国际能源署预测假设中东地区的石油和天然气供应将在年中恢复。",
+          "url": "https://flash.jin10.com/detail/20260414160359132800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "国际货币基金组织总裁格奥尔基耶娃：各国应“避免造成伤害”，避免实施会加剧危机的能源限制措施。亚洲、撒哈拉以南非洲及南太平洋岛国正受到与战争相关危机的冲击。若霍尔木兹海峡长期关闭，将对经济增长和通胀产生更为严重的影响。",
@@ -2783,7 +2913,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2808,6 +2938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：激烈战事阶段结束后，中东战争对能源生产基础设施造成的损害修复工作将持续很长一段时间。",
+          "url": "https://flash.jin10.com/detail/20260414160108781800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -2899,7 +3040,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "你如何看待印度人口问题",
@@ -2929,8 +3070,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 14时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 16时22分]"
         },
         {
           "title": "台湾引进印度劳工,民众怒了",
@@ -2940,28 +3081,41 @@
             19,
             20,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 16时22分]"
+        },
+        {
+          "title": "行业组织：印度3月份国内乘用车销量同比增长16%。",
+          "url": "https://flash.jin10.com/detail/20260414160745891800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "印度男孩遭蛇咬伤被父母浸入恒河",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%A9%E9%81%AD%E8%9B%87%E5%92%AC%E4%BC%A4%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%B5%B8%E5%85%A5%E6%81%92%E6%B2%B3%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "机器人短跑破纪录有什么用",
@@ -2996,11 +3150,73 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时22分]"
+        },
+        {
+          "title": "高德首款具身机器人将亮相",
+          "url": "https://wallstreetcn.com/livenews/3087529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "瑞银：人形机器人仍在早期阶段，“电动车时刻”尚未到来",
+          "url": "https://wallstreetcn.com/livenews/3087528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "多校试点「博士 + 硕士」双学位，鼓励博士生读人工智能等专业硕士，出于哪些考量？对高知人才培养有哪些影响？",
+          "url": "https://www.zhihu.com/question/2027138274049671830",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "硅谷面临人工智能就业恐慌",
+          "url": "https://www.toutiao.com/trending/7628138923164139570/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "市场消息：Adobe与乐购（TESCO）达成人工智能战略合作，为乐购客户打造个性化体验并提升会员忠诚度奖励。",
+          "url": "https://flash.jin10.com/detail/20260413235747026800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     },
@@ -3016,8 +3232,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时22分]"
         },
         {
           "title": "华强买瓜但是量子力学",
@@ -3046,34 +3262,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 07时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "硅谷面临人工智能就业恐慌",
-          "url": "https://www.toutiao.com/trending/7628138923164139570/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "市场消息：Adobe与乐购（TESCO）达成人工智能战略合作，为乐购客户打造个性化体验并提升会员忠诚度奖励。",
-          "url": "https://flash.jin10.com/detail/20260413235747026800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
         }
       ]
     }
