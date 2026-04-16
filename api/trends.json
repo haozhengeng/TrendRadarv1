@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T04:53:35.001959+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-04-17T05:36:26.512375+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 63,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "美国多位机密领域科学家失踪或死亡",
@@ -26,11 +26,12 @@
           "ranks": [
             26,
             23,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
@@ -39,22 +40,48 @@
           "ranks": [
             19,
             14,
-            15
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
+        },
+        {
+          "title": "美国国防部长遭弹劾",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E9%81%AD%E5%BC%B9%E5%8A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            24,
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
-          "title": "美国中央司令部：林肯号航母正在阿拉伯海航行，美国军队并未封锁霍尔木兹海峡。超过10,000名美国军人、12艘以上舰艇和100架以上飞机在区域水域执行封锁，确保没有船只违反总统的声明。",
-          "url": "https://flash.jin10.com/detail/20260417043858258800",
+          "title": "美国证交会文件显示：奈飞公司联合首席执行官在2025年的总体薪酬达到了5320万美元。",
+          "url": "https://flash.jin10.com/detail/20260417051231882800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
+          "url": "https://wallstreetcn.com/livenews/3089591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "霍尔木兹海峡之后，印媒担心美国盯上马六甲海峡",
@@ -68,28 +95,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国证交会文件显示：Meta公司首席执行官扎克伯格2025年总薪酬为2510万美元。",
-          "url": "https://flash.jin10.com/detail/20260417043659305800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美国证交会文件显示：Meta将于5月27日举行线上年度会议。",
-          "url": "https://flash.jin10.com/detail/20260417043657693800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
           "url": "https://wallstreetcn.com/livenews/3089499",
           "source": "华尔街见闻-快讯",
@@ -101,15 +106,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国财长贝森特4月15日会见了英国财政大臣Reeves和意大利财长Giorgetti。",
-          "url": "https://wallstreetcn.com/livenews/3089573",
+          "title": "伊朗总统：美国多次违约 伊朗人民已对其完全失去信任",
+          "url": "https://wallstreetcn.com/livenews/3089589",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时36分"
         },
         {
           "title": "美国总统特朗普：宣布Jennifer Shuford被任命为CDC副主任，Sara Brenner被任命为公共卫生高级顾问。",
@@ -134,19 +139,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国国防部长遭弹劾",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E9%81%AD%E5%BC%B9%E5%8A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时01分]"
-        },
-        {
           "title": "美国卫生部长：疫苗可能已经实现阻止那些感染麻疹的儿童死亡。",
           "url": "https://wallstreetcn.com/livenews/3089560",
           "source": "华尔街见闻-快讯",
@@ -157,6 +149,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时53分]"
+        },
+        {
+          "title": "美国中央司令部：林肯号航母正在阿拉伯海航行，美国军队并未封锁霍尔木兹海峡。超过10,000名美国军人、12艘以上舰艇和100架以上飞机在区域水域执行封锁，确保没有船只违反总统的声明。",
+          "url": "https://flash.jin10.com/detail/20260417043858258800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
         },
         {
           "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
@@ -171,6 +175,42 @@
           "time_info": "[03时00分 ~ 04时01分]"
         },
         {
+          "title": "美国证交会文件显示：Meta公司首席执行官扎克伯格2025年总薪酬为2510万美元。",
+          "url": "https://flash.jin10.com/detail/20260417043659305800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
+        },
+        {
+          "title": "美国证交会文件显示：Meta将于5月27日举行线上年度会议。",
+          "url": "https://flash.jin10.com/detail/20260417043657693800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
+        },
+        {
+          "title": "美国财长贝森特4月15日会见了英国财政大臣Reeves和意大利财长Giorgetti。",
+          "url": "https://wallstreetcn.com/livenews/3089573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
+        },
+        {
           "title": "美国白宫推进向联邦机构开放Mythos",
           "url": "https://flash.jin10.com/detail/20260417024131483800",
           "source": "金十数据",
@@ -181,6 +221,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 04时01分]"
+        },
+        {
+          "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417043100409800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
         },
         {
           "title": "美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。",
@@ -207,6 +259,30 @@
           "time_info": "[03时00分 ~ 04时01分]"
         },
         {
+          "title": "美国铝业一季度销售31.9亿美元，分析师预期32.7亿美元。 维持全年铝产量预期在240万-260万吨不变，维持铝发货量预期在260万-280万吨不变。 维持全年氧化铝发货量预期在1180万-1200万吨不变。",
+          "url": "https://wallstreetcn.com/livenews/3089569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
+        },
+        {
+          "title": "美国财政部：美国财政部长贝森特昨天与英国财政大臣里夫斯会面。",
+          "url": "https://flash.jin10.com/detail/20260417042028564800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
+        },
+        {
           "title": "美国官员们告知欧洲多个国家：（美国和以色列发动）伊朗战争之际，推迟武器交付。（路透）",
           "url": "https://wallstreetcn.com/livenews/3089552",
           "source": "华尔街见闻-快讯",
@@ -217,6 +293,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时53分]"
+        },
+        {
+          "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗欢迎黎巴嫩停火，这是伊朗与美国在巴基斯坦调解下达成的停火协议的一部分。",
+          "url": "https://flash.jin10.com/detail/20260417041422151800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产缩水1758.1万亿美元，创历史上最大降幅，至7.64万亿美元。",
@@ -231,6 +319,18 @@
           "time_info": "[04时01分 ~ 04时53分]"
         },
         {
+          "title": "美国铝业(AA.N)一季度营收31.9亿美元，市场预期32.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417041138412800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
+        },
+        {
           "title": "美国执法部门突击搜查休斯顿燃料贸易商Ikon Midstream办公室",
           "url": "https://wallstreetcn.com/livenews/3089545",
           "source": "华尔街见闻-快讯",
@@ -241,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时53分]"
+        },
+        {
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
         },
         {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
@@ -263,17 +375,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
-          "url": "https://flash.jin10.com/detail/20260417043100409800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "俄外交部：美国封锁霍尔木兹海峡“非法”",
@@ -309,17 +410,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国铝业一季度销售31.9亿美元，分析师预期32.7亿美元。 维持全年铝产量预期在240万-260万吨不变，维持铝发货量预期在260万-280万吨不变。 维持全年氧化铝发货量预期在1180万-1200万吨不变。",
-          "url": "https://wallstreetcn.com/livenews/3089569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
           "title": "美国政府与能源企业讨论潜在的油气增产问题",
           "url": "https://flash.jin10.com/detail/20260417032410717800",
           "source": "金十数据",
@@ -329,17 +419,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "美国财政部：美国财政部长贝森特昨天与英国财政大臣里夫斯会面。",
-          "url": "https://flash.jin10.com/detail/20260417042028564800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "海湾地区与欧洲官员们认为：美国需要六个月才能达成伊朗协议",
@@ -364,6 +443,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "NiSource美股盘后涨3.7%，该公司宣布与谷歌母公司Alphabet附属公司达成长期能源供应协议，用于后者在美国印第安纳州北部开发和运营大规模数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3089580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "原油期货价格延续涨势，布伦特原油期货日内上涨超过4美元，WTI原油期货上涨超过3美元，有报道称美国达成伊朗协议大约仍需六个月时间。",
           "url": "https://flash.jin10.com/detail/20260417004657034800",
           "source": "金十数据",
@@ -386,17 +476,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗欢迎黎巴嫩停火，这是伊朗与美国在巴基斯坦调解下达成的停火协议的一部分。",
-          "url": "https://flash.jin10.com/detail/20260417041422151800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩：对美国总统特朗普撮合的以色列与黎巴嫩停火10天表示欢迎。",
           "url": "https://wallstreetcn.com/livenews/3089489",
           "source": "华尔街见闻-快讯",
@@ -406,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美国对涉及黄金领域的尼加拉瓜官员实施制裁",
+          "url": "https://wallstreetcn.com/livenews/3089578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "美国休斯顿燃料交易商Ikon Midstream公司的律师表示，美国执法部门突袭了该公司，此次执法行动源于路透社此前关于涉嫌燃料走私的调查报道。律师表示Ikon Midstream未参与任何不当行为",
@@ -430,6 +520,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
+          "url": "https://wallstreetcn.com/livenews/3089577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "美国国务院：谈判旨在解决所有剩余问题，包括国际陆地边界的划定。",
           "url": "https://flash.jin10.com/detail/20260417023059680800",
           "source": "金十数据",
@@ -450,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "美国铝业(AA.N)一季度营收31.9亿美元，市场预期32.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260417041138412800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "海湾国家和欧洲官员认为美国需六个月才能达成伊朗协议",
@@ -584,17 +674,6 @@
           "time_info": "03时00分"
         },
         {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
           "url": "https://wallstreetcn.com/livenews/3089539",
           "source": "华尔街见闻-快讯",
@@ -705,6 +784,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "美国卫生部长：疫苗本可能阻止一名儿童因麻疹死亡",
+          "url": "https://wallstreetcn.com/livenews/3089560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "英国财政大臣Reeves：正与美国财长贝森特致力于金融市场的协作。",
           "url": "https://wallstreetcn.com/livenews/3089504",
           "source": "华尔街见闻-快讯",
@@ -729,8 +819,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "看中国经济“春”潮涌动",
@@ -740,8 +830,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "十五五首季中国经济增长好于预期",
@@ -751,8 +841,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "中国不吸烟女性二手烟暴露率达70%",
@@ -760,24 +850,12 @@
           "source": "微博",
           "ranks": [
             8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
-        },
-        {
-          "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
-          "url": "https://www.toutiao.com/trending/7628901409706786858/",
-          "source": "今日头条",
-          "ranks": [
             2,
-            6,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "中国驻日大使馆接连遭到恐怖威胁",
@@ -789,8 +867,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "中国驻日大使馆接连遭恐怖威胁",
@@ -802,8 +880,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "中国海洋采油技术有多牛",
@@ -815,8 +893,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
+        },
+        {
+          "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
+          "url": "https://www.toutiao.com/trending/7628901409706786858/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "中方回应斯里兰卡9名中国人被逮捕",
@@ -826,8 +918,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "实现良好开局！一季度中国GDP同比增长5.0%",
@@ -838,8 +930,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "20位中国学者被美国拒绝入境",
@@ -849,8 +941,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
+        },
+        {
+          "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E8%8A%AF%E7%89%87%E4%B8%8D%E6%98%AF%E6%B5%93%E7%BC%A9%E9%93%80+%E5%8D%96%E4%B8%AD%E5%9B%BD%E5%92%8B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            16,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "观察丨广交会境外采购商超21万，采购商们为何青睐中国企业？",
@@ -860,8 +966,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "警察带台胞走中国公民专用通道",
@@ -870,24 +976,12 @@
           "ranks": [
             9,
             26,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
-        },
-        {
-          "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E8%8A%AF%E7%89%87%E4%B8%8D%E6%98%AF%E6%B5%93%E7%BC%A9%E9%93%80+%E5%8D%96%E4%B8%AD%E5%9B%BD%E5%92%8B%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "中国驻布基纳法索使馆发布提醒",
@@ -897,11 +991,12 @@
             12,
             10,
             16,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "中国驻日大使馆接连遭到恐怖威胁",
@@ -911,8 +1006,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "中国11人参加斯诺克世锦赛",
@@ -925,8 +1020,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "法国全票通过法案，圆明园文物或有望回中国，法议员：雨果希望的一天终于到来",
@@ -938,8 +1033,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "伊朗总统感谢中国",
@@ -949,11 +1044,12 @@
             24,
             16,
             18,
-            28
+            28,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "苏林乘高铁赴广西对中国高铁聊不停",
@@ -974,11 +1070,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "约20名中国学者赴美参会被拒绝入境",
@@ -986,11 +1083,36 @@
           "source": "今日头条",
           "ranks": [
             22,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时36分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "time_info": "[04时53分 ~ 05时36分]"
+        },
+        {
+          "title": "2026中国大学排名",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
         },
         {
           "title": "神舟二十一号航天员乘组圆满完成第三次出舱活动。 航天员张陆累计进行7次出舱活动，刷新了中国航天员个人出舱活动次数的纪录。 神舟二十一号航天员乘组在轨驻留时间将延长约1个月。（新华社）",
@@ -1002,17 +1124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3089562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "“巴铁”硬核表白：中国强我们就强",
@@ -1035,17 +1146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "2026中国大学排名",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         }
       ]
     },
@@ -1061,8 +1161,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "法国会归还侵占文物吗",
@@ -1073,8 +1173,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "法国松口还宝,文物有望归还",
@@ -1084,8 +1184,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "英国女落魄广州捡垃圾维生",
@@ -1095,8 +1195,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "英国央行泰勒：市场在利率问题上曾操之过急，现已趋于平静",
@@ -1234,8 +1334,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
@@ -1246,8 +1346,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "日本物价狂飙,买菜得贷款",
@@ -1257,8 +1357,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "强闯我使馆的日本人所持刀具曝光",
@@ -1266,22 +1366,24 @@
           "source": "今日头条",
           "ranks": [
             10,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "美国财政部：贝森特与日本财务大臣会面，会面时其重申了美日两国之间牢固的联盟关系。",
           "url": "https://flash.jin10.com/detail/20260417043134842800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
         },
         {
           "title": "媒体：日本拒不返还文物是反面典型",
@@ -1290,7 +1392,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -1320,7 +1422,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国家统计局谈国际能源价格大涨：我国能源资源供应充裕、平稳有序",
@@ -1330,8 +1432,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
+        },
+        {
+          "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，能源板块涨1.55%，房地产板块涨1.01%，信息技术/科技板块涨0.78%，保健板块则收跌0.77%。",
+          "url": "https://wallstreetcn.com/livenews/3089570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时36分]"
         },
         {
           "title": "欧洲央行管委Dolenc：能源价格下跌可能让加息变得没必要。 欧洲现在更加接近央行基准假设，而不是接近假设的糟糕场景。（彭博）",
@@ -1358,28 +1484,6 @@
           "time_info": "[04时01分 ~ 04时53分]"
         },
         {
-          "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
-          "url": "https://wallstreetcn.com/livenews/3089571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "标普500指数的11个板块多数收涨，能源板块涨1.55%，房地产板块涨1.01%，信息技术/科技板块涨0.78%，保健板块则收跌0.77%。",
-          "url": "https://wallstreetcn.com/livenews/3089570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
           "title": "IMF：中东冲突引发能源供应冲击，亚洲经济面临多重压力",
           "url": "https://wallstreetcn.com/livenews/3089527",
           "source": "华尔街见闻-快讯",
@@ -1389,6 +1493,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "七国集团（G7）声明：财长财长们讨论中东危机的经济与金融后果、关键矿物供应链、以及乌克兰问题。 各成员国财长在华盛顿举行的会议上讨论了中东危机的经济与金融后果、关键矿产供应链以及对乌克兰的支持。 各成员国财长一致认为，限制长期中东冲突给全球经济带来的成本具有紧迫性。 G7成员国对冲突给最脆弱国家带来的直接和间接影响保持高度警惕。 G7各成员国财长及央行行长重申了对乌克兰的支持。 各成员国财长讨论了维持对俄罗斯施压的必要性，以防止中东危机使其战争行动受益。 各成员国财长讨论了满足乌克兰能源需求的问题，以为即将到来的冬季做准备。",
+          "url": "https://wallstreetcn.com/livenews/3089582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "每个国家都希望自己的领土越大越好，为何会有英格兰扔掉印度的奇葩行为？",
+          "url": "https://www.zhihu.com/question/2025968812399272787",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         }
       ]
     },
@@ -1404,8 +1536,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时36分]"
         }
       ]
     },
