@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-04-17T07:33:37.701305+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-04-17T09:31:28.003632+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 76,
+      "match_count": 82,
       "titles": [
-        {
-          "title": "美国多位机密领域科学家失踪或死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%BD%8D%E6%9C%BA%E5%AF%86%E9%A2%86%E5%9F%9F%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A4%B1%E8%B8%AA%E6%88%96%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            23,
-            5,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
-        },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
           "url": "https://wallstreetcn.com/articles/3770081",
@@ -33,6 +18,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 06时33分]"
+        },
+        {
+          "title": "美国多位机密领域科学家失踪或死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%BD%8D%E6%9C%BA%E5%AF%86%E9%A2%86%E5%9F%9F%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A4%B1%E8%B8%AA%E6%88%96%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            23,
+            5,
+            4,
+            8,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 09时31分]"
         },
         {
           "title": "美国国防部长遭弹劾",
@@ -49,17 +62,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 07时33分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时32分 ~ 07时33分]"
         },
         {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
@@ -85,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美国中央司令部：美军保持警惕，并执行对试图进入或离开伊朗港口和沿海地区的船只的封锁。",
+          "url": "https://flash.jin10.com/detail/20260417091453946800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -358,6 +371,17 @@
           "time_info": "[05时36分 ~ 06时33分]"
         },
         {
+          "title": "伊总统：伊朗人民对美国完全失去信任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
           "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗欢迎黎巴嫩停火，这是伊朗与美国在巴基斯坦调解下达成的停火协议的一部分。",
           "url": "https://flash.jin10.com/detail/20260417041422151800",
           "source": "金十数据",
@@ -458,7 +482,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -667,7 +691,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -692,6 +716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "前美国财长警告：若美债需求崩盘，政府将无力“自救”",
+          "url": "https://flash.jin10.com/detail/20260417085709985800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美国国务院：黎巴嫩将采取实质性措施，防止真主党及其他非国家武装组织在其领土内对以色列目标发动任何袭击。",
@@ -848,6 +883,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "美国总统特朗普16日表示，伊朗战事“应该很快就会结束”。",
+          "url": "https://flash.jin10.com/detail/20260417082429460800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美国总统特朗普：对澳大利亚不满。在霍尔木兹海峡问题上我们需要他们时，他们并未站在我们一边。",
           "url": "https://flash.jin10.com/detail/20260417021926700800",
           "source": "金十数据",
@@ -857,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "美国总统特朗普：尽管我们在伊朗进行了一次“小的远征”，美国目前仍拥有全球最强劲的经济。",
+          "url": "https://flash.jin10.com/detail/20260417082347897800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美国原油期货涨超3%，报道称海湾国家和欧洲官员认为美伊和谈需六个月、呼吁延长停火",
@@ -881,6 +938,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "美国总统特朗普：我们不得不去伊朗“走一趟”。我本不想这么做，但我们别无选择，因为绝不能让他们拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260417082129512800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "英国财政大臣Reeves：正与美国财长贝森特致力于金融市场的协作。",
           "url": "https://wallstreetcn.com/livenews/3089504",
           "source": "华尔街见闻-快讯",
@@ -895,7 +963,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 30,
+      "match_count": 45,
       "titles": [
         {
           "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
@@ -916,8 +984,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "十五五首季中国经济增长好于预期",
@@ -927,8 +995,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "中国不吸烟女性二手烟暴露率达70%",
@@ -955,8 +1023,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
+        },
+        {
+          "title": "实现良好开局！一季度中国GDP同比增长5.0%",
+          "url": "https://wallstreetcn.com/articles/3770099",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "中国驻日大使馆接连遭恐怖威胁",
@@ -968,8 +1049,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "中国海洋采油技术有多牛",
@@ -981,8 +1062,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
@@ -1004,18 +1085,6 @@
           "url": "https://news.ifeng.com/c/8sN67BgzZfw",
           "source": "凤凰网",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
-        },
-        {
-          "title": "实现良好开局！一季度中国GDP同比增长5.0%",
-          "url": "https://wallstreetcn.com/articles/3770099",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             6
           ],
           "is_new": false,
@@ -1045,8 +1114,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "观察丨广交会境外采购商超21万，采购商们为何青睐中国企业？",
@@ -1068,11 +1137,12 @@
             9,
             26,
             29,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "中国驻布基纳法索使馆发布提醒",
@@ -1099,8 +1169,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "中国11人参加斯诺克世锦赛",
@@ -1142,22 +1212,12 @@
             18,
             28,
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
-        },
-        {
-          "title": "肺癌成中国女性第一大癌症",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%99%8C%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%E7%97%87%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时32分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "苏林乘高铁赴广西对中国高铁聊不停",
@@ -1167,11 +1227,12 @@
             21,
             20,
             26,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时59分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[02时59分 ~ 09时31分]"
         },
         {
           "title": "约20名中国学者赴美参会被拒绝入境",
@@ -1181,11 +1242,59 @@
             22,
             10,
             9,
-            27
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 09时31分]"
+        },
+        {
+          "title": "肺癌成中国女性第一大癌症",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%99%8C%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%E7%97%87%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 09时31分]"
+        },
+        {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.toutiao.com/trending/7628666147721740329/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "外交部回应成为中国人助推中文热",
+          "url": "https://www.douyin.com/hot/2468314",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "2026中国大学排名",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            28,
+            16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "time_info": "[04时53分 ~ 09时31分]"
         },
         {
           "title": "20位中国学者被美国拒绝入境",
@@ -1201,16 +1310,48 @@
           "time_info": "[01时04分 ~ 05时36分]"
         },
         {
-          "title": "2026中国大学排名",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D",
-          "source": "bilibili 热搜",
+          "title": "美议员放话：要帮秘鲁从中国拿回钱凯港",
+          "url": "https://news.ifeng.com/c/8sOIolxzIqI",
+          "source": "凤凰网",
           "ranks": [
-            30,
-            28
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时53分 ~ 06时33分]"
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "券商晨会精华：Token量井喷导致算力荒，国产算力在推理端加速突围",
+          "url": "https://www.cls.cn/detail/2346874",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "“摸着中国石头过河”，苏林此访能学到啥？",
+          "url": "https://news.ifeng.com/c/8sOD2dZ4xdf",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "前中超球员张禹称在泰州队遭辱骂造谣，反映中国职业足球哪些问题？",
+          "url": "https://www.zhihu.com/question/2028127674644592074",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
@@ -1223,6 +1364,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时36分]"
+        },
+        {
+          "title": "11名中国选手晋级斯诺克世锦赛正赛",
+          "url": "https://www.baidu.com/s?wd=11%E5%90%8D%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E6%99%8B%E7%BA%A7%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E6%AD%A3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "中国斯诺克距离“全面统治”还有多远",
+          "url": "https://www.toutiao.com/trending/7628263253647310875/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "中国科学家造出“超级铜箔”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%80%A0%E5%87%BA%E2%80%9C%E8%B6%85%E7%BA%A7%E9%93%9C%E7%AE%94%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日有20亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3089672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "神舟二十一号航天员乘组圆满完成第三次出舱活动。 航天员张陆累计进行7次出舱活动，刷新了中国航天员个人出舱活动次数的纪录。 神舟二十一号航天员乘组在轨驻留时间将延长约1个月。（新华社）",
@@ -1253,7 +1449,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -1264,9 +1460,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "富时中国A50指数期货开跌0.29%。",
+          "url": "https://flash.jin10.com/detail/20260417090024922800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.26%，上一个交易日夜盘收跌0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3089659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "中国代表：中方否决涉霍尔木兹海峡决议草案避免了局势升级",
+          "url": "https://flash.jin10.com/detail/20260417082202246800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "中国即将发行或正在发行的地方政府债",
+          "url": "https://wallstreetcn.com/livenews/3089641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "中国科学家成功复刻“类球状闪电”",
@@ -1282,19 +1522,234 @@
       ]
     },
     {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
+        },
+        {
+          "title": "环球时报社评：文物返还，法国的做法值得日本学习",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32981649",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时33分]"
+        },
+        {
+          "title": "日本物价狂飙,买菜得贷款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：日本国际协力银行（JBIC）将设立一个规模高达6000亿日元的新投资窗口，以帮助亚洲国家确保能源供应。",
+          "url": "https://flash.jin10.com/detail/20260417071814745800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美财长贝森特承诺支持日本推进投资审查机制",
+          "url": "https://wallstreetcn.com/livenews/3089598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时33分]"
+        },
+        {
+          "title": "强闯我使馆的日本人所持刀具曝光",
+          "url": "https://www.toutiao.com/trending/7629285508653285430/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时36分]"
+        },
+        {
+          "title": "美国财政部：贝森特与日本财务大臣会面，会面时其重申了美日两国之间牢固的联盟关系。",
+          "url": "https://flash.jin10.com/detail/20260417043134842800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 06时33分]"
+        },
+        {
+          "title": "王子杰日本籍",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E6%9D%B0%E6%97%A5%E6%9C%AC%E7%B1%8D%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "媒体：日本拒不返还文物是反面典型",
+          "url": "https://www.toutiao.com/trending/7629135516709178926/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "日本东证指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3089668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "当被问及日本央行推迟加息是否会引发日元大幅下跌时，日本财务省官员不予置评。其表示，从数据来看，显然不仅是日元，许多货币对美元都在贬值。",
+          "url": "https://wallstreetcn.com/livenews/3089654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本设无人装备部门，欲打造新作战方式",
+          "url": "https://wallstreetcn.com/livenews/3089512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "日本财务省官员：数据显示，许多货币相对于美元正在贬值，不仅仅是日元。",
+          "url": "https://flash.jin10.com/detail/20260417083821112800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本财务省官员：（在被问及日本央行加息延迟是否可能导致日元大幅下跌时）对此不予置评。",
+          "url": "https://flash.jin10.com/detail/20260417083816927800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日经225指数低开0.35%，韩国首尔综指基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3089643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本计划投放5000万只国家储备医用手套",
+          "url": "https://wallstreetcn.com/livenews/3089474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "日本央行行长植田和男：并没有在G7峰会上说日本央行处于观望阶段。",
+          "url": "https://wallstreetcn.com/livenews/3089642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本央行行长植田和男：我们现在看到的是能源驱动的冲击，它既会推高价格，又会压制增长。 如何应对此类状况，将取决于冲击的持续时间以及经济环境。 我们将从可持续实现物价目标角度出发，做出最合适的决策。 日本的实际利率依然处于低位，而中东冲突的前景存在强烈的不确定性。 我们将把这些因素纳入考量，并制定出最适合稳定、可持续地达成物价目标的政策。",
+          "url": "https://wallstreetcn.com/livenews/3089640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "专家解读｜法国通过文物归还法案，我国有多少流失文物能被追回？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32982631",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "法国会归还侵占文物吗",
@@ -1303,33 +1758,36 @@
           "ranks": [
             4,
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "法国松口还宝,文物有望归还",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353289&amp;topic_name=%E6%B3%95%E5%9B%BD%E6%9D%BE%E5%8F%A3%E8%BF%98%E5%AE%9D%2C%E6%96%87%E7%89%A9%E6%9C%89%E6%9C%9B%E5%BD%92%E8%BF%98",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "英国女落魄广州捡垃圾维生",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353295&amp;topic_name=%E8%8B%B1%E5%9B%BD%E5%A5%B3%E8%90%BD%E9%AD%84%E5%B9%BF%E5%B7%9E%E6%8D%A1%E5%9E%83%E5%9C%BE%E7%BB%B4%E7%94%9F",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "英国央行泰勒：市场在利率问题上曾操之过急，现已趋于平静",
@@ -1355,6 +1813,17 @@
           "time_info": "[04时01分 ~ 04时53分]"
         },
         {
+          "title": "法国全票通过文物归还法案背后",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E5%85%A8%E7%A5%A8%E9%80%9A%E8%BF%87%E6%96%87%E7%89%A9%E5%BD%92%E8%BF%98%E6%B3%95%E6%A1%88%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
           "title": "德国财政部长：我认为伊朗战争的影响将持续一段时间。",
           "url": "https://flash.jin10.com/detail/20260417005220118800",
           "source": "金十数据",
@@ -1372,7 +1841,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -1467,130 +1936,6 @@
       ]
     },
     {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "环球时报社评：文物返还，法国的做法值得日本学习",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32981649",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
-        },
-        {
-          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
-        },
-        {
-          "title": "日本物价狂飙,买菜得贷款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
-        },
-        {
-          "title": "日本财务大臣片山皋月：日本国际协力银行（JBIC）将设立一个规模高达6000亿日元的新投资窗口，以帮助亚洲国家确保能源供应。",
-          "url": "https://flash.jin10.com/detail/20260417071814745800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "美财长贝森特承诺支持日本推进投资审查机制",
-          "url": "https://wallstreetcn.com/livenews/3089598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "强闯我使馆的日本人所持刀具曝光",
-          "url": "https://www.toutiao.com/trending/7629285508653285430/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时36分]"
-        },
-        {
-          "title": "美国财政部：贝森特与日本财务大臣会面，会面时其重申了美日两国之间牢固的联盟关系。",
-          "url": "https://flash.jin10.com/detail/20260417043134842800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时33分]"
-        },
-        {
-          "title": "媒体：日本拒不返还文物是反面典型",
-          "url": "https://www.toutiao.com/trending/7629135516709178926/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "日本设无人装备部门，欲打造新作战方式",
-          "url": "https://wallstreetcn.com/livenews/3089512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "日本计划投放5000万只国家储备医用手套",
-          "url": "https://wallstreetcn.com/livenews/3089474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
       "match_count": 8,
       "titles": [
@@ -1600,11 +1945,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 09时31分]"
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯：维瓦能源的吉朗炼油厂在火灾后，柴油生产和航空燃料生产仍保持80%的产能。",
@@ -1694,6 +2040,34 @@
       ]
     },
     {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI将投入超过200亿美元购买Cerebras芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3089671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "英特尔(INTC.O)：已聘请三星半导体制造业资深人士Shawn Han协助代工业务发展。",
+          "url": "https://flash.jin10.com/detail/20260417023154546800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "印度",
       "match_count": 1,
       "titles": [
@@ -1704,11 +2078,12 @@
           "ranks": [
             20,
             14,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时36分 ~ 07时33分]"
+          "appearance_count": 6,
+          "time_info": "[05时36分 ~ 09时31分]"
         }
       ]
     },
@@ -1731,19 +2106,19 @@
       ]
     },
     {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "英特尔(INTC.O)：已聘请三星半导体制造业资深人士Shawn Han协助代工业务发展。",
-          "url": "https://flash.jin10.com/detail/20260417023154546800",
-          "source": "金十数据",
+          "title": "起猛了 看到机器人交警在指挥交通",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E7%9C%8B%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A4%E8%AD%A6%E5%9C%A8%E6%8C%87%E6%8C%A5%E4%BA%A4%E9%80%9A",
+          "source": "百度热搜",
           "ranks": [
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         }
       ]
     }
