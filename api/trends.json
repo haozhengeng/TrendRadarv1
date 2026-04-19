@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T03:36:37.406865+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-04-20T04:27:53.892257+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国交通部长Duffy：如果伊朗战争结束，航空燃油价格将低于（美国和以色列发动）伊朗战争之前。",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "哈里斯：美国人不想打伊朗，特朗普意图“转移焦点”",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
@@ -39,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
@@ -52,30 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
-        },
-        {
-          "title": "美国财长贝森特：欢迎卡塔尔在美国的持续投资，特别是在加强能源安全方面。",
-          "url": "https://flash.jin10.com/detail/20260420030623433800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "加拿大总理：加拿大将吸引全球投资，降低对单一外部市场的依赖",
-          "url": "https://wallstreetcn.com/livenews/3090647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "诡异!多名美国科学家神秘失踪",
@@ -86,52 +65,56 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
-          "title": "美国财长贝森特：在与卡塔尔财长的会晤中，我强调，美国希望遏制伊朗未来的攻击，并确保能源和更广泛的市场不再受到进一步影响。",
-          "url": "https://flash.jin10.com/detail/20260420030617982800",
+          "title": "阿联酋已与美国展开货币互换谈判。阿联酋请求美国提供战时金融支持。",
+          "url": "https://flash.jin10.com/detail/20260420040424980800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "04时27分"
         },
         {
-          "title": "加拿大总理：加美关系“优势”变“劣势”",
-          "url": "https://wallstreetcn.com/livenews/3090646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国财长贝森特：周五与卡塔尔财长进行了会面，讨论美国与卡塔尔之间的持续合作，特别是在伊朗对海湾合作委员会国家的攻击期间。",
-          "url": "https://flash.jin10.com/detail/20260420030549138800",
+          "title": "目前伊朗方面尚未有参与下一轮伊朗-美国谈判的计划。",
+          "url": "https://flash.jin10.com/detail/20260420035533237800",
           "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "04时27分"
         },
         {
-          "title": "伊朗媒体：伊朗拒绝参加与美国的第二轮谈判，伊美“二谈”消息不实，谈判前景不明",
-          "url": "https://wallstreetcn.com/livenews/3090649",
+          "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090635",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            11,
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "美国总统特朗普：明晚在巴基斯坦的对话“应当是迅速的”。 所有问题都已经（在此前的伊斯兰堡对话中）谈到了。 我们正在主导对话。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "伊朗：关闭霍尔木兹海峡 直至美国解除封锁",
@@ -145,6 +128,44 @@
           "time_info": "[00时30分 ~ 02时36分]"
         },
         {
+          "title": "美国能源部长Wright：对俄罗斯石油制裁的豁免措施是短期性的决定。",
+          "url": "https://wallstreetcn.com/livenews/3090630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "白宫澄清：美国副总统万斯将赴巴基斯坦参加会谈",
+          "url": "https://wallstreetcn.com/livenews/3090629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "加拿大总理：加拿大将吸引全球投资，降低对单一外部市场的依赖",
+          "url": "https://wallstreetcn.com/livenews/3090647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
           "title": "美国副总统万斯：梵蒂冈应该不插手美国政治。",
           "url": "https://flash.jin10.com/detail/20260420000353612800",
           "source": "金十数据",
@@ -156,6 +177,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "加拿大总理：加美关系“优势”变“劣势”",
+          "url": "https://wallstreetcn.com/livenews/3090646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗拒绝参加与美国的第二轮谈判。",
@@ -184,6 +217,30 @@
           "time_info": "[00时31分 ~ 02时36分]"
         },
         {
+          "title": "美国财长贝森特：欢迎卡塔尔在美国的持续投资，特别是在加强能源安全方面。",
+          "url": "https://flash.jin10.com/detail/20260420030623433800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
+          "title": "加拿大总理：加美关系“优势”变“劣势”",
+          "url": "https://flash.jin10.com/detail/20260420024710672800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗内部温和派与强硬派之间存在持续冲突。",
           "url": "https://flash.jin10.com/detail/20260420000322341800",
           "source": "金十数据",
@@ -195,6 +252,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "美国财长贝森特：在与卡塔尔财长的会晤中，我强调，美国希望遏制伊朗未来的攻击，并确保能源和更广泛的市场不再受到进一步影响。",
+          "url": "https://flash.jin10.com/detail/20260420030617982800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
         },
         {
           "title": "伊朗总统问美国凭什么决定伊核权利",
@@ -209,6 +278,30 @@
           "time_info": "[01时31分 ~ 02时36分]"
         },
         {
+          "title": "美国财长贝森特：周五与卡塔尔财长进行了会面，讨论美国与卡塔尔之间的持续合作，特别是在伊朗对海湾合作委员会国家的攻击期间。",
+          "url": "https://flash.jin10.com/detail/20260420030549138800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
+          "title": "伊朗媒体：伊朗拒绝参加与美国的第二轮谈判，伊美“二谈”消息不实，谈判前景不明",
+          "url": "https://wallstreetcn.com/livenews/3090649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
           "title": "加拿大总理卡尼：加拿大与美国的密切关系曾经是一种优势，但现在已成为一种劣势。",
           "url": "https://flash.jin10.com/detail/20260420001915475800",
           "source": "金十数据",
@@ -219,54 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时36分]"
-        },
-        {
-          "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3090635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时36分]"
-        },
-        {
-          "title": "美国总统特朗普：明晚在巴基斯坦的对话“应当是迅速的”。 所有问题都已经（在此前的伊斯兰堡对话中）谈到了。 我们正在主导对话。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3090634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时36分]"
-        },
-        {
-          "title": "美国能源部长Wright：对俄罗斯石油制裁的豁免措施是短期性的决定。",
-          "url": "https://wallstreetcn.com/livenews/3090630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时36分]"
-        },
-        {
-          "title": "白宫澄清：美国副总统万斯将赴巴基斯坦参加会谈",
-          "url": "https://wallstreetcn.com/livenews/3090629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "白宫官员表示：美国副总统万斯、特使Witkoff、特使库什纳将前往巴基斯坦，再次与伊朗对话。（路透）",
@@ -341,6 +386,30 @@
           "time_info": "[02时36分 ~ 03时36分]"
         },
         {
+          "title": "美国财长贝森特：上周五，我与巴林财政与国家经济部长沙伊赫·萨尔曼·本·哈利法·阿尔哈利法会面，讨论美国与巴林之间持续的经济和安全合作。",
+          "url": "https://flash.jin10.com/detail/20260420024447488800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：这场出色的（美国）封锁正在摧毁伊朗经济。伊斯兰革命卫队对国际航运的袭击是绝望的表现。",
+          "url": "https://flash.jin10.com/detail/20260420023258462800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们正与伊朗作战，伊朗在全球传播不稳定，而我们没有比美国更好的朋友。",
           "url": "https://flash.jin10.com/detail/20260419233227236800",
           "source": "金十数据",
@@ -365,6 +434,18 @@
           "time_info": "[00时31分 ~ 01时31分]"
         },
         {
+          "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
+          "url": "https://flash.jin10.com/detail/20260420021231153800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
           "title": "最新民调：超六成美国人反对扩大对伊军事行动",
           "url": "https://flash.jin10.com/detail/20260419230401913800",
           "source": "金十数据",
@@ -375,6 +456,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时31分]"
+        },
+        {
+          "title": "据AXIOS网站：尽管被列入黑名单，美国国家安全局仍在使用Anthropic的Mythos模型。",
+          "url": "https://flash.jin10.com/detail/20260420020540780800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
         },
         {
           "title": "男子美国摆摊进货1元卖5美元",
@@ -388,59 +481,15 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "加拿大总理：加美关系“优势”变“劣势”",
-          "url": "https://flash.jin10.com/detail/20260420024710672800",
+          "title": "特朗普：美国海军陆战队已控制试图突破美国封锁的伊朗船只",
+          "url": "https://flash.jin10.com/detail/20260420032732044800",
           "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国财长贝森特：上周五，我与巴林财政与国家经济部长沙伊赫·萨尔曼·本·哈利法·阿尔哈利法会面，讨论美国与巴林之间持续的经济和安全合作。",
-          "url": "https://flash.jin10.com/detail/20260420024447488800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：这场出色的（美国）封锁正在摧毁伊朗经济。伊斯兰革命卫队对国际航运的袭击是绝望的表现。",
-          "url": "https://flash.jin10.com/detail/20260420023258462800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
-          "url": "https://flash.jin10.com/detail/20260420021231153800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "据AXIOS网站：尽管被列入黑名单，美国国家安全局仍在使用Anthropic的Mythos模型。",
-          "url": "https://flash.jin10.com/detail/20260420020540780800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "04时27分"
         },
         {
           "title": "哈里斯：美国人不想打伊朗",
@@ -449,7 +498,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -460,7 +509,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         }
@@ -478,20 +527,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
-        },
-        {
-          "title": "宇树机器人打破人类1500米世界纪录",
-          "url": "https://www.toutiao.com/trending/7630006008840601654/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "今年机器人跑半马也太快了",
@@ -503,8 +540,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
+        },
+        {
+          "title": "宇树机器人打破人类1500米世界纪录",
+          "url": "https://www.toutiao.com/trending/7630006008840601654/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "50分26秒破人类纪录！直击北京亦庄机器人半马赛：荣耀“闪电”夺冠 宇树天工双双“累倒”终点",
@@ -514,8 +564,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "快过人类！荣耀、宇树刷屏2026机器人半马 冠军花落自主导航组",
@@ -525,8 +575,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
+        },
+        {
+          "title": "在机器人身上居然看见了春风得意",
+          "url": "https://www.toutiao.com/trending/7630352926552100379/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "人形机器人半马跑进1小时 行业加速放量期上市公司卡位“供应链”",
@@ -536,20 +599,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
-        },
-        {
-          "title": "在机器人身上居然看见了春风得意",
-          "url": "https://www.toutiao.com/trending/7630352926552100379/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "50分26秒！2026北京亦庄人形机器人半马冠军出炉",
@@ -561,8 +612,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "小孩哥机器人跑一半打招呼被“抱走”",
@@ -573,8 +624,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "荣耀回应首次参加机器人马拉松夺冠",
@@ -586,8 +637,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "机器人半马显眼包大赏",
@@ -597,11 +648,12 @@
             29,
             27,
             24,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "机器人跑得比人类还快有啥用",
@@ -610,11 +662,12 @@
           "ranks": [
             29,
             26,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "荣耀机器人“一跑成名”背后",
@@ -656,11 +709,12 @@
           "url": "https://search.bilibili.com/all?keyword=2026%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%85%A8%E7%A8%8B%E5%9B%9E%E9%A1%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时27分]"
         }
       ]
     },
@@ -676,8 +730,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "中国航司大面积取消日本航班",
@@ -687,8 +741,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "两大展会彰显中国扩大开放决心",
@@ -698,8 +752,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "美媒承认：中国年轻人对美国幻灭了",
@@ -711,8 +765,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "胡锡进：中东战争推高油价，多数国家纯输，中国“有得有失”",
@@ -722,8 +776,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "芯片不卖中国,黄仁勋急了",
@@ -734,8 +788,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "国产光纤全球爆单 价格涨650%",
@@ -748,8 +802,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "俄罗斯一载 40 名中国公民大巴翻车，致 2 人死亡，具体是怎么回事？",
@@ -759,8 +813,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "经纬度：从“养生跑”到破人类纪录，中国机器人成了！",
@@ -772,8 +826,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "多地将有10级以上雷暴大风，中国气象局启动大风强对流四级应急响应",
@@ -785,8 +839,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "中国第七大沙漠“空降”十三朝古都",
@@ -825,8 +879,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "年薪3万,日本动画师为爱发电",
@@ -837,8 +891,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "日本启动十二年来最重大军售",
@@ -850,8 +904,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "日本萝莉毕业,V圈地震",
@@ -862,8 +916,21 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
+        },
+        {
+          "title": "韩国将强化电子烟监管，与传统卷烟同标准",
+          "url": "https://wallstreetcn.com/livenews/3090633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "新华时评｜警惕日本“新型军国主义”危险动向",
@@ -875,18 +942,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 01时31分]"
-        },
-        {
-          "title": "韩国将强化电子烟监管，与传统卷烟同标准",
-          "url": "https://wallstreetcn.com/livenews/3090633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "韩国财政部长（在会见美国财长贝森特之后表示）：美国同意，韩元过度波动不可取。",
@@ -926,6 +981,18 @@
           "time_info": "[00时31分 ~ 02时36分]"
         },
         {
+          "title": "美国财长会见韩国经济部长 一致认为韩元过度波动“不可取”",
+          "url": "https://flash.jin10.com/detail/20260420024624393800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
           "title": "数万日本民众集会高喊不要战争",
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E4%B8%87%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E9%AB%98%E5%96%8A%E4%B8%8D%E8%A6%81%E6%88%98%E4%BA%89%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -935,23 +1002,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 00时31分]"
-        },
-        {
-          "title": "美国财长会见韩国经济部长 一致认为韩元过度波动“不可取”",
-          "url": "https://flash.jin10.com/detail/20260420024624393800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "西班牙将正式提议欧盟终止与以色列联系国协议",
@@ -961,8 +1017,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "西班牙为何选在此时访华",
@@ -972,44 +1028,59 @@
             14,
             16,
             10,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "德国防长：德国海军正为可能部署霍尔木兹海峡做准备",
           "url": "https://wallstreetcn.com/livenews/3090648",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
         },
         {
           "title": "英国海上贸易行动办公室：霍尔木兹海峡威胁等级仍为“危急”级别",
           "url": "https://flash.jin10.com/detail/20260420030203960800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
         },
         {
           "title": "德国防长：德国海军正为可能部署霍尔木兹海峡做准备",
           "url": "https://flash.jin10.com/detail/20260420021716981800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
+          "title": "法国航运公司达飞集团（CMA CGM Group）确认，其一艘船只在霍尔木兹海峡于周六遭到枪击。",
+          "url": "https://flash.jin10.com/detail/20260420032313637800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "04时27分"
         }
       ]
     },
@@ -1022,11 +1093,12 @@
           "url": "https://flash.jin10.com/detail/20260420025553489800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
         },
         {
           "title": "尽管战争造成损失，维多能源集团在第一季度的盈利仍达到约20亿美元。",
@@ -1067,8 +1139,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "现场音频曝光！印度油轮在霍尔木兹海峡遭袭，向伊朗海军喊话",
@@ -1078,8 +1150,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         }
       ]
     },
@@ -1095,8 +1167,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -1121,11 +1193,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时27分]"
         }
       ]
     }
