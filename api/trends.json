@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T18:13:10.001660+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-04-21T19:55:26.089244+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 107,
+      "match_count": 113,
       "titles": [
         {
           "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
@@ -31,19 +31,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 18时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 19时55分]"
         },
         {
           "title": "美国男子枪杀8名儿童后自戕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353501&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9E%AA%E6%9D%808%E5%90%8D%E5%84%BF%E7%AB%A5%E5%90%8E%E8%87%AA%E6%88%95",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时55分]"
         },
         {
           "title": "卫星被前世界首富送入错误轨道 美国商业航天公司股价巨震",
@@ -104,7 +105,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -460,6 +461,19 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
+          "title": "又一伊朗油轮突破美国封锁后返回伊朗",
+          "url": "https://www.toutiao.com/trending/7630538859985698858/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
+        },
+        {
           "title": "古巴证实与美国代表团会晤",
           "url": "https://news.ifeng.com/c/8sUQVkfQWmt",
           "source": "凤凰网",
@@ -470,18 +484,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时35分 ~ 09时31分]"
-        },
-        {
-          "title": "又一伊朗油轮突破美国封锁后返回伊朗",
-          "url": "https://www.toutiao.com/trending/7630538859985698858/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
         },
         {
           "title": "十年来首次！美国高级代表团到访古巴",
@@ -908,9 +910,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "美国启动一万亿元退关税",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353548&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%87%E4%BA%BF%E5%85%83%E9%80%80%E5%85%B3%E7%A8%8E",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "伊朗要求美国立即释放被扣押船只及人员",
@@ -977,6 +990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "据美联社记者： 两名地区官员称，美国和伊朗方面表示，他们将参加在伊斯兰堡举行的新一轮停火谈判。",
+          "url": "https://flash.jin10.com/detail/20260421192349516800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "据CNN：美国副总统万斯的车队于当地时间周一下午6:13（北京时间21日6:13）从白宫出发。",
@@ -1100,6 +1124,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "张治中将军女儿、著名侨领张素久在美国逝世，享年91岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33017846",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "美国北卡罗来纳州发生大规模枪击事件 嫌疑人在逃",
           "url": "https://flash.jin10.com/detail/20260421003034705800",
           "source": "金十数据",
@@ -1128,7 +1163,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1142,6 +1177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美国释放谈判「热信号」，伊朗给出强硬「冷回应」，一热一冷，到底谁在套路谁？局势将如何发展？",
+          "url": "https://www.zhihu.com/question/2029844598520824805",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "伊朗外交部：伊朗已提请联合国秘书长、安理会成员及国际海事组织关注此事，并要求国际机构和负责任的各国政府对美国针对国际商业航运的犯罪行为采取坚决且严肃的回应。",
@@ -1164,6 +1210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "美国军方登上了无国籍受制裁的TIFANI号油轮。美国军方称在印太地区登上该船只。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3091779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "加拿大央行：调查结果表明，通胀预期遭到伊朗战争的冲击。",
@@ -1194,7 +1251,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1254,6 +1311,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "美国总统特朗普：伊朗多次违反停火协议！",
+          "url": "https://flash.jin10.com/detail/20260421190959229800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "美国白宫：特朗普签署与国防生产法案相关的国内石油生产方面的文件；签署与天然气传输、加工、储存及液化天然气能力相关的备忘录。",
           "url": "https://flash.jin10.com/detail/20260421042130383800",
           "source": "金十数据",
@@ -1268,7 +1336,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "日本地震震级修正为7.5级，观测到浪高70厘米海啸",
@@ -1321,18 +1389,6 @@
           "time_info": "[00时56分 ~ 09时31分]"
         },
         {
-          "title": "日本强震上调至7.7级，震中附近有多座核电站，媒体呼吁民众尽快逃生：请回想2011年大地震！",
-          "url": "https://wallstreetcn.com/articles/3770418",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 18时13分]"
-        },
-        {
           "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
           "url": "https://www.zhihu.com/question/2029592121372362319",
           "source": "知乎",
@@ -1355,6 +1411,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 05时39分]"
+        },
+        {
+          "title": "日本强震上调至7.7级，震中附近有多座核电站，媒体呼吁民众尽快逃生：请回想2011年大地震！",
+          "url": "https://wallstreetcn.com/articles/3770418",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 19时55分]"
         },
         {
           "title": "日本强震等级调至 7.7 级，当局呼吁民众尽快逃离，震中附近有多个核电站，可能对当地造成哪些影响？",
@@ -1410,11 +1479,12 @@
             12,
             13,
             14,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 18时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 19时55分]"
         },
         {
           "title": "日本东北海域7.7级地震",
@@ -1451,11 +1521,12 @@
             12,
             20,
             22,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 18时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 19时55分]"
         },
         {
           "title": "媒体评日本军舰穿越台湾海峡",
@@ -1466,11 +1537,12 @@
             18,
             16,
             15,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 18时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 19时55分]"
         },
         {
           "title": "韩国电影哭声重构式解读",
@@ -1484,8 +1556,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 18时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 19时55分]"
         },
         {
           "title": "年薪3万,日本动画师为爱发电",
@@ -1545,6 +1617,19 @@
           "time_info": "[00时56分 ~ 06时35分]"
         },
         {
+          "title": "日学者：超级地震或致日本国家崩溃",
+          "url": "https://www.toutiao.com/trending/7630755864559960091/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
+        },
+        {
           "title": "超级地震或致日本国家崩塌",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E8%87%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E5%B4%A9%E5%A1%8C%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -1572,30 +1657,6 @@
           "time_info": "[12时42分 ~ 18时13分]"
         },
         {
-          "title": "日本女主播遇7.7级地震一秒变脸",
-          "url": "https://www.toutiao.com/trending/7630863108064542774/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
-        },
-        {
-          "title": "日学者：超级地震或致日本国家崩溃",
-          "url": "https://www.toutiao.com/trending/7630755864559960091/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
-        },
-        {
           "title": "日本通过内阁决议正式允许出口杀伤性武器，这意味着什么？会给东北亚地区带来哪些变化？",
           "url": "https://www.zhihu.com/question/2029848664269419073",
           "source": "知乎",
@@ -1603,8 +1664,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时55分]"
         },
         {
           "title": "日本通过内阁决议正式允许出口杀伤性武器",
@@ -1614,11 +1675,36 @@
             19,
             18,
             15,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时55分]"
+        },
+        {
+          "title": "日本女主播遇7.7级地震一秒变脸",
+          "url": "https://www.toutiao.com/trending/7630863108064542774/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://wallstreetcn.com/articles/3770431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 19时55分]"
         },
         {
           "title": "日本正式允许出口杀伤性武器",
@@ -1630,6 +1716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "中方回应日本允许出口杀伤性武器",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%85%81%E8%AE%B8%E5%87%BA%E5%8F%A3%E6%9D%80%E4%BC%A4%E6%80%A7%E6%AD%A6%E5%99%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "日本正式允许出口杀伤性武器",
@@ -1679,17 +1776,6 @@
           "time_info": "[14时31分 ~ 18时13分]"
         },
         {
-          "title": "日本突发7.4级地震，影响多家半导体公司",
-          "url": "https://wallstreetcn.com/articles/3770431",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 18时13分]"
-        },
-        {
           "title": "中方回应日本民众抗议高市修宪企图",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AE%E9%AB%98%E5%B8%82%E4%BF%AE%E5%AE%AA%E4%BC%81%E5%9B%BE",
           "source": "bilibili 热搜",
@@ -1700,6 +1786,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 07时35分]"
+        },
+        {
+          "title": "日本地震冲击半导体链",
+          "url": "https://www.toutiao.com/trending/7631028694100656169/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
         },
         {
           "title": "日本外务省大臣4月20日会见英国外交大臣。（NHK）",
@@ -1725,6 +1824,31 @@
           "time_info": "[12时42分 ~ 14时32分]"
         },
         {
+          "title": "日本自卫队训练场爆炸事故致3死1重伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
+        },
+        {
+          "title": "日本自卫队训练时发生爆炸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时55分]"
+        },
+        {
           "title": "日本未来一周可能发生同等规模地震",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%91%A8%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E5%90%8C%E7%AD%89%E8%A7%84%E6%A8%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -1738,16 +1862,16 @@
           "time_info": "[05时39分 ~ 07时35分]"
         },
         {
-          "title": "日本地震冲击半导体链",
-          "url": "https://www.toutiao.com/trending/7631028694100656169/",
-          "source": "今日头条",
+          "title": "日本开发新脑洞:机器人拆开做",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353542&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%BC%80%E5%8F%91%E6%96%B0%E8%84%91%E6%B4%9E%3A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%86%E5%BC%80%E5%81%9A",
+          "source": "贴吧",
           "ranks": [
             8,
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
+          "time_info": "[18时12分 ~ 19时55分]"
         },
         {
           "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
@@ -1785,38 +1909,28 @@
           "time_info": "[16时28分 ~ 18时13分]"
         },
         {
-          "title": "日本自卫队训练场爆炸事故致3死1重伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
-          "source": "澎湃新闻",
+          "title": "日本地震冲击半导体链",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%86%B2%E5%87%BB%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%93%BE",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            17
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
+          "time_info": "[18时12分 ~ 19时55分]"
         },
         {
-          "title": "日本自卫队训练时发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
+          "title": "日本陆上自卫队一训练场弹药爆炸，2人死亡1人昏迷",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33016657",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "日本开发新脑洞:机器人拆开做",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353542&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%BC%80%E5%8F%91%E6%96%B0%E8%84%91%E6%B4%9E%3A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%86%E5%BC%80%E5%81%9A",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时55分]"
         },
         {
           "title": "据日经新闻：日本政府计划在本十年末前投资1万亿日元，用于开发从废弃物中回收关键矿物和塑料的设施及相关项目。政府将向回收运营商提供补贴。",
@@ -1865,26 +1979,15 @@
           "time_info": "[12时42分 ~ 12时43分]"
         },
         {
-          "title": "日本地震冲击半导体链",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%86%B2%E5%87%BB%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%93%BE",
-          "source": "百度热搜",
+          "title": "高市早苗吹嘘日本武器遭打脸",
+          "url": "https://news.ifeng.com/c/8sVcvuEgtHw",
+          "source": "凤凰网",
           "ranks": [
-            18
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "日本陆上自卫队一训练场弹药爆炸，2人死亡1人昏迷",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33016657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "Google Chrome中的Gemini扩展至更多亚太地区国家/市场，其服务范围扩展至澳大利亚、印度尼西亚及日本。",
@@ -1896,6 +1999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "日本央行陷入两难：地缘风险抑制4月行动，日元疲软倒逼加息预期！",
+          "url": "https://flash.jin10.com/detail/20260421192636554800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "日本通过内阁决议正式允许出口杀伤性武器",
@@ -1929,6 +2043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：与日本首相高市早苗的对话“非常富有成效”。",
+          "url": "https://flash.jin10.com/detail/20260421192400560800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "日本曾给灾民送千纸鹤",
@@ -2025,7 +2150,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -2110,7 +2235,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "台青：若不承认自己是中国人就别放假",
@@ -2184,8 +2309,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 18时13分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 19时55分]"
         },
         {
           "title": "中国乒乓球选手方博宣布复出，将代表哈萨克斯坦出战 WTT，但不改国籍不出战三大赛，如何评价这一操作？",
@@ -2376,6 +2501,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "伊朗战争丨霍尔木兹海峡博弈，给中国带来哪些启示？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "中国上证综指4月21日（周二）开盘下跌6.28点，跌幅：0.15%，报4075.85点；<br/>中国深证成指4月21日（周二）开盘下跌46.36点，跌幅：0.31%，报14920.38点；<br/>中国沪深300指数4月21日（周二）开盘下跌6.93点，跌幅：0.15%，报4750.51点；<br/>中国创业板指数4月21日（周二）开盘下跌15.32点，跌幅：0.42%，报3662.26点；<br/>中国科创50指数4月21日（周二）开盘下跌5.32点，跌幅：0.37%，报1445.2点。",
           "url": "https://flash.jin10.com/detail/20260421092723902800",
           "source": "金十数据",
@@ -2385,6 +2521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "据CNBC：大众汽车将在今年为其中国市场车型增加语音人工智能功能。",
+          "url": "https://flash.jin10.com/detail/20260421193427236800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "中国央行公开市场开展50亿元7天期逆回购操作，操作利率1.40%。今日10亿元逆回购到期。",
@@ -2420,6 +2567,18 @@
           "time_info": "12时43分"
         },
         {
+          "title": "十几块的沙县鸡腿饭成了「中国宝宝的减脂神器」，套餐包含鸡腿、米饭和蔬菜，它的优势在哪里？真能减脂吗？",
+          "url": "https://www.zhihu.com/question/2027397560780727963",
+          "source": "知乎",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时55分]"
+        },
+        {
           "title": "中国运导弹原料船被美扣押？中方回应",
           "url": "https://www.toutiao.com/trending/7631113094080499227/",
           "source": "今日头条",
@@ -2428,8 +2587,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
         },
         {
           "title": "中国代表当场驳斥美方攻击抹黑",
@@ -2440,19 +2599,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
         },
         {
           "title": "如何看待小米「龙虾」Xiaomi miclaw 首批通过中国信通院手机端智能助手（Claw）评估？",
           "url": "https://www.zhihu.com/question/2029547864192237751",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
         },
         {
           "title": "中国空军将以最高礼仪接英雄回家",
@@ -2502,17 +2662,6 @@
           "time_info": "[04时38分 ~ 05时39分]"
         },
         {
-          "title": "十几块的沙县鸡腿饭成了「中国宝宝的减脂神器」，套餐包含鸡腿、米饭和蔬菜，它的优势在哪里？真能减脂吗？",
-          "url": "https://www.zhihu.com/question/2027397560780727963",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
           "title": "中国代表在安理会当场驳斥美方",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E5%BD%93%E5%9C%BA%E9%A9%B3%E6%96%A5%E7%BE%8E%E6%96%B9",
           "source": "百度热搜",
@@ -2530,9 +2679,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "62岁天津大爷在中国足坛爆火",
+          "url": "https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%9D%9B%E7%88%86%E7%81%AB%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "台青：不承认是中国人中秋端午别放假",
@@ -2563,7 +2723,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -2612,6 +2772,28 @@
           "time_info": "14时32分"
         },
         {
+          "title": "中国战舰坦荡过航横当水道释放啥信号",
+          "url": "https://www.toutiao.com/trending/7630281850431701055/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "26岁中国男子在日本失联10天",
+          "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%A4%B1%E8%81%9410%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "中国地震台网正式测定：04月21日00时35分在新疆阿克苏地区库车市发生3.3级地震，震源深度10千米。",
           "url": "https://flash.jin10.com/detail/20260421004221842800",
           "source": "金十数据",
@@ -2651,7 +2833,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -2728,7 +2910,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -2780,7 +2962,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "西班牙提案、意大利变脸、百万民众联署：欧洲对以色列态度加速转向",
@@ -2794,8 +2976,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 18时13分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 19时55分]"
         },
         {
           "title": "解读｜法国通过文物归还法案，敦煌藏经洞文物就能回归吗？",
@@ -2820,6 +3002,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 07时35分]"
+        },
+        {
+          "title": "法国UP主锐评文物归还法",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BDUP%E4%B8%BB%E9%94%90%E8%AF%84%E6%96%87%E7%89%A9%E5%BD%92%E8%BF%98%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "英国工资增速降温幅度低于预期",
@@ -2953,6 +3146,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "据英国金融时报：英国金融科技公司Revolut计划在未来上市时实现2000亿美元估值。",
+          "url": "https://flash.jin10.com/detail/20260421191903159800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "英国2月三个月包括红利的平均工资同比 3.8%，预期 3.6%，前值 3.9%。",
           "url": "https://wallstreetcn.com/livenews/3091570",
           "source": "华尔街见闻-快讯",
@@ -3014,7 +3218,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -3113,7 +3317,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -3135,7 +3339,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         }
@@ -3143,7 +3347,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "【早报】李强最新发声！事关能源安全：宁德时代将举办“超级科技日”",
@@ -3156,6 +3360,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时35分 ~ 14时32分]"
+        },
+        {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
         },
         {
           "title": "全球掀起“能源配给”浪潮",
@@ -3190,21 +3407,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
-        },
-        {
-          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
-          "url": "https://www.zhihu.com/question/2029614261630935945",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
         },
         {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
@@ -3313,13 +3518,24 @@
           "time_info": "16时28分"
         },
         {
+          "title": "截至2026年2月，搭载宁德时代动力电池的新能源车已突破2580万辆",
+          "url": "https://flash.jin10.com/detail/20260421192637763800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "青山纸业：福建省能源集团有限责任公司4月17日至21日减持450万股公司股份",
           "url": "https://wallstreetcn.com/livenews/3091716",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -3333,6 +3549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "宁德时代首席技术官高焕宣布：截至2026年2月份，搭载宁德时代动力电池的新能源车已经突破了2580万辆。",
+          "url": "https://wallstreetcn.com/livenews/3091793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "标普500指数初步收跌0.2%，电信板块跌1.5%，科技板块跌0.1%，能源板块大致持平。 纳斯达克100指数初步收跌0.3%，成分股中，英特尔初步收跌4.3%，核电股CEG跌3.1%，Meta跌2.7%，奈飞跌2.5%，特斯拉跌2%，Arm控股则涨4.9%，迈威尔科技/美满科技涨5.9%，Atlassian涨6.6%。 3M初步收跌2%，与宝洁、强生、霍尼韦尔、Merck领跌道指成分股，苹果、思科、高盛、摩根大通至少涨约1%，与Salesforce领跑。",
@@ -3414,8 +3641,104 @@
       ]
     },
     {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时35分 ~ 19时55分]"
+        },
+        {
+          "title": "中东局势缓和叠加沃什听证会预期，美股期指回暖，半导体股普涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "周一（4月20日），美股行业ETF涨跌各异，全球航空业ETF收跌1.33%，医疗业ETF、公用事业ETF跌超0.9%，半导体ETF跌0.04%，能源业ETF、科技行业ETF、金融业ETF至多涨0.38%，银行业ETF涨0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3091320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时39分]"
+        },
+        {
+          "title": "速腾聚创发布“创世”架构及双旗舰芯片，激光雷达进入图像化时代",
+          "url": "https://wallstreetcn.com/livenews/3091512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向",
+          "url": "https://wallstreetcn.com/livenews/3091364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "帝科股份：拟定增募资不超过30亿元，用于存储芯片封装测试基地项目等",
+          "url": "https://wallstreetcn.com/livenews/3091784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
+          "url": "https://flash.jin10.com/detail/20260421043339536800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "帝科股份：拟定增募资不超30亿元，用于存储芯片封装测试基地等项目",
+          "url": "https://flash.jin10.com/detail/20260421191217195800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "机器人半马见证大国创造澎湃动能",
@@ -3451,11 +3774,12 @@
             15,
             18,
             17,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 18时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 19时55分]"
         },
         {
           "title": "今年机器人马拉松发生了什么",
@@ -3481,11 +3805,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时55分]"
         },
         {
           "title": "小朋友挑战和机器人跑半马",
@@ -3497,6 +3822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "机器人马拉松赛的回顾与展望",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B%E7%9A%84%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B1%95%E6%9C%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         }
       ]
     },
@@ -3539,11 +3875,12 @@
           "url": "https://www.douyin.com/hot/2473570",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时55分]"
         },
         {
           "title": "印度卢比兑美元下跌0.2%，至93.3250，为近一周以来最低水平，印度央行放松了本月早些时候为支撑卢比而实施的一些市场交易限制。",
@@ -3580,7 +3917,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -3613,7 +3950,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -3627,69 +3964,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时35分 ~ 18时13分]"
-        },
-        {
-          "title": "周一（4月20日），美股行业ETF涨跌各异，全球航空业ETF收跌1.33%，医疗业ETF、公用事业ETF跌超0.9%，半导体ETF跌0.04%，能源业ETF、科技行业ETF、金融业ETF至多涨0.38%，银行业ETF涨0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3091320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时39分]"
-        },
-        {
-          "title": "速腾聚创发布“创世”架构及双旗舰芯片，激光雷达进入图像化时代",
-          "url": "https://wallstreetcn.com/livenews/3091512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向",
-          "url": "https://wallstreetcn.com/livenews/3091364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
-          "url": "https://flash.jin10.com/detail/20260421043339536800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
         }
       ]
     },
