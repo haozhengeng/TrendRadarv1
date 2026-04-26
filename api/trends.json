@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T07:30:35.732132+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-04-26T09:50:02.250712+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 48,
+      "match_count": 62,
       "titles": [
         {
           "title": "巴基斯坦迎来一贵客，美国激动坏了",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "美国富豪巨资非洲打猎被5头大象踩死",
@@ -67,22 +68,24 @@
             10,
             29,
             25,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "加拿大女歌手因买不到五一高铁票和恐飞取消北京巡演，这理由你接受吗？你还遇到过哪些奇葩取消演出的理由？",
           "url": "https://www.zhihu.com/question/2030984591343710574",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "美国防长称美军每年都应获和平奖遭网友批评",
@@ -93,8 +96,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "美国为打击伊朗找理由 法律专家批“毫无说服力”",
@@ -108,16 +111,50 @@
           "time_info": "[00时32分 ~ 07时30分]"
         },
         {
+          "title": "美国白宫记者晚宴发生枪击事件，有消息称枪手身亡",
+          "url": "https://news.ifeng.com/c/8sdFBmz1LVA",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "美国白宫记者晚宴发生枪击事件",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "美国白宫晚宴发生枪击事件",
+          "url": "https://www.douyin.com/hot/2479312",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗将通过巴基斯坦作为调解方与美国进行间接磋商。伊朗方面表示，希望达成一项旨在“彻底终结战争”的框架协议。",
           "url": "https://flash.jin10.com/detail/20260426055139108800",
           "source": "金十数据",
           "ranks": [
             1,
-            2
+            2,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时30分]"
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 09时50分]"
         },
         {
           "title": "美国白宫：伊朗不能拥有核武器。就是这么简单。",
@@ -135,6 +172,17 @@
           "time_info": "[03时39分 ~ 07时30分]"
         },
         {
+          "title": "美国总统特朗普：他们（晚宴工作人员）会很快做出决定。无论那个决定是什么，今晚的活动都会与计划大相径庭，我们只好再来一次。",
+          "url": "https://flash.jin10.com/detail/20260426091844221800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "报道：伊巴会谈未获任何突破 美国访巴日期未定",
           "url": "https://flash.jin10.com/detail/20260425225858395800",
           "source": "金十数据",
@@ -144,6 +192,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国白宫记者晚宴大厅发生枪击事件，枪手已身亡。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3094425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "市场消息：据悉美国特勤局不希望特朗普回到晚宴现场，但特朗普坚持要回去。",
+          "url": "https://flash.jin10.com/detail/20260426091259881800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
@@ -339,6 +409,28 @@
           "time_info": "[01时32分 ~ 02时37分]"
         },
         {
+          "title": "牵涉黑石、阿波罗等巨头数十亿美元贷款！两笔违约加剧美国私募信贷困境",
+          "url": "https://wallstreetcn.com/articles/3770878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "美国白宫记者晚宴传出枪声",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E4%BC%A0%E5%87%BA%E6%9E%AA%E5%A3%B0%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
           "title": "美国众议院议员南希：通过《拯救美国法案》，捍卫我们的选举安全。",
           "url": "https://flash.jin10.com/detail/20260426004628460800",
           "source": "金十数据",
@@ -435,6 +527,28 @@
           "time_info": "[03时39分 ~ 04时30分]"
         },
         {
+          "title": "美国参议院少数党领袖舒默：我正在密切关注白宫记者晚宴的事态发展。感谢执法部门的迅速反应，祈祷大家都能平安。",
+          "url": "https://flash.jin10.com/detail/20260426090738143800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "以军总参谋长建议告知美国应重启对伊朗打击",
+          "url": "https://wallstreetcn.com/livenews/3094421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "据新德里电视台：消息人士称，伊朗-美国第二轮谈判定于4月27日举行。",
           "url": "https://flash.jin10.com/detail/20260425223213576800",
           "source": "金十数据",
@@ -479,6 +593,28 @@
           "time_info": "02时37分"
         },
         {
+          "title": "美国白宫记者晚宴发生枪击事件 枪手身亡",
+          "url": "https://flash.jin10.com/detail/20260426085047148800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "据AXIOS记者：美国总统特朗普被其安保人员从白宫记者晚宴上撤离。",
+          "url": "https://flash.jin10.com/detail/20260426084111105800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "美国总统特朗普：而且，我们掌握着所有筹码，他们却一无所有！如果他们想谈，只需打个电话就行了。",
           "url": "https://flash.jin10.com/detail/20260426003010655800",
           "source": "金十数据",
@@ -499,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普和第一夫人梅拉尼娅·特朗普抵达白宫记者晚宴。",
+          "url": "https://flash.jin10.com/detail/20260426083021579800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美国总统特朗普表示，尚未考虑恢复战争。",
@@ -567,6 +714,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "德国总理默茨：美国与伊朗之间的冲突是一场“完全不必要的战争”。",
+          "url": "https://flash.jin10.com/detail/20260426060909985800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "美国总统特朗普：“我们掌握着所有筹码。他们随时可以给我们打电话。”",
           "url": "https://flash.jin10.com/detail/20260426000912927800",
           "source": "金十数据",
@@ -592,7 +750,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
@@ -603,8 +761,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "揭秘中国地面空间站的硬核实力",
@@ -614,8 +772,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "审美高级!中国航天海报被爆赞",
@@ -625,8 +783,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
@@ -641,6 +799,18 @@
           "time_info": "[00时32分 ~ 07时30分]"
         },
         {
+          "title": "德黑兰机场复航：滞留人群迎转机，飞往中国客运航班未成行",
+          "url": "https://news.ifeng.com/c/8scRNSYgOhQ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
+        },
+        {
           "title": "国产司美格鲁肽“首证”缓发？多家申报企业称专利悬崖过后还有数据保护期",
           "url": "https://www.cls.cn/detail/2355644",
           "source": "财联社热门",
@@ -649,35 +819,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
-        },
-        {
-          "title": "“我还会再来 我喜欢中国！”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E8%BF%98%E4%BC%9A%E5%86%8D%E6%9D%A5+%E6%88%91%E5%96%9C%E6%AC%A2%E4%B8%AD%E5%9B%BD%EF%BC%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
-        },
-        {
-          "title": "德黑兰机场复航：滞留人群迎转机，飞往中国客运航班未成行",
-          "url": "https://news.ifeng.com/c/8scRNSYgOhQ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "中国基建太硬核,美博主看傻眼",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353721&amp;topic_name=%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E5%A4%AA%E7%A1%AC%E6%A0%B8%2C%E7%BE%8E%E5%8D%9A%E4%B8%BB%E7%9C%8B%E5%82%BB%E7%9C%BC",
           "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
+        },
+        {
+          "title": "“我还会再来 我喜欢中国！”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E8%BF%98%E4%BC%9A%E5%86%8D%E6%9D%A5+%E6%88%91%E5%96%9C%E6%AC%A2%E4%B8%AD%E5%9B%BD%EF%BC%81%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
@@ -698,6 +857,19 @@
           "time_info": "[00时32分 ~ 07时30分]"
         },
         {
+          "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33053095",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
+        },
+        {
           "title": "有哪些在外国很常见，在中国不常见的东西？",
           "url": "https://www.zhihu.com/question/61729054",
           "source": "知乎",
@@ -711,6 +883,21 @@
           "time_info": "[00时32分 ~ 07时30分]"
         },
         {
+          "title": "美国为何害怕中国大蒜",
+          "url": "https://www.toutiao.com/trending/7632497198902693386/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            10,
+            22,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 09时50分]"
+        },
+        {
           "title": "欧盟对俄制裁列单中国企业，商务部回应",
           "url": "https://news.ifeng.com/c/8scLrtJqc3W",
           "source": "凤凰网",
@@ -722,32 +909,6 @@
           "time_info": "[00时32分 ~ 07时30分]"
         },
         {
-          "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33053095",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
-        },
-        {
-          "title": "美国为何害怕中国大蒜",
-          "url": "https://www.toutiao.com/trending/7632497198902693386/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            10,
-            22,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时30分]"
-        },
-        {
           "title": "视频：中国发射一颗巴基斯坦卫星",
           "url": "https://news.ifeng.com/c/8scOonWO8ax",
           "source": "凤凰网",
@@ -755,8 +916,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "为什么中国没有把土豆列为主食之一呢？",
@@ -783,8 +944,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "ENC官宣教练,中国队暂无音讯",
@@ -794,8 +955,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "商务部新闻发言人就欧盟第20轮对俄制裁列单中国企业答记者问",
@@ -807,6 +968,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时30分]"
+        },
+        {
+          "title": "外媒为何关注中国舰艇编队西太演训",
+          "url": "https://www.toutiao.com/trending/7631739393174814739/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "斯诺克中国德比赵心童9-7领先丁俊晖",
+          "url": "https://www.toutiao.com/trending/7632840328067681855/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "中国成功发射巴基斯坦PRSC-EO3卫星",
@@ -834,6 +1017,50 @@
           "time_info": "[06时27分 ~ 07时30分]"
         },
         {
+          "title": "中国成功发射一颗巴基斯坦卫星",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E9%A2%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8D%AB%E6%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "台名嘴：10年后中国有望成世界最强国",
+          "url": "https://www.toutiao.com/trending/7631781961081618475/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "中国为何要发展核动力航母",
+          "url": "https://www.toutiao.com/trending/7632858300404469284/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "中国乒乓运动员张缤月参加MLTT选秀",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93%E8%BF%90%E5%8A%A8%E5%91%98%E5%BC%A0%E7%BC%A4%E6%9C%88%E5%8F%82%E5%8A%A0MLTT%E9%80%89%E7%A7%80&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
           "title": "中国科学家发布智能科研工具",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E5%B8%83%E6%99%BA%E8%83%BD%E7%A7%91%E7%A0%94%E5%B7%A5%E5%85%B7",
           "source": "百度热搜",
@@ -844,6 +1071,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 05时29分]"
+        },
+        {
+          "title": "欧盟对俄制裁列单中国企业 中方回应",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%E5%88%97%E5%8D%95%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "中国驻马里使馆提醒中国公民暂勿前往马里",
@@ -871,18 +1109,19 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "德国计划在未来几天内将一艘扫雷舰部署至地中海",
           "url": "https://wallstreetcn.com/livenews/3094396",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "网上都说德国对战争的反思是彻底的，那么众人口中的「德国反思标准」具体是指什么？",
@@ -896,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 02时37分]"
+        },
+        {
+          "title": "特朗普欲报复英国、西班牙，欧盟烦了：搞不懂，还要怎样？",
+          "url": "https://news.ifeng.com/c/8scZYkdWAx4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "法国总统马克龙与希腊总理米佐塔基斯在雅典签署战略防务伙伴关系。",
@@ -955,8 +1205,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "日本坦克炸膛事故致3死，“太罕见了，几乎闻所未闻”",
@@ -966,8 +1216,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "日本修订「武器出口三原则」核心条款，武器出口类型不再受限，此举会对全球经贸和日本经济产生何种影响？",
@@ -985,28 +1235,30 @@
           "url": "https://wallstreetcn.com/livenews/3094401",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "日本政府拟修改自卫队“官阶”名称引质疑",
           "url": "https://m.thepaper.cn/newsDetail_forward_33053555",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 09时50分]"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊有望重回谈判，标普、纳指齐新高，半导体连涨18日，英特尔暴涨24%，原油调整",
@@ -1056,53 +1308,25 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "标普全球副董事长：霍尔木兹海峡危机是有史以来最大能源扰动",
-          "url": "https://wallstreetcn.com/livenews/3094413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
-          "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
-          "url": "https://wallstreetcn.com/livenews/3094387",
-          "source": "华尔街见闻-快讯",
+          "title": "美股原油和半导体ETF“历史级别资金流出”，大赚之后有人已选择“套现离场”",
+          "url": "https://wallstreetcn.com/articles/3770879",
+          "source": "华尔街见闻",
           "ranks": [
-            25
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时30分]"
-        },
-        {
-          "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
-          "url": "https://flash.jin10.com/detail/20260425195413000800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         }
       ]
     },
     {
       "keyword_group": "印度",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "印度族群冲突引发枪战致3人死亡",
@@ -1130,6 +1354,57 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 06时28分]"
+        },
+        {
+          "title": "据半岛电视台：阿联酋总统与印度国家安全顾问讨论地区稳定事宜。",
+          "url": "https://flash.jin10.com/detail/20260426083521512800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普全球副董事长：霍尔木兹海峡危机是有史以来最大能源扰动",
+          "url": "https://wallstreetcn.com/livenews/3094413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 09时50分]"
+        },
+        {
+          "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
+          "url": "https://wallstreetcn.com/livenews/3094387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时30分]"
+        },
+        {
+          "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
+          "url": "https://flash.jin10.com/detail/20260425195413000800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
@@ -1147,8 +1422,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -1172,11 +1447,12 @@
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 09时50分]"
         }
       ]
     },
@@ -1193,11 +1469,12 @@
             3,
             8,
             15,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时31分 ~ 07时30分]"
+          "appearance_count": 13,
+          "time_info": "[01时31分 ~ 09时50分]"
         }
       ]
     }
