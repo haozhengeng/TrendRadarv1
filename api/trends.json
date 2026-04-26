@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T22:02:17.677207+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-04-26T22:48:07.796146+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 132,
+      "match_count": 134,
       "titles": [
         {
           "title": "巴基斯坦迎来一贵客，美国激动坏了",
@@ -67,11 +67,12 @@
             4,
             1,
             10,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 22时02分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 22时48分]"
         },
         {
           "title": "伊朗摧毁境内多个受美国和以色列支持的团体",
@@ -127,6 +128,17 @@
           "time_info": "[00时32分 ~ 09时50分]"
         },
         {
+          "title": "美国迎接英国国王，却挂错了国旗",
+          "url": "https://news.ifeng.com/c/8sdQ2k3hg7i",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时56分 ~ 22时48分]"
+        },
+        {
           "title": "美国白宫晚宴发生枪击事件",
           "url": "https://www.douyin.com/hot/2479312",
           "source": "抖音",
@@ -137,17 +149,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时49分 ~ 16时13分]"
-        },
-        {
-          "title": "美国迎接英国国王，却挂错了国旗",
-          "url": "https://news.ifeng.com/c/8sdQ2k3hg7i",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时56分 ~ 22时02分]"
         },
         {
           "title": "美国为打击伊朗找理由 法律专家批“毫无说服力”",
@@ -171,6 +172,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时38分 ~ 19时34分]"
+        },
+        {
+          "title": "伊朗称已成功摧毁3枚美国巨型钻地弹",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E6%88%90%E5%8A%9F%E6%91%A7%E6%AF%813%E6%9E%9A%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%9E%8B%E9%92%BB%E5%9C%B0%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时33分 ~ 22时48分]"
         },
         {
           "title": "美国白宫记者晚宴发生枪击事件，有消息称枪手身亡",
@@ -223,28 +236,6 @@
           "time_info": "[03时39分 ~ 07时30分]"
         },
         {
-          "title": "伊朗外长再次抵达巴基斯坦 据悉计划在访俄前评估美国的回应",
-          "url": "https://flash.jin10.com/detail/20260426214143636800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：我期待着支持（参议院）确认沃什的美联储主席提名资格。",
-          "url": "https://wallstreetcn.com/livenews/3094536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "美国总统特朗普在社交媒体平台发布白宫记者晚宴上的袭击者的特写照片。",
           "url": "https://wallstreetcn.com/livenews/3094436",
           "source": "华尔街见闻-快讯",
@@ -287,6 +278,17 @@
           "time_info": "[09时50分 ~ 17时45分]"
         },
         {
+          "title": "伊朗：已成功摧毁3枚美国巨型钻地弹",
+          "url": "https://news.ifeng.com/c/8sdwwvxNzJq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 22时48分]"
+        },
+        {
           "title": "美国总统特朗普：他们（晚宴工作人员）会很快做出决定。无论那个决定是什么，今晚的活动都会与计划大相径庭，我们只好再来一次。",
           "url": "https://flash.jin10.com/detail/20260426091844221800",
           "source": "金十数据",
@@ -309,27 +311,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "据NBC新闻：美国参议员蒂利斯准备推进对沃什的任命确认程序。",
-          "url": "https://flash.jin10.com/detail/20260426213048552800",
-          "source": "金十数据",
+          "title": "美国参议员蒂利斯：已准备好推进沃什的美联储主席提名确认",
+          "url": "https://wallstreetcn.com/livenews/3094540",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "伊朗称已成功摧毁3枚美国巨型钻地弹",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E6%88%90%E5%8A%9F%E6%91%A7%E6%AF%813%E6%9E%9A%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%9E%8B%E9%92%BB%E5%9C%B0%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 22时02分]"
+          "time_info": "22时48分"
         },
         {
           "title": "市场消息：据悉美国特勤局不希望特朗普回到晚宴现场，但特朗普坚持要回去。",
@@ -357,6 +347,30 @@
           "time_info": "[04时30分 ~ 07时30分]"
         },
         {
+          "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
+          "url": "https://www.toutiao.com/trending/7632586297932238355/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 22时48分]"
+        },
+        {
+          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：我期待着支持（参议院）确认沃什的美联储主席提名资格。",
+          "url": "https://wallstreetcn.com/livenews/3094536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
+        },
+        {
           "title": "美国中央司令部：我们继续对伊朗港口实施海上封锁。",
           "url": "https://flash.jin10.com/detail/20260426050019917800",
           "source": "金十数据",
@@ -368,6 +382,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时30分]"
+        },
+        {
+          "title": "伊朗外长再次抵达巴基斯坦 据悉计划在访俄前评估美国的回应",
+          "url": "https://flash.jin10.com/detail/20260426214143636800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
+        },
+        {
+          "title": "科威特外交部：科威特谴责此次企图武装闯入美国总统出席活动所在会场的行为。",
+          "url": "https://flash.jin10.com/detail/20260426201056394800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时48分]"
         },
         {
           "title": "美国中央司令部：在阿拉伯海拦截了一艘与伊朗有关的船只。",
@@ -396,6 +435,45 @@
           "time_info": "[16时13分 ~ 18时38分]"
         },
         {
+          "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3094509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时48分]"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：对英国查尔斯国王在访问期间的安全充满信心。",
+          "url": "https://flash.jin10.com/detail/20260426200248706800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时48分]"
+        },
+        {
+          "title": "伊朗外长：呼吁建立“不受美国干预”的集体安全机制",
+          "url": "https://wallstreetcn.com/livenews/3094508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时48分]"
+        },
+        {
           "title": "美国总统特朗普给一位身在伊斯兰堡的《纽约邮报》记者发了一条私信：“回家吧。”",
           "url": "https://flash.jin10.com/detail/20260426010033852800",
           "source": "金十数据",
@@ -406,18 +484,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时37分]"
-        },
-        {
-          "title": "科威特外交部：科威特谴责此次企图武装闯入美国总统出席活动所在会场的行为。",
-          "url": "https://flash.jin10.com/detail/20260426201056394800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 22时02分]"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长与美国谈判代表进行了电话沟通，讨论了伊朗与美国谈判的最新进展。",
@@ -470,18 +536,6 @@
           "time_info": "[19时34分 ~ 20时43分]"
         },
         {
-          "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
-          "url": "https://wallstreetcn.com/livenews/3094509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 22时02分]"
-        },
-        {
           "title": "美国总统特朗普在加密货币会议上警告银行家们不要阻碍加密货币立法的推进。",
           "url": "https://flash.jin10.com/detail/20260426031349509800",
           "source": "金十数据",
@@ -506,30 +560,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时30分]"
-        },
-        {
-          "title": "美国代理司法部长布兰奇：对英国查尔斯国王在访问期间的安全充满信心。",
-          "url": "https://flash.jin10.com/detail/20260426200248706800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 22时02分]"
-        },
-        {
-          "title": "伊朗外长：呼吁建立“不受美国干预”的集体安全机制",
-          "url": "https://wallstreetcn.com/livenews/3094508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 22时02分]"
         },
         {
           "title": "据半岛电视台：美国财长贝森特称，伊斯兰革命卫队正试图将越来越多的资金转移到其海外账户中。",
@@ -566,6 +596,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时43分 ~ 22时02分]"
+        },
+        {
+          "title": "据NBC新闻：美国参议员蒂利斯准备推进对沃什的任命确认程序。",
+          "url": "https://flash.jin10.com/detail/20260426213048552800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
@@ -632,17 +674,6 @@
           "time_info": "[09时50分 ~ 16时13分]"
         },
         {
-          "title": "伊朗：已成功摧毁3枚美国巨型钻地弹",
-          "url": "https://news.ifeng.com/c/8sdwwvxNzJq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时02分]"
-        },
-        {
           "title": "美国网友质疑为什么先救万斯",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%88%E6%95%91%E4%B8%87%E6%96%AF%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -707,17 +738,6 @@
           "time_info": "[03时39分 ~ 05时29分]"
         },
         {
-          "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
-          "url": "https://www.toutiao.com/trending/7632586297932238355/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时02分]"
-        },
-        {
           "title": "美国总统特朗普谈伊朗：在取消巴基斯坦谈判10分钟后收到一份新提议。",
           "url": "https://flash.jin10.com/detail/20260426025031320800",
           "source": "金十数据",
@@ -777,6 +797,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时43分 ~ 22时02分]"
+        },
+        {
+          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
+          "url": "https://wallstreetcn.com/livenews/3094530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
         },
         {
           "title": "牵涉黑石、阿波罗等巨头数十亿美元贷款！两笔违约加剧美国私募信贷困境",
@@ -861,6 +893,18 @@
           "time_info": "[20时43分 ~ 22时02分]"
         },
         {
+          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：收到了检察官Pirro周五与美联储相关的声明。 相信美联储在大楼翻修工程中不存在任何不当行为。 司法部明确地告诉我，对美联储的刑事调查结束了。 我准备推动凯文·沃什的美联储主席提名人资格确认程序。 （关于沃什的提名资格确认程序重回正轨）的确如此。 预计沃什将在担任美联储主席保持独立性。 总统特朗普在美联储问题上提出要求，这并不让我感到眼红。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3094527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
+        },
+        {
           "title": "美国代理司法部长布兰奇：相信嫌疑人当时（住）在酒店内。",
           "url": "https://flash.jin10.com/detail/20260426195523202800",
           "source": "金十数据",
@@ -871,6 +915,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时43分 ~ 22时02分]"
+        },
+        {
+          "title": "唐宁街发言人：英国首相斯塔默周日与美国总统特朗普通话，对枪击事件后特朗普及第一夫人平安无事表示欣慰，斯塔默还与特朗普在通话中讨论了在霍尔木兹海峡恢复航运的紧迫需求。",
+          "url": "https://flash.jin10.com/detail/20260426211115942800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
         },
         {
           "title": "伊朗外交部：外交部长阿拉格齐与阿曼苏丹讨论安全问题、霍尔木兹海峡的安全、以及地区安全。 伊朗外长强调，地区国家有必要构建摆脱“美国干预”的集体安全机制。",
@@ -909,6 +965,29 @@
           "time_info": "[20时43分 ~ 22时02分]"
         },
         {
+          "title": "美国代理司法部长布兰奇：目前正在查阅涉嫌在白宫记者晚宴上开枪的枪手的电子邮件，以试图了解其作案动机。",
+          "url": "https://flash.jin10.com/detail/20260426211032143800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
+        },
+        {
+          "title": "美国太空军披露“金穹”合同细节：SpaceX、安杜里尔等12家公司获32亿美元订单",
+          "url": "https://www.cls.cn/detail/2355816",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
+        {
           "title": "金十提示：美国总统特朗普在白宫召开的记者会结束。",
           "url": "https://flash.jin10.com/detail/20260426110502097800",
           "source": "金十数据",
@@ -945,6 +1024,18 @@
           "time_info": "[03时39分 ~ 04时30分]"
         },
         {
+          "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
+          "url": "https://wallstreetcn.com/livenews/3094520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
+        },
+        {
           "title": "美国总统特朗普评论美联储调查：调查并未撤销。",
           "url": "https://flash.jin10.com/detail/20260426023520409800",
           "source": "金十数据",
@@ -979,6 +1070,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 14时56分]"
+        },
+        {
+          "title": "美国总统特朗普：昨晚发生的事情，正是我们一直要求在白宫院内建造一座宽敞、安全且戒备森严的宴会厅的原因。如果白宫目前正在建造的那座军事绝密级宴会厅已经建成，这种事件绝不会发生。",
+          "url": "https://flash.jin10.com/detail/20260426204757081800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
         },
         {
           "title": "美国总统特朗普：伊朗提交给我方的书面文件，本可以做得更好。",
@@ -1029,6 +1132,18 @@
           "time_info": "[12时53分 ~ 14时56分]"
         },
         {
+          "title": "巴基斯坦消息人士称，伊斯兰堡方面正等待伊朗的同意，以便能够与美国举行可能的会晤。",
+          "url": "https://flash.jin10.com/detail/20260426203506245800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
+        },
+        {
           "title": "美国总统特朗普：现场安保非常严密。",
           "url": "https://flash.jin10.com/detail/20260426105629953800",
           "source": "金十数据",
@@ -1051,6 +1166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 14时56分]"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查；不排除（特朗普政府）重新调查美联储的可能性。",
+          "url": "https://flash.jin10.com/detail/20260426201258184800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
         },
         {
           "title": "美国总统特朗普再次批评美联储改革。",
@@ -1077,17 +1204,6 @@
           "time_info": "[12时53分 ~ 14时56分]"
         },
         {
-          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
-          "url": "https://wallstreetcn.com/livenews/3094530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
           "url": "https://flash.jin10.com/detail/20260426185159124800",
           "source": "金十数据",
@@ -1108,17 +1224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：收到了检察官Pirro周五与美联储相关的声明。 相信美联储在大楼翻修工程中不存在任何不当行为。 司法部明确地告诉我，对美联储的刑事调查结束了。 我准备推动凯文·沃什的美联储主席提名人资格确认程序。 （关于沃什的提名资格确认程序重回正轨）的确如此。 预计沃什将在担任美联储主席保持独立性。 总统特朗普在美联储问题上提出要求，这并不让我感到眼红。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3094527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "据新德里电视台：消息人士称，伊朗-美国第二轮谈判定于4月27日举行。",
@@ -1154,17 +1259,6 @@
           "time_info": "19时34分"
         },
         {
-          "title": "唐宁街发言人：英国首相斯塔默周日与美国总统特朗普通话，对枪击事件后特朗普及第一夫人平安无事表示欣慰，斯塔默还与特朗普在通话中讨论了在霍尔木兹海峡恢复航运的紧迫需求。",
-          "url": "https://flash.jin10.com/detail/20260426211115942800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "伊朗外交部长：尚未看到美国是否真正重视外交。",
           "url": "https://flash.jin10.com/detail/20260426003813761800",
           "source": "金十数据",
@@ -1185,17 +1279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "美国代理司法部长布兰奇：目前正在查阅涉嫌在白宫记者晚宴上开枪的枪手的电子邮件，以试图了解其作案动机。",
-          "url": "https://flash.jin10.com/detail/20260426211032143800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "美国白宫记者晚宴发生枪击事件 枪手身亡",
@@ -1275,17 +1358,6 @@
           "time_info": "20时43分"
         },
         {
-          "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
-          "url": "https://wallstreetcn.com/livenews/3094520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "据美国哥伦比亚广播公司（CBS）：在白宫记者晚宴的枪击事件中，嫌疑人至少开了五到八枪。",
           "url": "https://flash.jin10.com/detail/20260426142502762800",
           "source": "金十数据",
@@ -1319,17 +1391,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "美国总统特朗普：昨晚发生的事情，正是我们一直要求在白宫院内建造一座宽敞、安全且戒备森严的宴会厅的原因。如果白宫目前正在建造的那座军事绝密级宴会厅已经建成，这种事件绝不会发生。",
-          "url": "https://flash.jin10.com/detail/20260426204757081800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "美国总统特朗普：伊朗领导层内部正陷入严重的内讧与混乱之中。没人知道究竟谁说了算——就连他们自己也搞不清楚。",
           "url": "https://flash.jin10.com/detail/20260426002923524800",
           "source": "金十数据",
@@ -1350,17 +1411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "巴基斯坦消息人士称，伊斯兰堡方面正等待伊朗的同意，以便能够与美国举行可能的会晤。",
-          "url": "https://flash.jin10.com/detail/20260426203506245800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "美国总统特朗普表示，尚未考虑恢复战争。",
@@ -1416,17 +1466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
-        },
-        {
-          "title": "美国代理司法部长布兰奇：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查；不排除（特朗普政府）重新调查美联储的可能性。",
-          "url": "https://flash.jin10.com/detail/20260426201258184800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "美国总统特朗普：不通过《拯救美国法案》将导致美国参议院历史上政党最糟糕的结果。",
@@ -1575,7 +1614,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
@@ -1636,6 +1675,20 @@
           "time_info": "[00时32分 ~ 07时30分]"
         },
         {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时56分 ~ 22时48分]"
+        },
+        {
           "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33053095",
           "source": "澎湃新闻",
@@ -1686,8 +1739,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时53分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时53分 ~ 22时48分]"
         },
         {
           "title": "有哪些在外国很常见，在中国不常见的东西？",
@@ -1712,25 +1765,12 @@
             6,
             9,
             13,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时53分 ~ 22时02分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时56分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时53分 ~ 22时48分]"
         },
         {
           "title": "美国为何害怕中国大蒜",
@@ -1772,8 +1812,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 22时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 22时48分]"
         },
         {
           "title": "中国基建太硬核,美博主看傻眼",
@@ -1789,8 +1829,22 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 22时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 22时48分]"
+        },
+        {
+          "title": "专家：中国最晚明年进高收入国家行列",
+          "url": "https://www.toutiao.com/trending/7632023366907576366/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            15,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时13分 ~ 22时48分]"
         },
         {
           "title": "视频：中国发射一颗巴基斯坦卫星",
@@ -1845,17 +1899,57 @@
           "time_info": "[00时32分 ~ 12时53分]"
         },
         {
-          "title": "专家：中国最晚明年进高收入国家行列",
-          "url": "https://www.toutiao.com/trending/7632023366907576366/",
-          "source": "今日头条",
+          "title": "为什么外国人越来越爱中国车",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%88%B1%E4%B8%AD%E5%9B%BD%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 22时48分]"
+        },
+        {
+          "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
+          "url": "https://www.cls.cn/detail/2355924",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8,
             7,
-            15,
-            19
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时13分 ~ 22时02分]"
+          "time_info": "[18时38分 ~ 22时48分]"
+        },
+        {
+          "title": "“中国德比”赵心童战胜丁俊晖",
+          "url": "https://www.toutiao.com/trending/7633029877829996082/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 22时48分]"
+        },
+        {
+          "title": "中国军号海外发布视频",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E6%B5%B7%E5%A4%96%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            25,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时38分 ~ 22时48分]"
         },
         {
           "title": "专家：中国最晚明年进高收入国家行列",
@@ -1883,29 +1977,6 @@
           "time_info": "[00时32分 ~ 07时30分]"
         },
         {
-          "title": "“中国德比”赵心童战胜丁俊晖",
-          "url": "https://www.toutiao.com/trending/7633029877829996082/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时02分]"
-        },
-        {
-          "title": "为什么外国人越来越爱中国车",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%88%B1%E4%B8%AD%E5%9B%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时02分]"
-        },
-        {
           "title": "国际人士：日本对中国仍有一笔欠债",
           "url": "https://www.toutiao.com/trending/7632477841964548123/",
           "source": "今日头条",
@@ -1916,6 +1987,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时45分 ~ 20时43分]"
+        },
+        {
+          "title": "巴基斯坦总统对中国产品爱不释手",
+          "url": "https://www.toutiao.com/trending/7633020427748638783/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "斯诺克将开启“中国德比”决胜局",
@@ -1940,19 +2022,6 @@
           "time_info": "[12时53分 ~ 14时56分]"
         },
         {
-          "title": "中国军号海外发布视频",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E6%B5%B7%E5%A4%96%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 22时02分]"
-        },
-        {
           "title": "斯诺克中国德比赵心童9-7领先丁俊晖",
           "url": "https://www.toutiao.com/trending/7632840328067681855/",
           "source": "今日头条",
@@ -1962,20 +2031,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
-        },
-        {
-          "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
-          "url": "https://www.cls.cn/detail/2355924",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 22时02分]"
         },
         {
           "title": "中国成功发射巴基斯坦PRSC-EO3卫星",
@@ -2028,6 +2083,18 @@
           "time_info": "[12时53分 ~ 16时13分]"
         },
         {
+          "title": "如何评价 ECO 电竞派文章「十几年了，中国电竞选手还是没学会好好说话」？",
+          "url": "https://www.zhihu.com/question/2027812654723457720",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 22时48分]"
+        },
+        {
           "title": "中国超70%石油靠进口却不慌",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%8570%25%E7%9F%B3%E6%B2%B9%E9%9D%A0%E8%BF%9B%E5%8F%A3%E5%8D%B4%E4%B8%8D%E6%85%8C%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -2062,17 +2129,6 @@
           "time_info": "[09时49分 ~ 09时50分]"
         },
         {
-          "title": "如何评价 ECO 电竞派文章「十几年了，中国电竞选手还是没学会好好说话」？",
-          "url": "https://www.zhihu.com/question/2027812654723457720",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
           "title": "中国为何要发展核动力航母",
           "url": "https://www.toutiao.com/trending/7632858300404469284/",
           "source": "今日头条",
@@ -2084,6 +2140,18 @@
           "time_info": "[09时49分 ~ 09时50分]"
         },
         {
+          "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
+          "url": "https://wallstreetcn.com/livenews/3094517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
+        },
+        {
           "title": "中国乒乓运动员张缤月参加MLTT选秀",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93%E8%BF%90%E5%8A%A8%E5%91%98%E5%BC%A0%E7%BC%A4%E6%9C%88%E5%8F%82%E5%8A%A0MLTT%E9%80%89%E7%A7%80&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -2093,6 +2161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "中国海军用硬核演训守护海疆",
+          "url": "https://www.toutiao.com/trending/7632187720831729727/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "中国科学家发布智能科研工具",
@@ -2138,17 +2217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
-        },
-        {
-          "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
-          "url": "https://wallstreetcn.com/livenews/3094517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "从北京车展看中国汽车全球化发展",
@@ -2198,7 +2266,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普欲报复英国、西班牙，欧盟烦了：搞不懂，还要怎样？",
@@ -2224,6 +2292,17 @@
           "time_info": "[00时32分 ~ 09时50分]"
         },
         {
+          "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
+          "url": "https://wallstreetcn.com/livenews/3094542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "民调机构：德国选择党支持率创新高",
           "url": "https://flash.jin10.com/detail/20260426134135305800",
           "source": "金十数据",
@@ -2241,11 +2320,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时48分]"
         },
         {
           "title": "网上都说德国对战争的反思是彻底的，那么众人口中的「德国反思标准」具体是指什么？",
@@ -2285,6 +2365,18 @@
           "time_info": "[19时34分 ~ 20时43分]"
         },
         {
+          "title": "英国首相秘书警告：伊朗战争结束后，英国人仍将面临长达八个月的高物价",
+          "url": "https://wallstreetcn.com/livenews/3094514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
+        },
+        {
           "title": "樊振东让乒乓球在德国跻身顶流",
           "url": "https://www.toutiao.com/trending/7632600561829412890/",
           "source": "今日头条",
@@ -2316,17 +2408,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "英国首相秘书警告：伊朗战争结束后，英国人仍将面临长达八个月的高物价",
-          "url": "https://wallstreetcn.com/livenews/3094514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "英国外交部：因马里多地发生袭击，建议避免前往该国。",
@@ -2376,7 +2457,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "日本政府拟修改自卫队“官阶”名称引质疑",
@@ -2409,8 +2490,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 22时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 22时48分]"
         },
         {
           "title": "日本坦克炸膛事故致3死，“太罕见了，几乎闻所未闻”",
@@ -2447,6 +2528,17 @@
           "time_info": "[00时32分 ~ 09时50分]"
         },
         {
+          "title": "俄防长抵达朝鲜",
+          "url": "https://www.douyin.com/hot/2480007",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
+        {
           "title": "俄国家杜马主席会见朝鲜最高领导人 转达俄总统问候并感谢朝方支持",
           "url": "https://wallstreetcn.com/livenews/3094479",
           "source": "华尔街见闻-快讯",
@@ -2478,11 +2570,12 @@
           "url": "https://www.toutiao.com/trending/7632657005996359699/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 22时48分]"
         },
         {
           "title": "西班牙人士：必须高度警惕日本政府放宽武器出口限制等举动",
@@ -2563,6 +2656,18 @@
           "time_info": "[16时13分 ~ 18时38分]"
         },
         {
+          "title": "42.8度，印度新德里创近年来4月最高温纪录",
+          "url": "https://wallstreetcn.com/livenews/3094516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时48分]"
+        },
+        {
           "title": "据半岛电视台：阿联酋总统与印度国家安全顾问讨论地区稳定事宜。",
           "url": "https://flash.jin10.com/detail/20260426083521512800",
           "source": "金十数据",
@@ -2572,17 +2677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "42.8度，印度新德里创近年来4月最高温纪录",
-          "url": "https://wallstreetcn.com/livenews/3094516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         }
       ]
     },
@@ -2657,7 +2751,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "标普全球副董事长：霍尔木兹海峡危机是有史以来最大能源扰动",
@@ -2682,6 +2776,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时30分]"
+        },
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
@@ -2727,8 +2832,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时53分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时53分 ~ 22时48分]"
         },
         {
           "title": "当机器人的脚变成轮子",
