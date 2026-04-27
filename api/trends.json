@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T13:16:51.227812+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-04-27T16:06:39.773198+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "75 岁美国富豪猎人在非洲加蓬狩猎遭象群踩踏身亡，这次意外暴露了哪些问题？",
@@ -102,6 +102,18 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
+          "title": "晚宴枪声，释放了美国一个危险信号",
+          "url": "https://news.ifeng.com/c/8senXalUR1i",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 16时06分]"
+        },
+        {
           "title": "美国太空军披露“金穹”合同细节：SpaceX、安杜里尔等12家公司获32亿美元订单",
           "url": "https://www.cls.cn/detail/2355816",
           "source": "财联社热门",
@@ -156,15 +168,17 @@
           "time_info": "[00时33分 ~ 06时29分]"
         },
         {
-          "title": "晚宴枪声，释放了美国一个危险信号",
-          "url": "https://news.ifeng.com/c/8senXalUR1i",
-          "source": "凤凰网",
+          "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
+          "url": "https://www.cls.cn/detail/2356165",
+          "source": "财联社热门",
           "ranks": [
-            4
+            6,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 16时06分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -249,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "康希通信：Skyworks已无条件撤回337调查和在美国加州中区联邦地区法院的专利诉讼",
+          "url": "https://flash.jin10.com/detail/20260427153449930800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "美国总统特朗普：巴基斯坦方面已不遗余力，并将继续参与谈判进程。",
@@ -361,18 +386,6 @@
           "time_info": "[03时40分 ~ 06时29分]"
         },
         {
-          "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
-          "url": "https://www.cls.cn/detail/2356165",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时16分]"
-        },
-        {
           "title": "伊朗外长与阿曼苏丹就霍尔木兹海峡安全与地区稳定进行讨论，强调建立不受美国干预的集体安全机制。",
           "url": "https://flash.jin10.com/detail/20260427033432660800",
           "source": "金十数据",
@@ -397,6 +410,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时30分 ~ 06时29分]"
+        },
+        {
+          "title": "美国：已收到伊朗谈判新方案",
+          "url": "https://www.cls.cn/detail/2356393",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 16时06分]"
         },
         {
           "title": "据卡塔尔国家通讯社：阿联酋外长与美国外长通电话，讨论加强双边关系及地区局势发展。",
@@ -492,6 +517,17 @@
           "time_info": "[00时33分 ~ 02时38分]"
         },
         {
+          "title": "伊朗战争丨美国已收到伊朗谈判新方案，详情披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 16时06分]"
+        },
+        {
           "title": "特朗普称伊朗可主动联系美国",
           "url": "https://flash.jin10.com/detail/20260426234714547800",
           "source": "金十数据",
@@ -514,6 +550,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时32分]"
+        },
+        {
+          "title": "美国已收到伊朗谈判新方案",
+          "url": "https://www.toutiao.com/trending/7633275460994125363/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 16时06分]"
         },
         {
           "title": "美国总统特朗普：我们必须拿下伊朗的“核尘埃”，我们会做到的。",
@@ -563,37 +611,26 @@
           "time_info": "[00时33分 ~ 01时32分]"
         },
         {
-          "title": "伊朗战争丨美国已收到伊朗谈判新方案，详情披露",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "中方回应美国白宫记者晚宴枪击事件",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "16时06分"
         },
         {
-          "title": "美国：已收到伊朗谈判新方案",
-          "url": "https://www.cls.cn/detail/2356393",
-          "source": "财联社热门",
+          "title": "外交部回应美国制裁中企：中方将坚决维护本国企业的合法权益",
+          "url": "https://flash.jin10.com/detail/20260427152325279800",
+          "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "美国已收到伊朗谈判新方案",
-          "url": "https://www.toutiao.com/trending/7633275460994125363/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "16时06分"
         },
         {
           "title": "A股前董事长疑涉美国性侵丑闻",
@@ -629,6 +666,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "外交部回应美国对中企实施制裁",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%B8%AD%E4%BC%81%E5%AE%9E%E6%96%BD%E5%88%B6%E8%A3%81",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "国际油价短线走低，报道称伊朗向美国提出重新开放霍尔木兹海峡的新方案",
           "url": "https://wallstreetcn.com/livenews/3094609",
           "source": "华尔街见闻-快讯",
@@ -646,7 +694,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -756,7 +804,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -789,7 +837,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -803,12 +851,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "美国已收到伊朗谈判新方案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%94%B6%E5%88%B0%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E6%96%B0%E6%96%B9%E6%A1%88%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -884,8 +943,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 13时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 16时06分]"
         },
         {
           "title": "filco倒闭,中国制造持续发力",
@@ -893,11 +952,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 13时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 16时06分]"
         },
         {
           "title": "如何评价 ECO 电竞派文章「十几年了，中国电竞选手还是没学会好好说话」？",
@@ -1004,6 +1064,29 @@
           "time_info": "[03时40分 ~ 09时53分]"
         },
         {
+          "title": "中国海军强势“围观”美日菲军演",
+          "url": "https://www.toutiao.com/trending/7633285262159711770/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 16时06分]"
+        },
+        {
+          "title": "中国海军强势“围观”美日菲军演",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%BC%BA%E5%8A%BF%E2%80%9C%E5%9B%B4%E8%A7%82%E2%80%9D%E7%BE%8E%E6%97%A5%E8%8F%B2%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "“中国德比”赵心童战胜丁俊晖",
           "url": "https://www.toutiao.com/trending/7633029877829996082/",
           "source": "今日头条",
@@ -1063,31 +1146,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
         {
-          "title": "中国海军强势“围观”美日菲军演",
-          "url": "https://www.toutiao.com/trending/7633285262159711770/",
-          "source": "今日头条",
+          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
+          "url": "https://wallstreetcn.com/articles/3770923",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 16时06分]"
         },
         {
-          "title": "国产类银首曝PV",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E7%B1%BB%E9%93%B6%E9%A6%96%E6%9B%9DPV",
-          "source": "bilibili 热搜",
+          "title": "中国首次实现批量克隆10头牦牛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E6%89%B9%E9%87%8F%E5%85%8B%E9%9A%8610%E5%A4%B4%E7%89%A6%E7%89%9B",
+          "source": "百度热搜",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "16时06分"
         },
         {
           "title": "中国3月规模以上工业企业利润同比 15.8%。",
@@ -1101,28 +1185,29 @@
           "time_info": "09时53分"
         },
         {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时16分]"
-        },
-        {
           "title": "中国海军强势“围观”美日菲军演",
           "url": "https://www.douyin.com/hot/2480295",
           "source": "抖音",
           "ranks": [
             7,
-            5
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 16时06分]"
+        },
+        {
+          "title": "国产类银首曝PV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E7%B1%BB%E9%93%B6%E9%A6%96%E6%9B%9DPV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 16时06分]"
         },
         {
           "title": "如何评价 CCPC Final 2026 第十一届中国大学生程序设计竞赛总决赛？",
@@ -1156,8 +1241,44 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 16时06分]"
+        },
+        {
+          "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
+          "url": "https://www.cls.cn/detail/2356166",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 16时06分]"
+        },
+        {
+          "title": "重访“新闻名篇”｜“中国的西北角”早已变成塞上粮仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33054750",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 16时06分]"
+        },
+        {
+          "title": "轰炸中伊朗国宝来到中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 16时06分]"
         },
         {
           "title": "中国3月规模以上工业企业利润年率 15.8%。",
@@ -1188,7 +1309,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1215,6 +1336,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "中国3月今年迄今规模以上工业企业利润年率 15.5%，前值15.20%。",
           "url": "https://flash.jin10.com/detail/20260427093021804800",
           "source": "金十数据",
@@ -1224,17 +1356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
-          "url": "https://www.cls.cn/detail/2356166",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         },
         {
           "title": "中国马拉松热的背后是什么",
@@ -1248,15 +1369,15 @@
           "time_info": "09时53分"
         },
         {
-          "title": "重访“新闻名篇”｜“中国的西北角”早已变成塞上粮仓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33054750",
-          "source": "澎湃新闻",
+          "title": "中国欧盟商会与辽宁省委书记许昆林举行会谈",
+          "url": "https://flash.jin10.com/detail/20260427152033091800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "16时06分"
         },
         {
           "title": "中国上证综指4月27日（周一）开盘下跌5.09点，跌幅：0.12%，报4074.81点；<br/>中国深证成指4月27日（周一）开盘上涨19.72点，涨幅：0.13%，报14960.02点；<br/>中国沪深300指数4月27日（周一）开盘上涨6.97点，涨幅：0.15%，报4776.34点；<br/>中国创业板指数4月27日（周一）开盘上涨10.11点，涨幅：0.28%，报3677.89点；<br/>中国科创50指数4月27日（周一）开盘上涨24.62点，涨幅：1.69%，报1478.31点。",
@@ -1270,15 +1391,15 @@
           "time_info": "09时53分"
         },
         {
-          "title": "轰炸中伊朗国宝来到中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "外交部回应美方制裁中国炼油企业：敦促美方停止滥施制裁和“长臂管辖”的错误做法",
+          "url": "https://wallstreetcn.com/livenews/3094802",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "16时06分"
         },
         {
           "title": "中国央行逆回购操作当日实现净回笼3820亿元",
@@ -1361,7 +1482,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "赛博抗日升级,日本人破防",
@@ -1376,24 +1497,13 @@
           "time_info": "[00时33分 ~ 13时16分]"
         },
         {
-          "title": "中方：绝不允许日本军国主义死灰复燃",
-          "url": "https://www.toutiao.com/trending/7632621324674727978/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
           "title": "日本2月领先指标终值 113.3，初值 112.4。",
           "url": "https://wallstreetcn.com/livenews/3094722",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1409,6 +1519,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "中方：绝不允许日本军国主义死灰复燃",
+          "url": "https://www.toutiao.com/trending/7632621324674727978/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 16时06分]"
         },
         {
           "title": "日本2025年孤独死人数超2.2万人",
@@ -1438,6 +1560,17 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
+          "title": "俄高官单膝跪地向阵亡朝鲜士兵敬献花圈",
+          "url": "https://news.ifeng.com/c/8seuUarEe1I",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 16时06分]"
+        },
+        {
           "title": "日本北海道发生6.1级地震",
           "url": "https://wallstreetcn.com/livenews/3094559",
           "source": "华尔街见闻-快讯",
@@ -1450,15 +1583,15 @@
           "time_info": "[06时29分 ~ 07时31分]"
         },
         {
-          "title": "俄高官单膝跪地向阵亡朝鲜士兵敬献花圈",
-          "url": "https://news.ifeng.com/c/8seuUarEe1I",
+          "title": "金正恩：朝鲜将一如既往支持俄罗斯",
+          "url": "https://news.ifeng.com/c/8sf0FM15aWF",
           "source": "凤凰网",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 16时06分]"
         },
         {
           "title": "随着利率上升，日本东京二手公寓市场降温",
@@ -1473,13 +1606,47 @@
           "time_info": "[06时29分 ~ 07时31分]"
         },
         {
+          "title": "日本2025年“孤独死”人数超2.2万人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058987",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 16时06分]"
+        },
+        {
+          "title": "过航台海后日本又到南海搞什么事",
+          "url": "https://www.toutiao.com/trending/7632303627198119979/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 16时06分]"
+        },
+        {
+          "title": "韩国青瓦台：韩国与谷歌达成协议，将在韩国建设AI园区。",
+          "url": "https://flash.jin10.com/detail/20260427153059951800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "日本2月同步指标终值 116.3，初值 116.3。",
           "url": "https://wallstreetcn.com/livenews/3094721",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1506,24 +1673,24 @@
           "time_info": "09时53分"
         },
         {
+          "title": "大佐复活？日本被批捡军国主义符号",
+          "url": "https://www.toutiao.com/trending/7632667273664954374/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "过航台海后 日本又到南海搞什么事",
           "url": "https://www.baidu.com/s?wd=%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B5%B7%E5%90%8E+%E6%97%A5%E6%9C%AC%E5%8F%88%E5%88%B0%E5%8D%97%E6%B5%B7%E6%90%9E%E4%BB%80%E4%B9%88%E4%BA%8B",
           "source": "百度热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "金正恩：朝鲜将一如既往支持俄罗斯",
-          "url": "https://news.ifeng.com/c/8sf0FM15aWF",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1539,24 +1706,13 @@
           "time_info": "09时53分"
         },
         {
-          "title": "日本2025年“孤独死”人数超2.2万人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058987",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
           "title": "日本图谋“甩卖”旧装备给菲壮胆",
           "url": "https://www.toutiao.com/trending/7632910202241040390/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1570,17 +1726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "过航台海后日本又到南海搞什么事",
-          "url": "https://www.toutiao.com/trending/7632303627198119979/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         },
         {
           "title": "日本首相高市早苗：已确保一直到明年的石油供应稳定。 密切关注中东局势对经济的影响。",
@@ -1597,7 +1742,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -1669,13 +1814,24 @@
           "time_info": "[01时32分 ~ 04时30分]"
         },
         {
+          "title": "能源供应冲击推升英国国债收益率",
+          "url": "https://flash.jin10.com/detail/20260427153009339800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "英媒：英国隐形战机项目面临10周资金筹措期限",
           "url": "https://flash.jin10.com/detail/20260427122038055800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1697,7 +1853,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1708,7 +1864,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
@@ -1716,7 +1872,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "半导体芯片股早盘拉升，帝奥微、派瑞股份涨超10%，东芯股份、富瀚微、澜起科技、海光信息、江丰电子涨逾6%。",
@@ -1747,9 +1903,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "新巨丰在互动平台表示，公司无菌包装产品主要应用在液态奶和非碳酸软饮料中，暂未涉及半导体、生物医药等领域。",
+          "url": "https://flash.jin10.com/detail/20260427153214597800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "港股光通讯板块盘初走强，长飞光纤光缆(06869.HK)涨超7%，汇聚科技(01729.HK)涨超4%，华虹半导体(01347.HK)、均胜电子(00699.HK)、剑桥科技(06166.HK)等个股跟涨。",
@@ -1802,15 +1969,81 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
       ]
     },
     {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 16时06分]"
+        },
+        {
+          "title": "新能源车高速没电 司机接监控充电",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%AB%98%E9%80%9F%E6%B2%A1%E7%94%B5+%E5%8F%B8%E6%9C%BA%E6%8E%A5%E7%9B%91%E6%8E%A7%E5%85%85%E7%94%B5",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 16时06分]"
+        },
+        {
+          "title": "国家能源局：将围绕重卡充电等应用场景 进一步推动充电设施扩规模、提质效",
+          "url": "https://flash.jin10.com/detail/20260427123053998800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "北京车展百万元内新能源速览",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "国家能源局：正在研究制定2026年新能源消纳工作方案",
+          "url": "https://wallstreetcn.com/livenews/3094783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "印度",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "42.8度，印度新德里创近年来4月最高温纪录",
@@ -1824,6 +2057,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 05时31分]"
+        },
+        {
+          "title": "印度新德里气温创近年来4月最高纪录",
+          "url": "https://wallstreetcn.com/livenews/3094822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "印度威胁取消阵风大单有何影响",
@@ -1851,52 +2095,20 @@
       ]
     },
     {
-      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 3,
+      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
+      "match_count": 2,
       "titles": [
         {
-          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
-          "url": "https://wallstreetcn.com/articles/3770919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 13时16分]"
-        },
-        {
-          "title": "新能源车高速没电 司机接监控充电",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%AB%98%E9%80%9F%E6%B2%A1%E7%94%B5+%E5%8F%B8%E6%9C%BA%E6%8E%A5%E7%9B%91%E6%8E%A7%E5%85%85%E7%94%B5",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时16分]"
-        },
-        {
-          "title": "国家能源局：将围绕重卡充电等应用场景 进一步推动充电设施扩规模、提质效",
-          "url": "https://flash.jin10.com/detail/20260427123053998800",
+          "title": "广东省人工智能应用对接大会举行",
+          "url": "https://flash.jin10.com/detail/20260427151401988800",
           "source": "金十数据",
           "ranks": [
-            7
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 1,
-      "titles": [
+          "time_info": "16时06分"
+        },
         {
           "title": "港股开盘，恒生指数开盘微跌，恒生科技指数开涨0.56%；黄金、有色金属、人工智能等概念股盘初走强，中兴通讯(00763.HK)绩后跌1.73%。",
           "url": "https://flash.jin10.com/detail/20260427092108934800",
@@ -1907,6 +2119,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[GLOBAL_FILTER] # 过滤标题党 震惊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "被我爸的道歉方式震惊了",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E6%88%91%E7%88%B8%E7%9A%84%E9%81%93%E6%AD%89%E6%96%B9%E5%BC%8F%E9%9C%87%E6%83%8A%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     }
