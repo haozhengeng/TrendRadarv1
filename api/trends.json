@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T05:01:29.557968+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-04-29T06:01:19.440827+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 45,
+      "match_count": 62,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "中方：美国先把欠费缴清再说话",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -39,8 +39,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "美国至4月28日7年期国债竞拍-投标倍数 2.51，前值2.43。",
@@ -54,18 +66,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
-        },
-        {
           "title": "美国至4月28日7年期国债竞拍-得标利率 4.175%，前值4.26%。",
           "url": "https://flash.jin10.com/detail/20260429010204527800",
           "source": "金十数据",
@@ -77,17 +77,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "美国至4月24日当周API原油库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260429042000001800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
           "title": "美国宣布对35个伊朗相关实体及个人实施制裁",
           "url": "https://wallstreetcn.com/livenews/3095966",
           "source": "华尔街见闻-快讯",
@@ -97,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "OpenAI与Anthropic向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "美国至4月28日7年期国债竞拍-得标利率配置百分比 1.89%，前值24.47%。",
@@ -116,9 +116,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美国：禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3096035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "加拿大政府声明：预计到2029-2030财年，赤字将逐步减少至532亿加元。",
@@ -127,18 +138,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "美国农业部长Rollins：USDA（农业部）寻求与化肥工厂CF Industries氨工厂相关的许可。",
-          "url": "https://wallstreetcn.com/livenews/3096013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -149,7 +149,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -165,15 +165,51 @@
           "time_info": "03时21分"
         },
         {
-          "title": "谷歌公司签署协议，允许该公司技术被应用到（美国战争部那些）机密的军事工作。",
-          "url": "https://wallstreetcn.com/livenews/3096012",
+          "title": "美国防部正式申请更名为“战争部”",
+          "url": "https://wallstreetcn.com/livenews/3096033",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美国至4月24日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260429042000001800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时01分]"
+        },
+        {
+          "title": "美国农业部长Rollins：USDA（农业部）寻求与化肥工厂CF Industries氨工厂相关的许可。",
+          "url": "https://wallstreetcn.com/livenews/3096013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时01分]"
+        },
+        {
+          "title": "谷歌公司签署协议，允许该公司技术被应用到（美国战争部那些）机密的军事工作。",
+          "url": "https://wallstreetcn.com/livenews/3096012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时01分]"
         },
         {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
@@ -197,6 +233,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 03时21分]"
+        },
+        {
+          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
+          "url": "https://wallstreetcn.com/livenews/3096010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时01分]"
+        },
+        {
+          "title": "行业周报：美国上周API汽油库存锐减将近850万桶",
+          "url": "https://wallstreetcn.com/livenews/3096009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时01分]"
+        },
+        {
+          "title": "光伏逆变器供应商Enphase Energy一季度营收2.829亿美元，分析师预期2.838亿美元。 一季度美国营收季环比锐减23%，欧洲营收季环比增长36%。 一季度资本开支0.199亿美元，分析师预期0.13亿美元。 一季度调整后每股收益（EPS）为0.47美元，分析师预期0.44美元。 预计二季度营收2.8亿-3.1亿美元，分析师预期2.968亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时01分]"
         },
         {
           "title": "报道：加拿大联邦与艾伯塔省接近达成碳价协议",
@@ -228,7 +300,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -244,15 +316,37 @@
           "time_info": "03时21分"
         },
         {
-          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
-          "url": "https://wallstreetcn.com/livenews/3096010",
+          "title": "美国能源部长Wright签署协议，从而扩大美国液化天然气（LNG）出口。",
+          "url": "https://wallstreetcn.com/livenews/3096032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美国国务院：美国驻乌克兰大使将于六月份离开基辅。",
+          "url": "https://flash.jin10.com/detail/20260429045011956800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "已经破产了的加密货币交易所FTX联合创始人Sam Bankman-Fried（SBF）请求重新审判，自称掌握了新的证据，但被美国法官Lewis Kaplan驳回，法官认为SBF意图“挽回自己的颜面”。",
+          "url": "https://wallstreetcn.com/livenews/3096030",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时01分"
         },
         {
           "title": "马斯克和奥尔特曼猛打口水仗 美国法官要求两人收敛",
@@ -266,15 +360,26 @@
           "time_info": "01时32分"
         },
         {
-          "title": "行业周报：美国上周API汽油库存锐减将近850万桶",
-          "url": "https://wallstreetcn.com/livenews/3096009",
+          "title": "美国至4月24日当周API投产原油量 15.1万桶/日，前值-24万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260429043907482800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "加拿大批准诺和诺德Ozempic在该国的第一代减肥药，从而为该国民众获取流行的减肥药扫清障碍。",
+          "url": "https://wallstreetcn.com/livenews/3096028",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时01分"
         },
         {
           "title": "加拿大政府声明：预计实际GDP不会恢复到（美国）关税前水平。预计2026年实际GDP增长1.1%，去年11月预计为1.2%；2027年增长1.9%，去年11月预计为2.0%；2028年增长1.9%，去年11月预计为1.9；2029年增长1.9%，去年11月预计为2.0%。",
@@ -283,20 +388,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
         {
-          "title": "光伏逆变器供应商Enphase Energy一季度营收2.829亿美元，分析师预期2.838亿美元。 一季度美国营收季环比锐减23%，欧洲营收季环比增长36%。 一季度资本开支0.199亿美元，分析师预期0.13亿美元。 一季度调整后每股收益（EPS）为0.47美元，分析师预期0.44美元。 预计二季度营收2.8亿-3.1亿美元，分析师预期2.968亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096008",
+          "title": "美国至4月24日当周API成品油进口 -9.9万桶/日，前值-0.6万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260429043900552800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3096026",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时01分"
         },
         {
           "title": "美国驻乌克兰大使将因与美国总统特朗普的分歧而离职。",
@@ -310,6 +426,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "美国至4月24日当周API原油进口 13.4万桶，前值-24.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260429043849382800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "在与纽约市长发生争执后，Citadel的格里芬将与美国纽约州州长会面",
           "url": "https://wallstreetcn.com/livenews/3095955",
           "source": "华尔街见闻-快讯",
@@ -319,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国至4月24日当周API取暖油库存 -42.1万桶，前值-53万桶。",
+          "url": "https://flash.jin10.com/detail/20260429043836816800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "加拿大总理卡尼将于5月2日至4日访问亚美尼亚，参加欧洲政治共同体峰会。",
@@ -343,6 +481,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "美国至4月24日当周API库欣原油库存 -82万桶，前值67.8万桶。",
+          "url": "https://flash.jin10.com/detail/20260429043658228800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "美国宣布对35个伊朗相关实体及个人实施制裁",
           "url": "https://flash.jin10.com/detail/20260429023352830800",
           "source": "金十数据",
@@ -354,13 +503,35 @@
           "time_info": "03时21分"
         },
         {
+          "title": "美国至4月24日当周API精炼油库存 -260.2万桶，预期-229万桶，前值-459万桶。",
+          "url": "https://flash.jin10.com/detail/20260429043643805800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美国至4月24日当周API汽油库存 -847.2万桶，预期-209.3万桶，前值-516.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260429043632847800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3096003",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -374,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国至4月24日当周API原油库存 -179.3万桶，预期27.1万桶，前值-447万桶。",
+          "url": "https://flash.jin10.com/detail/20260429043619653800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "美国银行：预计5月美国高评级（投资级）公司债销售额将突破1900亿美元，创新冠疫情以来的新高。 鉴于上半年发行规模如此庞大，预计供应量将在下半年放缓。",
@@ -404,9 +586,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "加拿大矿业公司第一量子一季度销售14亿美元，分析师预期13.2亿美元。 一季度调整后每股亏损0.18美元，分析师预期每股收益（EPS）为0.055美元。 该公司维持镍产量指引不变。",
+          "url": "https://wallstreetcn.com/livenews/3096017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "美国总统特朗普：德国总理对伊朗问题的发言毫无根据。",
@@ -437,7 +630,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -511,7 +704,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美拖欠会费还欲施压中国，中方：先把欠费缴清再说话",
@@ -521,8 +714,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "外贸屡创新高彰显中国产业链优势",
@@ -532,8 +725,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "中国5月1日起对所有非洲建交国实施零关税",
@@ -543,8 +736,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "国产螺丝刀成了老外的梦中情刀",
@@ -556,8 +749,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "中国小伙刷新速度攀岩世界纪录",
@@ -568,8 +761,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "根基太脆!国产抹茶冲击日本",
@@ -579,8 +772,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "欧洲媒体：中国车企生产的不仅是汽车",
@@ -589,25 +782,12 @@
           "ranks": [
             7,
             16,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
-        },
-        {
-          "title": "国产螺丝刀成了老外的梦中情刀",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E8%9E%BA%E4%B8%9D%E5%88%80%E6%88%90%E4%BA%86%E8%80%81%E5%A4%96%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E5%88%80",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            8,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "韩国散户，大举加仓中国科技巨头",
@@ -618,8 +798,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
+        },
+        {
+          "title": "国产螺丝刀成了老外的梦中情刀",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E8%9E%BA%E4%B8%9D%E5%88%80%E6%88%90%E4%BA%86%E8%80%81%E5%A4%96%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E5%88%80",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            8,
+            19,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "国产UE5乙游首曝",
@@ -654,13 +849,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时00分 ~ 05时01分]"
+        },
+        {
+          "title": "外交部再次提醒中国公民暂勿赴伊朗",
+          "url": "https://www.toutiao.com/trending/7633731564228952106/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 06时01分]"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "英国首相府：英国财政大臣明确表示，政府需要对伊朗战争对经济的影响做出灵活和负责任的回应。",
+          "url": "https://flash.jin10.com/detail/20260429045410077800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
         {
           "title": "英国下院决定：不调查首相斯塔默是否误导议会",
           "url": "https://wallstreetcn.com/livenews/3095952",
@@ -730,8 +947,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -741,8 +958,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -752,8 +969,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "周二（4月28日），美股行业ETF涨跌各异，半导体ETF收跌2.97%，全球科技股指数ETF、科技行业ETF、网络股指数ETF跌1.81%-0.98%. 银行业ETF、区域银行ETF则至多收涨0.43%，能源业ETF涨1.66%。",
@@ -762,7 +979,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -773,7 +990,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -836,7 +1053,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -855,8 +1072,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "白士杰将携日本侵华军事档案回国",
@@ -867,8 +1084,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "沙特佬插手选人,韩国拒出战",
@@ -878,8 +1095,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时01分]"
         },
         {
           "title": "日本福岛县野猪检出放射性铯超标",
