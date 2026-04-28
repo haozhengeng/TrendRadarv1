@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T07:44:22.469150+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-04-28T10:02:03.894630+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 95,
+      "match_count": 102,
       "titles": [
         {
           "title": "刺杀频发，美国进入“肉体消灭政治对手”的新时代？",
@@ -42,11 +42,34 @@
           "ranks": [
             15,
             16,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 10时02分]"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
@@ -99,7 +122,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -154,7 +177,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -308,6 +331,18 @@
           "time_info": "[06时42分 ~ 07时44分]"
         },
         {
+          "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
+          "url": "https://www.cls.cn/detail/2357269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时02分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：若要实现成功的谈判，必须有双方的通力配合与意愿。显然，如果上述报道属实，那么伊朗无疑是在玩弄把戏。",
           "url": "https://flash.jin10.com/detail/20260428040001211800",
           "source": "金十数据",
@@ -373,6 +408,17 @@
           "time_info": "[04时53分 ~ 06时42分]"
         },
         {
+          "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2357445",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
           "url": "https://flash.jin10.com/detail/20260428054512315800",
           "source": "金十数据",
@@ -419,6 +465,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时44分]"
+        },
+        {
+          "title": "伊朗向美国提3个条件",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%9B%BD%E6%8F%903%E4%B8%AA%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
@@ -546,24 +614,13 @@
           "time_info": "02时01分"
         },
         {
-          "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
-          "url": "https://www.cls.cn/detail/2357269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
           "title": "加总理卡尼：部分国家匆忙与美国达成的关税协议实际上毫无价值",
           "url": "https://flash.jin10.com/detail/20260428064517200800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -574,7 +631,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -596,7 +653,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -739,7 +796,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -964,6 +1021,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "交易员重回伊战前策略 更青睐亚洲股票而非美国",
+          "url": "https://wallstreetcn.com/livenews/3095315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美国至4月27日6个月国债竞拍-投标倍数 2.95，前值2.89。",
           "url": "https://flash.jin10.com/detail/20260427233206538801",
           "source": "金十数据",
@@ -1094,12 +1162,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "据国会山报记者：消息人士透露，美国副总统万斯原定于周四前往爱荷华州的行程已推迟至下周二。",
+          "url": "https://flash.jin10.com/detail/20260428090920725800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 21,
+      "match_count": 34,
       "titles": [
         {
           "title": "穆迪维持中国主权信用评级“A1”，并将展望调升至“稳定” 财政部发声",
@@ -1130,11 +1209,27 @@
           "ranks": [
             4,
             5,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 10时01分]"
+        },
+        {
+          "title": "中国茶叶农残为什么严重？",
+          "url": "https://www.zhihu.com/question/56376363",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            5,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 10时02分]"
         },
         {
           "title": "重访“新闻名篇”｜“中国的西北角”早已变成塞上粮仓",
@@ -1163,18 +1258,17 @@
           "time_info": "[00时25分 ~ 07时44分]"
         },
         {
-          "title": "中国茶叶农残为什么严重？",
-          "url": "https://www.zhihu.com/question/56376363",
-          "source": "知乎",
+          "title": "filco倒闭,中国制造持续发力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353750&amp;topic_name=filco%E5%80%92%E9%97%AD%2C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E6%8C%81%E7%BB%AD%E5%8F%91%E5%8A%9B",
+          "source": "贴吧",
           "ranks": [
-            10,
-            9,
-            5,
-            4
+            19,
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 10时02分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，全市场超百股涨逾10%，国产算力概念活跃依旧",
@@ -1214,18 +1308,6 @@
             11,
             9,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
-        },
-        {
-          "title": "filco倒闭,中国制造持续发力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353750&amp;topic_name=filco%E5%80%92%E9%97%AD%2C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E6%8C%81%E7%BB%AD%E5%8F%91%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            21
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -1284,6 +1366,106 @@
           "time_info": "[02时01分 ~ 07时44分]"
         },
         {
+          "title": "中国代表：霍尔木兹海峡受阻源于美以非法军事行动",
+          "url": "https://www.cls.cn/detail/2357436",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "A股船舶板块震荡走强，中国船舶冲击涨停，亚星锚链、天海防务、中船防务涨超5%，江龙船艇、松发股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3095350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股航海装备板块盘初走强，中国船舶、天海防务双双涨超3%，海兰信、中科海讯、亚星锚链、中船防务等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428093235731800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "“中东油气受阻，中国清洁能源产品月度出口创历史新高”",
+          "url": "https://news.ifeng.com/c/8sfVke59zNW",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时02分]"
+        },
+        {
+          "title": "专家称Manus事件提醒了中国投资界",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0Manus%E4%BA%8B%E4%BB%B6%E6%8F%90%E9%86%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E7%95%8C%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "中国男篮公布短训营名单",
+          "url": "https://www.douyin.com/hot/2481566",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "中国代表安理会严厉驳斥日方",
+          "url": "https://news.ifeng.com/c/8sgZa4FD9Pq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "为什么沙发不靠墙的布局，大多数中国家庭都难以接受？",
+          "url": "https://www.zhihu.com/question/1961092724506714892",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "美媒：中国制造比以往更加不可或缺",
+          "url": "https://www.toutiao.com/trending/7632924485967953963/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "中国最强老太太：我是被儿子骗去的",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%BC%BA%E8%80%81%E5%A4%AA%E5%A4%AA%EF%BC%9A%E6%88%91%E6%98%AF%E8%A2%AB%E5%84%BF%E5%AD%90%E9%AA%97%E5%8E%BB%E7%9A%84",
           "source": "百度热搜",
@@ -1301,18 +1483,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "“中东油气受阻，中国清洁能源产品月度出口创历史新高”",
-          "url": "https://news.ifeng.com/c/8sfVke59zNW",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -1328,6 +1499,28 @@
           "time_info": "04时53分"
         },
         {
+          "title": "中国央行公开市场开展435亿元7天期逆回购操作，操作利率1.40%。今日50亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3095333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "中国上证综指4月28日（周二）开盘下跌10.2点，跌幅：0.25%，报4076.14点；<br/>中国深证成指4月28日（周二）开盘下跌70.53点，跌幅：0.47%，报14925.22点；<br/>中国沪深300指数4月28日（周二）开盘下跌13.87点，跌幅：0.29%，报4757.08点；<br/>中国创业板指数4月28日（周二）开盘下跌25.3点，跌幅：0.69%，报3623.49点；<br/>中国科创50指数4月28日（周二）开盘下跌11.06点，跌幅：0.73%，报1497.32点。",
+          "url": "https://flash.jin10.com/detail/20260428092752620800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "中国石化完成DeepSeek-V4私有化部署",
           "url": "https://www.toutiao.com/trending/7632654178616213547/",
           "source": "今日头条",
@@ -1337,6 +1530,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现净投放385亿元",
+          "url": "https://flash.jin10.com/detail/20260428092316250800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "中国央行：今日开展435亿元7天逆回购操作，投标量435亿元，中标量435亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260428092129297800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.19%，上一个交易日夜盘收跌0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3095316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.20%，报6868.78点。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.63%，中国科技指数ETF（CQQQ）收涨0.36%。 德银嘉实沪深300指数ETF（ASHR）收跌0.49%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
@@ -1364,7 +1590,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "据沙特媒体哈达斯（alhadath）：法国外长表示，伊朗已越过十年前为其设定的所有红线。",
@@ -1384,7 +1610,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -1432,7 +1658,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -1443,7 +1669,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -1487,7 +1713,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -1569,6 +1795,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "韩股市值超越英国 成为全球第八大股市",
+          "url": "https://wallstreetcn.com/livenews/3095313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "英国首相斯塔默：反对派的投票动议是一个“政治噱头”。",
           "url": "https://wallstreetcn.com/livenews/3095171",
           "source": "华尔街见闻-快讯",
@@ -1578,12 +1815,143 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "英国政府将开会评估中东局势对其经济影响",
+          "url": "https://wallstreetcn.com/livenews/3095308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "沙特佬插手选人,韩国拒出战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353805&amp;topic_name=%E6%B2%99%E7%89%B9%E4%BD%AC%E6%8F%92%E6%89%8B%E9%80%89%E4%BA%BA%2C%E9%9F%A9%E5%9B%BD%E6%8B%92%E5%87%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 10时02分]"
+        },
+        {
+          "title": "金正恩与俄高官向阵亡朝鲜士兵鞠躬",
+          "url": "https://www.toutiao.com/trending/7632898068169477674/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时44分]"
+        },
+        {
+          "title": "电竞国家杯官网已无韩国队，KeSPA 退出 ENC 赛事，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/2032146840083285043",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "日本3月失业率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260428072000002800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
+          "url": "https://wallstreetcn.com/livenews/3095168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时39分]"
+        },
+        {
+          "title": "日本就“安保三文件”修订召开首次专家会议",
+          "url": "https://wallstreetcn.com/livenews/3095138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时01分]"
+        },
+        {
+          "title": "日本央行明日开会：加息预期归零，但这才是危险的开始",
+          "url": "https://wallstreetcn.com/articles/3770991",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "金十整理：日本央行利率决议前瞻——加息时点料延至6月，季度展望或透露线索",
+          "url": "https://flash.jin10.com/detail/20260428093020289800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "日本央行决议前，日本财相称随时准备干预汇市",
+          "url": "https://flash.jin10.com/detail/20260428092357581800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "韩国首尔综指日内涨幅扩大至1%，报6681.43点，再创新高。",
+          "url": "https://wallstreetcn.com/livenews/3095309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "科创50大涨超3%，芯片半导体集体拉升，PCB概念爆发，立讯精密触及涨停，恒指午后转跌，中芯国际涨6%",
@@ -1593,8 +1961,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 10时02分]"
         },
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -1604,11 +1972,23 @@
             7,
             8,
             9,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 10时02分]"
+        },
+        {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "科技巨头财报周前夕，标普、纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -1617,9 +1997,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "中韩半导体ETF涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260428093444149800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "半导体产业链盘初调整，聚辰股份、盛美上海跌超10%，唯捷创芯、至纯科技、芯源微、航宇微跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3095344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "净利同比增长11.53倍！1200亿光芯片龙头发布一季报|盘后公告集锦",
@@ -1656,12 +2058,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时39分]"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.22%，深成指跌0.74%，半导体、机器人、贵金属、旅游等板块跌幅居前，沪深京三市下跌个股超3300只。",
+          "url": "https://wallstreetcn.com/livenews/3095342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "我国能源安全韧性持续增强",
@@ -1671,8 +2084,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 10时02分]"
         },
         {
           "title": "中东局势引发能源危机波及多国，我国情况如何？官方数据公布",
@@ -1681,11 +2094,12 @@
           "ranks": [
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 10时02分]"
         },
         {
           "title": "北京车展百万元内新能源速览",
@@ -1703,6 +2117,17 @@
           "time_info": "[00时25分 ~ 07时44分]"
         },
         {
+          "title": "A股氦气概念连日走强，蜀道装备涨超10%，水发燃气、金宏气体、华特气体、中泰股份、九丰能源等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428093335774800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "甲骨文(ORCL.N)，Borderplex和Bloom Energy将利用更清洁、更节水的燃料电池技术为木星项目提供动力。甲骨文表示，木星计划将利用高达2.45GW的Bloom Energy的燃料电池容量，将承担木星项目的所有能源成本，该计划预计将创造4000个建筑职位和1500个长期职位。",
           "url": "https://flash.jin10.com/detail/20260428040813948800",
           "source": "金十数据",
@@ -1716,6 +2141,28 @@
           "time_info": "[04时53分 ~ 06时42分]"
         },
         {
+          "title": "高盛：一场全球性化工危机正在爆发，冲击是2022年能源危机的两倍！",
+          "url": "https://wallstreetcn.com/articles/3770989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "国家能源局：今夏若出现大范围极端高温，全国最大电力负荷可能超过16亿千瓦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063121",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "德银、摩根大通看好伊朗战争背景下的能源挂钩货币",
           "url": "https://wallstreetcn.com/livenews/3095161",
           "source": "华尔街见闻-快讯",
@@ -1727,85 +2174,32 @@
           "time_info": "02时01分"
         },
         {
+          "title": "A股开盘，沪指开跌0.25%，深证成指开跌0.47%，创业板指开跌0.69%；林业、能源金属、CRO、种植业等板块逆市走强。",
+          "url": "https://flash.jin10.com/detail/20260428092531077800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "险资一季度优化权益配置，泛科技与新能源成核心主线",
           "url": "https://wallstreetcn.com/livenews/3095262",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金正恩与俄高官向阵亡朝鲜士兵鞠躬",
-          "url": "https://www.toutiao.com/trending/7632898068169477674/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
-        },
-        {
-          "title": "沙特佬插手选人,韩国拒出战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353805&amp;topic_name=%E6%B2%99%E7%89%B9%E4%BD%AC%E6%8F%92%E6%89%8B%E9%80%89%E4%BA%BA%2C%E9%9F%A9%E5%9B%BD%E6%8B%92%E5%87%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时44分]"
-        },
-        {
-          "title": "日本3月失业率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260428072000002800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
-          "url": "https://wallstreetcn.com/livenews/3095168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时39分]"
-        },
-        {
-          "title": "日本就“安保三文件”修订召开首次专家会议",
-          "url": "https://wallstreetcn.com/livenews/3095138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时01分]"
         }
       ]
     },
     {
       "keyword_group": "印度",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "印度最强“光辉”战机计划今年首飞，欲与歼-10C试比高？",
@@ -1817,6 +2211,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时42分]"
+        },
+        {
+          "title": "怎么看印度或对苹果开天价罚单",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E5%8D%B0%E5%BA%A6%E6%88%96%E5%AF%B9%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%A4%A9%E4%BB%B7%E7%BD%9A%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "印度与新西兰签署“一代人一次”的贸易协定",
@@ -1833,6 +2238,45 @@
       ]
     },
     {
+      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "花旗：上调澜起科技A和H股目标价，季报超预期并料受益于人工智能需求",
+          "url": "https://wallstreetcn.com/livenews/3095325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "港股人工智能股盘初活跃，诺比侃(02635.HK)涨超4%，网易-S(09999.HK)涨超2%，迅策(03317.HK)涨近2%，MINIMAX-W(00100.HK)、智谱(02513.HK)、优必选(09880.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428092414744800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "港股开盘，恒生指数开跌0.43%，恒生科技指数开跌0.33%；人工智能、新能源汽车、生物医药等概念走强；宁德时代(03750.HK)跌超6%，公司拟折让约7.00%配售6238.5万股，净筹约391.1亿港元；新股曦智科技-P(01879.HK)开涨380%，药明康德(02359.HK)绩后涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260428092103332800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
       "match_count": 2,
       "titles": [
@@ -1843,11 +2287,12 @@
           "ranks": [
             10,
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 10时02分]"
         },
         {
           "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
