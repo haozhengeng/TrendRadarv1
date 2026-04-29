@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T05:53:26.872886+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-04-30T06:47:55.823689+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 43,
+      "match_count": 51,
       "titles": [
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "钧正平：美国防部欲更名“战争部”，释放令人不安的信号",
@@ -37,9 +38,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "外媒：美国计划在中东部署高超音速导弹，以备打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260430062722756800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "道达尔能源10亿美元规模风电场租赁协议遭到美国民主党的调查。",
@@ -51,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：只能对黎巴嫩实施“外科手术式”袭击。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3096964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         },
         {
           "title": "鲍威尔：石油冲击对美国的影响不如欧洲和亚洲面临的那么大。",
@@ -81,20 +82,56 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
         {
-          "title": "美国两年期国债收益率于鲍威尔最后一次新闻发布会期间涨穿3.95%",
-          "url": "https://wallstreetcn.com/livenews/3096961",
+          "title": "美国众议院共和党推进263亿美元规模与农业、食品药品管理局（FDA）拨款相关的立法草案。",
+          "url": "https://wallstreetcn.com/livenews/3096984",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时47分"
+        },
+        {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
+        },
+        {
+          "title": "英王嘲讽美国：没英国你们在说法语",
+          "url": "https://www.toutiao.com/trending/7633585482072604698/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
+        },
+        {
+          "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：只能对黎巴嫩实施“外科手术式”袭击。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时47分]"
         },
         {
           "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
@@ -108,27 +145,16 @@
           "time_info": "[01时18分 ~ 05时53分]"
         },
         {
-          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
-          "url": "https://www.zhihu.com/question/2032828585195434245",
-          "source": "知乎",
+          "title": "美国两年期国债收益率于鲍威尔最后一次新闻发布会期间涨穿3.95%",
+          "url": "https://wallstreetcn.com/livenews/3096961",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
-        },
-        {
-          "title": "英王嘲讽美国：没英国你们在说法语",
-          "url": "https://www.toutiao.com/trending/7633585482072604698/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时47分]"
         },
         {
           "title": "美国上周要求多家芯片公司停止向华虹半导体发货，外交部回应",
@@ -153,6 +179,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美国白宫：美国国家能源主导委员会主任贾罗德·阿根周四将前往委内瑞拉，与石油、天然气和矿业高管举行会议，并会见委内瑞拉官员。",
+          "url": "https://flash.jin10.com/detail/20260430061217535800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
           "title": "沙特外交部：王储接到了来自加拿大部长的电话，双方讨论了双边关系，回顾了两国现有的合作领域，并探讨了在多个领域增强和发展合作的方式，以及当前地区形势的最新进展及其在区域和国际层面的安全与经济影响。",
           "url": "https://flash.jin10.com/detail/20260430004021734800",
           "source": "金十数据",
@@ -170,7 +207,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -192,9 +229,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "古巴外长：美国的说法很荒谬",
+          "url": "https://news.ifeng.com/c/8sjXJBe2Yms",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "美国财长贝森特：鲍威尔留在美联储理事会将是非常不寻常的。",
@@ -203,7 +251,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -214,7 +262,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -225,7 +273,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -247,7 +295,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -258,7 +306,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -280,7 +328,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -291,7 +339,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -302,7 +350,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -313,7 +361,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -324,7 +372,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -346,7 +394,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -368,9 +416,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（4月29日），美国科技股七巨头（Magnificent 7）指数收跌0.55%，报213.57点，美股早盘冲高回落——北京时间22:37前后短暂地微幅上涨，后半段交易时间低位持稳。 “超大”市值科技股指数涨0.34%，报417.57点，呈现出两波V形反转行情。",
+          "url": "https://wallstreetcn.com/livenews/3096968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "美国财长贝森特：消费者和股市（投资者）正在关注伊朗。",
@@ -379,7 +438,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -393,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "福特汽车CEO Jim Farley：公司与美国政府谈判国防相关的若干项目，磋商处于早期阶段。",
+          "url": "https://wallstreetcn.com/livenews/3096967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "美国国防部长赫格塞斯表示：伊朗战争并非泥潭，美国民主党议员的批评是亲手送给伊朗的一场宣传胜利。",
@@ -415,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在研究和评估可能减少在德国驻军的事宜，将在短期内作出决定。",
+          "url": "https://flash.jin10.com/detail/20260430055020322800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "美国参议院民主党成员Warren：呼吁美联储撤销压力测试建议。",
@@ -450,6 +531,17 @@
           "time_info": "04时54分"
         },
         {
+          "title": "美国佛州批准新国会选区划分方案",
+          "url": "https://flash.jin10.com/detail/20260430054801602800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
           "title": "美国财政部拍卖四个月期国债，得标利率3.620%，投标倍数2.78。",
           "url": "https://wallstreetcn.com/livenews/3096805",
           "source": "华尔街见闻-快讯",
@@ -478,7 +570,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         }
@@ -496,8 +588,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "中国为何仍要重押油气",
@@ -507,11 +599,12 @@
             5,
             1,
             18,
-            2
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
@@ -522,21 +615,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
-        },
-        {
-          "title": "中国军号：日本打不起“长期战争”",
-          "url": "https://www.toutiao.com/trending/7634091296285593115/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "匈牙利变局会影响中国投资吗",
@@ -548,32 +628,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
-          "title": "美国媒体预测中国新航母情况",
-          "url": "https://www.toutiao.com/trending/7634125311717690922/",
+          "title": "中国军号：日本打不起“长期战争”",
+          "url": "https://www.toutiao.com/trending/7634091296285593115/",
           "source": "今日头条",
           "ranks": [
-            18,
-            2,
+            20,
+            9,
+            4,
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "鲁比奥暗指中国在古巴搞情报活动？外交部回应",
-          "url": "https://news.ifeng.com/c/8sigeQJ8nX7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "中国军号：日本出兵都是作死",
@@ -585,19 +655,46 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
+        },
+        {
+          "title": "鲁比奥暗指中国在古巴搞情报活动？外交部回应",
+          "url": "https://news.ifeng.com/c/8sigeQJ8nX7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
+        },
+        {
+          "title": "美国媒体预测中国新航母情况",
+          "url": "https://www.toutiao.com/trending/7634125311717690922/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2,
+            25,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "time_info": "[03时10分 ~ 06时47分]"
         },
         {
           "title": "日本举办战争加害图文展，民众流泪向中国道歉",
           "url": "https://news.ifeng.com/c/8six5Zok88g",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "中国一季度GDP十强城市出炉",
@@ -606,11 +703,12 @@
           "ranks": [
             19,
             28,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "中国大蒜被美列为威胁",
@@ -620,8 +718,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "伊朗男孩重回中国上学全班紧紧抱住",
@@ -633,8 +731,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "根基太脆!国产抹茶冲击日本",
@@ -644,8 +742,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "23岁中国女孩在澳被两女子打成重伤",
@@ -654,11 +752,12 @@
           "ranks": [
             28,
             29,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时47分]"
         },
         {
           "title": "中国空间站将迎来“二次扩容”",
@@ -666,11 +765,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时47分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，大全新能源初步收跌12.7%，小马智行跌6.7%，再鼎医药跌6.1%，百度跌3.8%，小鹏跌1.8%，小米、腾讯、阿里至少跌约0.3%，携程、贝壳、亚朵、网易至多涨1.6%，华住、百胜中国至多涨约2.8%。 ETF中，CQQQ跌0.5%，KWEB跌0.3%，ASHS涨1.3%。",
@@ -690,7 +790,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         }
@@ -698,18 +798,19 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "鸠山由纪夫：日本站错队了，应该联中抗美",
           "url": "https://news.ifeng.com/c/8sj9vx25l9n",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时47分]"
         },
         {
           "title": "偷国再现,宇树机器狗成日本货",
@@ -719,8 +820,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "明查｜榫卯技术“日本特有”？非也",
@@ -731,8 +832,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "传言称榫卯技术是“日本特有”？哼",
@@ -742,8 +843,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "国人赏槟榔,日本学生嚼到沉迷",
@@ -753,8 +854,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "韩国梨泰院惨案救人英雄被发现死亡",
@@ -780,6 +881,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时53分]"
+        },
+        {
+          "title": "日本民众为南京大屠杀流泪致歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%BA%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%B5%81%E6%B3%AA%E8%87%B4%E6%AD%89%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     },
@@ -795,8 +907,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "英国国王访美背后的尊严博弈",
@@ -806,11 +918,12 @@
             2,
             4,
             22,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "英国王称美建国就前几天的事",
@@ -850,7 +963,7 @@
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "高通(QCOM.O)：领先的超大规模定制芯片合作预计将在今年晚些时候开始初步交付。期待在6月24日的投资者日上提供关于包括数据中心和物理人工智能机遇的信息。",
@@ -871,7 +984,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -882,7 +995,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -893,15 +1006,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：公司专注于精简团队、扩大产品规模，并奖励人工智能创新。",
+          "url": "https://flash.jin10.com/detail/20260430054236745800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -911,8 +1035,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
         },
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -935,8 +1059,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
+        },
+        {
+          "title": "美股存储芯片指数收涨约2.7%，成分股希捷科技涨超11%、泰瑞达则跌超19%，恩智浦飙涨超25%、英特尔涨超12%",
+          "url": "https://wallstreetcn.com/livenews/3096969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "Meta将因为存储芯片供应短缺问题而让某些服务器超期运作。（华尔街日报）",
@@ -953,7 +1088,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "释新闻｜阿联酋出走OPEC，能源市场、阿拉伯联盟与中东格局再洗牌",
@@ -961,11 +1096,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时47分]"
+        },
+        {
+          "title": "新能源车市场升温，金融工具“贷”动消费",
+          "url": "https://wallstreetcn.com/livenews/3096981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "标普500指数初步收跌0.1%，公用事业板块跌1.2%，原材料板块跌1%，科技板块大致收平，能源板块涨2.1%。 纳斯达克100指数初步收涨0.5%，成分股中，恩智浦初步收涨25%，英特尔涨12.2%，希捷科技涨10.3%，星巴克涨8.5%，微芯科技、Sandisk、西部数据、AMD、高通、思科、美光至少涨2.5%，铿腾电子涨1.5%，Strategy跌4.7%，再生元制药跌6.3%，特许通讯跌7.9%，GEHC跌13%。",
@@ -1016,6 +1163,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 05时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乐动机器人在港交所公告，在港上市拟发行逾3300万股H股，最高定价30港元/股，预期5月11日开始交易。",
+          "url": "https://flash.jin10.com/detail/20260430061209571800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     }
