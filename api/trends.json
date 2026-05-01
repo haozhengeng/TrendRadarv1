@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T16:14:36.812661+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-05-01T18:16:47.094667+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 108,
+      "match_count": 113,
       "titles": [
         {
           "title": "王毅同美国国务卿鲁比奥通电话",
@@ -62,11 +62,12 @@
             9,
             11,
             21,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 16时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 18时16分]"
         },
         {
           "title": "梅德韦杰夫：美国无法扮演有效调解人角色",
@@ -189,7 +190,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -211,9 +212,47 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 18时16分]"
+        },
+        {
+          "title": "美国一季度GDP年化增长2%，PCE物价指数4.3%，通胀压力骤升",
+          "url": "https://wallstreetcn.com/articles/3771412",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 18时16分]"
+        },
+        {
+          "title": "王毅同美国国务卿鲁比奥通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085948",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时16分]"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -271,6 +310,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "北约尚未就美国从德国撤军进行正式讨论",
+          "url": "https://wallstreetcn.com/livenews/3097861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
           "url": "https://wallstreetcn.com/livenews/3097732",
           "source": "华尔街见闻-快讯",
@@ -282,31 +332,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时49分 ~ 07时43分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 16时14分]"
-        },
-        {
-          "title": "美国一季度GDP年化增长2%，PCE物价指数4.3%，通胀压力骤升",
-          "url": "https://wallstreetcn.com/articles/3771412",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 16时14分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
@@ -357,16 +382,17 @@
           "time_info": "[00时22分 ~ 02时05分]"
         },
         {
-          "title": "王毅同美国国务卿鲁比奥通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33085948",
-          "source": "澎湃新闻",
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            23,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时16分]"
         },
         {
           "title": "美国海军又一艘主力战舰烧了",
@@ -381,16 +407,27 @@
           "time_info": "[14时01分 ~ 16时14分]"
         },
         {
-          "title": "特朗普称美国结束对伊朗战争",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "美国总统 60 天战争权限将耗尽，这意味着什么？美国有可能结束对伊作战吗？",
+          "url": "https://www.zhihu.com/question/2033449603194779614",
+          "source": "知乎",
           "ranks": [
-            23,
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 16时14分]"
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时16分]"
+        },
+        {
+          "title": "伊朗总统：美国海上封锁“不可容忍”",
+          "url": "https://www.toutiao.com/trending/7633995165912465444/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时16分]"
         },
         {
           "title": "后继乏力，美国对伊朗已使出最后手段？",
@@ -511,17 +548,6 @@
           "time_info": "[07时43分 ~ 10时05分]"
         },
         {
-          "title": "伊朗总统：美国海上封锁“不可容忍”",
-          "url": "https://www.toutiao.com/trending/7633995165912465444/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
           "title": "美国国防部长赫格塞思：人工智能并未做出致命决策；Anthropic公司由一位“意识形态狂人”领导。",
           "url": "https://flash.jin10.com/detail/20260501014458806800",
           "source": "金十数据",
@@ -542,17 +568,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "美国总统 60 天战争权限将耗尽，这意味着什么？美国有可能结束对伊作战吗？",
-          "url": "https://www.zhihu.com/question/2033449603194779614",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         },
         {
           "title": "国际足联主席因凡蒂诺：伊朗将参加世界杯，并将在美国比赛。",
@@ -676,6 +691,28 @@
           "time_info": "04时06分"
         },
         {
+          "title": "伊朗外长：美对伊战争已致美国损失1000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3097857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "伊朗外长：美对伊战争已致美国损失1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260501172247871800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
           "url": "https://wallstreetcn.com/livenews/3097647",
           "source": "华尔街见闻-快讯",
@@ -696,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "赖清德称进口美国“毒土豆”是谣言，台网红怒轰：还在骗",
+          "url": "https://news.ifeng.com/c/8sm3Wd6OKjS",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "伊朗议长嘲笑美国封锁：美国从东到西建两堵墙都没伊朗总边界长",
@@ -918,6 +966,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "伊朗外交部：美国袭击伊朗是“侵略行为”",
+          "url": "https://wallstreetcn.com/livenews/3097848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美国国防部长赫格塞思：我们今天面临的最大危险是那些试图破坏我们对抗伊朗努力的失败主义民主党人。",
           "url": "https://flash.jin10.com/detail/20260430233653799800",
           "source": "金十数据",
@@ -957,7 +1016,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1240,7 +1299,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 50,
+      "match_count": 62,
       "titles": [
         {
           "title": "日本“大将”“大佐”等称谓死灰复燃，外交部质问：沉迷于重温军国主义旧梦？",
@@ -1341,6 +1400,19 @@
           "time_info": "[00时22分 ~ 10时05分]"
         },
         {
+          "title": "报道：日本政府与央行已干预外汇市场，实施日元买入操作",
+          "url": "https://wallstreetcn.com/articles/3771416",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时43分 ~ 18时16分]"
+        },
+        {
           "title": "中方关于日本拥核问题的工作文件",
           "url": "https://www.douyin.com/hot/2484482",
           "source": "抖音",
@@ -1388,19 +1460,6 @@
           "time_info": "[00时22分 ~ 06时43分]"
         },
         {
-          "title": "报道：日本政府与央行已干预外汇市场，实施日元买入操作",
-          "url": "https://wallstreetcn.com/articles/3771416",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时43分 ~ 16时14分]"
-        },
-        {
           "title": "日本4月东京核心CPI年率 1.5%，预期1.80%，前值1.70%。",
           "url": "https://flash.jin10.com/detail/20260501073002994800",
           "source": "金十数据",
@@ -1423,6 +1482,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "花旗预计，日本央行将从6月起大约每六个月加息一次。",
+          "url": "https://flash.jin10.com/detail/20260501174954532800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "日本开始追加释放国家石油储备。（日本共同社）",
           "url": "https://wallstreetcn.com/livenews/3097801",
           "source": "华尔街见闻-快讯",
@@ -1432,6 +1502,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "花旗预计日本央行将于2026年6月加息，较之前预测的7月提前。",
+          "url": "https://flash.jin10.com/detail/20260501174936868800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "跌破160干预红线之际，日本当局密集喊话干预，日元随即跳涨",
+          "url": "https://wallstreetcn.com/articles/3771380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 18时16分]"
         },
         {
           "title": "外交部发布中方关于日本拥核问题的工作文件",
@@ -1497,18 +1590,6 @@
           "time_info": "[07时43分 ~ 10时05分]"
         },
         {
-          "title": "跌破160干预红线之际，日本当局密集喊话干预，日元随即跳涨",
-          "url": "https://wallstreetcn.com/articles/3771380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 16时14分]"
-        },
-        {
           "title": "国防部：绝不能让日本为祸世界",
           "url": "https://www.toutiao.com/trending/7634466596613980203/",
           "source": "今日头条",
@@ -1527,11 +1608,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时16分]"
         },
         {
           "title": "日本4月制造业PMI终值 55.1，初值 54.9。",
@@ -1598,9 +1680,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "日本或已斥资约345亿美元干预日元汇率",
+          "url": "https://flash.jin10.com/detail/20260501173228767800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "中方代表：防止朝鲜半岛生战生乱，美方有三个“应该”要做",
+          "url": "https://wallstreetcn.com/livenews/3097858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "日本4月国内汽车销量较上年同期上升17.6%。",
@@ -1686,7 +1790,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1724,6 +1828,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "据日经新闻：日本、澳大利亚将优先推进稀土、镍领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260501170832832800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "日本4月24日当周外资净买进日本股票 8079亿日元，前值 23809亿日元。",
           "url": "https://wallstreetcn.com/livenews/3097764",
           "source": "华尔街见闻-快讯",
@@ -1733,6 +1848,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "日本与澳大利亚将优先推进稀土和镍领域的合作。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3097851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "日本4月24日当周净买进国外债券 -8877亿日元，前值 -128亿日元。",
@@ -1746,13 +1872,46 @@
           "time_info": "10时05分"
         },
         {
+          "title": "美元兑日元短线波动不大，现报156.45。日本央行数据显示外汇干预规模约为5.4万亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3097850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "日本央行数据显示，其外汇干预规模约为5.4万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260501170551801800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "报道：日本可能动用了345亿美元进行外汇干预以提振日元",
+          "url": "https://wallstreetcn.com/livenews/3097849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "日本开始追加释放国家石油储备",
           "url": "https://wallstreetcn.com/livenews/3097801",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1779,6 +1938,28 @@
           "time_info": "10时05分"
         },
         {
+          "title": "日本最高外汇事务官员三村淳：对今天早上发表的声明没有其他补充。",
+          "url": "https://flash.jin10.com/detail/20260501164832593800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "日本外汇事务负责人三村淳：不会对外汇发表评论。 对我今早的声明没有补充。",
+          "url": "https://wallstreetcn.com/livenews/3097845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "受AI相关需求提振，韩国出口继续激增",
           "url": "https://flash.jin10.com/detail/20260501082241087800",
           "source": "金十数据",
@@ -1788,6 +1969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：不会对外汇发表评论。",
+          "url": "https://flash.jin10.com/detail/20260501164749256800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "半岛防空突现缺口 朝鲜试射有玄机",
@@ -1829,7 +2021,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1848,7 +2040,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "中国将迎来首艘核动力航母？国防部回应",
@@ -1887,11 +2079,12 @@
           "ranks": [
             6,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 16时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 18时16分]"
         },
         {
           "title": "定档!国产显卡520上市发售",
@@ -1900,11 +2093,12 @@
           "ranks": [
             8,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 16时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 18时16分]"
         },
         {
           "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
@@ -2037,6 +2231,31 @@
           "time_info": "[14时01分 ~ 16时14分]"
         },
         {
+          "title": "现场观察·国防部记者会｜中国核动力航母的“脚步”近了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085442",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 18时16分]"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 18时16分]"
+        },
+        {
           "title": "日本民众流泪向中国道歉",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%B5%81%E6%B3%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89",
           "source": "百度热搜",
@@ -2077,17 +2296,6 @@
           "time_info": "[14时01分 ~ 14时02分]"
         },
         {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 16时14分]"
-        },
-        {
           "title": "巴拿马总统：真不想升级与中国矛盾",
           "url": "https://news.ifeng.com/c/8slX5jMYDVb",
           "source": "凤凰网",
@@ -2121,19 +2329,6 @@
           "time_info": "10时05分"
         },
         {
-          "title": "现场观察·国防部记者会｜中国核动力航母的“脚步”近了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33085442",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 16时14分]"
-        },
-        {
           "title": "澳外长：中国已同意向澳提供燃料",
           "url": "https://www.toutiao.com/trending/7634377393520934948/",
           "source": "今日头条",
@@ -2148,6 +2343,19 @@
           "time_info": "[02时05分 ~ 06时43分]"
         },
         {
+          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
+          "url": "https://www.cls.cn/detail/2361718",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时16分]"
+        },
+        {
           "title": "富时中国A50指数期货盘初上涨0.8%。",
           "url": "https://wallstreetcn.com/livenews/3097777",
           "source": "华尔街见闻-快讯",
@@ -2158,18 +2366,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 14时02分]"
-        },
-        {
-          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
-          "url": "https://www.cls.cn/detail/2361718",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 16时14分]"
         },
         {
           "title": "中国斯诺克步入黄金时代",
@@ -2234,9 +2430,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "美媒炒作：俄罗斯超过90%的受制裁技术，都从中国进口",
+          "url": "https://news.ifeng.com/c/8sly2AlXapD",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.8%。",
@@ -2305,6 +2512,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "林毅夫谈全球经济形势和中国发展态势",
+          "url": "https://www.toutiao.com/trending/7634835572262964777/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "纳斯达克金龙中国指数涨超1.3%，刷新日高至6880点上方。 热门中概股里，百度涨超4.6%，贝壳涨4.4%，再鼎医药涨4.3%，美团涨3.4%，网易涨2.8%，携程涨2.7%，新东方涨1.7%，拼多多涨1.5%，阿里巴巴涨0.4%，蔚来跌约1.9%。 ETF中，CQQQ涨超3%，KWEB涨1.7%，ASHS涨1.5%，ASHR涨1.1%。 富时A50夜期涨约0.4%。",
           "url": "https://wallstreetcn.com/livenews/3097607",
           "source": "华尔街见闻-快讯",
@@ -2352,7 +2570,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
         {
           "title": "4月份，欧元兑美元累计上涨1.54%，周四（4月30日）纽约尾盘报1.1731，4月7日以来持续走高，4月17日达到1.1849，随后略微回吐涨幅； 英镑兑美元累涨2.83%，报1.3602，4-7日以来持续上扬，4月14日以来高位窄幅震荡——主要交投于1.35上方，4月30日达到1.3612； 美元兑瑞郎累跌2.18%，报0.7817。 商品货币对中，澳元兑美元累涨4.31%、报0.7197，纽元兑美元累涨2.75%、报0.5905，美元兑加元累跌2.37%、报1.3586。 瑞典克朗兑美元累涨2.45%，挪威克朗兑美元累涨4.54%，丹麦克朗兑美元累涨1.52%。",
@@ -2420,7 +2638,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -2431,7 +2649,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -2445,6 +2663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "英国海军：自战争开始以来，通过霍尔木兹海峡的舰船数量减少了90%。",
+          "url": "https://flash.jin10.com/detail/20260501171518783800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "伦敦持刀袭击事件后，英国上调恐怖威胁等级",
@@ -2475,7 +2704,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -2486,7 +2715,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -2508,7 +2737,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -2519,7 +2748,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -2530,7 +2759,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -2546,6 +2775,39 @@
           "time_info": "00时22分"
         },
         {
+          "title": "英国3月M4不包括IOFC 3个月年化 4%，前值 2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3097841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "英国3月M4货币供应同比 4.3%，前值 3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3097840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "受伊朗战争冲击 英国工厂面临成本上涨与交付延误加剧",
+          "url": "https://flash.jin10.com/detail/20260501163935093800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "特朗普再次对德国总理涉伊朗言论表达不满",
           "url": "https://wallstreetcn.com/livenews/3097606",
           "source": "华尔街见闻-快讯",
@@ -2557,21 +2819,98 @@
           "time_info": "00时22分"
         },
         {
+          "title": "英国3月央行消费信贷 18.95亿英镑，预期 17亿英镑，前值 19亿英镑。",
+          "url": "https://wallstreetcn.com/livenews/3097839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "地缘局势未压垮房价 英国4月房价意外增长",
           "url": "https://flash.jin10.com/detail/20260501141204703800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "英国3月M4货币供应年率 4.3%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260501163031689800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "英国3月M4货币供应环比 0.8%，前值 0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3097838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "英国3月M4货币供应月率 0.8%，前值由0.60%修正为0.7%。",
+          "url": "https://flash.jin10.com/detail/20260501163007497800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "英国3月央行抵押贷款额 61.52亿英镑，预期 42亿英镑，前值 48亿英镑。",
+          "url": "https://wallstreetcn.com/livenews/3097837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "英国3月央行消费信贷 18.95亿英镑，预期17.5亿英镑，前值由19.35亿英镑修正为19.75亿英镑。",
+          "url": "https://flash.jin10.com/detail/20260501163006296800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "英国3月央行抵押贷款许可件数 6.35万件，预期 6万件，前值 6.26万件。",
+          "url": "https://wallstreetcn.com/livenews/3097836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【每日收评】科创50指数涨超5%，芯片产业链集体爆发，寒武纪20CM涨停重夺“股王”宝座",
@@ -2647,6 +2986,17 @@
           "time_info": "[07时43分 ~ 10时05分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
           "url": "https://www.zhihu.com/question/2032183066840360184",
           "source": "知乎",
@@ -2696,7 +3046,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -2838,7 +3188,7 @@
     },
     {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "今起施行，杭州为具身智能机器人立法",
@@ -2874,6 +3224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "全国首个交通管理机器人中队上岗",
+          "url": "https://www.toutiao.com/trending/7634423336931442707/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
