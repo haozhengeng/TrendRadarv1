@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T06:01:35.021255+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-05T06:59:26.429287+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 54,
+      "match_count": 62,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "商务部出手,美国禁令失效",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
@@ -59,9 +59,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
         },
         {
           "title": "美国财政部：第一季度已借款5,770亿美元，季度末现金余额为8,930亿美元。将在第二季度借款1,890亿美元，预计6月底现金余额为9,000亿美元。将在第三季度借款6,710亿美元，预计9月底现金余额为9,500亿美元。",
@@ -75,17 +75,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "马士基：旗下悬挂美国国旗的船舶在美军护航下通过霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260505052939960800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "特朗普宣称：伊朗若攻击美国船只，将会被“炸飞”",
           "url": "https://wallstreetcn.com/livenews/3098566",
           "source": "华尔街见闻-快讯",
@@ -95,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "伊朗：发射两枚导弹击中美国军舰",
+          "url": "https://www.toutiao.com/trending/7635981615012793894/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "据纽约时报：美国白宫考虑在发布人工智能模型前对其进行审查。",
@@ -117,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "马士基旗下美国籍船只在美国军方护航下通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3098651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "特朗普：若伊朗攻击美国军舰，将被“从地球上抹去”",
@@ -163,15 +152,37 @@
           "time_info": "03时15分"
         },
         {
-          "title": "伊朗：发射两枚导弹击中美国军舰",
-          "url": "https://www.toutiao.com/trending/7635981615012793894/",
-          "source": "今日头条",
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争可能还会持续两到三周。",
+          "url": "https://flash.jin10.com/detail/20260505060625240800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
+          "url": "https://wallstreetcn.com/livenews/3098663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国总统特朗普：我已经在采取其他关税措施了。",
@@ -186,15 +197,29 @@
           "time_info": "[05时01分 ~ 06时01分]"
         },
         {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
+          "title": "马士基：旗下悬挂美国国旗的船舶在美军护航下通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260505052939960800",
+          "source": "金十数据",
           "ranks": [
-            8
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
+          "url": "https://wallstreetcn.com/livenews/3098638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时59分]"
         },
         {
           "title": "美国总统特朗普：我讨厌不得不返还关税。",
@@ -209,28 +234,16 @@
           "time_info": "[05时01分 ~ 06时01分]"
         },
         {
-          "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
-          "url": "https://wallstreetcn.com/livenews/3098638",
+          "title": "马士基旗下美国籍船只在美国军方护航下通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3098651",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
-        },
-        {
-          "title": "马斯克将支付150万美元，来了结美国SEC针对推特的案件",
-          "url": "https://wallstreetcn.com/livenews/3098637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
+            3,
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
+          "time_info": "[06时01分 ~ 06时59分]"
         },
         {
           "title": "专家解析美国从德国撤军五千人",
@@ -238,11 +251,25 @@
           "source": "抖音",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时59分]"
+        },
+        {
+          "title": "马斯克将支付150万美元，来了结美国SEC针对推特的案件",
+          "url": "https://wallstreetcn.com/livenews/3098637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时59分]"
         },
         {
           "title": "市场消息：马士基表示，其一艘悬挂美国国旗的汽车运输船经霍尔木兹海峡离开海湾。",
@@ -267,6 +294,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时01分]"
+        },
+        {
+          "title": "特朗普称美国与伊朗处于“迷你战争”状态",
+          "url": "https://flash.jin10.com/detail/20260505050012247800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
+        },
+        {
+          "title": "美国总统特朗普：我们的关税经过了更充分的检验，更加有力，也稍微复杂一些。它们让我们的国家变得非常富裕。",
+          "url": "https://flash.jin10.com/detail/20260505045117367800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：在美联储主席提名人沃什担任美联储主席后，我相信美联储的文化和行为将继续保持过去的状态。",
+          "url": "https://flash.jin10.com/detail/20260505044258674800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
+        },
+        {
+          "title": "美国国务院领事事务局：我们对阿联酋的旅行警告建议仍维持在三级。",
+          "url": "https://flash.jin10.com/detail/20260505044117014800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，宣称：进展非常顺利。 一旦战争结束，燃油价格就会迅速下跌。",
@@ -316,37 +391,37 @@
           "time_info": "01时23分"
         },
         {
-          "title": "特朗普称美国与伊朗处于“迷你战争”状态",
-          "url": "https://flash.jin10.com/detail/20260505050012247800",
-          "source": "金十数据",
+          "title": "亚太盘初，美国三大股指期货涨约0.1%。 WTI原油期货涨0.20%，暂报105.29美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098660",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "06时59分"
         },
         {
-          "title": "美国总统特朗普：我们的关税经过了更充分的检验，更加有力，也稍微复杂一些。它们让我们的国家变得非常富裕。",
-          "url": "https://flash.jin10.com/detail/20260505045117367800",
+          "title": "伊朗外长阿拉格齐：霍尔木兹的局势清楚地表明，政治危机无法通过军事手段解决。在巴基斯坦的积极努力下，谈判正取得进展，美国应警惕被别有用心者拖回泥潭，阿联酋方面也应如此。“自由计划”就是一个“僵局计划”。",
+          "url": "https://flash.jin10.com/detail/20260505055458753800",
           "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "06时59分"
         },
         {
-          "title": "加拿大央行行长麦克勒姆：在美联储主席提名人沃什担任美联储主席后，我相信美联储的文化和行为将继续保持过去的状态。",
-          "url": "https://flash.jin10.com/detail/20260505044258674800",
-          "source": "金十数据",
+          "title": "伊朗外长：霍尔木兹海峡发生的一系列事件表明，政治危机无法通过武力行动来解决。 随着谈判在巴基斯坦的努力下取得进展，美国和阿联酋都应当“警惕别被别有用心之人拖回泥潭”。",
+          "url": "https://wallstreetcn.com/livenews/3098658",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "06时59分"
         },
         {
           "title": "Man Group的CEO Robyn Grew：欧洲承受的经济痛苦比美国更加糟糕。（彭博电视）",
@@ -393,17 +468,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "美国国务院领事事务局：我们对阿联酋的旅行警告建议仍维持在三级。",
-          "url": "https://flash.jin10.com/detail/20260505044117014800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "据伊朗Mizan新闻社：伊朗一名高级安全消息人士表示，伊朗的信息很明确：如果美国人试图在霍尔木兹海峡推进，将成为打击目标。",
           "url": "https://flash.jin10.com/detail/20260505025418614800",
           "source": "金十数据",
@@ -413,6 +477,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "巴西财长：我目前还没有确定的美国行程安排。如果日程安排得以确认，我们将有一个积极且富有成效的议程来与美国进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260505054834712800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美国学贷有多高昂？为什么会那么夸张？",
+          "url": "https://www.zhihu.com/question/402450676",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美联储威廉姆斯：前尚无法判断伊朗战争对美国经济的影响将如何演变。",
@@ -468,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普：美国与伊朗处于“迷你战争”状态",
+          "url": "https://wallstreetcn.com/livenews/3098665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国中央司令部司令布拉德·库珀上将：美国实施封锁的两个目标是确保安全以及清理霍尔木兹海峡航道。",
@@ -616,7 +713,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "这一代中国青年怎么“敢”的",
@@ -626,8 +723,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -637,8 +734,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -649,8 +746,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "中国队3-1战胜法国队，夺得第12个汤姆斯杯冠军",
@@ -676,17 +773,32 @@
           "time_info": "[01时23分 ~ 03时15分]"
         },
         {
+          "title": "宋承良评球｜中超是中国体育最好的文旅品牌，你同意吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097190",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
           "title": "中国向联合国发出警告",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9,
             8,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "苏超场均3.1万人，中超2.9万，国足出局，草根足球却越来越火，中国足球真正的\"基本盘\"到底在哪？",
@@ -698,21 +810,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
-          "title": "宋承良评球｜中超是中国体育最好的文旅品牌，你同意吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097190",
+          "title": "中国青年，向前进",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079262",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12,
-            11
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "如何看待「中国首位百亿票房导演」陈思诚新片《10 间敢死队》预测票房仅 9540 万创历史新低？",
@@ -725,19 +836,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
-        },
-        {
-          "title": "中国青年，向前进",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079262",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "如今的国产 CD 机厂商为什么不能逆向研究以前的 CD 机方案？",
@@ -747,8 +847,31 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时59分]"
+        },
+        {
+          "title": "中国海警在铁线礁展示五星红旗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9C%A8%E9%93%81%E7%BA%BF%E7%A4%81%E5%B1%95%E7%A4%BA%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时15分 ~ 06时01分]"
+          "time_info": "[05时01分 ~ 06时59分]"
+        },
+        {
+          "title": "中国政府4日向黎巴嫩政府交付两批人道主义援助物资，用于帮助受冲突影响的黎巴嫩民众及缓解当地人道主义局势。",
+          "url": "https://flash.jin10.com/detail/20260505045802947800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.09%，报6881.09点。 热门中概股里，阿特斯太阳能初步收跌5.1%，携程跌2.5%，蔚来涨2.7%，大全新能源涨4%，小马智行涨5.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.66%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收跌1.02%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%。",
@@ -763,15 +886,15 @@
           "time_info": "[05时01分 ~ 06时01分]"
         },
         {
-          "title": "中国海警在铁线礁展示五星红旗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9C%A8%E9%93%81%E7%BA%BF%E7%A4%81%E5%B1%95%E7%A4%BA%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97",
-          "source": "百度热搜",
+          "title": "中国驻阿联酋使领馆提醒中国公民加强安全防范",
+          "url": "https://wallstreetcn.com/livenews/3098659",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "伦敦世乒赛中国女团战胜波兰",
@@ -783,17 +906,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "中国政府4日向黎巴嫩政府交付两批人道主义援助物资，用于帮助受冲突影响的黎巴嫩民众及缓解当地人道主义局势。",
-          "url": "https://flash.jin10.com/detail/20260505045802947800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "中国驻阿联酋使领馆提醒在阿中国公民加强安全防范",
@@ -821,7 +933,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "讲武谈兵｜德国打造“欧洲最强常规军”，海陆空战力会如何提升？",
@@ -829,11 +941,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "西班牙首相专机发生技术故障，紧急降落土耳其",
@@ -843,8 +956,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "法国车手给张雪机车打满分",
@@ -852,11 +965,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时59分]"
         },
         {
           "title": "德国莱茵金属RHM一季度销售19.4亿欧元。 一季度运营利润2.24亿欧元，分析师预期2.401亿欧元。 一季度运营利润率11.6%，符合分析师预期。 维持全年销售增速预期在40%-45%不变。 维持全年运营利润率预期在19%左右，分析师预期19.4%。",
@@ -868,6 +982,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "法国外长：条件允许时法国将参与维护霍尔木兹海峡通航",
+          "url": "https://wallstreetcn.com/livenews/3098657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "法国外长：条件允许时法国将参与维护霍尔木兹海峡通航",
+          "url": "https://flash.jin10.com/detail/20260505055141364800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "德国两年期国债收益率涨超9个基点，投资者权衡加息风险",
@@ -906,7 +1042,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "韩国确认霍尔木兹海峡一韩船只爆炸",
@@ -917,8 +1053,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "霍尔木兹海峡内一韩国船只爆炸起火",
@@ -928,11 +1064,12 @@
             15,
             28,
             19,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "专坑国人,日本阴阳菜单被扒",
@@ -942,8 +1079,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "中方：日本已具备提取武器级钚能力",
@@ -951,11 +1088,34 @@
           "source": "今日头条",
           "ranks": [
             28,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时59分]"
+        },
+        {
+          "title": "韩国航运公司HMM：霍尔木兹海峡韩籍船舶火灾已扑灭",
+          "url": "https://wallstreetcn.com/livenews/3098656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "韩新远洋船务（HMM）表示，霍尔木兹海峡一艘韩国船只上的火灾已被扑灭。",
+          "url": "https://flash.jin10.com/detail/20260505054955544800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "韩国公司运营的一艘船只在霍尔木兹海峡内侧爆炸起火",
@@ -1044,7 +1204,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中东局势再吃紧，标普纳指回落，存储芯片股逆市大涨，布油一度涨近6%",
@@ -1059,16 +1219,28 @@
           "time_info": "[01时23分 ~ 06时01分]"
         },
         {
+          "title": "中东局势再吃紧，标普盘中转跌，道指跌超1%，存储芯片股逆市走高，布油一度涨超6%",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
           "url": "https://wallstreetcn.com/livenews/3098641",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时59分]"
         },
         {
           "title": "莱迪斯半导体一季度营收1.709亿美元，分析师预期1.649亿美元。 预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
@@ -1076,11 +1248,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时59分]"
         }
       ]
     },
@@ -1122,22 +1295,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时59分]"
         },
         {
           "title": "据华尔街日报：Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
           "url": "https://flash.jin10.com/detail/20260505050207582800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
         }
       ]
     },
@@ -1163,7 +1338,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -1181,8 +1356,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         }
       ]
     },
@@ -1196,11 +1371,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         }
       ]
     }
