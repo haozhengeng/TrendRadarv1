@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:36:06.518494+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-04T09:57:33.877475+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗战争丨伊朗向美国提交14点和平计划，更多细节曝光",
@@ -29,11 +29,12 @@
             17,
             18,
             16,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 09时57分]"
         },
         {
           "title": "美国财长贝森特：美国现在拥有创纪录的能源出口量。 唯一制约美国能源出口的因素是基础设施。 美国是能源市场上的“最大赢家”。",
@@ -143,7 +144,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -511,7 +512,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -522,7 +523,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -536,6 +537,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "港媒：民进党跪舔美国得罪岛内农民",
+          "url": "https://www.toutiao.com/trending/7634900298558537734/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "伊朗超大型油轮躲过美国“封锁”，仍有特定船只可通过霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095206",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "美国得克萨斯州发生枪击事件 致2死10伤",
@@ -560,6 +583,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "美国财长：美国的经济和金融压力正在令伊朗“窒息”",
+          "url": "https://wallstreetcn.com/livenews/3098335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "美国财长贝森特：美国目前的能源出口达到了创纪录水平；限制美国能源出口的唯一因素是基础设施。美国在能源市场中是“大赢家”。",
           "url": "https://flash.jin10.com/detail/20260503222039345800",
           "source": "金十数据",
@@ -573,31 +607,371 @@
       ]
     },
     {
-      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 24,
+      "keyword_group": "[中国] 国产 中国",
+      "match_count": 29,
       "titles": [
         {
-          "title": "国乒男团2比3瑞典遭连败",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A22%E6%AF%943%E7%91%9E%E5%85%B8%E9%81%AD%E8%BF%9E%E8%B4%A5",
-          "source": "百度热搜",
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
           "ranks": [
-            1
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362134",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "赵心童：中国第一位斯诺克世锦赛冠军",
+          "url": "https://www.toutiao.com/trending/7634755435074387977/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "下周重磅日程：美国非农、中国进出口、AMD及光模块巨头财报",
+          "url": "https://wallstreetcn.com/articles/3771488",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 07时36分]"
         },
         {
-          "title": "国乒男团2比3瑞典",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A22%E6%AF%943%E7%91%9E%E5%85%B8%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
+          "url": "https://www.cls.cn/detail/2362027",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "美媒拆了台无人机，“中国已经赢了三战，因为一切都在掌握之中”",
+          "url": "https://news.ifeng.com/c/8spLVjVzPid",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "国产“超跑”时速破496公里秒售罄",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E2%80%9C%E8%B6%85%E8%B7%91%E2%80%9D%E6%97%B6%E9%80%9F%E7%A0%B4496%E5%85%AC%E9%87%8C%E7%A7%92%E5%94%AE%E7%BD%84",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            10,
+            15,
+            21,
+            17
           ],
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 07时36分]"
         },
+        {
+          "title": "日本民众集会反修宪：祖先对中国做过那样残酷的事，我必须道歉",
+          "url": "https://news.ifeng.com/c/8spj3P5AomB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时36分]"
+        },
+        {
+          "title": "中国已是联合国实际第一会费分摊国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%98%AF%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%9E%E9%99%85%E7%AC%AC%E4%B8%80%E4%BC%9A%E8%B4%B9%E5%88%86%E6%91%8A%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            21,
+            10,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时36分]"
+        },
+        {
+          "title": "世乒赛中国如何输给韩国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%BE%93%E7%BB%99%E9%9F%A9%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            17,
+            12,
+            11,
+            15,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "中国第三人!吴宜泽逆转进决赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353966&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%89%E4%BA%BA%21%E5%90%B4%E5%AE%9C%E6%B3%BD%E9%80%86%E8%BD%AC%E8%BF%9B%E5%86%B3%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "2026 伦敦世乒赛，瑞典时隔 26 年 3：2 战胜中国队，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2034407034670592491",
+          "source": "知乎",
+          "ranks": [
+            2,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时33分 ~ 09时57分]"
+        },
+        {
+          "title": "中国青年大有可为",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "本周重磅日程：美国非农、中国进出口、AMD及光模块巨头财报",
+          "url": "https://wallstreetcn.com/articles/3771488",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "《开罗宣言》是确认台湾作为中国不可分割领土的重要历史和法理依据。中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑。（人民日报）",
+          "url": "https://wallstreetcn.com/livenews/3098283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
+        },
+        {
+          "title": "中国地震台网正式测定：05月04日02时39分在新疆阿克苏地区库车市（北纬41.34度，东经83.94度）发生4.8级地震，震源深度18千米。",
+          "url": "https://flash.jin10.com/detail/20260504025541743800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 05时34分]"
+        },
+        {
+          "title": "2026 年羽毛球尤伯杯女团决赛，中国队 1:3 不敌韩国队收获亚军，怎么评价这一结果？",
+          "url": "https://www.zhihu.com/question/2034370809569998186",
+          "source": "知乎",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 01时40分]"
+        },
+        {
+          "title": "中国在埃及一饭店建立纪念碑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%9F%83%E5%8F%8A%E4%B8%80%E9%A5%AD%E5%BA%97%E5%BB%BA%E7%AB%8B%E7%BA%AA%E5%BF%B5%E7%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 07时36分]"
+        },
+        {
+          "title": "崔东树：2026年中国在世界纯电动车市场份额56%",
+          "url": "https://wallstreetcn.com/livenews/3098271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时47分]"
+        },
+        {
+          "title": "中国地震台网正式测定：05月04日00时19分在台湾宜兰县海域（北纬24.81度，东经122.76度）发生4.2级地震，震源深度80千米。",
+          "url": "https://flash.jin10.com/detail/20260504003245834800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时44分]"
+        },
+        {
+          "title": "中国队夺得第12个汤姆斯杯冠军",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%BE%97%E7%AC%AC12%E4%B8%AA%E6%B1%A4%E5%A7%86%E6%96%AF%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国央行：芯片周期预计将比过去更长，与中国台湾地区的情况不同，韩国拥有其他产业部门。",
+          "url": "https://flash.jin10.com/detail/20260504092845789800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "中国队夺得第12个汤姆斯杯冠军",
+          "url": "https://www.toutiao.com/trending/7635813475402616329/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "莫雷加德回应击败中国男团",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%E5%9B%9E%E5%BA%94%E5%87%BB%E8%B4%A5%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "港股内房股多数走强，中国海外发展(00688.HK)涨超5%，龙湖集团(00960.HK)涨超3%，融创中国(01918.HK)涨超2%，华润置地(01109.HK)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260504092532381800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.06%，上一个交易日夜盘收涨0.10%。",
+          "url": "https://wallstreetcn.com/livenews/3098345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "报道：中国机器人初创公司灵心巧手寻求60亿美元估值",
+          "url": "https://wallstreetcn.com/livenews/3098343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "中国男接37秒85历史第四",
+          "url": "https://www.douyin.com/hot/2487977",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "富时中国A50指数期货开涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260504090025973800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
+      "match_count": 28,
+      "titles": [
         {
           "title": "2026 伦敦世乒赛团体赛，国乒男队 2:3 不敌瑞典队，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2034366086838051833",
@@ -606,8 +980,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "国乒男团2比3瑞典",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A22%E6%AF%943%E7%91%9E%E5%85%B8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "国乒男团2比3瑞典遭连败",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A22%E6%AF%943%E7%91%9E%E5%85%B8%E9%81%AD%E8%BF%9E%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
+        },
+        {
+          "title": "从两党主导到七党混战，英国政坛将大变天？",
+          "url": "https://news.ifeng.com/c/8spkkhaQ7PQ",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
         },
         {
           "title": "国乒男团不敌瑞典",
@@ -615,22 +1025,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "从两党主导到七党混战，英国政坛将大变天？",
-          "url": "https://news.ifeng.com/c/8spkkhaQ7PQ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
         },
         {
           "title": "法国主编谈张雪机车",
@@ -652,11 +1052,12 @@
           "url": "https://www.toutiao.com/trending/7634485442179812905/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 07时36分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 09时57分]"
         },
         {
           "title": "银行业研究新方式，来规避与数据中心债务相关的风险。（英国金融时报）",
@@ -738,6 +1139,18 @@
           "time_info": "[04时34分 ~ 07时36分]"
         },
         {
+          "title": "国乒男团2:3瑞典",
+          "url": "https://www.douyin.com/hot/2487843",
+          "source": "抖音",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 09时57分]"
+        },
+        {
           "title": "英国政府拟允许航空公司合并航班，以应对油价飙升",
           "url": "https://wallstreetcn.com/livenews/3098269",
           "source": "华尔街见闻-快讯",
@@ -760,17 +1173,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 03时47分]"
-        },
-        {
-          "title": "国乒男团2:3瑞典",
-          "url": "https://www.douyin.com/hot/2487843",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 04时34分]"
         },
         {
           "title": "德国总理默茨：（就与特朗普在部队撤回问题上发生的争执）两者之间没有关联。",
@@ -846,6 +1248,28 @@
           "time_info": "[06时32分 ~ 07时36分]"
         },
         {
+          "title": "德国怂了",
+          "url": "https://news.ifeng.com/c/8sqTH4hMDO1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "西班牙首相专机发生技术故障，紧急降落土耳其",
+          "url": "https://news.ifeng.com/c/8sq9uOah194",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
           "url": "https://flash.jin10.com/detail/20260503233359102800",
           "source": "金十数据",
@@ -866,248 +1290,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[中国] 国产 中国",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
         },
         {
-          "title": "赵心童：中国第一位斯诺克世锦赛冠军",
-          "url": "https://www.toutiao.com/trending/7634755435074387977/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362134",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "下周重磅日程：美国非农、中国进出口、AMD及光模块巨头财报",
-          "url": "https://wallstreetcn.com/articles/3771488",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "美媒拆了台无人机，“中国已经赢了三战，因为一切都在掌握之中”",
-          "url": "https://news.ifeng.com/c/8spLVjVzPid",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "国产“超跑”时速破496公里秒售罄",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E2%80%9C%E8%B6%85%E8%B7%91%E2%80%9D%E6%97%B6%E9%80%9F%E7%A0%B4496%E5%85%AC%E9%87%8C%E7%A7%92%E5%94%AE%E7%BD%84",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10,
-            15,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "日本民众集会反修宪：祖先对中国做过那样残酷的事，我必须道歉",
-          "url": "https://news.ifeng.com/c/8spj3P5AomB",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "中国已是联合国实际第一会费分摊国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%98%AF%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%9E%E9%99%85%E7%AC%AC%E4%B8%80%E4%BC%9A%E8%B4%B9%E5%88%86%E6%91%8A%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            21,
-            10,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "世乒赛中国如何输给韩国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%BE%93%E7%BB%99%E9%9F%A9%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            17,
-            12,
-            11,
-            15,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "中国第三人!吴宜泽逆转进决赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353966&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%89%E4%BA%BA%21%E5%90%B4%E5%AE%9C%E6%B3%BD%E9%80%86%E8%BD%AC%E8%BF%9B%E5%86%B3%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "2026 伦敦世乒赛，瑞典时隔 26 年 3：2 战胜中国队，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2034407034670592491",
-          "source": "知乎",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时33分 ~ 07时36分]"
-        },
-        {
-          "title": "《开罗宣言》是确认台湾作为中国不可分割领土的重要历史和法理依据。中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑。（人民日报）",
-          "url": "https://wallstreetcn.com/livenews/3098283",
+          "title": "英国海事贸易组织说一艘油轮在阿联酋附近被击中",
+          "url": "https://wallstreetcn.com/livenews/3098333",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时34分]"
-        },
-        {
-          "title": "中国地震台网正式测定：05月04日02时39分在新疆阿克苏地区库车市（北纬41.34度，东经83.94度）发生4.8级地震，震源深度18千米。",
-          "url": "https://flash.jin10.com/detail/20260504025541743800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
             23
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 05时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
-          "title": "2026 年羽毛球尤伯杯女团决赛，中国队 1:3 不敌韩国队收获亚军，怎么评价这一结果？",
-          "url": "https://www.zhihu.com/question/2034370809569998186",
-          "source": "知乎",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时40分]"
-        },
-        {
-          "title": "中国在埃及一饭店建立纪念碑",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%9F%83%E5%8F%8A%E4%B8%80%E9%A5%AD%E5%BA%97%E5%BB%BA%E7%AB%8B%E7%BA%AA%E5%BF%B5%E7%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时34分 ~ 07时36分]"
-        },
-        {
-          "title": "崔东树：2026年中国在世界纯电动车市场份额56%",
-          "url": "https://wallstreetcn.com/livenews/3098271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时47分]"
-        },
-        {
-          "title": "中国地震台网正式测定：05月04日00时19分在台湾宜兰县海域（北纬24.81度，东经122.76度）发生4.2级地震，震源深度80千米。",
-          "url": "https://flash.jin10.com/detail/20260504003245834800",
+          "title": "英国海事贸易组织说一艘油轮在阿联酋附近被击中",
+          "url": "https://flash.jin10.com/detail/20260504085442898800",
           "source": "金十数据",
           "ranks": [
-            20,
-            28
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 8,
+      "match_count": 20,
       "titles": [
         {
           "title": "专坑国人,日本阴阳菜单被扒",
@@ -1117,8 +1327,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
         },
         {
           "title": "国羽女队1-3韩国无缘卫冕尤伯杯",
@@ -1139,8 +1349,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
         },
         {
           "title": "国羽不敌韩国队获尤伯杯亚军",
@@ -1148,11 +1358,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
         },
         {
           "title": "周边只抓不卖,日本谷迷被气炸",
@@ -1162,8 +1373,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
         },
         {
           "title": "日本动画大厂盘点,马趴飞碟崛起",
@@ -1173,8 +1384,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 09时57分]"
         },
         {
           "title": "韩国十年来近900名“熟练”空军飞行员转投民航",
@@ -1204,6 +1415,138 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时39分 ~ 06时32分]"
+        },
+        {
+          "title": "韩国首尔综指日内涨幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/3098352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国央行官员称，是时候考虑加息了。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3098350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国央行：对（经济）过度依赖芯片行业并不担忧。",
+          "url": "https://flash.jin10.com/detail/20260504092739754800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国央行：预计本月政策会议上的6个月前瞻指引将变得更为鹰派。",
+          "url": "https://flash.jin10.com/detail/20260504092050379800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国KOSPI指数向上触及6800点，日内涨3.05%。",
+          "url": "https://flash.jin10.com/detail/20260504091812364800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国央行：市场观点认为当前外汇水平并无问题。",
+          "url": "https://flash.jin10.com/detail/20260504091806556800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国央行：今年经济增长不太可能显著低于2%。",
+          "url": "https://flash.jin10.com/detail/20260504091621749800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国KOSPI指数日内大涨3.00%，现报6797.18点。",
+          "url": "https://flash.jin10.com/detail/20260504091529726800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国4月制造业PMI 53.6，前值 52.6。",
+          "url": "https://wallstreetcn.com/livenews/3098339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国央行：是时候考虑加息了。",
+          "url": "https://flash.jin10.com/detail/20260504090959642800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国首尔综指高开2.8%，至纪录新高。三星电子上涨3%。 日本股市今日休市。",
+          "url": "https://wallstreetcn.com/livenews/3098331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "记者手记：被刻意淡化的日本战争罪责",
+          "url": "https://www.toutiao.com/trending/7635829299425771558/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
@@ -1255,6 +1598,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 07时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马桶巨头进军AI芯片行业",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%A1%B6%E5%B7%A8%E5%A4%B4%E8%BF%9B%E5%86%9BAI%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     }
