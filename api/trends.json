@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T04:56:11.368452+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-05-06T05:54:44.809779+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 55,
+      "match_count": 62,
       "titles": [
         {
           "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "据美国全国广播公司（NBC)：美国周一船只通过霍尔木兹海峡期间有军事安保人员在船上。",
@@ -25,9 +25,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33098897",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
+        },
+        {
+          "title": "商务部出手,美国禁令失效",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353987&amp;topic_name=%E5%95%86%E5%8A%A1%E9%83%A8%E5%87%BA%E6%89%8B%2C%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%A4%B1%E6%95%88",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫与美国国务卿鲁比奥的通话是建设性、务实的。（俄新社）",
@@ -47,20 +80,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
         {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3098933",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务院：他们讨论了美俄关系、俄乌战争以及伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260506053246013800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "05时54分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫与美国国务卿鲁比奥讨论了国际议程、俄美关系及双边接触日程。（俄新社）",
@@ -80,7 +113,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -102,9 +135,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥今天与俄罗斯外长拉夫罗夫进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260506053215367800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "美国达拉斯附近购物中心发生枪击，两死三伤",
@@ -118,37 +162,28 @@
           "time_info": "03时17分"
         },
         {
-          "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33098897",
-          "source": "澎湃新闻",
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3098933",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            3,
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时54分]"
         },
         {
-          "title": "商务部出手,美国禁令失效",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353987&amp;topic_name=%E5%95%86%E5%8A%A1%E9%83%A8%E5%87%BA%E6%89%8B%2C%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%A4%B1%E6%95%88",
-          "source": "贴吧",
+          "title": "据知情人士称，第二艘驶离霍尔木兹海峡的美国籍商船是“CS Anthem”号化学品船。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3098919",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时54分]"
         },
         {
           "title": "美国3月国际贸易逆差为603亿美元",
@@ -179,7 +214,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -223,9 +258,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，Alphabet提交了总额85亿加元的四批次票据发行申请。",
+          "url": "https://flash.jin10.com/detail/20260506052656012800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "伊朗总统：美国正对伊采取“极限施压”",
@@ -245,9 +291,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "Cerence AI：国际贸易委员会诉状请求发布有限排除令，禁止包括音箱、显示器、电视、平板电脑和流媒体设备在内的某些智能设备进口至美国。",
+          "url": "https://flash.jin10.com/detail/20260506052544732800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "美国至5月1日当周API汽油库存 -610.7万桶，预期-170.6万桶，前值-847.2万桶。",
@@ -256,7 +313,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -281,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "Cerence AI：向美国国际贸易委员会对亚马逊提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260506052300378800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "印度尼西亚3月未锻轧铝出口8.8554万吨，创2023年11月份以来（28个月）新高，罕见地向美国市场发送了一个批次的货物。",
@@ -311,9 +379,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "Sentinel Midstream 批准得美国克州深水石油出口港项目",
+          "url": "https://wallstreetcn.com/livenews/3098942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "市场消息：伊拉克候任总理告知伊朗总统，巴格达可以协助在伊朗与美国之间发挥调解作用。",
@@ -338,15 +417,15 @@
           "time_info": "01时19分"
         },
         {
-          "title": "据知情人士称，第二艘驶离霍尔木兹海峡的美国籍商船是“CS Anthem”号化学品船。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3098919",
+          "title": "行业周报：美国上周API原油锐减超800万桶，汽油库存减少超600万桶",
+          "url": "https://wallstreetcn.com/livenews/3098939",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "05时54分"
         },
         {
           "title": "据华尔街日报：特朗普施压美国食品药品监督管理局（FDA）局长批准调味电子烟，敦促监管机构为年轻“让美国再次伟大”选民的电子烟议程扫清障碍。",
@@ -465,7 +544,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -498,7 +577,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -520,7 +599,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -564,7 +643,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -575,7 +654,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -586,7 +665,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -616,7 +695,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "“WU！”连续两年世锦赛冠军归属中国，中国斯诺克时代已至",
@@ -626,8 +705,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "小长假里看中国",
@@ -637,8 +716,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "广交会彰显中国制造硬核实力",
@@ -648,8 +727,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "释新闻｜83年后，中国为何选择在《开罗宣言》签署地立碑？",
@@ -660,8 +739,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -672,8 +751,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "“奶粉检出毒素”，中国海关总署紧急提醒",
@@ -683,8 +762,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "“以前对中国出阴招还嫌不够，欧盟正密谋新武器”",
@@ -694,8 +773,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "马上评｜中国斯诺克选手为何能频繁创造历史",
@@ -706,8 +785,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "中国式生活为何风靡全球",
@@ -716,11 +795,24 @@
           "ranks": [
             8,
             25,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
+        },
+        {
+          "title": "1名中国公民在巴塞罗那遇害身亡",
+          "url": "https://www.douyin.com/hot/2488903",
+          "source": "抖音",
+          "ranks": [
+            29,
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 05时54分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.12%，报6889.48点。 热门中概股里，阿特斯太阳能初步收涨5.9%，万国数据涨4.5%，新东方涨1.1%，阿里跌0.8%，小鹏、网易跌0.9%，拼多多跌1%，蔚来跌2.3%。 ETF中，ASHS涨0.7%，CQQQ涨0.1%，KWEB跌0.1%。",
@@ -729,26 +821,48 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
         {
-          "title": "1名中国公民在巴塞罗那遇害身亡",
-          "url": "https://www.douyin.com/hot/2488903",
-          "source": "抖音",
+          "title": "2名中国游客日本登山食物耗尽",
+          "url": "https://s.weibo.com/weibo?q=%232%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A5%E6%9C%AC%E7%99%BB%E5%B1%B1%E9%A3%9F%E7%89%A9%E8%80%97%E5%B0%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            29
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美媒为何高度评价运20B对中国的意义",
+          "url": "https://www.toutiao.com/trending/7636361699519368746/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.12%，报6889.48点。 热门中概股里，阿特斯太阳能初步收涨5.9%，万国数据涨4.5%，新东方涨1.1%，阿里跌0.8%，小鹏、网易跌0.9%，拼多多跌1%，蔚来跌2.3%。 ETF中，中国科技指数ETF（CQQQ）收平，中概互联网指数ETF（KWEB）收跌0.21%。 贝莱德集团旗下MSCI新兴市场ex中国ETF涨2.50%，德银嘉实沪深300指数ETF（ASHR）收涨0.68%，XtrackersHarvest中证50（ASHS）收涨0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3098925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "西班牙提议涉疫邮轮转移感染者至非洲佛得角",
@@ -784,15 +898,37 @@
           "time_info": "01时19分"
         },
         {
+          "title": "“洪迪厄斯”号邮轮将在西班牙加那利群岛靠岸",
+          "url": "https://wallstreetcn.com/livenews/3098944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "西班牙卫生部确认，将在加那利群岛接收（涉汉坦病毒疫情邮轮）“洪迪厄斯”。",
           "url": "https://flash.jin10.com/detail/20260506043837246800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "西班牙确认：将在加那利群岛接收受汉坦病毒影响的邮轮",
+          "url": "https://wallstreetcn.com/livenews/3098943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "周二（5月5日），阿斯麦控股收涨3.50%，领跑欧股“十一罗汉”，LVMH集团、德国思爱普Sap、诺和诺德至多涨1.35%，阿斯利康则收跌1.35%，葛兰素史克跌2.32%。",
@@ -812,7 +948,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -826,6 +962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "西班牙将接收暴发汉坦病毒疫情邮轮",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%86%E6%8E%A5%E6%94%B6%E6%9A%B4%E5%8F%91%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%E9%82%AE%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "德国外长瓦德富尔：加沙的人道主义援助必须尽快得到改善。",
@@ -842,7 +989,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东局势再吃紧，标普盘中转跌，道指跌超1%，存储芯片股逆市走高，布油一度涨超6%",
@@ -853,8 +1000,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
@@ -862,33 +1009,58 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
-          "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098935",
+          "title": "分析师电话会：AMD预计公司第二季度CPU收入增长超过70%。预计到2030年，CPU市场年增长超过35%。由于内存和零部件成本上涨，公司预计下半年PC出货量将有所下降。数据中心现已成为推动营收和利润增长的主要动力。公司正与供应链合作伙伴“紧密合作”，以增加晶圆和后端生产能力。Meta芯片的出货预计将于下半年如期启动。",
+          "url": "https://wallstreetcn.com/livenews/3098953",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "05时54分"
+        },
+        {
+          "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时54分]"
         },
         {
           "title": "美股行业ETF普遍收涨，半导体ETF涨超3.1%",
           "url": "https://wallstreetcn.com/livenews/3098929",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时54分]"
+        },
+        {
+          "title": "AMD(AMD.O)：Meta芯片的出货预计将于下半年如期启动。",
+          "url": "https://flash.jin10.com/detail/20260506051442353800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "05时54分"
         },
         {
           "title": "Anthropic 承诺在谷歌的云服务和芯片上投资2000亿美元。（The Information）",
@@ -897,7 +1069,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         }
@@ -915,8 +1087,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
@@ -927,8 +1099,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "日本参议员：对俄制裁损害日本国家利益",
@@ -1025,11 +1197,12 @@
           "url": "https://wallstreetcn.com/livenews/3098928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时54分]"
         },
         {
           "title": "卡塔尔能源（QatarEnergy）通知意大利大客户Edison，其不可抗力因素将延长至7月初。",
@@ -1060,6 +1233,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "印度男子载妻子回家路上撞上只豹子",
+          "url": "https://www.toutiao.com/trending/7636328819264700452/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 05时54分]"
+        },
+        {
           "title": "印度东施效颦,世界杯版权重谈",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353998&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%B8%9C%E6%96%BD%E6%95%88%E9%A2%A6%2C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%E9%87%8D%E8%B0%88",
           "source": "贴吧",
@@ -1067,19 +1252,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
-        },
-        {
-          "title": "印度男子载妻子回家路上撞上只豹子",
-          "url": "https://www.toutiao.com/trending/7636328819264700452/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         }
       ]
     },
@@ -1094,11 +1268,12 @@
           "ranks": [
             26,
             21,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时54分]"
         }
       ]
     }
