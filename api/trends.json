@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:01:12.979493+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-05-07T13:33:06.499869+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "伊朗确认前往美国参加世界杯：将在开赛前14天抵美",
@@ -80,9 +80,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 13时33分]"
         },
         {
           "title": "在伊朗核谈判前景不明之际，美国外交官们被提醒警惕线上预测市场。",
@@ -131,18 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时41分]"
-        },
-        {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时01分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：如果人们将未来预期的收入提前用于当前消费，很容易导致经济过热。 如果人工智能真如宣传的那样出色，那将是“一件好事”，但美联储仍需警惕经济过热。",
@@ -462,6 +462,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "伊朗媒体称有伊朗油轮突破美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3099749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
           "title": "美国总统特朗普：过去24小时与伊朗的谈判非常顺利。",
           "url": "https://flash.jin10.com/detail/20260507030114049800",
           "source": "金十数据",
@@ -501,7 +512,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -699,7 +710,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -754,7 +765,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -765,7 +776,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -817,7 +828,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 37,
+      "match_count": 49,
       "titles": [
         {
           "title": "三星：停止在中国市场销售所有家电产品",
@@ -867,18 +878,6 @@
           "time_info": "[01时54分 ~ 10时01分]"
         },
         {
-          "title": "世界杯转播费对中国开价是印度10倍",
-          "url": "https://www.toutiao.com/trending/7636781418386918963/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 10时01分]"
-        },
-        {
           "title": "中国强硬拒绝世界杯天价转播费",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%BA%E7%A1%AC%E6%8B%92%E7%BB%9D%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A9%E4%BB%B7%E8%BD%AC%E6%92%AD%E8%B4%B9",
           "source": "百度热搜",
@@ -918,6 +917,19 @@
           "time_info": "[01时54分 ~ 10时01分]"
         },
         {
+          "title": "世界杯转播费对中国开价是印度10倍",
+          "url": "https://www.toutiao.com/trending/7636781418386918963/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 13时33分]"
+        },
+        {
           "title": "三星宣布在中国大陆市场停止销售含电视、显示器在内的所有家电产品",
           "url": "https://m.thepaper.cn/newsDetail_forward_33102792",
           "source": "澎湃新闻",
@@ -928,8 +940,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 13时33分]"
+        },
+        {
+          "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101875",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 13时33分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -948,24 +974,37 @@
           "url": "https://news.ifeng.com/c/8stvW3IMKAo",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 13时33分]"
         },
         {
-          "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101875",
-          "source": "澎湃新闻",
+          "title": "韩民众对中国好感度达6年最高",
+          "url": "https://www.douyin.com/hot/2490025",
+          "source": "抖音",
           "ranks": [
             12,
-            13,
-            9
+            11,
+            20
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[01时54分 ~ 10时01分]"
+          "time_info": "[01时54分 ~ 13时33分]"
+        },
+        {
+          "title": "中国硬刚国际足联 到底在争什么",
+          "url": "https://www.toutiao.com/trending/7636077772964151337/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
         },
         {
           "title": "阿拉格齐称访华富有成果，中国认为战前战后的伊朗完全不同",
@@ -979,16 +1018,29 @@
           "time_info": "[06时41分 ~ 10时01分]"
         },
         {
-          "title": "韩民众对中国好感度达6年最高",
-          "url": "https://www.douyin.com/hot/2490025",
-          "source": "抖音",
+          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
+          "url": "https://news.ifeng.com/c/8svQluOkLRz",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 07时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
+        },
+        {
+          "title": "为什么中国人对玉石情有独钟，而欧美人兴趣不浓？",
+          "url": "https://www.zhihu.com/question/21386973",
+          "source": "知乎",
+          "ranks": [
+            15,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 13时33分]"
         },
         {
           "title": "世界杯中国赞助商投入超5亿美元",
@@ -1028,6 +1080,17 @@
           "time_info": "[01时54分 ~ 06时41分]"
         },
         {
+          "title": "FIFA回应中国区天价世界杯版权",
+          "url": "https://www.baidu.com/s?wd=FIFA%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%A4%A9%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
           "title": "中国女子在西班牙被刺身亡",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1042,37 +1105,26 @@
           "time_info": "[01时54分 ~ 06时41分]"
         },
         {
-          "title": "中国硬刚国际足联 到底在争什么",
-          "url": "https://www.toutiao.com/trending/7636077772964151337/",
+          "title": "中国航天招卧床志愿者 最高补助7万",
+          "url": "https://www.toutiao.com/trending/7635880618395536938/",
           "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
-          "title": "三星官宣家电退出中国大陆市场",
-          "url": "https://www.douyin.com/hot/2490782",
-          "source": "抖音",
+          "title": "五一假日图景尽显中国活力",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%97%A5%E5%9B%BE%E6%99%AF%E5%B0%BD%E6%98%BE%E4%B8%AD%E5%9B%BD%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
-        },
-        {
-          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
-          "url": "https://news.ifeng.com/c/8svQluOkLRz",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
           "title": "硬刚国际足联 中国这次在争什么",
@@ -1080,11 +1132,47 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            1
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 13时33分]"
+        },
+        {
+          "title": "硬刚国际足联，中国这次到底在争什么？",
+          "url": "https://sports.ifeng.com/c/8svUJd84mpb",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
+        },
+        {
+          "title": "三星官宣家电退出中国大陆市场",
+          "url": "https://www.douyin.com/hot/2490782",
+          "source": "抖音",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
+        },
+        {
+          "title": "港股锂电池板块震荡走低，天齐锂业跌超5%，赣锋锂业跌超4%，中创新航、中国铝业跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3099766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "韩国产业通商资源部长官称，将在6月份过后宣布有关美国投资计划的信息。（NewSis）",
@@ -1096,18 +1184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
-        },
-        {
-          "title": "为什么中国人对玉石情有独钟，而欧美人兴趣不浓？",
-          "url": "https://www.zhihu.com/question/21386973",
-          "source": "知乎",
-          "ranks": [
-            15,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时01分]"
         },
         {
           "title": "今年五一老外来中国都去了哪些城市",
@@ -1123,15 +1199,16 @@
           "time_info": "[01时54分 ~ 10时01分]"
         },
         {
-          "title": "硬刚国际足联，中国这次到底在争什么？",
-          "url": "https://sports.ifeng.com/c/8svUJd84mpb",
-          "source": "凤凰网",
+          "title": "FIFA回应中国区天价世界杯版权",
+          "url": "https://s.weibo.com/weibo?q=%23FIFA%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%A4%A9%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
+            13,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
         },
         {
           "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
@@ -1141,41 +1218,87 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
-        },
-        {
-          "title": "FIFA回应中国区天价世界杯版权",
-          "url": "https://s.weibo.com/weibo?q=%23FIFA%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%A4%A9%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
         },
         {
           "title": "中国女子巴塞罗那街头遇害案细节",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E8%A1%97%E5%A4%B4%E9%81%87%E5%AE%B3%E6%A1%88%E7%BB%86%E8%8A%82",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
         },
         {
           "title": "经纬度：全面客观看待“三星家电退出中国”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33103132",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
+        },
+        {
+          "title": "德外长：变天了，现在都在中国手里",
+          "url": "https://news.ifeng.com/c/8svZPBqYc9Q",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "央视硬刚国际足联拒绝天价世界杯转播合同，中国这次到底在争什么？",
+          "url": "https://www.zhihu.com/question/2035663486911345735",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "中国女子巴塞罗那街头遇害，刚接手餐厅上班仅3天",
+          "url": "https://news.ifeng.com/c/8svaOqSrh44",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "历史上的今天｜当地时间1999年5月7日晚，以美国为首的北约野蛮轰炸中国驻南联盟大使馆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063769",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "韩国民众对中国好感度为何触底反弹",
+          "url": "https://www.toutiao.com/trending/7636783605879934473/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -1187,6 +1310,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时01分]"
+        },
+        {
+          "title": "中国被FIFA划为一级高价市场",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A2%ABFIFA%E5%88%92%E4%B8%BA%E4%B8%80%E7%BA%A7%E9%AB%98%E4%BB%B7%E5%B8%82%E5%9C%BA%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "中国人民不会忘记北约的野蛮罪行",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%E5%8C%97%E7%BA%A6%E7%9A%84%E9%87%8E%E8%9B%AE%E7%BD%AA%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
           "title": "巴基斯坦会买中国土耳其2款五代机吗",
@@ -1206,7 +1352,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1228,7 +1374,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1239,9 +1385,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "“中国天眼”的“眼部肌肉”实现中国造",
+          "url": "https://wallstreetcn.com/livenews/3099724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "中国央行逆回购操作当日实现净回笼992亿元",
@@ -1250,7 +1407,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -1258,7 +1415,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "美菲军演中日本发射 88 式导弹，系战后日本首次在境外发射进攻型导弹，会带来哪些风险？暴露了其什么野心？",
@@ -1278,11 +1435,12 @@
           "ranks": [
             14,
             15,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 13时33分]"
         },
         {
           "title": "郑丽文向韩国瑜“负荆请罪”",
@@ -1292,8 +1450,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 13时33分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -1301,11 +1459,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 13时33分]"
         },
         {
           "title": "日本网红店翻车,食客集体中毒",
@@ -1393,6 +1552,18 @@
           "time_info": "07时42分"
         },
         {
+          "title": "高市早苗下跪让人看清日本丑恶嘴脸",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
+        },
+        {
           "title": "学者：韩国政治的遮羞布被撕碎了",
           "url": "https://www.toutiao.com/trending/7636781289835597331/",
           "source": "今日头条",
@@ -1403,6 +1574,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 03时24分]"
+        },
+        {
+          "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2364390",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
         },
         {
           "title": "麻辣烫日本火爆被年轻女性当成药膳",
@@ -1416,26 +1598,59 @@
           "time_info": "[07时42分 ~ 10时01分]"
         },
         {
-          "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
-          "url": "https://www.cls.cn/detail/2364390",
+          "title": "韩国前总理韩德洙二审获刑15年",
+          "url": "https://news.ifeng.com/c/8svaOqSrhCM",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "中方回应二战后日本首次境外发射进攻型导弹，敦促日本在军事安全领域恪守承诺、谨言慎行，如何看待日本此举？",
+          "url": "https://www.zhihu.com/question/2035387121423364410",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
           "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
+          "title": "日本警察接警后5小时才破门 发现3具尸体",
+          "url": "https://www.toutiao.com/trending/7636199167459164211/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
-          "title": "高市早苗下跪让人看清日本丑恶嘴脸",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8",
-          "source": "百度热搜",
+          "title": "伦敦世乒赛：国乒女团今日将再战韩国",
+          "url": "https://www.toutiao.com/trending/7636901582877163571/",
+          "source": "今日头条",
           "ranks": [
-            23
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
           "title": "韩国超越加拿大 成为全球第七大股市",
@@ -1444,7 +1659,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1466,7 +1681,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1515,13 +1730,24 @@
           "time_info": "06时41分"
         },
         {
+          "title": "日本2年期国债收益率下降1.0个基点，报1.370%。",
+          "url": "https://flash.jin10.com/detail/20260507124040905800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
           "title": "日本东证指数扩大涨幅，现涨2.5%。",
           "url": "https://wallstreetcn.com/livenews/3099650",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -1529,8 +1755,46 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "西班牙率先暴富并拥有了几乎整个美洲，为何最后却远远落后于当初远不如自己的英法德？",
+          "url": "https://www.zhihu.com/question/666231870",
+          "source": "知乎",
+          "ranks": [
+            18,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 13时33分]"
+        },
+        {
+          "title": "国乒女团3:0瑞典晋级8强",
+          "url": "https://www.douyin.com/hot/2490496",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 13时33分]"
+        },
+        {
+          "title": "法国国民议会审议通过关于简化非法所获文物归还程序的法律草案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33103141",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 13时33分]"
+        },
         {
           "title": "欧洲汽车制造概念股普遍收涨，德国大陆集团涨8.95%，法雷奥涨6.60%，佛瑞亚涨6.59%，阿斯顿马丁涨6.49%，宝马涨5.41%，斯泰兰蒂斯集团Stellantis涨4.65%，德国大众汽车涨3.92%表现靠后。",
           "url": "https://wallstreetcn.com/livenews/3099510",
@@ -1555,40 +1819,15 @@
           "time_info": "[06时41分 ~ 10时01分]"
         },
         {
-          "title": "国乒女团3:0瑞典晋级8强",
-          "url": "https://www.douyin.com/hot/2490496",
-          "source": "抖音",
+          "title": "马龙夫妇许昕夫妇同游英国",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%A4%AB%E5%A6%87%E8%AE%B8%E6%98%95%E5%A4%AB%E5%A6%87%E5%90%8C%E6%B8%B8%E8%8B%B1%E5%9B%BD%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            10
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时01分]"
-        },
-        {
-          "title": "西班牙率先暴富并拥有了几乎整个美洲，为何最后却远远落后于当初远不如自己的英法德？",
-          "url": "https://www.zhihu.com/question/666231870",
-          "source": "知乎",
-          "ranks": [
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时01分]"
-        },
-        {
-          "title": "法国国民议会审议通过关于简化非法所获文物归还程序的法律草案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33103141",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时01分]"
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
           "title": "英国计划接回涉疫邮轮上的本国公民",
@@ -1597,7 +1836,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1608,7 +1847,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1633,6 +1872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "涉汉坦病毒邮轮将抵达西班牙",
+          "url": "https://wallstreetcn.com/livenews/3099740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "法国总统马克龙：刚刚与伊朗总统通电话。 向伊朗总统表达了我对于“不公平地打击阿联酋境内民用基础设施和船上民用基建”的顾虑。",
@@ -1674,7 +1924,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1704,7 +1954,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
@@ -1740,8 +1990,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 13时33分]"
         },
         {
           "title": "全球芯片巨头集体暴涨背后",
@@ -1771,6 +2021,17 @@
           "time_info": "[01时54分 ~ 07时42分]"
         },
         {
+          "title": "港股半导体芯片股午后直线冲高，壁仞科技(06082.HK)涨超17%，华虹半导体(01347.HK)涨近11%，澜起科技(06809.HK)涨超8%，天数智芯(09903.HK)涨超7%，中芯国际(00981.HK)、天域半导体(02658.HK)均涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260507132121540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
           "title": "AMD电话会：服务器CPU市场增速将超35%，CPU比例推向1:1，预计下半年出货Meta芯片",
           "url": "https://wallstreetcn.com/articles/3771601",
           "source": "华尔街见闻",
@@ -1782,13 +2043,35 @@
           "time_info": "[01时54分 ~ 07时42分]"
         },
         {
+          "title": "A股存储芯片板块午后再度拉升，科翔股份涨超13%，华虹公司、盛和晶微、飞凯材料等均涨超11%，迈为科技等跟涨",
+          "url": "https://flash.jin10.com/detail/20260507131932192800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
           "title": "A股存储芯片板块直线拉升，朗科科技涨超13%，续创历史新高，怡亚通封板涨停，德明利涨超9%，江波龙、香农芯创、开普云、时空科技跟涨。",
           "url": "https://flash.jin10.com/detail/20260507093828295800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1817,6 +2100,17 @@
           "time_info": "[06时41分 ~ 07时42分]"
         },
         {
+          "title": "上交所：景顺长城全球半导体芯片产业股票型证券投资基金（QDII-LOF）临时停牌",
+          "url": "https://wallstreetcn.com/livenews/3099753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
           "url": "https://wallstreetcn.com/livenews/3099560",
           "source": "华尔街见闻-快讯",
@@ -1828,6 +2122,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "景顺长城全球半导体芯片产业股票型证券投资基金（QDII-LOF）临时停牌公告",
+          "url": "https://flash.jin10.com/detail/20260507124911318800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
           "title": "马斯克详解“Terafab”AI芯片项目：建设自主算力帝国",
           "url": "https://wallstreetcn.com/livenews/3099619",
           "source": "华尔街见闻-快讯",
@@ -1837,6 +2142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，快手涨超7%，华虹半导体涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3099731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     },
@@ -1907,7 +2223,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -1915,7 +2231,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Federated Hermes新兴市场基金高级组合经理Jason DeVito：风险情绪现在就像一个压缩的弹簧，任何关于霍尔木兹海峡或战争局势的正面催化剂都会将其释放。 油价维持高位并拖累全球增长的时间越长，任何新兴市场国家都会受到负面影响。 即使是那些能从经常账户获益的石油出口国，也会看到高能源价格带来的通胀蔓延。",
@@ -1930,13 +2246,24 @@
           "time_info": "[05时04分 ~ 06时41分]"
         },
         {
+          "title": "新能源车大火为何充电桩不赚钱了",
+          "url": "https://www.toutiao.com/trending/7636968351230594602/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
+        },
+        {
           "title": "A股煤化工概念板块盘初下跌，诚志股份、宝丰能源跌超5%，*ST瑞茂一字跌停，华鲁恒升、卫星化学、泸天化等跟跌。",
           "url": "https://flash.jin10.com/detail/20260507093525785800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1966,18 +2293,19 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "印度航天到底有多离谱",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%88%AA%E5%A4%A9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时33分]"
         },
         {
           "title": "苹果公司在印度推出新的清洁能源与环境倡议，包括投资10亿卢比建设可再生能源产能。",
@@ -1986,7 +2314,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -2000,12 +2328,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时01分]"
+        },
+        {
+          "title": "印度开启大规模外交攻势",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%BC%80%E5%90%AF%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%A4%96%E4%BA%A4%E6%94%BB%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "机器人概念股集体拉升，宇环数控、巨轮智能双双涨停，华中数控大涨近18%，斯菱智驱、肇民科技、信质集团、浙江荣泰、力星股份、五洲新春等涨幅靠前。",
@@ -2014,9 +2353,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "创业板指涨幅扩大至1%，上证指数涨0.27%，深证成指涨0.74%。算力硬件、光伏、机器人等方向涨幅居前，沪深京三市上涨个股近3300只。",
+          "url": "https://wallstreetcn.com/livenews/3099761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     },
