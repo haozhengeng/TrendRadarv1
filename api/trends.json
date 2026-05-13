@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T14:26:35.800507+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-05-13T17:36:44.806038+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 85,
+      "match_count": 90,
       "titles": [
         {
           "title": "通胀烫得发红！美国4月CPI同比3.8%创近三年新高，核心CPI涨幅扩大至2.8%",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 17时36分]"
         },
         {
           "title": "美国4月CPI超预期升温 通胀近3年来首次完全吞噬工资增长",
@@ -47,6 +47,18 @@
           "time_info": "[00时20分 ~ 14时26分]"
         },
         {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 17时36分]"
+        },
+        {
           "title": "世界杯将至，伊朗队仍在等待入境美国",
           "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
           "source": "凤凰网",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 10时11分]"
-        },
-        {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 14时26分]"
         },
         {
           "title": "美国街头突发无差别枪击！男子当街开火砸车",
@@ -162,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "“美国人薪资三年来首次跑输通胀”",
+          "url": "https://news.ifeng.com/c/8t5gNSeUArW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗已通知巴基斯坦，美国的海上封锁加剧了与华盛顿谈判的信任危机。",
@@ -283,6 +294,19 @@
           "time_info": "[04时43分 ~ 06时05分]"
         },
         {
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 17时36分]"
+        },
+        {
           "title": "美国4月CPI调整意味着什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD4%E6%9C%88CPI%E8%B0%83%E6%95%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -294,18 +318,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时43分 ~ 07时52分]"
-        },
-        {
-          "title": "16位美国商界领袖随特朗普访华",
-          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时26分]"
         },
         {
           "title": "美国至5月8日当周API汽油库存 50.2万桶，预期-254.9万桶，前值-610.7万桶。",
@@ -330,6 +342,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 06时05分]"
+        },
+        {
+          "title": "美国海军将建造史上最贵军舰：核动力“特朗普”级战列舰",
+          "url": "https://news.ifeng.com/c/8t5mv472h4W",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 17时36分]"
         },
         {
           "title": "白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。 美国总统特朗普相信，很快就能开放霍尔木兹海峡。 我们正尽可能迅速地释放战略石油储备（SPR）。 特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻）",
@@ -410,17 +434,6 @@
           "time_info": "07时52分"
         },
         {
-          "title": "美国海军将建造史上最贵军舰：核动力“特朗普”级战列舰",
-          "url": "https://news.ifeng.com/c/8t5mv472h4W",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
           "title": "美国总统特朗普：与伊朗谈判时，我并不考虑美国民众的财务状况，我不考虑任何人。",
           "url": "https://flash.jin10.com/detail/20260513022020411800",
           "source": "金十数据",
@@ -463,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "北京机场高速附近挂起中美国旗",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%BA%E5%9C%BA%E9%AB%98%E9%80%9F%E9%99%84%E8%BF%91%E6%8C%82%E8%B5%B7%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%97%97",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美国至5月12日6周国债竞拍-得标利率 3.615%，前值3.60%。",
@@ -839,6 +863,28 @@
           "time_info": "07时52分"
         },
         {
+          "title": "据福克斯新闻记者：美国众议院今天将讨论伊朗战争权力决议。",
+          "url": "https://flash.jin10.com/detail/20260513165819082800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "美国水下舰队还能撑多久",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%B0%B4%E4%B8%8B%E8%88%B0%E9%98%9F%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：我不认为美联储的独立性会消失。 如果没有央行的独立性，通货膨胀将会卷土重来。 CPI 报告告诉我们“几乎没有什么好消息”。 通胀正朝着错误的方向发展，且不仅仅局限于石油和关税相关领域。 服务业通胀的攀升令人担忧。 今天出乎意料的令人失望之处在于看到服务业通胀在上升。",
           "url": "https://wallstreetcn.com/livenews/3102444",
           "source": "华尔街见闻-快讯",
@@ -883,6 +929,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "北京机场高速附近挂起中美国旗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%BA%E5%9C%BA%E9%AB%98%E9%80%9F%E9%99%84%E8%BF%91%E6%8C%82%E8%B5%B7%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%97%97%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "沃什的美联储预期主席提名资格在美国参议院通过程序性投票，还需全体表决才能得到确认。",
           "url": "https://wallstreetcn.com/livenews/3102442",
           "source": "华尔街见闻-快讯",
@@ -900,7 +957,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -933,7 +990,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -973,450 +1030,8 @@
       ]
     },
     {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 39,
-      "titles": [
-        {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 10时11分]"
-        },
-        {
-          "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
-          "url": "https://wallstreetcn.com/articles/3772017",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 10时11分]"
-        },
-        {
-          "title": "专家谈美财长访日：目的是压榨日本油水，且一定不会空手而归",
-          "url": "https://v.ifeng.com/c/8t4UV0hJ17j",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 07时52分]"
-        },
-        {
-          "title": "日本实施汇率干预后，日美财长首次面对面会谈",
-          "url": "https://news.ifeng.com/c/8t4PA9L6stj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 07时52分]"
-        },
-        {
-          "title": "中企有意收购墨西哥日产工厂，日本慌了",
-          "url": "https://news.ifeng.com/c/8t4K7JN9tvw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 14时26分]"
-        },
-        {
-          "title": "中美经贸磋商在韩国开始举行",
-          "url": "https://news.ifeng.com/c/8t5esjhQ0ot",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "据韩国媒体News1：韩国国防部长表示，他与美国国防部长赫格塞思讨论了战时指挥权以及核潜艇问题。",
-          "url": "https://flash.jin10.com/detail/20260513052758539800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "现代汽车将在韩国光州测试人工智能自动驾驶汽车",
-          "url": "https://flash.jin10.com/detail/20260513100539572800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "韩国国防部长：正考虑分阶段参与霍尔木兹海峡任务",
-          "url": "https://wallstreetcn.com/livenews/3102560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "韩国防长：将评估分阶段参与霍尔木兹海峡护航行动",
-          "url": "https://flash.jin10.com/detail/20260513070348541800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "韩国4月失业率 2.8%，预期2.7%，前值2.70%。",
-          "url": "https://flash.jin10.com/detail/20260513070002417800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "日本东证指数涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3102626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "美国财长贝森特：日本经济基本面强劲，且有韧性。 与日本首相高市早苗讨论了美日投资计划。 与日本提出了关键矿产问题。",
-          "url": "https://wallstreetcn.com/livenews/3102530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时05分 ~ 07时52分]"
-        },
-        {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 14时26分]"
-        },
-        {
-          "title": "日本爆发数十年来最大规模反战抗议",
-          "url": "https://www.toutiao.com/trending/7638409176152490022/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 07时52分]"
-        },
-        {
-          "title": "日本“巨头”，被曝大规模造假",
-          "url": "https://news.ifeng.com/c/8t5FXvii3hU",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时26分]"
-        },
-        {
-          "title": "一包黑白薯片戳穿日本经济大国骗局",
-          "url": "https://www.toutiao.com/trending/7638995732418006564/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 06时05分]"
-        },
-        {
-          "title": "如何看待 2026 年 5 月 12 日由于缺油少墨，日本知名品牌卡乐比薯片的包装变黑白？",
-          "url": "https://www.zhihu.com/question/2037608765051098756",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "日本20年期国债收益率升至3.495%，为1997年以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3102621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "日本央行：美国财长贝森特与日本央行行长植田和男之间并未举行会议。",
-          "url": "https://flash.jin10.com/detail/20260513140618322800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "日本央行：日本央行行长植田和男将于5月27日在日本央行主办的货币政策会议上发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3102764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "日本30年期国债收益率上行5个基点至3.860%。",
-          "url": "https://wallstreetcn.com/livenews/3102614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "日本央行：美国财长贝森特与日本央行行长植田和男之间并未举行会议。",
-          "url": "https://wallstreetcn.com/livenews/3102760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "韩国总统澄清“全民分红”构想：没有说要动用企业利润",
-          "url": "https://flash.jin10.com/detail/20260513140411906800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "经合组织：日本应主要依靠消费税上涨来增加收入。",
-          "url": "https://flash.jin10.com/detail/20260513100055130800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "日本10年期国债收益率上行5个基点至2.59%。",
-          "url": "https://wallstreetcn.com/livenews/3102609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "经合组织：日本央行应准备在金融和债券市场出现干扰时，调整其债券购买的节奏和到期结构。",
-          "url": "https://flash.jin10.com/detail/20260513100046835800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "经合组织：预计日本央行将在2027年底前将短期政策利率上调至2%。",
-          "url": "https://flash.jin10.com/detail/20260513100035357800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "日本石油资源开发公司高管：依据天然气和电力供应情况，可能在本财年下半年采购另一批替代液化天然气。",
-          "url": "https://flash.jin10.com/detail/20260513140105937800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "日本石油资源开发公司高管：由于要确保替代货物，预计2026财年的液化天然气采购成本将增加156亿日元。",
-          "url": "https://flash.jin10.com/detail/20260513140042128800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "韩国将支持三星劳资问题过对话解决。",
-          "url": "https://wallstreetcn.com/livenews/3102744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "日本尼得科公司被曝大规模造假",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%BC%E5%BE%97%E7%A7%91%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%9B%9D%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%80%A0%E5%81%87",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "韩国首尔综指持续拉升，一度转涨，此前曾跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3102600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "韩国股市反弹，外资抛售后散户逆势买入",
-          "url": "https://flash.jin10.com/detail/20260513095315942800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "韩国总统府：韩国政府将支持并鼓励三星电子与工会通过对话解决问题。",
-          "url": "https://flash.jin10.com/detail/20260513135403821800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "韩国首尔综指日内跌幅收窄至1%，此前一度跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3102597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "据韩国媒体：韩国国防部长表示，目前还不是就HMM船只遇袭事件采取行动的时候，已与美国方面进行了讨论。",
-          "url": "https://flash.jin10.com/detail/20260513055437376800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "日本精工和NTN轴承同意合并，打造世界顶级轴承制造商",
-          "url": "https://flash.jin10.com/detail/20260513094605228800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "世乒男团3:0力克日本夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354166&amp;topic_name=%E4%B8%96%E4%B9%92%E7%94%B7%E5%9B%A23%3A0%E5%8A%9B%E5%85%8B%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "塔吉克斯坦总统访华，中国驻塔大使：有一个重要战略意义",
@@ -1507,6 +1122,18 @@
           "time_info": "[00时20分 ~ 07时52分]"
         },
         {
+          "title": "曾留学中国的越南总理，有了新身份",
+          "url": "https://news.ifeng.com/c/8t5LRtnr9fz",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 17时36分]"
+        },
+        {
           "title": "怎么看中国乒协关于《爱知﹣名古屋亚运会乒乓球项目运动员、教练员选拔办法》？",
           "url": "https://www.zhihu.com/question/2037504860048857022",
           "source": "知乎",
@@ -1521,16 +1148,81 @@
           "time_info": "[00时20分 ~ 06时05分]"
         },
         {
-          "title": "曾留学中国的越南总理，有了新身份",
-          "url": "https://news.ifeng.com/c/8t5LRtnr9fz",
-          "source": "凤凰网",
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.toutiao.com/trending/7638540672749125641/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://www.cls.cn/detail/2369985",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.douyin.com/hot/2497697",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "中国30万亿元存款第一城诞生",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD30%E4%B8%87%E4%BA%BF%E5%85%83%E5%AD%98%E6%AC%BE%E7%AC%AC%E4%B8%80%E5%9F%8E%E8%AF%9E%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2370077",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "中国30万亿元存款第一城诞生",
+          "url": "https://www.toutiao.com/trending/7638968301162659846/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "MSCI中国指数调整：新纳入22只标的",
@@ -1550,7 +1242,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1564,6 +1256,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "泡泡玛特Q1收入预增75％至80％，欧美市场增长放缓，中国线上渠道预增150% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772083",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 17时36分]"
+        },
+        {
+          "title": "中国足球迎来久违春天",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E8%BF%8E%E6%9D%A5%E4%B9%85%E8%BF%9D%E6%98%A5%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 17时36分]"
         },
         {
           "title": "外交部：中方反对美国向中国台湾地区出售武器的立场是一贯的、明确的",
@@ -1633,26 +1349,15 @@
           "time_info": "10时11分"
         },
         {
-          "title": "中国足球迎来久违春天",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E8%BF%8E%E6%9D%A5%E4%B9%85%E8%BF%9D%E6%98%A5%E5%A4%A9",
-          "source": "百度热搜",
+          "title": "中国拳手赴坦桑尼亚比赛，疑遭下药甚至软禁",
+          "url": "https://v.ifeng.com/c/8t5xsqWAise",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "泡泡玛特Q1收入预增75％至80％，欧美市场增长放缓，中国线上渠道预增150% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772083",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "time_info": "17时36分"
         },
         {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
@@ -1664,6 +1369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "中国金主冷对世界杯",
+          "url": "https://www.toutiao.com/trending/7639257511551323699/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "中国银行原副行长林景臻被提起公诉",
@@ -1716,7 +1432,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1727,7 +1443,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1749,7 +1465,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1771,7 +1487,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1782,7 +1498,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1803,6 +1519,493 @@
           "source": "贴吧",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 43,
+      "titles": [
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 10时11分]"
+        },
+        {
+          "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
+          "url": "https://wallstreetcn.com/articles/3772017",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 10时11分]"
+        },
+        {
+          "title": "专家谈美财长访日：目的是压榨日本油水，且一定不会空手而归",
+          "url": "https://v.ifeng.com/c/8t4UV0hJ17j",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时52分]"
+        },
+        {
+          "title": "日本实施汇率干预后，日美财长首次面对面会谈",
+          "url": "https://news.ifeng.com/c/8t4PA9L6stj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时52分]"
+        },
+        {
+          "title": "中企有意收购墨西哥日产工厂，日本慌了",
+          "url": "https://news.ifeng.com/c/8t4K7JN9tvw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 14时26分]"
+        },
+        {
+          "title": "中美经贸磋商在韩国开始举行",
+          "url": "https://news.ifeng.com/c/8t5esjhQ0ot",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "中美在韩国举行经贸磋商",
+          "url": "https://news.ifeng.com/c/8t5x9ATxCDr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "据韩国媒体News1：韩国国防部长表示，他与美国国防部长赫格塞思讨论了战时指挥权以及核潜艇问题。",
+          "url": "https://flash.jin10.com/detail/20260513052758539800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "现代汽车将在韩国光州测试人工智能自动驾驶汽车",
+          "url": "https://flash.jin10.com/detail/20260513100539572800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "韩国国防部长：正考虑分阶段参与霍尔木兹海峡任务",
+          "url": "https://wallstreetcn.com/livenews/3102560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "韩国防长：将评估分阶段参与霍尔木兹海峡护航行动",
+          "url": "https://flash.jin10.com/detail/20260513070348541800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "韩国4月失业率 2.8%，预期2.7%，前值2.70%。",
+          "url": "https://flash.jin10.com/detail/20260513070002417800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "日本东证指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3102626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "如何看待 2026 年 5 月 12 日由于缺油少墨，日本知名品牌卡乐比薯片的包装变黑白？",
+          "url": "https://www.zhihu.com/question/2037608765051098756",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 17时36分]"
+        },
+        {
+          "title": "美国财长贝森特：日本经济基本面强劲，且有韧性。 与日本首相高市早苗讨论了美日投资计划。 与日本提出了关键矿产问题。",
+          "url": "https://wallstreetcn.com/livenews/3102530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 07时52分]"
+        },
+        {
+          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
+          "url": "https://wallstreetcn.com/articles/3772076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 14时26分]"
+        },
+        {
+          "title": "日本爆发数十年来最大规模反战抗议",
+          "url": "https://www.toutiao.com/trending/7638409176152490022/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时52分]"
+        },
+        {
+          "title": "日本“巨头”，被曝大规模造假",
+          "url": "https://news.ifeng.com/c/8t5FXvii3hU",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时26分]"
+        },
+        {
+          "title": "一包黑白薯片戳穿日本经济大国骗局",
+          "url": "https://www.toutiao.com/trending/7638995732418006564/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 06时05分]"
+        },
+        {
+          "title": "外交部两连问回应日本修宪",
+          "url": "https://news.ifeng.com/c/8t5w9ick9U7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "中美在韩国举行经贸磋商",
+          "url": "https://www.cls.cn/detail/2370106",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "日本20年期国债收益率升至3.495%，为1997年以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3102621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本央行：美国财长贝森特与日本央行行长植田和男之间并未举行会议。",
+          "url": "https://flash.jin10.com/detail/20260513140618322800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "日本央行：日本央行行长植田和男将于5月27日在日本央行主办的货币政策会议上发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3102764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "日本30年期国债收益率上行5个基点至3.860%。",
+          "url": "https://wallstreetcn.com/livenews/3102614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本央行：美国财长贝森特与日本央行行长植田和男之间并未举行会议。",
+          "url": "https://wallstreetcn.com/livenews/3102760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "韩国总统澄清“全民分红”构想：没有说要动用企业利润",
+          "url": "https://flash.jin10.com/detail/20260513140411906800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "经合组织：日本应主要依靠消费税上涨来增加收入。",
+          "url": "https://flash.jin10.com/detail/20260513100055130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本10年期国债收益率上行5个基点至2.59%。",
+          "url": "https://wallstreetcn.com/livenews/3102609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "经合组织：日本央行应准备在金融和债券市场出现干扰时，调整其债券购买的节奏和到期结构。",
+          "url": "https://flash.jin10.com/detail/20260513100046835800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "经合组织：预计日本央行将在2027年底前将短期政策利率上调至2%。",
+          "url": "https://flash.jin10.com/detail/20260513100035357800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本石油资源开发公司高管：依据天然气和电力供应情况，可能在本财年下半年采购另一批替代液化天然气。",
+          "url": "https://flash.jin10.com/detail/20260513140105937800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "日本石油资源开发公司高管：由于要确保替代货物，预计2026财年的液化天然气采购成本将增加156亿日元。",
+          "url": "https://flash.jin10.com/detail/20260513140042128800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "韩国将支持三星劳资问题过对话解决。",
+          "url": "https://wallstreetcn.com/livenews/3102744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "日本尼得科公司被曝大规模造假",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%BC%E5%BE%97%E7%A7%91%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%9B%9D%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%80%A0%E5%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "韩国首尔综指持续拉升，一度转涨，此前曾跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3102600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "韩国股市反弹，外资抛售后散户逆势买入",
+          "url": "https://flash.jin10.com/detail/20260513095315942800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "韩国总统府：韩国政府将支持并鼓励三星电子与工会通过对话解决问题。",
+          "url": "https://flash.jin10.com/detail/20260513135403821800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "韩国首尔综指日内跌幅收窄至1%，此前一度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3102597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "韩国总统李在明会见何立峰",
+          "url": "https://wallstreetcn.com/livenews/3102867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "据韩国媒体：韩国国防部长表示，目前还不是就HMM船只遇袭事件采取行动的时候，已与美国方面进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260513055437376800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "日本精工和NTN轴承同意合并，打造世界顶级轴承制造商",
+          "url": "https://flash.jin10.com/detail/20260513094605228800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "世乒男团3:0力克日本夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354166&amp;topic_name=%E4%B8%96%E4%B9%92%E7%94%B7%E5%9B%A23%3A0%E5%8A%9B%E5%85%8B%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1840,6 +2043,18 @@
           "time_info": "[07时52分 ~ 14时26分]"
         },
         {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 17时36分]"
+        },
+        {
           "title": "【焦点复盘】沪指缩量调整跌0.25%，全市场超4000股飘绿，半导体设备股强者恒强",
           "url": "https://www.cls.cn/detail/2369163",
           "source": "财联社热门",
@@ -1853,16 +2068,15 @@
           "time_info": "[00时20分 ~ 07时52分]"
         },
         {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 14时26分]"
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 17时36分]"
         },
         {
           "title": "周二（5月12日），美股存储芯片与硬件供应链指数跌4.10%，报186.72点，整体呈现出V形走势，北京时间00:43曾刷新日低至177.08点。 成分股全线溃败，闪迪跌6.17%，西部数据跌5.25%，美光科技、Rambus、希捷科技至多跌3.61%，应用材料、拉姆研究、泰瑞达TER至少跌2.23%。",
@@ -1874,17 +2088,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
-          "url": "https://www.cls.cn/detail/2369925",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "5月13日投资避雷针：美股光通信、芯片板块回调 英特尔、闪迪跌超6%",
@@ -1917,7 +2120,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2005,7 +2208,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2143,7 +2346,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2165,7 +2368,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2176,7 +2379,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2187,7 +2390,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2220,7 +2423,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2242,7 +2445,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         }
@@ -2250,7 +2453,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "新能源车零售渗透率达到 61.4%，首次突破 60% 大关，如何看待这一数据？燃油车还有未来吗？",
@@ -2275,6 +2478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "欧元区3月工业产出小幅增长 能源压力持续上行",
+          "url": "https://flash.jin10.com/detail/20260513171542065800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "Venture Global与道达尔能源、维多集团签署新LNG供应协议",
@@ -2305,7 +2519,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2339,7 +2553,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2386,6 +2600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "不少车主反映停车位「缩水」，而新能源车身普遍变宽停车越来越难，停车位真的缩水了吗？宽度标准该调整了吗？",
+          "url": "https://www.zhihu.com/question/2037631560241739641",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "莫迪访阿联酋聚焦能源合作 强化石油供应安全",
@@ -2574,7 +2799,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2637,7 +2862,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
