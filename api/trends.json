@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T01:24:47.545437+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-16T03:17:57.222548+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 26,
+      "match_count": 46,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
@@ -37,24 +37,35 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "美国中央情报局局长跑去古巴，想干啥？",
+          "url": "https://news.ifeng.com/c/8t9YbPXdwcg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "黎巴嫩驻美国大使：三方谈判为黎巴嫩带来了显著的外交进展。",
+          "url": "https://flash.jin10.com/detail/20260516030945914800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时17分"
         },
         {
           "title": "美国至5月15日当周天然气钻井总数 128口，前值129口。",
           "url": "https://flash.jin10.com/detail/20260516010107740800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国5月15日当周天然气钻井数 128，前值 129。",
-          "url": "https://wallstreetcn.com/livenews/3104570",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
@@ -74,15 +85,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "美国5月15日当周石油钻井数 415，前值 410。",
-          "url": "https://wallstreetcn.com/livenews/3104569",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列驻美国大使：与黎巴嫩的谈判成功机会很大。",
+          "url": "https://flash.jin10.com/detail/20260516025916462800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时17分"
         },
         {
           "title": "美国至5月15日当周总钻井总数 551口，前值548口。",
@@ -96,26 +107,62 @@
           "time_info": "01时24分"
         },
         {
+          "title": "以色列驻美国大使：与黎巴嫩的和平谈判是坦诚和富有成效的。",
+          "url": "https://flash.jin10.com/detail/20260516025814782800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3104590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国5月15日当周天然气钻井数 128，前值 129。",
+          "url": "https://wallstreetcn.com/livenews/3104570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "美国5月15日当周石油钻井数 415，前值 410。",
+          "url": "https://wallstreetcn.com/livenews/3104569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
           "title": "美国5月15日当周总钻井数 551，前值 548。",
           "url": "https://wallstreetcn.com/livenews/3104568",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国中央情报局局长跑去古巴，想干啥？",
-          "url": "https://news.ifeng.com/c/8t9YbPXdwcg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -125,8 +172,55 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "美国总统特朗普结束访华",
+          "url": "https://wallstreetcn.com/articles/3772343",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "美国总统特朗普结束访华离京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038577207740715513",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "美国至5月15日当周石油钻井总数将于十分钟后公布。",
@@ -151,37 +245,26 @@
           "time_info": "01时24分"
         },
         {
-          "title": "美国总统特朗普结束访华",
-          "url": "https://wallstreetcn.com/articles/3772343",
-          "source": "华尔街见闻",
+          "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104587",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时17分"
         },
         {
-          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
-          "source": "澎湃新闻",
+          "title": "美国法官辩论是否因能源紧急状态维持煤电厂运营",
+          "url": "https://wallstreetcn.com/livenews/3104586",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国总统特朗普结束访华离京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时17分"
         },
         {
           "title": "现代汽车集团顶级美国游说专家Drew Ferguson离职，此前一年在该公司发挥了关键作用。",
@@ -195,6 +278,105 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+          "url": "https://wallstreetcn.com/livenews/3104585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持Spotify(SPOT.N)股份增加25.3%，升至160万股。",
+          "url": "https://flash.jin10.com/detail/20260516022735855800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持博通(AVGO.O)股份增加24.7%，升至360万股。",
+          "url": "https://flash.jin10.com/detail/20260516021748736800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国30年期国债收益率涨10个基点，报5.13%。",
+          "url": "https://wallstreetcn.com/livenews/3104582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持英伟达(NVDA.O)股份增加9.1%，升至1200万股。",
+          "url": "https://flash.jin10.com/detail/20260516021729149800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持Meta股份增加12.2%，升至310万股A类股票。",
+          "url": "https://flash.jin10.com/detail/20260516021714256800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "加拿大联邦政府与石油重镇达成协议，将于2027年开工建设石油管道",
+          "url": "https://wallstreetcn.com/livenews/3104580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持台积电(TSM.N)股份增加49.4%，升至560万单位存托凭证。",
+          "url": "https://flash.jin10.com/detail/20260516021659226800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "据叙利亚国家媒体：叙利亚任命央行行长阿卜杜勒卡德尔·胡斯里耶为驻加拿大大使。",
+          "url": "https://flash.jin10.com/detail/20260516021441825800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "美国国务院官员：第二天的黎巴嫩与以色列谈判气氛非常积极，超出了预期。",
           "url": "https://flash.jin10.com/detail/20260516001147988800",
           "source": "金十数据",
@@ -204,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+          "url": "https://flash.jin10.com/detail/20260516021017445800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "AI威胁逼近，底特律三巨头已削减超2万个美国受薪职位",
@@ -228,6 +421,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美国联邦航空管理局正针对性地削减空中交通管制员的人员配置水平，同时承诺推进排班制度现代化。",
+          "url": "https://flash.jin10.com/detail/20260516020927320800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "美国总统特朗普：我并没有低估伊朗的承受能力。",
           "url": "https://flash.jin10.com/detail/20260516001031902800",
           "source": "金十数据",
@@ -239,15 +443,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038577207740715513",
-          "source": "知乎",
+          "title": "市场消息：以色列与黎巴嫩的谈判在美国国务院结束。",
+          "url": "https://flash.jin10.com/detail/20260516020650964800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时17分"
         },
         {
           "title": "美银策略师Hartnett：美国CPI恐将在中期选举之前就突破5%这个“马奇诺防线”",
@@ -259,6 +463,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "巴基斯坦外长：20名被美国军方扣押的伊朗人已被送回国。",
+          "url": "https://flash.jin10.com/detail/20260516020531535800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "惠誉：美国房价高估状况总体保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260516020024595800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "汽车与AI提振美国制造业产量，战争引发的供应短缺隐忧浮现",
@@ -297,7 +523,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
@@ -307,30 +533,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "英国政府融资成本飙涨约18个基点，创2008年以来新高",
           "url": "https://wallstreetcn.com/livenews/3104565",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "德国10年期国债收益率涨超12个基点",
           "url": "https://wallstreetcn.com/livenews/3104564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "法国队官宣世界杯26人大名单",
@@ -340,8 +568,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "感染病例+1,汉坦登陆法国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354292&amp;topic_name=%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B%2B1%2C%E6%B1%89%E5%9D%A6%E7%99%BB%E9%99%86%E6%B3%95%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "英国工党委员会允许曼彻斯特市长Burnham竞选议员。（泰晤士报）",
@@ -366,6 +605,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "法国“戴高乐”号航母抵达阿拉伯海，为护航行动做准备",
+          "url": "https://wallstreetcn.com/livenews/3104573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "据泰晤士报：英国工党小组批准伯纳姆竞选英国议会席位。",
           "url": "https://flash.jin10.com/detail/20260516000937700800",
           "source": "金十数据",
@@ -377,20 +627,20 @@
           "time_info": "01时24分"
         },
         {
+          "title": "据英国金融时报报道，英国政府部分机构面临瘫痪风险，大臣和高级公务员警告称，工党内部竞选领袖的可能性不断上升，有可能令斯塔默的议程蒙上阴影。",
+          "url": "https://flash.jin10.com/detail/20260516015419768800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "德国DAX 30指数初步收跌1.90%，报23991.32点，本周累计下跌大约1.5%。 法国股指初步收跌1.51%，意大利股指初步收跌1.81%、银行指数跌1.86%，英国股指初步收跌1.76%。",
           "url": "https://wallstreetcn.com/livenews/3104542",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "感染病例+1,汉坦登陆法国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354292&amp;topic_name=%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B%2B1%2C%E6%B1%89%E5%9D%A6%E7%99%BB%E9%99%86%E6%B3%95%E5%9B%BD",
-          "source": "贴吧",
           "ranks": [
             27
           ],
@@ -412,8 +662,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "特朗普离开这一幕中国军人尽显英姿",
@@ -423,8 +673,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "联合国气候变化框架公约执秘答澎湃：中国气候领导力比以往任何时候都更重要",
@@ -434,8 +684,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "中国制造主导地位难以撼动，这就是理由",
@@ -445,19 +695,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "中国品牌5亿美元世界杯豪赌开场",
-          "url": "https://www.toutiao.com/trending/7640096348343111187/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "油炒香料?岛民点评中国菜",
@@ -467,8 +706,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "央视官宣获得 2026 、 2030 世界杯转播权，如何看待这一结果？国际足联为何紧盯中国市场？",
@@ -476,6 +715,17 @@
           "source": "知乎",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "中国品牌5亿美元世界杯豪赌开场",
+          "url": "https://www.toutiao.com/trending/7640096348343111187/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -495,8 +745,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "日本自卫队，该去捕熊了",
@@ -506,30 +756,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "日本宫城县附近海域发生6.3级地震，东北新干线部分区间停运",
           "url": "https://m.thepaper.cn/newsDetail_forward_33183288",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "日本知名品牌番茄酱包装变透明",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E5%93%81%E7%89%8C%E7%95%AA%E8%8C%84%E9%85%B1%E5%8C%85%E8%A3%85%E5%8F%98%E9%80%8F%E6%98%8E",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         }
       ]
     },
@@ -584,8 +836,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -595,8 +847,25 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "惠誉：（关于巴哈马选举）尽管能源冲击可能带来增长和财政压力，我们仍然预测预算盈余将逐步实现。",
+          "url": "https://flash.jin10.com/detail/20260516020605392800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时17分"
         }
       ]
     },
@@ -612,8 +881,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         }
       ]
     }
