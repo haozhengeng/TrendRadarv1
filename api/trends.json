@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T07:50:55.686591+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-18T10:28:53.042197+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "为什么美国防长在台湾问题上一言不发？",
@@ -62,13 +62,24 @@
           "time_info": "[04时59分 ~ 06时44分]"
         },
         {
+          "title": "美国2战机飞行表演时撞毁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD2%E6%88%98%E6%9C%BA%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E6%97%B6%E6%92%9E%E6%AF%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
           "url": "https://flash.jin10.com/detail/20260518074442462800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -264,6 +275,19 @@
           "time_info": "[04时02分 ~ 05时54分]"
         },
         {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 10时28分]"
+        },
+        {
           "title": "市场消息：美国爱达荷州芒廷霍姆空军基地航展上，两架攻击机发生碰撞。",
           "url": "https://flash.jin10.com/detail/20260518030248791800",
           "source": "金十数据",
@@ -302,16 +326,16 @@
           "time_info": "[02时55分 ~ 04时02分]"
         },
         {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
+          "title": "美国两架战机航展期间碰撞坠机",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E8%88%AA%E5%B1%95%E6%9C%9F%E9%97%B4%E7%A2%B0%E6%92%9E%E5%9D%A0%E6%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            13
+            22,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时50分]"
+          "time_info": "[07时50分 ~ 10时28分]"
         },
         {
           "title": "古巴：美国捏造虚假文件 为制裁和侵略找借口",
@@ -320,9 +344,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国两架战机空中相撞坠毁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E7%A9%BA%E4%B8%AD%E7%9B%B8%E6%92%9E%E5%9D%A0%E6%AF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "据半岛电视台：伊朗国防部发言人称，美国全球影响力已经“崩溃”。",
@@ -356,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "“福特”号航母返回美国，部署时长达326天",
+          "url": "https://www.cls.cn/detail/2373307",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
@@ -424,17 +470,6 @@
           "time_info": "02时55分"
         },
         {
-          "title": "美国两架战机航展期间碰撞坠机",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E8%88%AA%E5%B1%95%E6%9C%9F%E9%97%B4%E7%A2%B0%E6%92%9E%E5%9D%A0%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
           "title": "航运巨头达飞轮船：已决定暂停所有往返古巴的订舱业务，直至另行通知。此项决定是基于美国于5月1日发布的一项行政命令。",
           "url": "https://flash.jin10.com/detail/20260518013351619800",
           "source": "金十数据",
@@ -452,9 +487,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国一男子扶梯摔倒遭衣服勒喉身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E6%89%B6%E6%A2%AF%E6%91%94%E5%80%92%E9%81%AD%E8%A1%A3%E6%9C%8D%E5%8B%92%E5%96%89%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "据TankerTrackers：近日，三艘未装载货物的、受美国制裁的油轮突破了美国海军（在霍尔木兹海峡）的封锁线，进入了周边地区。",
@@ -474,7 +520,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -485,7 +531,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -493,7 +539,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 23,
+      "match_count": 37,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -522,11 +568,12 @@
           "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 10时28分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -579,8 +626,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 10时28分]"
         },
         {
           "title": "视频丨“张雪机车”夺赛季第四冠，车手德比斯感谢中国车迷",
@@ -618,8 +665,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 10时28分]"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -639,11 +686,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354298&amp;topic_name=%E6%B2%B9%E7%82%92%E9%A6%99%E6%96%99%3F%E5%B2%9B%E6%B0%91%E7%82%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%E8%8F%9C",
           "source": "贴吧",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 10时28分]"
         },
         {
           "title": "中国使馆提醒防范埃博拉疫情",
@@ -672,13 +720,35 @@
           "time_info": "[04时01分 ~ 06时44分]"
         },
         {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "从外贸之“质”读懂中国经济之“韧”",
+          "url": "https://www.toutiao.com/trending/7640510277032607786/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "中国地震台网自动测定：05月18日07时41分在广西柳州市柳南区附近发生3.5级左右地震，最终结果以正式速报为准。",
           "url": "https://flash.jin10.com/detail/20260518074403587800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -714,8 +784,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时50分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 10时28分]"
         },
         {
           "title": "张雪机车冠军车型首次登陆中国香港",
@@ -727,6 +797,116 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 00时47分]"
+        },
+        {
+          "title": "4 名中国人赴泰考察失联，行程被强改，胁迫打电话报平安，具体怎么回事？背后可能涉及怎样的犯罪链条？",
+          "url": "https://www.zhihu.com/question/2039292429149237740",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "中国4月规模以上工业增加值同比 4.1%，前值 5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3105036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "中国1至4月规模以上工业增加值同比 5.6%，前值 6.1%。",
+          "url": "https://wallstreetcn.com/livenews/3105035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "中国1至4月城镇固定资产投资同比 -1.6%，前值 1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3105034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "中国1至4月社会消费品零售总额同比 1.9%，前值 2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3105033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "中国4月城镇调查失业率 5.2%，前值 5.4%。",
+          "url": "https://wallstreetcn.com/livenews/3105032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "中国4月城镇固定资产投资环比 -2.36%，前值0.52%。",
+          "url": "https://flash.jin10.com/detail/20260518100552722800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "中国4月社会消费品零售总额同比 0.2%，前值 1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3105031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "中国1至4月全国房地产开发投资 -13.7%，前值 -11.2%。",
+          "url": "https://wallstreetcn.com/livenews/3105030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "提醒：北京时间10:00将公布中国1-4月规模以上工业增加值、社会消费品零售总额、城镇固定投资、房地产开发投资、失业率等月度经济数据。",
+          "url": "https://wallstreetcn.com/livenews/3105024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "中国地震台网正式测定：05月18日00时21分在广西柳州市柳南区发生5.2级地震，震源深度8千米。",
@@ -751,6 +931,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "中国4月社会消费品零售总额环比 -0.48%，前值0.14%。",
+          "url": "https://flash.jin10.com/detail/20260518100314845800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "中国地震台网正式测定：05月17日22时54分在广西柳州市柳南区发生3.0级地震，震源深度10千米。",
           "url": "https://flash.jin10.com/detail/20260517230419160800",
           "source": "金十数据",
@@ -762,21 +953,283 @@
           "time_info": "00时47分"
         },
         {
+          "title": "【中国证监会副主席李超：以更大力度推进北京证券交易所深化改革】中国证监会副主席李超5月18日在2026北京上市公司高质量发展大会暨投融资并购对接会上表示，将全力稳定和增强资本市场信心，并提出三点举措：以更大力度支持科技创新和产业创新深度融合、以更大力度推进北京证券交易所深化改革、以更大力度夯实上市公司高质量发展基础。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/3105009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "国产103号赛级汽油来了",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7103%E5%8F%B7%E8%B5%9B%E7%BA%A7%E6%B1%BD%E6%B2%B9%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
       ]
     },
     {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "解放军报：日本押注无人装备居心叵测",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189766",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 07时50分]"
+        },
+        {
+          "title": "日本在冲绳举行军事演习",
+          "url": "https://www.douyin.com/hot/2501795",
+          "source": "抖音",
+          "ranks": [
+            25,
+            9,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时50分 ~ 07时50分]"
+        },
+        {
+          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
+          "url": "https://wallstreetcn.com/livenews/3104883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时44分]"
+        },
+        {
+          "title": "日本10年期国债收益率上升10个基点，达到2.8%。",
+          "url": "https://flash.jin10.com/detail/20260518074747674800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "韩国KOSPI指数日内涨幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260518101654265800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "日本首相高市早苗内阁支持率急跌 降至61.3%",
+          "url": "https://flash.jin10.com/detail/20260518035301694800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时02分 ~ 06时44分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐在与韩国外长的通话中指出，该地区所遭受的不安全状况及其引发的全球性后果，均源于美国及犹太复国主义政权针对伊朗采取的侵略行径。国际社会必须追究其违反国际法及所犯罪行的责任。",
+          "url": "https://flash.jin10.com/detail/20260518033524325800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时02分 ~ 06时44分]"
+        },
+        {
+          "title": "朝鲜女足抵韩争亚冠决赛资格",
+          "url": "https://www.douyin.com/hot/2502226",
+          "source": "抖音",
+          "ranks": [
+            27,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 07时50分]"
+        },
+        {
+          "title": "U17女足亚洲杯：朝鲜5-1狂胜日本",
+          "url": "https://www.toutiao.com/trending/7639883741816717355/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 10时28分]"
+        },
+        {
+          "title": "金正恩要求加强守卫朝鲜南部边境的一线部队",
+          "url": "https://wallstreetcn.com/livenews/3104932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "“华盛顿”号航母返回日本横须贺基地",
+          "url": "https://flash.jin10.com/detail/20260518055539528800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美伊局势升温推高油价，韩国股市V形反弹，亚太股市仍普遍承压，黄金跌破4500",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "特朗普访华后，日本慌了？日媒急了！",
+          "url": "https://www.cls.cn/detail/2373281",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "据日经新闻：日本将制定利用Anthropic的Mythos进行网络防御的指导方针。",
+          "url": "https://flash.jin10.com/detail/20260518015209366800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "据日经新闻：日本电产公司预计将结束与斯特兰蒂斯的电动汽车合资企业。",
+          "url": "https://flash.jin10.com/detail/20260518100625368800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长与韩国外长进行电话交谈，讨论地区最新动态。",
+          "url": "https://flash.jin10.com/detail/20260518014946022800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "“华盛顿”号航母返回日本横须贺基地",
+          "url": "https://wallstreetcn.com/livenews/3104919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "日本自民党18日开会讨论修订“安保三文件”草案",
+          "url": "https://wallstreetcn.com/livenews/3105026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "韩国法院称，三星电子工会行动不得导致生产材料降级。",
+          "url": "https://flash.jin10.com/detail/20260518100410183800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "韩国法院部分批准三星电子提出的针对工会拟举行罢工的禁令请求。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3105020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "韩国首尔综指收复此前4.7%的跌幅，转为涨跌基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3105018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "Canal Sur出口民调结果显示，西班牙保守派人民党（PP）料将在Andalusia地方选举中赢得重大胜利，有望在地区议会109个席位中赢得56-59个，这样的结果将有助于人民党继续执政。",
@@ -856,6 +1309,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "英媒称斯塔默计划辞任「英国首相」，这个岗位为何更迭如此频繁，其辞职对英国经济有何影响？",
+          "url": "https://www.zhihu.com/question/2039304438360363694",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "德国前总理默克尔：我们并未通过将其从宪法中移除的方式来彻底废除征兵制，我们只是将其暂停了。这意味着，如今只需获得简单多数票，即可对其进行再次修改。",
           "url": "https://flash.jin10.com/detail/20260518005650896800",
           "source": "金十数据",
@@ -873,7 +1337,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -895,7 +1359,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -906,7 +1370,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -928,7 +1392,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -950,170 +1414,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "解放军报：日本押注无人装备居心叵测",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189766",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 07时50分]"
-        },
-        {
-          "title": "日本在冲绳举行军事演习",
-          "url": "https://www.douyin.com/hot/2501795",
-          "source": "抖音",
-          "ranks": [
-            25,
-            9,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时50分 ~ 07时50分]"
-        },
-        {
-          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
-          "url": "https://wallstreetcn.com/livenews/3104883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 06时44分]"
-        },
-        {
-          "title": "日本10年期国债收益率上升10个基点，达到2.8%。",
-          "url": "https://flash.jin10.com/detail/20260518074747674800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "日本首相高市早苗内阁支持率急跌 降至61.3%",
-          "url": "https://flash.jin10.com/detail/20260518035301694800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时02分 ~ 06时44分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐在与韩国外长的通话中指出，该地区所遭受的不安全状况及其引发的全球性后果，均源于美国及犹太复国主义政权针对伊朗采取的侵略行径。国际社会必须追究其违反国际法及所犯罪行的责任。",
-          "url": "https://flash.jin10.com/detail/20260518033524325800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时02分 ~ 06时44分]"
-        },
-        {
-          "title": "朝鲜女足抵韩争亚冠决赛资格",
-          "url": "https://www.douyin.com/hot/2502226",
-          "source": "抖音",
-          "ranks": [
-            27,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 07时50分]"
-        },
-        {
-          "title": "金正恩要求加强守卫朝鲜南部边境的一线部队",
-          "url": "https://wallstreetcn.com/livenews/3104932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "“华盛顿”号航母返回日本横须贺基地",
-          "url": "https://flash.jin10.com/detail/20260518055539528800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "据日经新闻：日本将制定利用Anthropic的Mythos进行网络防御的指导方针。",
-          "url": "https://flash.jin10.com/detail/20260518015209366800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长与韩国外长进行电话交谈，讨论地区最新动态。",
-          "url": "https://flash.jin10.com/detail/20260518014946022800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "U17女足亚洲杯：朝鲜5-1狂胜日本",
-          "url": "https://www.toutiao.com/trending/7639883741816717355/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "“华盛顿”号航母返回日本横须贺基地",
-          "url": "https://wallstreetcn.com/livenews/3104919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -1121,7 +1422,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
@@ -1144,8 +1445,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 10时28分]"
         },
         {
           "title": "全球芯片LOF二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
@@ -1173,6 +1474,28 @@
           "time_info": "[00时47分 ~ 04时02分]"
         },
         {
+          "title": "半导体涨价潮蔓延至电源管理IC 多厂商计划6-7月调价、涨幅个位数",
+          "url": "https://www.cls.cn/detail/2373416",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "A股三大指数集体翻红，半导体、存储芯片、CPO、电力电网等方向涨幅居前，沪深京三市上涨个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3105023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "华泰证券：科技内部切换可考虑半导体设备、分立器件等方向",
           "url": "https://flash.jin10.com/detail/20260517230906015800",
           "source": "金十数据",
@@ -1182,6 +1505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "A股存储芯片板块震荡拉升，深科技涨停，同有科技、佰维存储涨超10%，大普微、华海诚科、朗科科技、商络电子涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3105016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
@@ -1227,7 +1561,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "和平统一后台湾可获稳定廉价能源",
@@ -1254,6 +1588,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时47分 ~ 04时02分]"
+        },
+        {
+          "title": "A股煤炭开采加工板块短线拉升，辽宁能源涨停，郑州煤电、兖矿能源、兰花科创、晋控煤业、昊华能源等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260518100308372800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
@@ -1319,8 +1664,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 07时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 10时28分]"
         }
       ]
     }
