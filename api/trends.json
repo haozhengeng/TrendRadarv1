@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T07:57:48.276133+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-05-19T10:38:30.355783+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "探秘美国1美元房子长什么样",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时38分]"
         },
         {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
@@ -200,7 +201,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -214,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "市场消息：美国白宫正在审查是否禁止通过“最佳价格机制”进行股票交易。",
@@ -376,7 +388,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -722,6 +734,17 @@
           "time_info": "06时50分"
         },
         {
+          "title": "美国两架战机相撞坠毁 损失有多大",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E7%9B%B8%E6%92%9E%E5%9D%A0%E6%AF%81+%E6%8D%9F%E5%A4%B1%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "美国总统特朗普：可获得的折扣药物数量将增加七倍。TrumpRx网站将增加超过600种仿制药。",
           "url": "https://flash.jin10.com/detail/20260519052145564800",
           "source": "金十数据",
@@ -769,8 +792,30 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 20,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "中国“逐日工程”研究取得重大进展",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%80%90%E6%97%A5%E5%B7%A5%E7%A8%8B%E2%80%9D%E7%A0%94%E7%A9%B6%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时38分]"
+        },
+        {
+          "title": "2026中国网络文明大会",
+          "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时38分]"
+        },
         {
           "title": "特朗普连发15张图分享中国记忆",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
@@ -789,33 +834,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时57分]"
-        },
-        {
-          "title": "中国“逐日工程”研究取得重大进展",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%80%90%E6%97%A5%E5%B7%A5%E7%A8%8B%E2%80%9D%E7%A0%94%E7%A9%B6%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E8%BF%9B%E5%B1%95",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时57分]"
-        },
-        {
-          "title": "2026中国网络文明大会",
-          "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时38分]"
         },
         {
           "title": "我国载人登月任务安排首次公布，中国人踏月球有何重要意义？",
@@ -869,6 +893,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时26分 ~ 07时57分]"
+        },
+        {
+          "title": "69名中国公民在菲被扣，中方发声",
+          "url": "https://news.ifeng.com/c/8tEqP0oDFgv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "中使馆探视被菲查扣的69名中国工人",
@@ -954,8 +989,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 10时38分]"
+        },
+        {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "英国在3月增持美债 中国和日本减持",
@@ -967,6 +1013,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "A股商业航天板块震荡下探，中国卫星触及跌停，巨力索具此前跌停，理工导航、上海港湾、神剑股份跟跌。",
+          "url": "https://flash.jin10.com/detail/20260519102429420800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "三星半导体前总裁：预测存储价格明年下半年开跌，中国企业正在大幅扩产",
+          "url": "https://wallstreetcn.com/articles/3772583",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "中国虎头包刷屏海内外",
+          "url": "https://www.toutiao.com/trending/7641014899407355923/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "三大运营商再度走强，中国电信涨超8%，中国联通、中国移动均涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3105727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "中国驻俄大使在人民日报撰文：元首外交掌舵领航，中俄关系乘风破浪",
+          "url": "https://www.cls.cn/detail/2374819",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
@@ -991,6 +1092,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "AMD董事会主席：中国市场极其重要",
+          "url": "https://www.toutiao.com/trending/7641370663127908406/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "日本车企为何在中国走向大溃败",
           "url": "https://www.toutiao.com/trending/7641173276961541683/",
           "source": "今日头条",
@@ -1002,21 +1114,65 @@
           "time_info": "06时50分"
         },
         {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3105699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "富时中国A50指数期货盘中跌逾1%。",
+          "url": "https://flash.jin10.com/detail/20260519095532861800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "俄方对普京访问中国充满期待",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E5%AF%B9%E6%99%AE%E4%BA%AC%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E5%85%85%E6%BB%A1%E6%9C%9F%E5%BE%85",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "A股稀土概念股盘中震荡走低，中稀有色、盛和资源、北方稀土跌超3%，厦门钨业、中国稀土、华宏科技等股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260519095403276800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股影视院线概念震荡拉升，幸福蓝海涨超14%，博纳影业、北京文化、上海电影、中国电影跟涨。",
+          "url": "https://flash.jin10.com/detail/20260519095228269800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
@@ -1061,11 +1217,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354384&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%BA%9F%E9%99%A4%E6%B1%89%E5%AD%97%E6%81%B6%E6%9E%9C%E7%88%86%E5%8F%91",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时38分]"
         },
         {
           "title": "日本财务大臣片山皋月：我们需要密切关注金融市场。",
@@ -1153,7 +1310,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -1169,6 +1326,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "三井住友金融集团、富士通、软银集团同意结成联盟，打造日本本土可持续医疗保健平台。",
+          "url": "https://wallstreetcn.com/livenews/3105732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
           "url": "https://flash.jin10.com/detail/20260519055948313800",
           "source": "金十数据",
@@ -1178,6 +1346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        },
+        {
+          "title": "韩国首尔综指日内跌幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3105723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "韩国将参与日本的“联合石油储备”计划。（日经新闻）",
@@ -1202,6 +1381,50 @@
           "time_info": "03时25分"
         },
         {
+          "title": "道富环球：日本一季度GDP超预期，6月加息几成定局",
+          "url": "https://flash.jin10.com/detail/20260519095944721800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "韩国KOSPI指数失守7200点，日内跌幅4.25%。",
+          "url": "https://flash.jin10.com/detail/20260519095803855800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "据媒体报道，三星韩国工会与管理层缩小了一些分歧。",
+          "url": "https://wallstreetcn.com/livenews/3105697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "韩国首尔综指日内跌幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/3105696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "连尊雕像都容不下 日本何等做贼心虚",
           "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E5%B0%8A%E9%9B%95%E5%83%8F%E9%83%BD%E5%AE%B9%E4%B8%8D%E4%B8%8B+%E6%97%A5%E6%9C%AC%E4%BD%95%E7%AD%89%E5%81%9A%E8%B4%BC%E5%BF%83%E8%99%9A",
           "source": "百度热搜",
@@ -1216,7 +1439,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -1235,11 +1458,37 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时38分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 10时38分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 10时38分]"
         },
         {
           "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
@@ -1266,29 +1515,6 @@
           "time_info": "[01时26分 ~ 06时50分]"
         },
         {
-          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
-          "url": "https://www.cls.cn/detail/2374806",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时57分]"
-        },
-        {
           "title": "戴尔科技CEO Dell：存储芯片存在供应受抑问题。 存储芯片制造商们正在投资。 存储芯片和先进制程芯片仍然存在（供应）短缺。",
           "url": "https://wallstreetcn.com/livenews/3105558",
           "source": "华尔街见闻-快讯",
@@ -1309,6 +1535,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "港股半导体板块持续走低，天数智芯(09903.HK)跌超9%，英诺赛科(02577.HK)跌超8%，澜起科技(06809.HK)、兆易创新(03986.HK)、中芯国际(00981.HK)等多股跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260519101335578800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.20%，深成指跌1.39%，算力硬件、半导体芯片、锂电、有色金属等方向跌幅居前，沪深京三市下跌个股近2500只。",
+          "url": "https://wallstreetcn.com/livenews/3105725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
@@ -1333,15 +1581,37 @@
           "time_info": "05时04分"
         },
         {
+          "title": "创业板指跌超1%，沪指跌0.37%，深成指跌0.79%，体育、半导体、CPO、油气等方向跌幅居前，沪深京三市下跌个股超1900只。",
+          "url": "https://wallstreetcn.com/livenews/3105711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "英特尔(INTC.O)CEO陈立武：14A芯片将于2028年实现生产，2029年将进入量产阶段。",
           "url": "https://flash.jin10.com/detail/20260519064525769800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "创业板指盘中跌幅扩大至2%，深证成指现跌1.5%，沪指现跌0.3%。CPO、存储芯片等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260519100128812800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "报道：AI芯片初创公司Tenstorrent吸引英特尔与高通早期收购兴趣，估值或超50亿美元",
@@ -1368,8 +1638,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时38分]"
         },
         {
           "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
@@ -1461,7 +1731,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -1524,7 +1794,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "标普500指数的11个板块多数收涨，能源板块涨1.81%，日用消费品、金融、房地产板块至少涨1.14%，工业板块则收跌0.42%，信息技术/科技板块跌0.97%。",
@@ -1549,15 +1819,65 @@
           "time_info": "05时04分"
         },
         {
+          "title": "A股绿电概念反复活跃，华能蒙电直线涨停，华光环能、京能电力、大唐发电、拓日新能、建投能源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3105713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "国际能源署署长：商业石油库存“急剧下降”",
           "url": "https://flash.jin10.com/detail/20260519064031543800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "印度首都或将遭遇45摄氏度高温",
+          "url": "https://wallstreetcn.com/livenews/3105737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "印度2只大象河边打斗一女子被砸死",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A62%E5%8F%AA%E5%A4%A7%E8%B1%A1%E6%B2%B3%E8%BE%B9%E6%89%93%E6%96%97%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A0%B8%E6%AD%BB%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "印度：一直在购买俄罗斯石油",
+          "url": "https://www.toutiao.com/trending/7640597306229194794/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
@@ -1570,11 +1890,12 @@
           "url": "https://www.zhihu.com/question/2002729243398919708",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时57分]"
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 10时38分]"
         }
       ]
     }
