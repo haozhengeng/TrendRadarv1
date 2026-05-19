@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-20T02:54:23.390056+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-05-20T04:25:29.866930+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "美国SEC下调门槛 旨在“让IPO再次繁荣”",
+          "url": "https://flash.jin10.com/detail/20260520040338136800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
         {
           "title": "美国公布新一轮对伊朗制裁名单",
           "url": "https://wallstreetcn.com/livenews/3106175",
@@ -19,13 +30,35 @@
           "time_info": "00时45分"
         },
         {
+          "title": "美国能源部长赖特：我们不会耗尽汽油。",
+          "url": "https://flash.jin10.com/detail/20260520035537671800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国能源部长赖特：霍尔木兹海峡将在不久的将来恢复通航。",
+          "url": "https://flash.jin10.com/detail/20260520035523266800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "美国在印度洋截获与伊朗相关的油轮。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3106208",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -36,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -48,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "探秘美国1美元房子长什么样",
@@ -57,11 +90,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "美国副总统万斯：无论美国总统特朗普对伊朗做出什么决定，这种情况不会永远持续。",
@@ -70,7 +104,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -81,9 +115,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "美国能源部长Wright：我们不会耗尽汽油。",
+          "url": "https://wallstreetcn.com/livenews/3106233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "谷歌公司将在美国面向AI Ultra订阅用户推出Gemini Spark测试版。",
@@ -92,7 +137,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -108,13 +153,24 @@
           "time_info": "00时45分"
         },
         {
+          "title": "美国监管机构公布重塑银行评级流程的计划",
+          "url": "https://wallstreetcn.com/livenews/3106230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "路透社/益普索的调查显示，美国总统特朗普的支持率降至35%，接近其任期内的最低水平。",
           "url": "https://flash.jin10.com/detail/20260520021228583800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -125,7 +181,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -136,7 +192,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -147,7 +203,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -158,7 +214,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -169,7 +225,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -224,7 +280,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -235,7 +291,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -246,7 +302,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -268,7 +324,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -282,12 +338,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美国一男子用霰弹枪对住宅门开火",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E7%94%A8%E9%9C%B0%E5%BC%B9%E6%9E%AA%E5%AF%B9%E4%BD%8F%E5%AE%85%E9%97%A8%E5%BC%80%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "长江存储控股完成IPO辅导备案 国产存储IDM双雄“奔赴”资本市场",
@@ -297,8 +364,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "一无人机在黑海击中了一艘中国货船？外交部回应",
@@ -308,8 +375,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "“国产3D NAND第一股”要来了！长存集团启动IPO辅导",
@@ -319,8 +386,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "中国公民遭非法拘禁并被勒索，驻泰使馆回应",
@@ -330,8 +397,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "2026中国网络文明大会",
@@ -341,8 +408,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "普京抱过的中国男孩将再见普京",
@@ -352,8 +419,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -363,8 +430,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "三星半导体前总裁：预测存储价格明年下半年开跌，中国企业正在大幅扩产",
@@ -374,8 +441,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "从中超球星到外卖骑手，邱忠辉和中国足球的另一种现实",
@@ -385,8 +452,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "中国又一行业全球爆单",
@@ -396,8 +463,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
+        },
+        {
+          "title": "普京抱过的中国男孩将再见普京",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B1%E8%BF%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%A9%E5%B0%86%E5%86%8D%E8%A7%81%E6%99%AE%E4%BA%AC%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
@@ -412,16 +491,26 @@
           "time_info": "[00时45分 ~ 02时54分]"
         },
         {
-          "title": "普京抱过的中国男孩将再见普京",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B1%E8%BF%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%A9%E5%B0%86%E5%86%8D%E8%A7%81%E6%99%AE%E4%BA%AC%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，京东、拼多多初步收涨2.5%，腾讯、阿里、美团、小马智行、网易、百度至多涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3106237",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            14
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "无人机在黑海击中中国货船？中方回应",
+          "url": "https://www.toutiao.com/trending/7641503357256863268/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "《给阿嬷的情书》是近年国产片最佳吗",
@@ -441,17 +530,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "日本汽车产业遇重创",
-          "url": "https://www.toutiao.com/trending/7640521586860916762/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
           "title": "日本央行行长植田和男：将采取适当的货币政策以实现通胀目标。",
           "url": "https://flash.jin10.com/detail/20260520001748639800",
           "source": "金十数据",
@@ -463,6 +541,18 @@
           "time_info": "00时45分"
         },
         {
+          "title": "日本汽车产业遇重创",
+          "url": "https://www.toutiao.com/trending/7640521586860916762/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时25分]"
+        },
+        {
           "title": "高市早苗访问韩国",
           "url": "https://www.douyin.com/hot/2504998",
           "source": "抖音",
@@ -470,8 +560,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "韩国废除汉字恶果爆发",
@@ -481,8 +571,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "日本央行行长植田和男：（被问及日本央行缩减购债计划）将评估市场情况和市场功能。",
@@ -579,7 +669,125 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "一文看懂：三星将爆发芯片史上最大规模罢工 三重冲击风暴即将形成？",
+          "url": "https://www.cls.cn/detail/2375716",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
+        },
+        {
+          "title": "【每日收评】科创50探底回升涨近4%，电力股反复活跃，半导体产业链午后再度爆发",
+          "url": "https://www.cls.cn/detail/2375505",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
+        },
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
+        },
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
+        },
+        {
+          "title": "突发！900亿芯片股遭国家大基金减持|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2375836",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.7%，原材料板块跌2.3%，电信、可选消费、金融板块至多跌1.7%，科技板块跌0.9%，能源板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Doordash初步收跌4.9%，高通、思科、AppLovin、派拓网络PANW、汤森路透、博通、谷歌A、铿腾电子至多跌3.5%，拼多多涨2.5%，闪迪涨3.4%，Arm控股涨3.8%，迈威尔科技涨4%。 思科初步收跌3%，波音、3M、亚马逊跌超2%，领跌道指成分股，雪佛龙涨1.5%。 半导体指数跌0.1%，银行指数跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3106235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "“芯片女王”在华入场通道变追星现场",
+          "url": "https://www.toutiao.com/trending/7641163582352199187/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
+          "url": "https://wallstreetcn.com/livenews/3106164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "历史上首次！芯片股与软件股关联度跌入负值区间",
+          "url": "https://wallstreetcn.com/livenews/3106219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "费城半导体指数涨超1.1%，纳斯达克100指数几乎完全收复日内稍早失地。迈威尔科技涨5.9%，美光涨5.4%，闪迪涨3.3%，英特尔涨2.7%，拼多多涨2.4%，Lumentum涨1.9%，恩智浦涨1.6%。特斯拉跌1.8%，汤森路透跌2.8%，Doordash跌4.9%。",
+          "url": "https://wallstreetcn.com/livenews/3106188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
@@ -597,8 +805,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
         },
         {
           "title": "伯纳姆获英国工党下院补选提名 或重返议会挑战首相职位",
@@ -662,7 +870,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -673,105 +881,72 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
       ]
     },
     {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 8,
+      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
+      "match_count": 5,
       "titles": [
         {
-          "title": "一文看懂：三星将爆发芯片史上最大规模罢工 三重冲击风暴即将形成？",
-          "url": "https://www.cls.cn/detail/2375716",
-          "source": "财联社热门",
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
-        },
-        {
-          "title": "【每日收评】科创50探底回升涨近4%，电力股反复活跃，半导体产业链午后再度爆发",
-          "url": "https://www.cls.cn/detail/2375505",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
-        },
-        {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
-        },
-        {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
-        },
-        {
-          "title": "突发！900亿芯片股遭国家大基金减持|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2375836",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
-        },
-        {
-          "title": "“芯片女王”在华入场通道变追星现场",
-          "url": "https://www.toutiao.com/trending/7641163582352199187/",
-          "source": "今日头条",
-          "ranks": [
+            5,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
+        },
+        {
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时25分]"
+        },
+        {
+          "title": "消息人士：Meta提议向竞争对手的人工智能聊天机器人提供有限的免费WhatsApp访问权限，竞争对手在向用户发送消息达到上限时将被收取费用。",
+          "url": "https://flash.jin10.com/detail/20260520031330087800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时25分"
         },
         {
-          "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
-          "url": "https://wallstreetcn.com/livenews/3106164",
-          "source": "华尔街见闻-快讯",
+          "title": "IBM(IBM.N)宣布扩大其人工智能企业安全计划，并与Anthropic合作。",
+          "url": "https://flash.jin10.com/detail/20260519235501259800",
+          "source": "金十数据",
           "ranks": [
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
         {
-          "title": "费城半导体指数涨超1.1%，纳斯达克100指数几乎完全收复日内稍早失地。迈威尔科技涨5.9%，美光涨5.4%，闪迪涨3.3%，英特尔涨2.7%，拼多多涨2.4%，Lumentum涨1.9%，恩智浦涨1.6%。特斯拉跌1.8%，汤森路透跌2.8%，Doordash跌4.9%。",
-          "url": "https://wallstreetcn.com/livenews/3106188",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
+          "url": "https://flash.jin10.com/detail/20260520024925231800",
+          "source": "金十数据",
           "ranks": [
-            22
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时25分"
         }
       ]
     },
@@ -792,6 +967,18 @@
           "time_info": "[00时45分 ~ 02时54分]"
         },
         {
+          "title": "特斯拉正式放弃印度建厂计划",
+          "url": "https://www.toutiao.com/trending/7640835417427673130/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时25分]"
+        },
+        {
           "title": "特斯拉放弃印度建厂",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -804,67 +991,32 @@
           "time_info": "[00时45分 ~ 02时54分]"
         },
         {
-          "title": "特斯拉正式放弃印度建厂计划",
-          "url": "https://www.toutiao.com/trending/7640835417427673130/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
           "title": "印度为何押注AI和芯片产业",
           "url": "https://www.toutiao.com/trending/7641611617007832619/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
       ]
     },
     {
-      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 3,
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 1,
       "titles": [
         {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
+          "title": "标普500指数的11个板块涨跌各异，原材料板块收跌2.27%，电信、可选消费、金融、工业板块至多跌1.58%，信息技术/科技板块跌0.71%跌幅最小，能源板块则收涨1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3106243",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
-        },
-        {
-          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时54分]"
-        },
-        {
-          "title": "IBM(IBM.N)宣布扩大其人工智能企业安全计划，并与Anthropic合作。",
-          "url": "https://flash.jin10.com/detail/20260519235501259800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "04时25分"
         }
       ]
     }
