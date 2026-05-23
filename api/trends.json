@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T14:29:15.350050+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-05-23T16:58:10.627812+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 65,
+      "match_count": 71,
       "titles": [
         {
           "title": "美国总统特朗普：预计凯文·沃什将是一位伟大的美联储主席。",
@@ -69,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -96,6 +96,19 @@
           "time_info": "05时59分"
         },
         {
+          "title": "美国再公布UFO文件：发光物追逐战机",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%86%8D%E5%85%AC%E5%B8%83UFO%E6%96%87%E4%BB%B6%EF%BC%9A%E5%8F%91%E5%85%89%E7%89%A9%E8%BF%BD%E9%80%90%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时58分]"
+        },
+        {
           "title": "风电审批遭遇全面“停摆”，危及美国500亿美元能源项目",
           "url": "https://wallstreetcn.com/livenews/3108259",
           "source": "华尔街见闻-快讯",
@@ -107,6 +120,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时59分 ~ 08时01分]"
+        },
+        {
+          "title": "富途：完成约1.6亿美元美国存托股份回购",
+          "url": "https://wallstreetcn.com/livenews/3108306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 16时58分]"
         },
         {
           "title": "美国卫生部（HHS）寻求禁止美国绿卡持有者与埃博拉疫情地区相关的旅行。",
@@ -134,18 +160,6 @@
           "time_info": "[02时30分 ~ 04时29分]"
         },
         {
-          "title": "富途：完成约1.6亿美元美国存托股份回购",
-          "url": "https://wallstreetcn.com/livenews/3108306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 14时29分]"
-        },
-        {
           "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3108254",
           "source": "华尔街见闻-快讯",
@@ -157,6 +171,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时59分 ~ 08时01分]"
+        },
+        {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时58分]"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -207,18 +233,6 @@
           "time_info": "[05时59分 ~ 08时01分]"
         },
         {
-          "title": "美国再公布UFO文件：发光物追逐战机",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%86%8D%E5%85%AC%E5%B8%83UFO%E6%96%87%E4%BB%B6%EF%BC%9A%E5%8F%91%E5%85%89%E7%89%A9%E8%BF%BD%E9%80%90%E6%88%98%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时29分]"
-        },
-        {
           "title": "美国18岁少女遭生父性侵后自杀",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD18%E5%B2%81%E5%B0%91%E5%A5%B3%E9%81%AD%E7%94%9F%E7%88%B6%E6%80%A7%E4%BE%B5%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -243,15 +257,16 @@
           "time_info": "[04时29分 ~ 05时59分]"
         },
         {
-          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
-          "url": "https://www.zhihu.com/question/2041148892323000444",
-          "source": "知乎",
+          "title": "伊朗外长：美国要求过分、立场矛盾 阻碍谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3108317",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "time_info": "[14时29分 ~ 16时58分]"
         },
         {
           "title": "美国芝加哥商业交易所集团（CME Group）批准印度Hindalco Industries Ltd.两个品牌的铜产品为COMEX交割品种。",
@@ -278,6 +293,28 @@
           "time_info": "[11时27分 ~ 14时29分]"
         },
         {
+          "title": "申请美国绿卡须返回原籍国提申请",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%AF%B7%E7%BE%8E%E5%9B%BD%E7%BB%BF%E5%8D%A1%E9%A1%BB%E8%BF%94%E5%9B%9E%E5%8E%9F%E7%B1%8D%E5%9B%BD%E6%8F%90%E7%94%B3%E8%AF%B7%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "评论员谈美国叫停对台军售",
+          "url": "https://www.toutiao.com/trending/7642385575676428324/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "美国总统特朗普：美联储是全球金融体系的支柱。",
           "url": "https://flash.jin10.com/detail/20260522235503662800",
           "source": "金十数据",
@@ -300,17 +337,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "伊朗外长：美国要求过分、立场矛盾 阻碍谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3108317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "美国总统特朗普：沃什对美联储怀有崇高敬意。",
           "url": "https://flash.jin10.com/detail/20260522235447452800",
           "source": "金十数据",
@@ -328,9 +354,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "美国地质调查局：夏威夷地区霍纳乌纳乌-纳波奥波奥发生5.9级地震。",
+          "url": "https://flash.jin10.com/detail/20260523155606628800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "美国总统特朗普：没有人比沃什更适合领导美联储。",
@@ -564,6 +601,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美国国家公路交通安全管理局（NHTSA）：丰田在美国召回43,566辆汽车，原因是行驶动力流失会增加碰撞风险。",
+          "url": "https://flash.jin10.com/detail/20260523151112214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "美国两年期国债收益率涨至4.14%，创2025年2月份以来新高。",
           "url": "https://wallstreetcn.com/livenews/3108136",
           "source": "华尔街见闻-快讯",
@@ -702,7 +750,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -716,6 +764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "卡斯特罗之女说父亲笑对美国起诉",
+          "url": "https://flash.jin10.com/detail/20260523140915422800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "美国商务部长卢特尼克捍卫总统特朗普入股英特尔的做法，要求一名法官驳回该公司股东有关这笔交易涉嫌政府非法持股的指控。",
@@ -738,12 +797,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "伊朗国防部发言人：除非美国总统特朗普接受伊朗人民的要求并尊重伊朗的权利，否则他将面临进一步的失败。",
+          "url": "https://flash.jin10.com/detail/20260523140156237800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "外国博主为啥扎堆中国乡村",
@@ -761,11 +831,12 @@
           "url": "https://news.ifeng.com/c/8tKjH8kx68k",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 14时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 16时58分]"
         },
         {
           "title": "U17亚洲杯决赛中国男足vs日本",
@@ -812,11 +883,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 14时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 16时58分]"
         },
         {
           "title": "中国电视销量持续「腰斩」，除了年轻人不买账，其背后还存在哪些深层原因？",
@@ -857,8 +929,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 14时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 16时58分]"
         },
         {
           "title": "俄主播穿中国红播报中俄元首会晤",
@@ -890,11 +962,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 16时58分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -951,22 +1024,58 @@
           "url": "https://www.toutiao.com/trending/7641939137729383979/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时58分]"
         },
         {
-          "title": "12岁女孩用中国功夫创两项吉尼斯纪录",
-          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E5%88%9B%E4%B8%A4%E9%A1%B9%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95",
+          "title": "“中国断了日本4个月，2010年的记忆又回来了”",
+          "url": "https://news.ifeng.com/c/8tM82kt9dfq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "中国香港航天员首上太空",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E4%B8%8A%E5%A4%AA%E7%A9%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时58分]"
+        },
+        {
+          "title": "中国空间站要换班了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E8%A6%81%E6%8D%A2%E7%8F%AD%E4%BA%86",
           "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "欧盟高官焦虑：对中国下手，快快快",
+          "url": "https://news.ifeng.com/c/8tM7SvgZdOg",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
           "title": "中国U17男足2比3日本U17",
@@ -979,6 +1088,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时58分 ~ 08时01分]"
+        },
+        {
+          "title": "非法跨境展业遭重拳整治：中国证监会拟对富途罚款18.5亿，老虎证券罚没4.112亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33213504",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时58分]"
+        },
+        {
+          "title": "12岁女孩用中国功夫创两项吉尼斯纪录",
+          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E5%88%9B%E4%B8%A4%E9%A1%B9%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时58分]"
         },
         {
           "title": "中国官宣第4位女航天员",
@@ -1005,18 +1138,6 @@
           "time_info": "[08时01分 ~ 14时29分]"
         },
         {
-          "title": "中国香港航天员首上太空",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E4%B8%8A%E5%A4%AA%E7%A9%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时29分]"
-        },
-        {
           "title": "特朗普儿媳再忆中国行直呼震撼",
           "url": "https://www.toutiao.com/trending/7641561881347309611/",
           "source": "今日头条",
@@ -1039,6 +1160,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 11时27分]"
+        },
+        {
+          "title": "4名在泰失联中国公民已被找到",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时58分]"
+        },
+        {
+          "title": "两名巴基斯坦航天员已进入中国航天员科研训练中心，与中国航天员一同参加任务训练。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3108299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 16时58分]"
         },
         {
           "title": "巴基斯坦航天员与中国航天员一同训练",
@@ -1076,38 +1222,26 @@
           "time_info": "[11时27分 ~ 14时29分]"
         },
         {
-          "title": "4名在泰失联中国公民已被找到",
-          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0",
-          "source": "百度热搜",
+          "title": "神舟二十三号即将发射，香港女航天员将执行任务，她也是第 4 位中国女航天员，这一安排有哪些特殊意义？",
+          "url": "https://www.zhihu.com/question/2041448429176579169",
+          "source": "知乎",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
-          "title": "非法跨境展业遭重拳整治：中国证监会拟对富途罚款18.5亿，老虎证券罚没4.112亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33213504",
-          "source": "澎湃新闻",
+          "title": "“中国这一转变，欧亚车企抬不起头”",
+          "url": "https://news.ifeng.com/c/8tMT7hlhgsp",
+          "source": "凤凰网",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
-        },
-        {
-          "title": "两名巴基斯坦航天员已进入中国航天员科研训练中心，与中国航天员一同参加任务训练。 (新华社)",
-          "url": "https://wallstreetcn.com/livenews/3108299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 14时29分]"
+          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
           "title": "中国大学生方程式锦标赛",
@@ -1232,6 +1366,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "机构：中国品牌在欧洲纯电汽车市场占有率首超15%",
+          "url": "https://flash.jin10.com/detail/20260523152149559800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "如何看一年来中国股市上涨的1000点",
           "url": "https://www.toutiao.com/trending/7642858236990737974/",
           "source": "今日头条",
@@ -1304,7 +1449,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1345,7 +1490,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "三星，让韩国人心乱了！",
@@ -1395,8 +1540,21 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 14时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 16时58分]"
+        },
+        {
+          "title": "U17国足决赛2比3惜败日本",
+          "url": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B3%E5%86%B3%E8%B5%9B2%E6%AF%943%E6%83%9C%E8%B4%A5%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时58分]"
         },
         {
           "title": "U17国足2比3不敌日本",
@@ -1408,18 +1566,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "U17国足决赛2比3惜败日本",
-          "url": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B3%E5%86%B3%E8%B5%9B2%E6%AF%943%E6%83%9C%E8%B4%A5%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时29分]"
         },
         {
           "title": "U17国足不敌日本 获亚洲杯亚军",
@@ -1446,6 +1592,17 @@
           "time_info": "[08时01分 ~ 11时27分]"
         },
         {
+          "title": "朝鲜女足1-0战胜日本夺冠",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%A5%B3%E8%B6%B31-0%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "媒体：韩国投资者抄底A股",
           "url": "https://www.toutiao.com/trending/7642690395926695450/",
           "source": "今日头条",
@@ -1455,6 +1612,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "韩国一小型飞机坠落 已致2人重伤",
+          "url": "https://flash.jin10.com/detail/20260523152419939800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "贺炜谈U17国足2-3惜败日本",
@@ -1471,7 +1639,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "德国DAX 30指数初步收涨1.19%，报24898.65点，本周累涨约4%。 法国股指初步收涨0.48%，意大利股指初步收涨0.79%、银行指数涨1.39%，英国股指初步收涨0.26%。",
@@ -1513,9 +1681,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（回应德国提出的欧盟准成员国提案）乌克兰若加入欧盟却“没有发言权”是“不公平的”。",
+          "url": "https://flash.jin10.com/detail/20260523153630026800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "英国海上贸易行动办公室：收到一份关于也门索科特拉岛以西200海里范围内发生事件的报告。",
@@ -1524,7 +1703,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1588,8 +1767,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 16时58分]"
         },
         {
           "title": "美光科技CEO Mehrotra：存储芯片供应短缺问题将持续到2026年之后。（彭博）",
@@ -1639,6 +1818,69 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "印度的麻烦来了",
+          "url": "https://news.ifeng.com/c/8tM0FTWj7DP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时58分]"
+        },
+        {
+          "title": "印度的困境",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%9A%84%E5%9B%B0%E5%A2%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时58分]"
+        },
+        {
+          "title": "鲁比奥抵达印度开启首次访印",
+          "url": "https://www.toutiao.com/trending/7642654985490137151/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "印度液化石油气供应面临约40万桶/日的缺口",
+          "url": "https://flash.jin10.com/detail/20260523121513984800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "印度将汽油价格上调0.9%，将柴油价格上调1.0%。",
+          "url": "https://wallstreetcn.com/livenews/3108280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
       "match_count": 5,
       "titles": [
@@ -1660,7 +1902,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1701,59 +1943,8 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "印度的麻烦来了",
-          "url": "https://news.ifeng.com/c/8tM0FTWj7DP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时29分]"
-        },
-        {
-          "title": "印度的困境",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%9A%84%E5%9B%B0%E5%A2%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时29分]"
-        },
-        {
-          "title": "印度液化石油气供应面临约40万桶/日的缺口",
-          "url": "https://flash.jin10.com/detail/20260523121513984800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "印度将汽油价格上调0.9%，将柴油价格上调1.0%。",
-          "url": "https://wallstreetcn.com/livenews/3108280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# 可视化配置编辑器地址: https://sansan0.github.io/TrendRadar/ # # 凡是左侧有 # 的都是仅供阅读的说明性文字 # # 这个文件用来设置你想关注的新闻关键词。 # 系统会自动抓取包含这些关键词的热榜新闻推送给你。 # # 文件分为两个区域： #   [GLOBAL_FILTER]  - 全局过滤区：排除不想看的内容 #   [WORD_GROUPS]    - 词组定义区：设置想关注的关键词 # # ═══════════════════════════════════════════════════════════════",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "<a href=\"https://www.jin10.com/vip/payment/index.html#/?openIndex=2\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/Jm75p3zXtlfCRlBIBbXk6.jpg/lite\" height=\"120\"/></a>",
@@ -1765,6 +1956,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/vip/payment/index.html#/?openIndex=2\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/KuSVttulrfPBkCdZZOBA5.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260523150022818800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
