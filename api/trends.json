@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T06:48:18.769051+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-05-25T07:52:51.602433+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国政府宣布在美外国人申请绿卡须返回原籍国，此举将带来哪些影响？",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "美国务卿：有关霍尔木兹海峡，未来几小时可能会有好消息",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "内塔尼亚胡：以色列与美国在伊朗核问题上保持一致",
@@ -100,17 +100,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "美国联邦基金期货上涨，12月合约上涨6个跳动点。",
-          "url": "https://wallstreetcn.com/livenews/3108554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
           "title": "伊媒：美国仍在部分谅解条款上设置障碍",
           "url": "https://flash.jin10.com/detail/20260525002319978800",
           "source": "金十数据",
@@ -121,6 +110,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时53分]"
+        },
+        {
+          "title": "美国联邦基金期货上涨，12月合约上涨6个跳动点。",
+          "url": "https://wallstreetcn.com/livenews/3108554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
         },
         {
           "title": "伊朗最高领袖顾问表示，如果再次遭遇攻击，伊朗将打破美国海军的封锁，并退出《不扩散核武器条约》。",
@@ -195,6 +196,30 @@
           "time_info": "[05时47分 ~ 06时48分]"
         },
         {
+          "title": "美国情报显示伊朗最高领袖藏匿于秘密地点，与外界沟通严重延迟",
+          "url": "https://flash.jin10.com/detail/20260525062231837800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
+        },
+        {
+          "title": "美国务卿称美伊协议草案获多国支持",
+          "url": "https://wallstreetcn.com/livenews/3108555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国坚定支持黎巴嫩合法政府，帮助其恢复权威，建设更美好的未来。真主党的暴力威胁和推翻行为绝不允许成功。一个恐怖组织绑架整个国家的时代即将结束。",
           "url": "https://flash.jin10.com/detail/20260525044121215800",
           "source": "金十数据",
@@ -205,6 +230,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时48分]"
+        },
+        {
+          "title": "美国联邦基金期货上涨，12月合约涨6个基点。",
+          "url": "https://flash.jin10.com/detail/20260525061246276800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
         },
         {
           "title": "据福克斯新闻援引美国官员：德黑兰已初步同意协议框架，我们已完成95%的谈判内容，目前正就具体措辞进行磋商。",
@@ -255,6 +292,18 @@
           "time_info": "[04时43分 ~ 05时47分]"
         },
         {
+          "title": "美国10年期国债期货上涨12个基点，30年期国债期货上涨17个基点。",
+          "url": "https://flash.jin10.com/detail/20260525060454737800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
+        },
+        {
           "title": "白宫顾问哈塞特：结束伊朗战争或为美联储降息创造空间，美国可能会“负通胀”",
           "url": "https://wallstreetcn.com/livenews/3108519",
           "source": "华尔街见闻-快讯",
@@ -277,37 +326,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "美国情报显示伊朗最高领袖藏匿于秘密地点，与外界沟通严重延迟",
-          "url": "https://flash.jin10.com/detail/20260525062231837800",
+          "title": "金十整理：本周重要事件与数据预告——美国4月核心PCE数据将公布；小米、理想、拼多多等财报来袭",
+          "url": "https://flash.jin10.com/detail/20260525065625777800",
           "source": "金十数据",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "美国务卿称美伊协议草案获多国支持",
-          "url": "https://wallstreetcn.com/livenews/3108555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "美国联邦基金期货上涨，12月合约涨6个基点。",
-          "url": "https://flash.jin10.com/detail/20260525061246276800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "time_info": "07时52分"
         },
         {
           "title": "黎巴嫩真主党秘书长：美国最近的制裁将使我们更加坚定，黎巴嫩政府应该对此采取立场。",
@@ -330,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "美国10年期国债期货上涨12个基点，30年期国债期货上涨17个基点。",
-          "url": "https://flash.jin10.com/detail/20260525060454737800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
         },
         {
           "title": "据福克斯新闻援引美国政府官员的话报道，如果最终协议中伊朗仍在进行铀浓缩，那就不算是最终协议。",
@@ -467,7 +483,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "回顾中国航天员逐梦苍穹的在轨征途",
@@ -477,8 +493,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
@@ -489,8 +505,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "武契奇携夫人到访长城，现场回应被中国民众喊“577”的趣事",
@@ -500,8 +516,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "塞尔维亚总统武契奇抵京，开启对中国的首次国事访问，这次访问将讨论哪些议题？",
@@ -511,8 +527,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "巴沙鱼到底是怎么进入中国市场的，为什么突然间有了这么多巴沙鱼？",
@@ -525,8 +541,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 07时52分]"
         },
         {
           "title": "中国征收过境费,日航年亏70亿",
@@ -536,8 +552,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "武契奇：患难见真情 深深感激中国",
@@ -546,22 +562,59 @@
           "ranks": [
             27,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 07时52分]"
+        },
+        {
+          "title": "中国航天员第8次太空会师",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E7%AC%AC8%E6%AC%A1%E5%A4%AA%E7%A9%BA%E4%BC%9A%E5%B8%88%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "中国航天员完成第8次“太空会师”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E7%AC%AC8%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E4%BC%9A%E5%B8%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "中国香港航天员首上太空",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E4%B8%8A%E5%A4%AA%E7%A9%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "神舟二十三号航天员乘组顺利进驻“天宫” 中国航天员完成第8次“太空会师”",
           "url": "https://wallstreetcn.com/livenews/3108553",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
         },
         {
           "title": "中国空间站组合体已进入对接轨道",
@@ -576,18 +629,6 @@
           "time_info": "[05时46分 ~ 06时48分]"
         },
         {
-          "title": "中国香港航天员首上太空",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E4%B8%8A%E5%A4%AA%E7%A9%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
-        },
-        {
           "title": "武契奇笑着回忆中国民众叫他“577”",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E7%AC%91%E7%9D%80%E5%9B%9E%E5%BF%86%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%BC%97%E5%8F%AB%E4%BB%96%E2%80%9C577%E2%80%9D",
           "source": "百度热搜",
@@ -599,13 +640,68 @@
           "time_info": "[06时47分 ~ 06时48分]"
         },
         {
+          "title": "资金涌入成长风格ETF，韩国投资者积极买入中国标的",
+          "url": "https://wallstreetcn.com/livenews/3108561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "5000多年前中国人就用上了刀叉",
+          "url": "https://www.baidu.com/s?wd=5000%E5%A4%9A%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B0%B1%E7%94%A8%E4%B8%8A%E4%BA%86%E5%88%80%E5%8F%89",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "为什么英国王室经常出现绝嗣的现象而中国基本不存在？",
+          "url": "https://www.zhihu.com/question/64833021",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "中国航天员完成第8次“太空会师”",
+          "url": "https://www.toutiao.com/trending/7642569356598149147/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33225525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”。",
           "url": "https://flash.jin10.com/detail/20260525053623012800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -634,8 +730,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -644,11 +740,12 @@
           "ranks": [
             1,
             11,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 07时52分]"
         },
         {
           "title": "据卡塔尔通讯社：约旦国王与法国总统通电话讨论地区局势发展。",
@@ -700,8 +797,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "印度为何屡屡出现全国性的极端高温",
@@ -714,11 +811,12 @@
             7,
             16,
             9,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "全球100个最热城市印度占98个",
@@ -786,8 +884,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "朝鲜击败日本队，李在明发文祝贺",
@@ -797,8 +895,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "日本监管机构敦促企业将现金用于增长而非股东回报",
@@ -826,11 +924,12 @@
             17,
             20,
             29,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "7只半导体热门股拟套现127亿",
@@ -838,11 +937,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         },
         {
           "title": "华为半导体首席科学家廖恒：芯片到软件深度协同配合发挥超节点系统能力",
@@ -909,8 +1009,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时52分]"
         }
       ]
     }
