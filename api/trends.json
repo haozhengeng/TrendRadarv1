@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T05:58:24.142774+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-05-28T07:14:11.142775+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 50,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "美国公布月球基地建设路线图",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 05时58分]"
+        },
+        {
+          "title": "美国总统特朗普：将立法，使面向未来的数字资产市场结构（监管框架）法典化。",
+          "url": "https://wallstreetcn.com/livenews/3110293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "美国国务卿鲁比奥将于6月3日出席参议院拨款委员会作证。",
@@ -52,26 +63,15 @@
           "time_info": "01时52分"
         },
         {
-          "title": "美国官员：美国国防部向微软(MSFT.O)授予了97亿美元的企业软件合同，旨在降低成本。",
-          "url": "https://flash.jin10.com/detail/20260528051532668800",
-          "source": "金十数据",
+          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
+          "url": "https://wallstreetcn.com/articles/3773253",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "加拿大总理卡尼：我们正在重建、重新装备并重新投资于加拿大武装部队。",
-          "url": "https://flash.jin10.com/detail/20260528051330702800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "金十提示：美国总统特朗普结束白宫内阁会议讲话。",
@@ -85,39 +85,6 @@
           "time_info": "01时52分"
         },
         {
-          "title": "巴西参议员弗拉维奥·博尔索纳罗于当地时间周三会见了美国国务卿鲁比奥。",
-          "url": "https://flash.jin10.com/detail/20260528050513716800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "西方液化天然气公司（Western LNG）首席执行官：加拿大Ksi Lisims液化天然气公司（Ksi Lisims LNG）正与另外几家欧洲公用事业公司洽谈潜在的LNG交易。 Ksi Lisims目前通过购买协议已分配了每年500万公吨的份额，并希望在做出最终投资决定（FID）前，将这一数字提升至800万公吨。",
-          "url": "https://wallstreetcn.com/livenews/3110272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
-          "url": "https://wallstreetcn.com/articles/3773253",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
           "url": "https://wallstreetcn.com/articles/3773194",
           "source": "华尔街见闻",
@@ -126,8 +93,56 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "美国官员：美国国防部向微软(MSFT.O)授予了97亿美元的企业软件合同，旨在降低成本。",
+          "url": "https://flash.jin10.com/detail/20260528051532668800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时14分]"
+        },
+        {
+          "title": "加拿大总理卡尼：我们正在重建、重新装备并重新投资于加拿大武装部队。",
+          "url": "https://flash.jin10.com/detail/20260528051330702800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时14分]"
+        },
+        {
+          "title": "巴西参议员弗拉维奥·博尔索纳罗于当地时间周三会见了美国国务卿鲁比奥。",
+          "url": "https://flash.jin10.com/detail/20260528050513716800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时14分]"
+        },
+        {
+          "title": "西方液化天然气公司（Western LNG）首席执行官：加拿大Ksi Lisims液化天然气公司（Ksi Lisims LNG）正与另外几家欧洲公用事业公司洽谈潜在的LNG交易。 Ksi Lisims目前通过购买协议已分配了每年500万公吨的份额，并希望在做出最终投资决定（FID）前，将这一数字提升至800万公吨。",
+          "url": "https://wallstreetcn.com/livenews/3110272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时14分]"
         },
         {
           "title": "机构：美国战略储备原油有史以来首次运往加利福尼亚州",
@@ -140,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 04时01分]"
+        },
+        {
+          "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
+          "url": "https://www.cls.cn/detail/2383460",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
         },
         {
           "title": "为什么美国很多行业的巨头都叫「通用 (General)」，如通用电气、通用汽车、通用磨坊等，它们之间有无什么关系，或者渊源?",
@@ -173,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国智库：特朗普嘴上说不关心，但最怕共和党中期选举惨败",
+          "url": "https://flash.jin10.com/detail/20260528062011418800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "美国总统特朗普：若《亚伯拉罕协议》无法落实，我不确定是否还要与伊朗达成协议。如果海湾国家不签署《亚伯拉罕协议》，我认为我们就不该和伊朗达成协议。",
@@ -263,6 +300,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美国将联合国约旦河西岸和加沙特别报告员列入制裁名单。",
+          "url": "https://flash.jin10.com/detail/20260528054917696800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.182%（5月11日），投标倍数2.34。",
           "url": "https://wallstreetcn.com/livenews/3110204",
           "source": "华尔街见闻-快讯",
@@ -274,6 +322,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "亚太盘初，美国四大股指期货涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3110282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "特朗普：没有任何国家能够控制霍尔木兹海峡，美国将进行监管",
           "url": "https://flash.jin10.com/detail/20260528011305962800",
           "source": "金十数据",
@@ -283,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "波音(BA.N)获得美国海军8.547亿美元合同修订。",
+          "url": "https://flash.jin10.com/detail/20260528054836468800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "美国总统特朗普：协议必须完美。",
@@ -313,7 +383,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -340,6 +410,28 @@
           "time_info": "01时52分"
         },
         {
+          "title": "特朗普政府要求在肯尼亚隔离埃博拉病毒接触人员，专家：在美国、德国治疗的效果更好",
+          "url": "https://wallstreetcn.com/livenews/3110278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "美国将工作重心转向严防埃博拉病例入境",
+          "url": "https://wallstreetcn.com/livenews/3110277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "美国总统特朗普：我们可以很快结束与伊朗的战争，可能还必须这样做。不过我认为我们不需要这样做。",
           "url": "https://flash.jin10.com/detail/20260528010825402800",
           "source": "金十数据",
@@ -357,7 +449,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -379,7 +471,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -423,7 +515,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -456,7 +548,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -478,7 +570,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -563,30 +655,31 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "荷兰军舰侵闯中国西沙群岛遭中方驱离",
+          "url": "https://www.toutiao.com/trending/7644550012856176137/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
         {
           "title": "外国网红中国搭便车的视频火到国外",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E7%BD%91%E7%BA%A2%E4%B8%AD%E5%9B%BD%E6%90%AD%E4%BE%BF%E8%BD%A6%E7%9A%84%E8%A7%86%E9%A2%91%E7%81%AB%E5%88%B0%E5%9B%BD%E5%A4%96%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2042900633947038528",
-          "source": "知乎",
-          "ranks": [
             1,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "为什么说喜马拉雅山脉就像一个巨大的空调，中国在室内外机在印度？有科学依据吗？",
@@ -594,22 +687,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "荷兰军舰侵闯中国西沙群岛遭中方驱离",
-          "url": "https://www.toutiao.com/trending/7644550012856176137/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "国产存储迎来里程碑时刻！长鑫科技过会 科创板首单 “预先审阅” 项目迈出重要一步",
@@ -619,8 +702,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "优质网络主播中国行天津行",
@@ -630,8 +713,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "中国政府债务余额迎来100万亿关口",
+          "url": "https://www.toutiao.com/trending/7644519018451877938/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "中国装甲车有空调,印媒破防",
@@ -641,31 +737,68 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "中国政府债务余额迎来100万亿关口",
-          "url": "https://www.toutiao.com/trending/7644519018451877938/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "经纬度：“韬定律”发布，中国企业要做规则定义者",
           "url": "https://m.thepaper.cn/newsDetail_forward_33237048",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2042900633947038528",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "南部战区回应荷兰军舰侵闯中国西沙群岛，依法依规采取必要措施予以外逼驱离，如何看待此次事件？",
+          "url": "https://www.zhihu.com/question/2043071472072123195",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 07时14分]"
+        },
+        {
+          "title": "土耳其驻华大使：我们正努力成为中国成功的一部分",
+          "url": "https://news.ifeng.com/c/8tT8UeJeKeH",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "TheShy回中国,LPL有救了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354637&amp;topic_name=TheShy%E5%9B%9E%E4%B8%AD%E5%9B%BD%2CLPL%E6%9C%89%E6%95%91%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "中国地震台网正式测定：05月28日03时22分在新疆巴音郭楞州和静县发生3.0级地震，震源深度41千米。",
@@ -679,40 +812,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "南部战区回应荷兰军舰侵闯中国西沙群岛，依法依规采取必要措施予以外逼驱离，如何看待此次事件？",
-          "url": "https://www.zhihu.com/question/2043071472072123195",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 05时58分]"
-        },
-        {
-          "title": "土耳其驻华大使：我们正努力成为中国成功的一部分",
-          "url": "https://news.ifeng.com/c/8tT8UeJeKeH",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "TheShy回中国,LPL有救了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354637&amp;topic_name=TheShy%E5%9B%9E%E4%B8%AD%E5%9B%BD%2CLPL%E6%9C%89%E6%95%91%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
           "title": "菲执法部门近来频频抓扣中国公民，中使馆发声",
           "url": "https://news.ifeng.com/c/8tTQkXorHEQ",
           "source": "凤凰网",
@@ -720,8 +819,72 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "武契奇：台湾属于中国，就这么简单",
+          "url": "https://news.ifeng.com/c/8tTCNl3Xgtt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "中国造“激光灭蚊神器”海外爆单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E2%80%9C%E6%BF%80%E5%85%89%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "中国造“激光灭蚊神器”海外爆单",
+          "url": "https://www.toutiao.com/trending/7643380263547863094/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            26,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "日本妄图威胁中国腹地",
+          "url": "https://www.toutiao.com/trending/7643604456793210934/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 07时14分]"
+        },
+        {
+          "title": "菲执法部门频抓扣中国公民 中方回应",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E6%89%A7%E6%B3%95%E9%83%A8%E9%97%A8%E9%A2%91%E6%8A%93%E6%89%A3%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 07时14分]"
         },
         {
           "title": "武契奇：台湾属于中国，就这么简单",
@@ -735,64 +898,15 @@
           "time_info": "[01时52分 ~ 05时58分]"
         },
         {
-          "title": "武契奇：台湾属于中国，就这么简单",
-          "url": "https://news.ifeng.com/c/8tTCNl3Xgtt",
-          "source": "凤凰网",
+          "title": "上证报：伯恩斯坦“折叠”中国消费，别过度解读为风向标",
+          "url": "https://wallstreetcn.com/livenews/3110287",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "中国造“激光灭蚊神器”海外爆单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E2%80%9C%E6%BF%80%E5%85%89%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "中国造“激光灭蚊神器”海外爆单",
-          "url": "https://www.toutiao.com/trending/7643380263547863094/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "日本妄图威胁中国腹地",
-          "url": "https://www.toutiao.com/trending/7643604456793210934/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 05时58分]"
-        },
-        {
-          "title": "菲执法部门频抓扣中国公民 中方回应",
-          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E6%89%A7%E6%B3%95%E9%83%A8%E9%97%A8%E9%A2%91%E6%8A%93%E6%89%A3%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 05时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "外国网红中国搭便车视频火到国外",
@@ -808,6 +922,187 @@
       ]
     },
     {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时58分]"
+        },
+        {
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "极客湾与神秘芯片切割",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354621&amp;topic_name=%E6%9E%81%E5%AE%A2%E6%B9%BE%E4%B8%8E%E7%A5%9E%E7%A7%98%E8%8A%AF%E7%89%87%E5%88%87%E5%89%B2",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "社媒帖子点燃欧洲半导体妖股 晶圆厂股票突遭资金疯抢",
+          "url": "https://www.cls.cn/detail/2383476",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普威胁称，阿曼要么老实点，“否则我们就会炸他们”。目前，标普500指数跌超0.2%，纳斯达克100指数跌超0.5%，费城半导体指数跌超2.5%，银行指数跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3110205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "知名X账号力挺，名不见经传的芯片制造股引爆疯狂暴涨",
+          "url": "https://wallstreetcn.com/livenews/3110195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
+          "url": "https://wallstreetcn.com/livenews/3110256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "芯片股跨越万亿美元大关，推动新兴市场股指创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3110191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
+          "url": "https://wallstreetcn.com/articles/3773207",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "“中方一旦发现，美国在日本部署的中导就是活靶子”",
+          "url": "https://news.ifeng.com/c/8tTT40GyXrG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "日本福岛核废区出现大量具有新基因的变异品种「超级猪」，这种猪有哪些特点？跟核辐射有关系吗？",
+          "url": "https://www.zhihu.com/question/2042329760202581247",
+          "source": "知乎",
+          "ranks": [
+            7,
+            14,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "韩国公布“核潜艇路线图”：最早2031年",
+          "url": "https://news.ifeng.com/c/8tTIBm9rIlK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
+          "url": "https://www.zhihu.com/question/2042901886798403259",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 04时01分]"
+        },
+        {
+          "title": "据知情人士透露，日本软银集团将按每股51-53.63美元出售Symbotic Inc.（SYM.US）的股票，将按4.9%的折扣融资3亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3110283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3110280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "印度",
       "match_count": 7,
       "titles": [
@@ -819,8 +1114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "印度人是怎么扛住极致炎热的",
@@ -829,11 +1124,12 @@
           "ranks": [
             10,
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "印度电网为何崩了",
@@ -842,11 +1138,23 @@
           "ranks": [
             18,
             28,
-            19
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "印度高温 自来水高达51摄氏度",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9+%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%AB%98%E8%BE%BE51%E6%91%84%E6%B0%8F%E5%BA%A6",
+          "source": "百度热搜",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "解析印度极端高温现象",
@@ -881,164 +1189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "印度高温 自来水高达51摄氏度",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9+%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%AB%98%E8%BE%BE51%E6%91%84%E6%B0%8F%E5%BA%A6",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "极客湾与神秘芯片切割",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354621&amp;topic_name=%E6%9E%81%E5%AE%A2%E6%B9%BE%E4%B8%8E%E7%A5%9E%E7%A7%98%E8%8A%AF%E7%89%87%E5%88%87%E5%89%B2",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "特朗普威胁称，阿曼要么老实点，“否则我们就会炸他们”。目前，标普500指数跌超0.2%，纳斯达克100指数跌超0.5%，费城半导体指数跌超2.5%，银行指数跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3110205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "知名X账号力挺，名不见经传的芯片制造股引爆疯狂暴涨",
-          "url": "https://wallstreetcn.com/livenews/3110195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
-          "url": "https://wallstreetcn.com/livenews/3110256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "芯片股跨越万亿美元大关，推动新兴市场股指创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3110191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
-          "url": "https://wallstreetcn.com/articles/3773207",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "“中方一旦发现，美国在日本部署的中导就是活靶子”",
-          "url": "https://news.ifeng.com/c/8tTT40GyXrG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
-          "url": "https://www.zhihu.com/question/2042901886798403259",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时01分]"
-        },
-        {
-          "title": "日本福岛核废区出现大量具有新基因的变异品种「超级猪」，这种猪有哪些特点？跟核辐射有关系吗？",
-          "url": "https://www.zhihu.com/question/2042329760202581247",
-          "source": "知乎",
-          "ranks": [
-            7,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
-        },
-        {
-          "title": "韩国公布“核潜艇路线图”：最早2031年",
-          "url": "https://news.ifeng.com/c/8tTIBm9rIlK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
         }
       ]
     },
@@ -1054,8 +1204,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
         },
         {
           "title": "武契奇观看机器人跳塞尔维亚舞蹈：跳得比我还好",
@@ -1065,8 +1215,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时14分]"
+        },
+        {
+          "title": "如何评价刘强东称不会开除被机器人取代的员工，已启动项目帮助蓝领工人白领化？真能做到吗？能在业内推广吗？",
+          "url": "https://www.zhihu.com/question/2043061551347622195",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时58分]"
+          "time_info": "[05时58分 ~ 07时14分]"
         },
         {
           "title": "Meta推出AI聊天机器人订阅服务，以试图抵消相关支出",
@@ -1078,17 +1240,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "如何评价刘强东称不会开除被机器人取代的员工，已启动项目帮助蓝领工人白领化？真能做到吗？能在业内推广吗？",
-          "url": "https://www.zhihu.com/question/2043061551347622195",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
@@ -1112,11 +1263,12 @@
           "url": "https://wallstreetcn.com/livenews/3110276",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时14分]"
         },
         {
           "title": "法国总统马克龙：挪威已同意加入法国核保护伞。",
@@ -1164,7 +1316,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -1175,9 +1327,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "订单饱满叠加海外扩张，科创板新能源公司抢抓行业高增长机遇",
+          "url": "https://wallstreetcn.com/livenews/3110286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     }
