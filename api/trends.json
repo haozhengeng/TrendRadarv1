@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-05-30T21:04:22.673062+08:00",
-  "total_titles_processed": 1279,
-  "failed_sources": [],
+  "generated_at": "2026-05-30T23:01:48.740296+08:00",
+  "total_titles_processed": 1381,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 118,
+      "match_count": 120,
       "titles": [
         {
           "title": "美议员回怼泽连斯基：美国不是提款机",
@@ -26,11 +28,12 @@
             4,
             6,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 21时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 23时01分]"
         },
         {
           "title": "“军费消耗强度历史之最”，五张图看清美国对伊之战代价有多大",
@@ -197,6 +200,17 @@
           "time_info": "14时16分"
         },
         {
+          "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
+          "url": "https://wallstreetcn.com/livenews/3111832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "美国国际贸易委员会表示，来自俄罗斯的未加工钯金未对美国工业造成伤害。",
           "url": "https://flash.jin10.com/detail/20260530000115189800",
           "source": "金十数据",
@@ -274,6 +288,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "美国人形机器人被曝已投入俄乌战场 军事专家：基本不能打仗",
+          "url": "https://wallstreetcn.com/livenews/3111829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "美国将对法官要求广泛退还特朗普关税的裁决提出上诉",
           "url": "https://wallstreetcn.com/livenews/3111660",
           "source": "华尔街见闻-快讯",
@@ -286,24 +311,24 @@
           "time_info": "[07时04分 ~ 10时08分]"
         },
         {
-          "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
-          "url": "https://flash.jin10.com/detail/20260530185118096800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时04分]"
-        },
-        {
           "title": "美国软件股逆袭，创2001年以来最佳单月表现",
           "url": "https://wallstreetcn.com/articles/3773486",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 23时01分]"
+        },
+        {
+          "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
+          "url": "https://flash.jin10.com/detail/20260530185118096800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -389,6 +414,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时04分]"
+        },
+        {
+          "title": "美国防长海格塞斯：美国对霍尔木兹海峡的封锁仍在生效。",
+          "url": "https://wallstreetcn.com/livenews/3111804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时01分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，COMEX铜期货投机者净多头头寸减少3,025手，降至71,974手。",
@@ -975,17 +1012,6 @@
           "time_info": "14时16分"
         },
         {
-          "title": "美国防长海格塞斯：美国对霍尔木兹海峡的封锁仍在生效。",
-          "url": "https://wallstreetcn.com/livenews/3111804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
           "title": "美国能源信息署：新墨西哥州3月份的石油产量保持稳定，达到231万桶/日。",
           "url": "https://flash.jin10.com/detail/20260529233453402800",
           "source": "金十数据",
@@ -1256,7 +1282,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1330,8 +1356,36 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 57,
+      "match_count": 65,
       "titles": [
+        {
+          "title": "一名被羁押的中国公民在菲移民局监狱突然离世，中使馆向菲方提出严正交涉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33269992",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时07分 ~ 23时01分]"
+        },
+        {
+          "title": "为什么全世界很多地方把土豆当口粮，中国人却更爱把它当菜？",
+          "url": "https://www.zhihu.com/question/2041195866896209545",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 23时01分]"
+        },
         {
           "title": "韩国人馋哭中国鲜荔枝",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354707&amp;topic_name=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%A6%8B%E5%93%AD%E4%B8%AD%E5%9B%BD%E9%B2%9C%E8%8D%94%E6%9E%9D",
@@ -1340,11 +1394,12 @@
             7,
             9,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 21时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 23时01分]"
         },
         {
           "title": "中国人保董事长丁向群任国家金融监督管理总局党委书记",
@@ -1361,19 +1416,6 @@
           "time_info": "[00时36分 ~ 19时13分]"
         },
         {
-          "title": "为什么全世界很多地方把土豆当口粮，中国人却更爱把它当菜？",
-          "url": "https://www.zhihu.com/question/2041195866896209545",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 21时04分]"
-        },
-        {
           "title": "印度政府警告宝莱坞不得阴阳中国",
           "url": "https://www.toutiao.com/trending/7645233974461169683/",
           "source": "今日头条",
@@ -1384,20 +1426,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 10时08分]"
-        },
-        {
-          "title": "一名被羁押的中国公民在菲移民局监狱突然离世，中使馆向菲方提出严正交涉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33269992",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 21时04分]"
         },
         {
           "title": "中使馆：64名被菲方羁押的中国公民获释",
@@ -1411,6 +1439,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 10时08分]"
+        },
+        {
+          "title": "“中国要2027‘武统’”，美军报告渲染威胁",
+          "url": "https://news.ifeng.com/c/8tYGEVe62bv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 23时01分]"
+        },
+        {
+          "title": "10名中国车主诉特斯拉FSD欺诈索395万",
+          "url": "https://www.toutiao.com/trending/7645193705930018346/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            19,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 23时01分]"
         },
         {
           "title": "如何看待博主爆料 2026 名古屋亚运会中国电竞代表队将仅参加 2 个项目，其中疑不包含《英雄联盟》？",
@@ -1441,28 +1494,60 @@
           "time_info": "[00时36分 ~ 10时08分]"
         },
         {
-          "title": "10名中国车主诉特斯拉FSD欺诈索395万",
-          "url": "https://www.toutiao.com/trending/7645193705930018346/",
+          "title": "中国留学生称在印度热到内脏沸腾",
+          "url": "https://www.toutiao.com/trending/7644752004334272566/",
           "source": "今日头条",
           "ranks": [
-            5,
-            19,
-            23
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 21时04分]"
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
-          "title": "“中国要2027‘武统’”，美军报告渲染威胁",
-          "url": "https://news.ifeng.com/c/8tYGEVe62bv",
+          "title": "中国俄罗斯等6国投弃权票",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BF%84%E7%BD%97%E6%96%AF%E7%AD%896%E5%9B%BD%E6%8A%95%E5%BC%83%E6%9D%83%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
+          "title": "菲律宾经济有多依赖中国",
+          "url": "https://www.toutiao.com/trending/7645658845154381339/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
+          "title": "如何看待中国队缺席 2026 亚运会 LoL 项目？",
+          "url": "https://www.zhihu.com/question/2043818291022624612",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 23时01分]"
+        },
+        {
+          "title": "“敏昂莱更依赖中国，但首访选了印度”",
+          "url": "https://news.ifeng.com/c/8tY7XAWKZcr",
           "source": "凤凰网",
           "ranks": [
-            1
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 23时01分]"
         },
         {
           "title": "中国百倍差价酒店区别有多大",
@@ -1478,6 +1563,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时36分 ~ 14时16分]"
+        },
+        {
+          "title": "64岁张玉卓履新中国工程院党组书记，曾掌舵全球最大煤炭和炼油央企",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33267954",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 23时01分]"
         },
         {
           "title": "中国最美公路6月1日恢复通车",
@@ -1508,7 +1605,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1517,11 +1614,12 @@
           "url": "https://www.toutiao.com/trending/7645653298280415238/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 23时01分]"
         },
         {
           "title": "如何看待中国队缺席 2026 亚运会《英雄联盟》项目名单，王者荣耀、和平精英获直通资格？",
@@ -1534,17 +1632,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时07分 ~ 14时16分]"
-        },
-        {
-          "title": "中国华能集团有限公司原党组成员、总会计师王益华被查",
-          "url": "https://wallstreetcn.com/livenews/3111816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
         },
         {
           "title": "某国网攻中国高校动用41种武器装备",
@@ -1573,39 +1660,28 @@
           "time_info": "[19时13分 ~ 21时04分]"
         },
         {
-          "title": "如何看待中国队缺席 2026 亚运会 LoL 项目？",
-          "url": "https://www.zhihu.com/question/2043818291022624612",
-          "source": "知乎",
+          "title": "菲方为何连夜释放被扣的中国人",
+          "url": "https://www.douyin.com/hot/2517735",
+          "source": "抖音",
           "ranks": [
             10,
-            4
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 23时01分]"
+        },
+        {
+          "title": "中国华能集团有限公司原党组成员、总会计师王益华被查",
+          "url": "https://wallstreetcn.com/livenews/3111816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时04分]"
-        },
-        {
-          "title": "“敏昂莱更依赖中国，但首访选了印度”",
-          "url": "https://news.ifeng.com/c/8tY7XAWKZcr",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 21时04分]"
-        },
-        {
-          "title": "64岁张玉卓履新中国工程院党组书记，曾掌舵全球最大煤炭和炼油央企",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33267954",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 21时04分]"
+          "time_info": "[21时04分 ~ 23时01分]"
         },
         {
           "title": "美防长称认知到中国能力与实力",
@@ -1630,6 +1706,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时09分 ~ 21时04分]"
+        },
+        {
+          "title": "菲律宾查扣69名中国工人有何图谋",
+          "url": "https://www.toutiao.com/trending/7645642904496508422/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 23时01分]"
+        },
+        {
+          "title": "中国华能原总会计师王益华被查",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%8E%E8%83%BD%E5%8E%9F%E6%80%BB%E4%BC%9A%E8%AE%A1%E5%B8%88%E7%8E%8B%E7%9B%8A%E5%8D%8E%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 23时01分]"
         },
         {
           "title": "菲律宾近1月抓扣150余名中国公民",
@@ -1667,16 +1766,15 @@
           "time_info": "[19时13分 ~ 21时04分]"
         },
         {
-          "title": "菲方为何连夜释放被扣的中国人",
-          "url": "https://www.douyin.com/hot/2517735",
-          "source": "抖音",
+          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
+          "url": "https://wallstreetcn.com/articles/3773496",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时04分]"
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "MSCI发展中国家（新兴市场）股票指数涨1.6%，创历史新高，5月份累计上涨9.5%。 MSCI新兴市场外汇指数涨0.2%，连续八个交易日走高、创2024年7月份以来最长连涨天数。",
@@ -1691,6 +1789,18 @@
           "time_info": "[05时45分 ~ 07时04分]"
         },
         {
+          "title": "中国机械工业联合会副会长罗俊杰：机械工业“十五五”规划正在修改完善",
+          "url": "https://wallstreetcn.com/livenews/3111813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时01分]"
+        },
+        {
           "title": "1名中国公民在菲律宾羁押期间离世",
           "url": "https://www.toutiao.com/trending/7645328545790561855/",
           "source": "今日头条",
@@ -1702,6 +1812,29 @@
           "time_info": "[10时07分 ~ 10时08分]"
         },
         {
+          "title": "中国机械工业联合会副会长：机械工业“十五五”规划正在修改完善",
+          "url": "https://flash.jin10.com/detail/20260530194638286800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时01分]"
+        },
+        {
+          "title": "印度热浪停电后民众对中国电网惊叹",
+          "url": "https://www.toutiao.com/trending/7645671071667981867/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
           "title": "中国情侣在日本跳舞遭网暴背后",
           "url": "https://www.toutiao.com/trending/7645276172070158377/",
           "source": "今日头条",
@@ -1711,6 +1844,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时09分 ~ 17时10分]"
+        },
+        {
+          "title": "中方代表重申：中国核政策从未改变",
+          "url": "https://www.toutiao.com/trending/7645661604886904895/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
+          "title": "“中国造”灭蚊黑科技走红",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E9%80%A0%E2%80%9D%E7%81%AD%E8%9A%8A%E9%BB%91%E7%A7%91%E6%8A%80%E8%B5%B0%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "中国环塔国际拉力赛一赛车发生意外事故，车手张秀军不幸离世",
@@ -1812,48 +1967,15 @@
           "time_info": "05时45分"
         },
         {
-          "title": "中国机械工业联合会副会长罗俊杰：机械工业“十五五”规划正在修改完善",
-          "url": "https://wallstreetcn.com/livenews/3111813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "中国机械工业联合会副会长：机械工业“十五五”规划正在修改完善",
-          "url": "https://flash.jin10.com/detail/20260530194638286800",
+          "title": "中国黄金集团总经理殷长波会见京东集团CEO许冉一行",
+          "url": "https://flash.jin10.com/detail/20260530205306679800",
           "source": "金十数据",
           "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "菲律宾查扣69名中国工人有何图谋",
-          "url": "https://www.toutiao.com/trending/7645642904496508422/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "中国华能原总会计师王益华被查",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%8E%E8%83%BD%E5%8E%9F%E6%80%BB%E4%BC%9A%E8%AE%A1%E5%B8%88%E7%8E%8B%E7%9B%8A%E5%8D%8E%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "time_info": "23时01分"
         },
         {
           "title": "乘联分会崔东树：2026年1-4月中国占世界汽车份额31%",
@@ -1961,7 +2083,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -2002,7 +2124,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "日本寿司郎抽检十个盘子十个脏，为何顾客仍排队消费？",
@@ -2012,11 +2134,12 @@
             4,
             1,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[10时07分 ~ 23时01分]"
         },
         {
           "title": "越来越多日本人办理“死后离婚”",
@@ -2029,6 +2152,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 10时08分]"
+        },
+        {
+          "title": "被问演讲是否会提及台湾问题？日本防卫大臣抿嘴一言不发",
+          "url": "https://v.ifeng.com/c/8tY6Mkd34ei",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 23时01分]"
         },
         {
           "title": "日本自卫队员赴德就俄乌冲突“取经”",
@@ -2107,6 +2241,29 @@
           "time_info": "[03时28分 ~ 10时08分]"
         },
         {
+          "title": "前驻美大使崔天凯香会告诫日本：君子坦荡荡，小人长戚戚！",
+          "url": "https://news.ifeng.com/c/8tY206nxBeG",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 23时01分]"
+        },
+        {
+          "title": "中方代表：日本没资格谈国际防务合作",
+          "url": "https://www.toutiao.com/trending/7645679781882744371/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
           "title": "上海一小摊被韩国人“包围”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B0%8F%E6%91%8A%E8%A2%AB%E9%9F%A9%E5%9B%BD%E4%BA%BA%E2%80%9C%E5%8C%85%E5%9B%B4%E2%80%9D",
           "source": "百度热搜",
@@ -2116,17 +2273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 00时37分]"
-        },
-        {
-          "title": "被问演讲是否会提及台湾问题？日本防卫大臣抿嘴一言不发",
-          "url": "https://v.ifeng.com/c/8tY6Mkd34ei",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时04分]"
         },
         {
           "title": "崔天凯送给日本一句孔子的话",
@@ -2149,6 +2295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "据日本共同社：日本和韩国将于下个月恢复联合搜救演习，这将是约九年来的首次。",
+          "url": "https://flash.jin10.com/detail/20260530221312573800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "新加坡外长去了趟朝鲜，看到了3个变化",
@@ -2199,18 +2356,6 @@
           "time_info": "[14时16分 ~ 17时10分]"
         },
         {
-          "title": "前驻美大使崔天凯香会告诫日本：君子坦荡荡，小人长戚戚！",
-          "url": "https://news.ifeng.com/c/8tY206nxBeG",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 21时04分]"
-        },
-        {
           "title": "专家：日本从全境调兵搞演习是挑衅",
           "url": "https://www.toutiao.com/trending/7645016426641850377/",
           "source": "今日头条",
@@ -2223,6 +2368,29 @@
           "time_info": "[19时13分 ~ 21时04分]"
         },
         {
+          "title": "中方代表：日本没有资格谈国际防务合作 须警惕军国主义思潮借机复活",
+          "url": "https://wallstreetcn.com/livenews/3111806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时01分]"
+        },
+        {
+          "title": "日本一天三连偷",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A9%E4%B8%89%E8%BF%9E%E5%81%B7%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
           "title": "日本防卫省机械制造订单额在五年内增至约3倍",
           "url": "https://wallstreetcn.com/livenews/3111725",
           "source": "华尔街见闻-快讯",
@@ -2232,17 +2400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
-        },
-        {
-          "title": "中方代表：日本没有资格谈国际防务合作 须警惕军国主义思潮借机复活",
-          "url": "https://wallstreetcn.com/livenews/3111806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
         },
         {
           "title": "美国国防部长赫格塞思：对我们的日本盟友寄予厚望，我们必须齐心协力。",
@@ -2314,7 +2471,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "据德国《焦点》在线版报道，在无人机目击事件后，慕尼黑机场现已恢复航班运行。",
@@ -2372,6 +2529,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 03时28分]"
+        },
+        {
+          "title": "锐评阿根廷西班牙世界杯阵容",
+          "url": "https://www.douyin.com/hot/2517156",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "Jasper要去英国读书了",
@@ -2490,7 +2658,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -2542,7 +2710,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "印度多地高温热浪持续",
@@ -2557,6 +2725,19 @@
           "time_info": "[00时36分 ~ 10时08分]"
         },
         {
+          "title": "网友阻止印度游客在水源区洗澡",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E9%98%BB%E6%AD%A2%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B0%B4%E6%BA%90%E5%8C%BA%E6%B4%97%E6%BE%A1&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 23时01分]"
+        },
+        {
           "title": "烫嘴!印度自来水飙到51度",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354655&amp;topic_name=%E7%83%AB%E5%98%B4%21%E5%8D%B0%E5%BA%A6%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%A3%99%E5%88%B051%E5%BA%A6",
           "source": "贴吧",
@@ -2567,18 +2748,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 10时08分]"
-        },
-        {
-          "title": "网友阻止印度游客在水源区洗澡",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E9%98%BB%E6%AD%A2%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B0%B4%E6%BA%90%E5%8C%BA%E6%B4%97%E6%BE%A1&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时04分]"
         },
         {
           "title": "高温对印度有何影响",
@@ -2610,11 +2779,12 @@
           "url": "https://wallstreetcn.com/livenews/3111824",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时01分]"
         },
         {
           "title": "印度自6月1日起暂时免除棉花进口关税，豁免政策有效期至10月31日。",
@@ -2629,6 +2799,30 @@
           "time_info": "[19时13分 ~ 21时04分]"
         },
         {
+          "title": "印度执法机构指控安巴尼旗下公司及他人涉嫌欺诈",
+          "url": "https://wallstreetcn.com/livenews/3111821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时01分]"
+        },
+        {
+          "title": "印度称与越南的“布拉莫斯”导弹供应协议已敲定",
+          "url": "https://flash.jin10.com/detail/20260530195208743800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时01分]"
+        },
+        {
           "title": "印度政府警告宝莱坞",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%94%BF%E5%BA%9C%E8%AD%A6%E5%91%8A%E5%AE%9D%E8%8E%B1%E5%9D%9E%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -2640,6 +2834,17 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
+          "title": "印度的高温有没有利处？能不能想办法加以利用？",
+          "url": "https://www.zhihu.com/question/2041613543259230544",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
           "title": "媒体：鲁比奥访问印度被“热服了”",
           "url": "https://www.toutiao.com/trending/7645543670510259763/",
           "source": "今日头条",
@@ -2649,28 +2854,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时09分 ~ 17时10分]"
-        },
-        {
-          "title": "印度执法机构指控安巴尼旗下公司及他人涉嫌欺诈",
-          "url": "https://wallstreetcn.com/livenews/3111821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "印度称与越南的“布拉莫斯”导弹供应协议已敲定",
-          "url": "https://flash.jin10.com/detail/20260530195208743800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
         },
         {
           "title": "印度热到民众爬上楼顶睡觉",
@@ -2720,7 +2903,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "创业板跌超2%，科创50重挫逾5%，电力、消费拉升，芯片半导体集体下挫，恒指涨近1%，联想集团再涨超20%",
@@ -2745,11 +2928,12 @@
             12,
             10,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时04分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[07时04分 ~ 23时00分]"
         },
         {
           "title": "【焦点复盘】科创50指数放量跌超5%，半导体产业链遭深幅回调，地产产业链逆势大涨",
@@ -2762,6 +2946,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 10时08分]"
+        },
+        {
+          "title": "为什么比亚迪既能自研芯片，又敢兜底 1 年？如何评价？",
+          "url": "https://www.zhihu.com/question/2043430360453842107",
+          "source": "知乎",
+          "ranks": [
+            4,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 23时01分]"
         },
         {
           "title": "史上首款2nm芯片性能分析",
@@ -2778,18 +2975,6 @@
           "time_info": "[00时36分 ~ 10时08分]"
         },
         {
-          "title": "为什么比亚迪既能自研芯片，又敢兜底 1 年？如何评价？",
-          "url": "https://www.zhihu.com/question/2043430360453842107",
-          "source": "知乎",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 21时04分]"
-        },
-        {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
           "url": "https://wallstreetcn.com/articles/3773437",
           "source": "华尔街见闻",
@@ -2803,17 +2988,6 @@
           "time_info": "[00时36分 ~ 05时45分]"
         },
         {
-          "title": "报道：首款搭载英伟达芯片的Windows PC将于下周亮相",
-          "url": "https://wallstreetcn.com/livenews/3111818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
           "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
           "url": "https://www.zhihu.com/question/2042260682780009473",
           "source": "知乎",
@@ -2823,6 +2997,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 07时04分]"
+        },
+        {
+          "title": "报道：首款搭载英伟达芯片的Windows PC将于下周亮相",
+          "url": "https://wallstreetcn.com/livenews/3111818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时01分]"
         },
         {
           "title": "周五（5月29日），美股存储芯片与硬件供应链指数行1.48%，报210.62点，继续创收盘历史新高，本周（四个交易日）累计上涨11.93%，5月份累涨37.27%。",
@@ -2843,9 +3029,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "首款搭载英伟达芯片的Windows PC将于下周亮相",
+          "url": "https://flash.jin10.com/detail/20260530201028116800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "科技行业ETF收涨超2.2%，领跑美股行业ETF，5月半导体ETF累涨超66%",
@@ -2874,8 +3071,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 21时04分]"
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 23时01分]"
         },
         {
           "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
@@ -2890,6 +3087,18 @@
           "time_info": "[17时10分 ~ 19时13分]"
         },
         {
+          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
+          "url": "https://www.cls.cn/detail/2386131",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 23时00分]"
+        },
+        {
           "title": "宇树机器人在王力宏演唱会开嗓唱歌",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%97%93%E5%94%B1%E6%AD%8C",
           "source": "百度热搜",
@@ -2900,18 +3109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时09分 ~ 19时13分]"
-        },
-        {
-          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
-          "url": "https://www.cls.cn/detail/2386131",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时04分]"
         },
         {
           "title": "王力宏调侃机器人唱歌不行",
@@ -3024,8 +3221,19 @@
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
+          "url": "https://wallstreetcn.com/livenews/3111833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
         {
           "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
           "url": "https://wallstreetcn.com/livenews/3111636",
@@ -3037,6 +3245,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时04分]"
+        },
+        {
+          "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
+          "url": "https://flash.jin10.com/detail/20260530215645145800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
@@ -3060,11 +3279,12 @@
           "url": "https://wallstreetcn.com/livenews/3111801",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时01分]"
         }
       ]
     },
