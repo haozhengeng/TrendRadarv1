@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T11:37:15.102227+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-06-01T17:13:24.932556+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "日本何时向亚洲受害国道歉？日防卫大臣小泉避答中国代表提问",
@@ -88,11 +88,12 @@
             20,
             17,
             9,
-            2
+            2,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 11时37分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 17时13分]"
         },
         {
           "title": "在印中国留学生热到提前回国：“感觉内脏在沸腾”，当地人为纳凉睡恒河边",
@@ -152,9 +153,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "探访中国大学生方程式锦标赛总冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%96%B9%E7%A8%8B%E5%BC%8F%E9%94%A6%E6%A0%87%E8%B5%9B%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "纽约时报严重违反一个中国原则",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "UFC 澳门站联合主赛中，中国轻重量级名将张名扬首回合遭重拳 TKO，如何评价他在本场比赛中的表现？",
@@ -230,6 +253,30 @@
           "time_info": "[01时56分 ~ 03时06分]"
         },
         {
+          "title": "中国驻菲律宾大使：中国人不是好欺负的！",
+          "url": "https://v.ifeng.com/c/8taurqAkGVq",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 17时13分]"
+        },
+        {
+          "title": "中国代表提问：“日本何时道歉？”日防卫大臣小泉避答",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33277934",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 17时13分]"
+        },
+        {
           "title": "中国海警位台湾岛以东海域执法巡查",
           "url": "https://www.toutiao.com/trending/7646239480336109097/",
           "source": "今日头条",
@@ -263,17 +310,6 @@
           "time_info": "[11时36分 ~ 11时37分]"
         },
         {
-          "title": "中国驻菲律宾大使：中国人不是好欺负的！",
-          "url": "https://v.ifeng.com/c/8taurqAkGVq",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
           "title": "中国地震台网正式测定：06月01日05时34分在智利中部沿岸远海发生6.0级地震，震源深度10千米。",
           "url": "https://flash.jin10.com/detail/20260601060429636800",
           "source": "金十数据",
@@ -291,17 +327,6 @@
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "中国代表提问：“日本何时道歉？”日防卫大臣小泉避答",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33277934",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -352,13 +377,24 @@
           "time_info": "[11时36分 ~ 11时37分]"
         },
         {
+          "title": "美方变本加厉：只要总部在中国，都不准买",
+          "url": "https://news.ifeng.com/c/8tb1SU9Dxfy",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "中国大模型周调用量连续五周领跑：小米MiMo-V2.5环比增超999%，阶跃星辰Step 3.5 Flash落榜",
           "url": "https://flash.jin10.com/detail/20260601111344100800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -374,13 +410,24 @@
           "time_info": "07时58分"
         },
         {
+          "title": "今天六一别忘了新中国最小的烈士",
+          "url": "https://www.toutiao.com/trending/7646048697167609862/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "中国海警位中国台湾岛以东海域开展执法巡查",
           "url": "https://wallstreetcn.com/livenews/3112094",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -399,7 +446,7 @@
     },
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "崔天凯问菲律宾为何做美国小弟",
@@ -514,7 +561,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -700,13 +747,24 @@
           "time_info": "05时51分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：犹太复国主义种族灭绝政权对黎巴嫩实施的海上封锁和战争罪行的升级，是美国不遵守停火协议的明确证据。每一个选择都有代价，账单终将到期。一切都会水落石出。",
+          "url": "https://flash.jin10.com/detail/20260601164642953800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "美国国务卿卢比奥提出了新的以黎停火倡议。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3112108",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -720,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "为什么号称绝对安全的加密货币，频繁被美国政府没收？",
+          "url": "https://www.zhihu.com/question/2044381381808100105",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
@@ -775,12 +844,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国汽油库存连降15周，追平历史最长去库纪录",
+          "url": "https://flash.jin10.com/detail/20260601163943642800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "伊朗外交部发言人：与美国谈判的一大难题在于对方立场频繁变化",
+          "url": "https://wallstreetcn.com/livenews/3112269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "据高盛集团一级经纪业务部门称，随着标普500指数延续其历史性的连涨势头，对冲基金上周以六个月来最快的速度买入美国股票。",
+          "url": "https://flash.jin10.com/detail/20260601163649400800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "张雪机车西班牙站第一回合获得第八，冲击第六冠失败，如何评价这场比赛？",
@@ -840,17 +942,6 @@
           "time_info": "[01时56分 ~ 06时51分]"
         },
         {
-          "title": "英国、法国、德国，同日发声",
-          "url": "https://news.ifeng.com/c/8tb0Vv5JesZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
           "title": "世界周刊 重返欧盟能否救英国",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%20%E9%87%8D%E8%BF%94%E6%AC%A7%E7%9B%9F%E8%83%BD%E5%90%A6%E6%95%91%E8%8B%B1%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -882,9 +973,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "英国、法国、德国，同日发声",
+          "url": "https://news.ifeng.com/c/8tb0Vv5JesZ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 17时13分]"
         },
         {
           "title": "樊振东已集齐德国杯欧冠德甲冠军",
@@ -1013,21 +1116,87 @@
           "time_info": "[04时50分 ~ 05时51分]"
         },
         {
+          "title": "标普：英国制造业的快速增长仍可能只是暂时的",
+          "url": "https://flash.jin10.com/detail/20260601165220789800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "英国5月制造业PMI终值 53.9，预期 53.7，初值 53.7。",
+          "url": "https://wallstreetcn.com/livenews/3112293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "俄罗斯要求法国提供有关被扣油轮船员的信息",
+          "url": "https://flash.jin10.com/detail/20260601164456694800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "西班牙石油产品战略储备公司（Cores）初步估算：西班牙四月机动车燃料消费同比下降1.2%，较三月下降3.4%。",
+          "url": "https://flash.jin10.com/detail/20260601164343156800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "据英国金融时报：英特尔(INTC.O)计划在年底前推出一款人工智能芯片，该芯片将采用比英伟达和AMD竞品更便宜的内存和散热技术。",
           "url": "https://flash.jin10.com/detail/20260601110303848800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "德国5月制造业PMI终值 50.1，预期 49.9，初值 49.9。",
+          "url": "https://wallstreetcn.com/livenews/3112268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "法国5月制造业PMI终值 49.7，预期 48.9，初值 48.9。",
+          "url": "https://wallstreetcn.com/livenews/3112265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "中方专家严正发问，日本官员闪烁其词",
@@ -1105,15 +1274,27 @@
           "time_info": "[00时57分 ~ 11时37分]"
         },
         {
+          "title": "中方批评后，日本防卫大臣不仅狡辩还倒打一耙",
+          "url": "https://news.ifeng.com/c/8tb4F8AR1hj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "日本排外情绪空前高涨",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%92%E5%A4%96%E6%83%85%E7%BB%AA%E7%A9%BA%E5%89%8D%E9%AB%98%E6%B6%A8%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 17时13分]"
         },
         {
           "title": "据韩国媒体报道，韩国总理或将于6月提出辞职。",
@@ -1155,7 +1336,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1166,9 +1347,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "韩国SK海力士工厂发生火灾",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BDSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "日本车企巨头开始将筹码押向印度，都有哪些考量？能借此「新基地」翻盘吗？",
+          "url": "https://www.zhihu.com/question/2044705421575681917",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "韩国一军工企业爆炸致2死多伤",
@@ -1177,7 +1380,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1188,15 +1391,147 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         }
       ]
     },
     {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "小米自研芯片「玄戒 o3」六月量产，台积电 3nm 加持下性能会有多大提升？",
+          "url": "https://www.zhihu.com/question/2043989303341142831",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时58分]"
+        },
+        {
+          "title": "芯片三巨头齐聚！COMPUTEX下周揭幕 哪些亮点值得期待？",
+          "url": "https://www.cls.cn/detail/2386206",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时58分]"
+        },
+        {
+          "title": "MCU巨头意法半导体年内二次涨价",
+          "url": "https://wallstreetcn.com/livenews/3111963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时51分]"
+        },
+        {
+          "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
+          "url": "https://wallstreetcn.com/articles/3773548",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "直击英伟达GTC 2026黄仁勋演讲：英伟达正式进军PC芯片市场",
+          "url": "https://www.cls.cn/detail/2386626",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "景顺长城全球芯片LOF将于2026年6月1日开市起至当日10:30停牌。",
+          "url": "https://wallstreetcn.com/livenews/3111929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时51分]"
+        },
+        {
+          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
+          "url": "https://wallstreetcn.com/articles/3773518",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "两大芯片巨头互攻",
+          "url": "https://www.toutiao.com/trending/7646324933521313323/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "Cadence Design Systems股价盘前上涨8.2%，此前该公司发布由英伟达技术驱动、面向芯片设计的全自主虚拟工程师。",
+          "url": "https://flash.jin10.com/detail/20260601165031273800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "英特尔拟年底前推出新AI芯片 使用更便宜内存与风冷技术",
+          "url": "https://flash.jin10.com/detail/20260601110654226800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "美股盘前，英伟达涨超2%，英伟达Vera Rubin全面量产，宣布杀入PC芯片市场，携宇树布局机器人；Arm大涨超8%；高通跌超5%；美股存储芯片股走高，美光科技涨超3%，闪迪涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3112272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "印度",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "印度高温冲至 48.2℃，14 多亿人只有 9400 万台空调，普及率不到 10%，是经济原因还是生活习惯？",
@@ -1262,11 +1597,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354749&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%8F%90%E8%AE%AE%E7%82%B8%E6%8E%89%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 17时13分]"
         },
         {
           "title": "印度上调商用LPG价格",
@@ -1285,95 +1621,136 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 17时13分]"
+        },
+        {
+          "title": "专家称 2050 年印度的高温或将达到人类生存极限，可能是哪些原因导致？",
+          "url": "https://www.zhihu.com/question/2042927820389574002",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时51分"
+          "time_info": "17时13分"
+        },
+        {
+          "title": "印度NIFTY 50指数跌超0.5%。",
+          "url": "https://flash.jin10.com/detail/20260601164015724800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     },
     {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 6,
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 7,
       "titles": [
         {
-          "title": "小米自研芯片「玄戒 o3」六月量产，台积电 3nm 加持下性能会有多大提升？",
-          "url": "https://www.zhihu.com/question/2043989303341142831",
-          "source": "知乎",
+          "title": "74岁老人嫌杨絮碍事将其点燃致20辆新能源车被烧毁，已被采取刑事强制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33277684",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            11,
-            9,
-            6,
-            7
+            17,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 17时13分]"
         },
         {
-          "title": "芯片三巨头齐聚！COMPUTEX下周揭幕 哪些亮点值得期待？",
-          "url": "https://www.cls.cn/detail/2386206",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时58分]"
-        },
-        {
-          "title": "MCU巨头意法半导体年内二次涨价",
-          "url": "https://wallstreetcn.com/livenews/3111963",
+          "title": "7273辆新能源车从江苏南通出海欧洲",
+          "url": "https://wallstreetcn.com/livenews/3111946",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时51分]"
-        },
-        {
-          "title": "景顺长城全球芯片LOF将于2026年6月1日开市起至当日10:30停牌。",
-          "url": "https://wallstreetcn.com/livenews/3111929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 05时51分]"
         },
         {
-          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
-          "url": "https://wallstreetcn.com/articles/3773518",
-          "source": "华尔街见闻",
+          "title": "新能源车为何买得起修不起",
+          "url": "https://www.toutiao.com/trending/7646203612858682921/",
+          "source": "今日头条",
           "ranks": [
-            8
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 11时37分]"
         },
         {
-          "title": "英特尔拟年底前推出新AI芯片 使用更便宜内存与风冷技术",
-          "url": "https://flash.jin10.com/detail/20260601110654226800",
-          "source": "金十数据",
+          "title": "A股油气股震荡拉升，仁智股份封涨停，杰瑞股份涨超8%，贝肯能源、新锦动力、惠博普、蓝科高新跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3112106",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "上汽集团：5月新能源汽车销量同比增长46.49%",
+          "url": "https://wallstreetcn.com/livenews/3112276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "17时13分"
+        },
+        {
+          "title": "天赐材料：与楚能新能源签订合作协议补充协议 电解液供应量上调至不少于101万吨",
+          "url": "https://flash.jin10.com/detail/20260601163906738800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "淮河能源：2025年年度权益分派实施，派发现金红利13.62亿元",
+          "url": "https://flash.jin10.com/detail/20260601163844510800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "成都：实施产业创新工程 推动人工智能、低空经济、绿色氢能加速成型成势",
+          "url": "https://flash.jin10.com/detail/20260601165325983800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
         {
           "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
           "url": "https://www.cls.cn/detail/2386515",
@@ -1415,57 +1792,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "7273辆新能源车从江苏南通出海欧洲",
-          "url": "https://wallstreetcn.com/livenews/3111946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时51分]"
-        },
-        {
-          "title": "新能源车为何买得起修不起",
-          "url": "https://www.toutiao.com/trending/7646203612858682921/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "74岁老人嫌杨絮碍事将其点燃致20辆新能源车被烧毁，已被采取刑事强制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33277684",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "A股油气股震荡拉升，仁智股份封涨停，杰瑞股份涨超8%，贝肯能源、新锦动力、惠博普、蓝科高新跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3112106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时37分"
         }
@@ -1473,7 +1800,7 @@
     },
     {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
@@ -1520,6 +1847,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "物理AI爆发临近？英伟达发布“全能”世界模型 机器人、自动驾驶有望获强力助推",
+          "url": "https://www.cls.cn/detail/2386991",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 前沿科技 量子 脑机 基因",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "成都：加快布局核聚变能、脑机接口、量子科技等新赛道",
+          "url": "https://wallstreetcn.com/livenews/3112311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "成都：加快布局核聚变能、脑机接口、量子科技等新赛道",
+          "url": "https://flash.jin10.com/detail/20260601165104318800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     },
