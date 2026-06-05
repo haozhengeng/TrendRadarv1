@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T04:46:32.129922+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-06-06T06:10:15.771202+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 56,
+      "match_count": 83,
       "titles": [
         {
           "title": "美国通胀预期大幅升温！穆迪警告：美联储恐被迫加息",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "炸裂！美国5月非农新增就业17.2万人，超过预期近一倍，失业率维持在4.3%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "美国外卖机器人被当街暴打，该厂商曾称其要替代人工快递员，这一现象反映了哪些问题？",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "中方回应美国制裁古巴国家主席",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "美国如何一次性解决 36 万亿美债问题？",
@@ -67,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
@@ -79,8 +79,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "美国股市继续下跌，纳指一度跌穿4%。",
@@ -94,15 +105,67 @@
           "time_info": "02时55分"
         },
         {
-          "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260606041804168800",
+          "title": "美国证券交易委员会（SEC）文件显示，网飞(NFLX.O)任命Jay Hoag为董事会主席，任命自年会起生效。",
+          "url": "https://flash.jin10.com/detail/20260606054721914800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美国能源部长Wright：美国考虑在加州储备石油。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3115364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            18,
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
+        },
+        {
+          "title": "世界周侃谈美国制裁对古巴的影响",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E4%BE%83%E8%B0%88%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%AF%B9%E5%8F%A4%E5%B7%B4%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            21,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
+        },
+        {
+          "title": "俄乌释放和谈信号之际，美国众议院通过援乌法案施压俄罗斯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33315101",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "据华尔街日报：美国总统特朗普表示，我要求情报主管普尔特解雇该部门的员工，国家情报总监办公室应“大幅缩减规模”，甚至可能予以撤销。",
@@ -127,6 +190,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "美国总统特朗普：伊朗保有21%至22%的导弹。",
+          "url": "https://flash.jin10.com/detail/20260606054357490800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
           "title": "伊朗石油官员：与美国的协议磋商症结在于240亿美元被冻结资产的处理。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3115260",
           "source": "华尔街见闻-快讯",
@@ -136,6 +210,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗还剩下21%-22%的导弹。 伊朗还剩下一些导弹，还剩下一些无人机，我们知道在哪里。 （谈伊朗为何不达成协议）这对他们来说非常艰难。 （除了达成协议）伊朗别无选择，这需要一些时间。",
+          "url": "https://wallstreetcn.com/livenews/3115363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美国总统特朗普：埃隆之前犯了个错，但现在他又是我的朋友了。",
+          "url": "https://flash.jin10.com/detail/20260606053901777800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国总统特朗普：我要求情报主管Bill Pulte解雇该部门的员工。 美国最大的情报办公室“太庞大了”。（华尔街日报）",
@@ -155,9 +251,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国就业报告异常强劲，新兴市场货币应声暴跌",
+          "url": "https://wallstreetcn.com/livenews/3115362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "消息人士：美国多州考虑提起诉讼 以阻止派拉蒙对华纳兄弟的收购",
@@ -171,15 +278,60 @@
           "time_info": "02时55分"
         },
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
+          "url": "https://flash.jin10.com/detail/20260606053856908800",
+          "source": "金十数据",
           "ranks": [
-            7
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "受美联储加息预期押注影响，美国市场信用恐慌指标的恶化程度创两个月最大",
+          "url": "https://wallstreetcn.com/livenews/3115361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及能源与化肥领域）正在筹划相关举措。",
+          "url": "https://flash.jin10.com/detail/20260606053834497800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美国总统特朗普：我并不是西班牙的死忠（big fan）。",
+          "url": "https://wallstreetcn.com/livenews/3115360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606041804168800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时10分]"
         },
         {
           "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
@@ -206,45 +358,6 @@
           "time_info": "[02时55分 ~ 04时46分]"
         },
         {
-          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
-          "url": "https://www.zhihu.com/question/2045446455956091852",
-          "source": "知乎",
-          "ranks": [
-            18,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
-          "title": "世界周侃谈美国制裁对古巴的影响",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E4%BE%83%E8%B0%88%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%AF%B9%E5%8F%A4%E5%B7%B4%E7%9A%84%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
-          "title": "俄乌释放和谈信号之际，美国众议院通过援乌法案施压俄罗斯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33315101",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
           "title": "美国疯狂全球抢铜",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%96%AF%E7%8B%82%E5%85%A8%E7%90%83%E6%8A%A2%E9%93%9C",
           "source": "百度热搜",
@@ -257,6 +370,40 @@
           "time_info": "[00时26分 ~ 02时55分]"
         },
         {
+          "title": "美国军方报告称，过去两个月内，近1000艘商船通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260606040841069800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时10分]"
+        },
+        {
+          "title": "美国总统特朗普：（经济）增长实际上会遏制通胀。",
+          "url": "https://flash.jin10.com/detail/20260606053657743800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗冲突结束之后，我们“准备开干（古巴）”。",
+          "url": "https://wallstreetcn.com/livenews/3115359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
           "title": "据CNN：美国与伊朗潜在的协议取决于美国是否同意释放240亿美元被冻结的伊朗资产。",
           "url": "https://flash.jin10.com/detail/20260606000418792800",
           "source": "金十数据",
@@ -266,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美国总统特朗普：当数据好的时候，市场就应该上涨。",
+          "url": "https://flash.jin10.com/detail/20260606053637196800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国总统特朗普的阿拉斯加石油租赁许可拍卖仅仅招揽到两个竞标人。",
@@ -290,15 +448,48 @@
           "time_info": "02时55分"
         },
         {
-          "title": "美国军方报告称，过去两个月内，近1000艘商船通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260606040841069800",
+          "title": "美国总统特朗普夸赞就业数据。",
+          "url": "https://flash.jin10.com/detail/20260606053520855800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美国总统特朗普：马斯克曾有一个糟糕的时刻，但现在他是我的一个好朋友。 在马斯克身上，有80%的聪明、也有20%的糟糕时刻",
+          "url": "https://wallstreetcn.com/livenews/3115357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美国能源部长赖特：已尝试与加州州长纽森合作，解决该州的炼油危机。",
+          "url": "https://flash.jin10.com/detail/20260606053430419800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "渣打银行美洲区经济学家Dan Pan：这种“引爆级”的（美国非农就业）数据“让美国例外论的故事卷土重来”。 美国利率的飙升和美元的走强，给新兴市场的表现带来了沉重打击。",
+          "url": "https://wallstreetcn.com/livenews/3115355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国白宫：美国将在90天内发布《自主化武器系统指令》的更新版本。",
@@ -318,9 +509,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "周五（6月5日），彭博电动汽车价格回报指数跌4.10%，报3776.20点，北京时间08:00开盘以来持续下挫，16:00-20:00（美国非农就业报告发布之前）持稳于3860点上方，本周累计下跌5.88%，6月3日08:00高开至4108.09点，随后持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3115353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国股市扩大跌幅，纳指跌3.6%，标普500指数跌2.16%，道指跌1%。",
@@ -340,7 +542,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -354,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
+          "url": "https://flash.jin10.com/detail/20260606052830749800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国总统特朗普：房利美和房地美IPO并非不可能，但也不着急。",
@@ -395,7 +608,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -406,9 +619,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大苛刻地对待美国农民。",
+          "url": "https://wallstreetcn.com/livenews/3115348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国总统特朗普：对于汽油价格，我们有很多替代方案。 人们认为，油桶会变得更昂贵。 在美国的介入下，大量石油流出霍尔木兹海峡。",
@@ -428,7 +652,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -450,7 +674,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -472,7 +696,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -483,9 +707,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席沃什将做一份不错的工作。 我们正在处理前美联储主席鲍威尔。",
+          "url": "https://wallstreetcn.com/livenews/3115344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "俄罗斯总统普京：美国在阿拉斯加采用俄罗斯的液化天然气技术将是高效之举。",
@@ -505,7 +740,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -519,6 +754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美国总统特朗普：农民们将在未来90天看到好事发生。",
+          "url": "https://wallstreetcn.com/livenews/3115343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国国务院：美国将向埃博拉疫情应对工作追加约3800万美元资金支持。",
@@ -538,9 +784,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国总统特朗普：夸赞5月非农就业报告。 为之前两个月的数据得到上修点赞。 当数据好的时候，市场就应该上涨。 （经济）增长实际上遏制通胀",
+          "url": "https://wallstreetcn.com/livenews/3115342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国多个州正在酝酿一份诉讼，希望借机阻挠派拉蒙天舞（Paramount SkyDance）与华纳兄弟探索公司（WBD）之间的并购交易。（路透）",
@@ -554,13 +811,24 @@
           "time_info": "02时55分"
         },
         {
+          "title": "美国总统特朗普：当美国离开伊朗，石油、汽油价格都将下跌。 化肥价格也将下跌。",
+          "url": "https://wallstreetcn.com/livenews/3115340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
           "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
           "url": "https://flash.jin10.com/detail/20260606034147571800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -571,9 +839,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经在极大程度上完成了（伊朗协议的磋商），你们会看到（结果）的。 要么用书面（协议）方式结束伊朗问题，要么换一种方式。 相比书面方式，强硬地对待伊朗要容易得多。 美国封锁霍尔木兹海峡取得成果。 很快就会结束伊朗问题。",
+          "url": "https://wallstreetcn.com/livenews/3115339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，WTI原油期货投机性净多头头寸增加12,530手至103,693手。",
@@ -582,7 +861,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -593,7 +872,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -609,13 +888,24 @@
           "time_info": "02时55分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持日元净空头头寸创2024年7月份以来新高。 杠杆交易员所持日元空头头寸达到105,136手合约，持仓价值大约82亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，COMEX黄金期货投机性净多头头寸增加 14,409手至111,341手。",
           "url": "https://flash.jin10.com/detail/20260606033734075800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -640,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美国消费者借贷再度强劲增加，创2022年以来最大连续两月增幅",
+          "url": "https://wallstreetcn.com/livenews/3115333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     },
@@ -655,19 +956,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
-          "title": "科隆Major中国德比天禄晋级",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E4%B8%AD%E5%9B%BD%E5%BE%B7%E6%AF%94%E5%A4%A9%E7%A6%84%E6%99%8B%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "卫星影像记录中国生态巨变",
@@ -677,8 +967,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "60秒解锁中国绿色密码",
@@ -688,8 +978,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
+        },
+        {
+          "title": "科隆Major中国德比天禄晋级",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E4%B8%AD%E5%9B%BD%E5%BE%B7%E6%AF%94%E5%A4%A9%E7%A6%84%E6%99%8B%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "中国成功发射千帆极轨12组卫星",
@@ -697,11 +999,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "中国男足2-1新加坡",
@@ -711,8 +1014,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "一天热死3400人，印度也要限制中国空调",
@@ -722,8 +1025,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "英国间谍2次偷窃中国茶叶机密",
@@ -731,11 +1034,12 @@
           "source": "今日头条",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "14岁中国少年，一脚踢进顶级豪门(图)",
@@ -745,8 +1049,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "耐克原价 899 元几个月后变 429 元，奥特莱斯货架上堆积如山，为什么中国消费者现在都不穿耐克了？",
@@ -756,11 +1060,12 @@
             10,
             18,
             13,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "饶毅称：「中国学术不端比例世界空前，但很少对学术不端有惩罚」，如何看待他的这一说法？",
@@ -772,8 +1077,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "印度高温为何还要限制中国空调",
@@ -782,11 +1087,12 @@
           "ranks": [
             20,
             16,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "中国足球小将夺冠之路",
@@ -795,11 +1101,12 @@
           "ranks": [
             23,
             22,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "中国小电驴在英国卖爆了",
@@ -807,11 +1114,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[02时54分 ~ 06时10分]"
         },
         {
           "title": "69岁老人带偏瘫妻子自驾游中国",
@@ -819,11 +1127,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[02时54分 ~ 06时10分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌3.5%，本周累跌3.3%。 热门中概股里，阿特斯太阳能跌11.7%，百度跌9.7%，小马智行跌9.2%，华住涨0.6%。",
@@ -832,7 +1141,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -854,7 +1163,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -876,17 +1185,6 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "标准普尔确认瑞典信用评级为“AAA/A-1+”，展望稳定。",
-          "url": "https://flash.jin10.com/detail/20260606041411477800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
           "title": "德国罕见落选联合国非常任理事国，原因何在？",
           "url": "https://www.zhihu.com/question/2046141710674158357",
           "source": "知乎",
@@ -894,8 +1192,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "热身赛法国队爆冷遭逆转",
@@ -904,11 +1202,24 @@
           "ranks": [
             27,
             18,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
+        },
+        {
+          "title": "标准普尔确认瑞典信用评级为“AAA/A-1+”，展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260606041411477800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时10分]"
         },
         {
           "title": "据英国金融时报，Meta Platforms考虑股权融资，通过发行新股筹集数百亿美元。 Meta跌幅扩大还至6%。",
@@ -939,7 +1250,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -972,7 +1283,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -991,8 +1302,19 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫超4%，半导体指数暴跌10%，黄金抹去年内涨幅",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时10分]"
+        },
         {
           "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
           "url": "https://wallstreetcn.com/livenews/3115328",
@@ -1000,7 +1322,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -1035,7 +1357,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -1046,7 +1368,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -1068,7 +1390,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -1079,7 +1401,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -1098,7 +1420,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "习近平将对朝鲜民主主义人民共和国进行国事访问",
@@ -1108,8 +1430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "韩国人吹爆自家10个名场面",
@@ -1119,8 +1441,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "日本宅男去世,满屋收藏变垃圾",
@@ -1130,8 +1452,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[02时54分 ~ 06时10分]"
         },
         {
           "title": "黄仁勋韩国行点名见Faker",
@@ -1142,8 +1464,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "日本宅男去世满屋收藏变垃圾",
@@ -1155,8 +1477,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
+        },
+        {
+          "title": "韩国丈夫偷拍并嘲笑孕晚期妻子",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%88%E5%A4%AB%E5%81%B7%E6%8B%8D%E5%B9%B6%E5%98%B2%E7%AC%91%E5%AD%95%E6%99%9A%E6%9C%9F%E5%A6%BB%E5%AD%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时10分]"
         }
       ]
     },
@@ -1171,11 +1504,35 @@
           "ranks": [
             7,
             4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
+        },
+        {
+          "title": "印度人想把喜马拉雅山炸个口子，以解决高温问题，这个思路可行性如何？为什么换成印度人想炸喜马拉雅山了？",
+          "url": "https://www.zhihu.com/question/2045933371537060756",
+          "source": "知乎",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
+        },
+        {
+          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "印度央行：印度政府已重新任命斯瓦米纳坦·贾纳基拉曼（Swaminathan Janakiraman）为印度央行副行长，任期两年，自6月26日起生效。",
@@ -1187,29 +1544,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "印度人想把喜马拉雅山炸个口子，以解决高温问题，这个思路可行性如何？为什么换成印度人想炸喜马拉雅山了？",
-          "url": "https://www.zhihu.com/question/2045933371537060756",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
-          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
         },
         {
           "title": "印度电力巨头或重启小型煤电厂以助力太阳能发展",
@@ -1237,8 +1571,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         },
         {
           "title": "机器人表演飞踢误伤小孩哥",
@@ -1249,8 +1583,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时10分]"
         }
       ]
     },
@@ -1282,7 +1616,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
