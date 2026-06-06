@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T05:57:57.331795+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-06-07T06:59:34.141730+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -40,8 +40,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时59分]"
         },
         {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
@@ -50,9 +50,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时59分]"
         },
         {
           "title": "美国授意一个团队评估海湾盟友们遭受的损失情况。 美方将向它们开放伊朗资产。 伊朗资产将被用于修复伊朗在未来造成的损失。（路透）",
@@ -61,9 +61,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时59分]"
+        },
+        {
+          "title": "前美国特使：真主党有望转型为非武装政治实体",
+          "url": "https://flash.jin10.com/detail/20260607060323052800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时57分"
+          "time_info": "06时59分"
         },
         {
           "title": "黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期",
@@ -77,18 +88,6 @@
           "time_info": "[01时01分 ~ 04时05分]"
         },
         {
-          "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
-          "url": "https://flash.jin10.com/detail/20260607031222169800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 05时57分]"
-        },
-        {
           "title": "伊朗足协：多名国家队随队成员未获签证 美国违背国际体育规则",
           "url": "https://wallstreetcn.com/livenews/3115472",
           "source": "华尔街见闻-快讯",
@@ -99,8 +98,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时59分]"
+        },
+        {
+          "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
+          "url": "https://flash.jin10.com/detail/20260607031222169800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时05分 ~ 06时59分]"
         },
         {
           "title": "俄总统顾问：美国正试图退出乌克兰问题谈判",
@@ -114,6 +126,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 04时05分]"
+        },
+        {
+          "title": "俄总统顾问：美国正试图退出乌克兰问题谈判",
+          "url": "https://news.ifeng.com/c/8tkTZkbwgef",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时59分]"
+        },
+        {
+          "title": "世界杯伊朗代表团十余人遭美国拒签",
+          "url": "https://news.ifeng.com/c/8tkIe0p3563",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时59分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
@@ -140,37 +174,75 @@
           "time_info": "[01时02分 ~ 02时07分]"
         },
         {
-          "title": "俄总统顾问：美国正试图退出乌克兰问题谈判",
-          "url": "https://news.ifeng.com/c/8tkTZkbwgef",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "世界杯伊朗代表团十余人遭美国拒签",
-          "url": "https://news.ifeng.com/c/8tkIe0p3563",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
           "title": "伊朗驻墨西哥大使：世界杯参赛队比赛当日进出美国",
           "url": "https://flash.jin10.com/detail/20260607051930748800",
           "source": "金十数据",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时59分]"
+        },
+        {
+          "title": "美国财长贝森特指示小组评估海湾盟友的状况，评估伊朗造成的损失成本。",
+          "url": "https://flash.jin10.com/detail/20260607044909694800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时59分]"
+        },
+        {
+          "title": "据知情人士透露，美国将考虑伊朗资产是否可用于支持修复过去的损失。",
+          "url": "https://flash.jin10.com/detail/20260607044834072800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时59分]"
+        },
+        {
+          "title": "据知情人士透露，美国将利用工具向海湾盟友提供伊朗资产，以支持伊朗未来造成的破坏的重建和修复。",
+          "url": "https://flash.jin10.com/detail/20260607044747054800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时59分]"
+        },
+        {
+          "title": "美国国家飓风中心表示，阿曼达已减弱为热带低气压。",
+          "url": "https://flash.jin10.com/detail/20260607043405495800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时59分]"
+        },
+        {
+          "title": "美国就业：碳基和硅基的两重天",
+          "url": "https://wallstreetcn.com/articles/3774009",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时57分"
+          "time_info": "06时59分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊拉克总理透露，计划于近期对美国进行正式访问。此次访问将有一支由伊拉克商人和企业家组成的代表团随行。",
@@ -182,50 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
-        },
-        {
-          "title": "美国财长贝森特指示小组评估海湾盟友的状况，评估伊朗造成的损失成本。",
-          "url": "https://flash.jin10.com/detail/20260607044909694800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "据知情人士透露，美国将考虑伊朗资产是否可用于支持修复过去的损失。",
-          "url": "https://flash.jin10.com/detail/20260607044834072800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "据知情人士透露，美国将利用工具向海湾盟友提供伊朗资产，以支持伊朗未来造成的破坏的重建和修复。",
-          "url": "https://flash.jin10.com/detail/20260607044747054800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美国国家飓风中心表示，阿曼达已减弱为热带低气压。",
-          "url": "https://flash.jin10.com/detail/20260607043405495800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -253,7 +281,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "国产机甲上节目,老外看傻眼",
@@ -263,8 +291,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "菲防长绕后厨躲避中国记者，那天到底发生了什么？",
@@ -297,8 +325,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "中国军队高效反制荷兰侵权舰机，专家：驱离行动有重大升级",
@@ -310,8 +338,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "中国成功发射千帆极轨12组卫星",
@@ -320,11 +348,63 @@
           "ranks": [
             22,
             27,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
+        },
+        {
+          "title": "中国断供稀土对日本打击到底有多大",
+          "url": "https://www.toutiao.com/trending/7647393291075452974/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时59分]"
+        },
+        {
+          "title": "北美汉堡三巨头 Wendy's 官宣进入中国市场，你看好它的入驻吗？可能会对中国快餐业产生影响吗？",
+          "url": "https://www.zhihu.com/question/2046295115698631558",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时59分]"
+        },
+        {
+          "title": "中国记者采访菲代表团竟被嘲笑辱骂",
+          "url": "https://www.toutiao.com/trending/7648050123070701610/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19,
+            22,
             18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "time_info": "[01时02分 ~ 06时59分]"
+        },
+        {
+          "title": "上头了？欧盟高官放话：要把制裁俄罗斯那套，拿来对付中国",
+          "url": "https://news.ifeng.com/c/8tjmCEvEJ0G",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "印尼总用西方的，现在想要中国反恐装备",
@@ -338,30 +418,18 @@
           "time_info": "[01时01分 ~ 04时05分]"
         },
         {
-          "title": "中国断供稀土对日本打击到底有多大",
-          "url": "https://www.toutiao.com/trending/7647393291075452974/",
+          "title": "中国成澳洲汽车最大进口国",
+          "url": "https://www.toutiao.com/trending/7647422213582684211/",
           "source": "今日头条",
           "ranks": [
-            7,
-            20,
-            17
+            26,
+            30,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时57分]"
-        },
-        {
-          "title": "北美汉堡三巨头 Wendy's 官宣进入中国市场，你看好它的入驻吗？可能会对中国快餐业产生影响吗？",
-          "url": "https://www.zhihu.com/question/2046295115698631558",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "time_info": "[01时02分 ~ 06时59分]"
         },
         {
           "title": "横扫塞尔维亚队中国女排胜在心态转变",
@@ -377,43 +445,17 @@
           "time_info": "[01时02分 ~ 05时57分]"
         },
         {
-          "title": "中国记者采访菲代表团竟被嘲笑辱骂",
-          "url": "https://www.toutiao.com/trending/7648050123070701610/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            19,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时57分]"
-        },
-        {
-          "title": "中国成澳洲汽车最大进口国",
-          "url": "https://www.toutiao.com/trending/7647422213582684211/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时57分]"
-        },
-        {
           "title": "《家有儿女》主角一家的生活水平在中国社会算什么水平？",
           "url": "https://www.zhihu.com/question/4298531159",
           "source": "知乎",
           "ranks": [
             14,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 05时57分]"
+          "appearance_count": 3,
+          "time_info": "[04时05分 ~ 06时59分]"
         },
         {
           "title": "两连胜！中国女排3-0塞尔维亚女排",
@@ -421,11 +463,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 05时57分]"
+          "appearance_count": 3,
+          "time_info": "[04时05分 ~ 06时59分]"
         },
         {
           "title": "欧盟高官放话要把制裁俄那套用于中国",
@@ -457,7 +500,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -488,8 +531,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 05时57分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 06时59分]"
         },
         {
           "title": "黄仁勋坐过的炸鸡店椅子火了，有韩国人排队三小时",
@@ -499,8 +542,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "野人先生忽然在日本引起了讨论",
@@ -511,8 +554,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "韩国人吹爆自家10个名场面",
@@ -522,8 +565,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "日本宅男去世,满屋收藏变垃圾",
@@ -533,8 +576,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         }
       ]
     },
@@ -552,8 +595,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "印巴空战吃亏却不认账，印度为啥还疯狂加码“阵风”？",
@@ -615,8 +658,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -667,8 +710,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时59分]"
         },
         {
           "title": "全球首款全尺寸超仿生人形机器人来了",
@@ -676,11 +719,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时59分]"
         }
       ]
     },
@@ -696,8 +740,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时59分]"
         }
       ]
     },
