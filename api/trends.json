@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T06:24:28.513632+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-06-09T07:58:40.156552+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊以战火重燃，英国、加拿大、欧盟发声",
@@ -36,18 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "美国总统特朗普：石油价格将在伊朗问题结束后下跌。",
-          "url": "https://wallstreetcn.com/livenews/3116365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -63,37 +52,26 @@
           "time_info": "04时03分"
         },
         {
-          "title": "美国总统特朗普：我们已经摧毁了伊朗的军事力量和领导层。 我们（与伊朗）正在谈判。 你们真的将在两周内获胜。 我们将在两周内宣布“全面”胜利。 胜利将发生得“非常迅速”。",
-          "url": "https://wallstreetcn.com/livenews/3116364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国总统特朗普谈伊朗：我们正在进行谈判。",
           "url": "https://flash.jin10.com/detail/20260609054818793800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
         {
-          "title": "摩根大通、美国银行因为网络安全威胁问题而被美国国会山成员质询。",
-          "url": "https://wallstreetcn.com/livenews/3116362",
-          "source": "华尔街见闻-快讯",
+          "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
+          "url": "https://wallstreetcn.com/articles/3774051",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
         },
         {
           "title": "美国疾病控制与预防中心基金会：启动紧急响应基金，以支持刚果民主共和国和乌干达的埃博拉疫情应对工作。",
@@ -107,15 +85,28 @@
           "time_info": "01时22分"
         },
         {
-          "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
-          "url": "https://wallstreetcn.com/articles/3774051",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：石油价格将在伊朗问题结束后下跌。",
+          "url": "https://wallstreetcn.com/livenews/3116365",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时58分]"
+        },
+        {
+          "title": "美国总统特朗普：我们已经摧毁了伊朗的军事力量和领导层。 我们（与伊朗）正在谈判。 你们真的将在两周内获胜。 我们将在两周内宣布“全面”胜利。 胜利将发生得“非常迅速”。",
+          "url": "https://wallstreetcn.com/livenews/3116364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时58分]"
         },
         {
           "title": "美国农业部（USDA）将在饲料中试验使用伊维菌素，以控制野生动物中的螺旋蝇疫情。",
@@ -128,6 +119,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 06时24分]"
+        },
+        {
+          "title": "摩根大通、美国银行因为网络安全威胁问题而被美国国会山成员质询。",
+          "url": "https://wallstreetcn.com/livenews/3116362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时58分]"
+        },
+        {
+          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落",
+          "url": "https://wallstreetcn.com/articles/3774144",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时58分]"
+        },
+        {
+          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时58分]"
         },
         {
           "title": "美国前防长：美军能打通霍尔木兹海峡 但需盟友协力参与维持畅通",
@@ -147,7 +174,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -161,17 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
-          "url": "https://wallstreetcn.com/livenews/3116359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "路透社/益普索调查显示，特朗普的支持率仍徘徊在其政治生涯的最低水平附近，且大多数美国人预计汽油价格将会上涨。",
@@ -191,9 +207,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "迷惑！美国顶流歌手演唱会现场直接把观众手机扔了",
+          "url": "https://v.ifeng.com/c/8tnURPNnxME",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "Meta Platforms(META.O)：美国劳动力学院是一个无成本的项目，支持所有参与者学习，并为所有毕业生提供就业保障。",
@@ -202,7 +229,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -216,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落",
-          "url": "https://wallstreetcn.com/articles/3774144",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国前国防部长奥斯汀：美国海军有能力重新打通霍尔木兹海峡，但若要长期维持海峡畅通，将代价高昂，且需要盟友参与。",
@@ -257,7 +273,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -301,7 +317,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -323,7 +339,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -342,7 +358,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "习近平和彭丽媛观看朝鲜文艺演出",
@@ -352,8 +368,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
         },
         {
           "title": "日本陆上自卫队举行最大规模实弹演习",
@@ -363,8 +379,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
+        },
+        {
+          "title": "韩国总统李在明： 我认为韩国股市目前仍被低估",
+          "url": "https://wallstreetcn.com/articles/3774067",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
+        },
+        {
+          "title": "日本5月广义货币流动性年率 4.7%，前值2.8%。",
+          "url": "https://flash.jin10.com/detail/20260609075145093800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
@@ -378,26 +417,49 @@
           "time_info": "01时22分"
         },
         {
-          "title": "对冲基金对赌日本央行6月加息孤掌难鸣，难阻日元继续沉沦",
-          "url": "https://wallstreetcn.com/livenews/3116361",
+          "title": "日本5月货币供应M3年率 1.7%，前值1.60%。",
+          "url": "https://flash.jin10.com/detail/20260609075140960800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "日本5月货币供应M2年率 2.5%，前值2.30%。",
+          "url": "https://flash.jin10.com/detail/20260609075135875800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "韩国一季度GDP同比初值 3.8%，前值 3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3116386",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时58分"
         },
         {
-          "title": "韩国总统李在明： 我认为韩国股市目前仍被低估",
-          "url": "https://wallstreetcn.com/articles/3774067",
-          "source": "华尔街见闻",
+          "title": "对冲基金对赌日本央行6月加息孤掌难鸣，难阻日元继续沉沦",
+          "url": "https://wallstreetcn.com/livenews/3116361",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时58分]"
         },
         {
           "title": "6 月 8 日韩国股市开盘跌超 8% 后熔断，日经 225 盘中跌幅近 5%，A 股低开震荡，半导体泡沫会破吗？",
@@ -447,6 +509,17 @@
           "time_info": "[04时02分 ~ 04时03分]"
         },
         {
+          "title": "韩国一季度GDP环比初值 1.8%，前值 1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3116385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "据日经新闻：日本制铁将向美国钢铁(X.N)公司位于宾夕法尼亚州的综合设施投资至多25亿美元。",
           "url": "https://flash.jin10.com/detail/20260609033724034800",
           "source": "金十数据",
@@ -458,15 +531,37 @@
           "time_info": "04时03分"
         },
         {
+          "title": "韩国第一季度GDP季率终值 1.8%，预期1.7%，前值1.7%。",
+          "url": "https://flash.jin10.com/detail/20260609070017410800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
           "url": "https://wallstreetcn.com/livenews/3116344",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "韩国第一季度GDP年率终值 3.8%，预期3.60%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260609065243677800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "「石脑油危机」或致香蕉从日本人餐桌上消失，如何看待这场「蝴蝶效应」？暴露了日本供应链的什么问题？",
@@ -483,7 +578,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国男足将在主场迎战泰国队",
@@ -517,11 +612,12 @@
           "ranks": [
             1,
             7,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
         },
         {
           "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
@@ -529,11 +625,36 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
+        },
+        {
+          "title": "马斯克SpaceX拒绝中国投资者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
+        },
+        {
+          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
+          "url": "https://www.zhihu.com/question/2047276644910552070",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "time_info": "[04时02分 ~ 07时58分]"
         },
         {
           "title": "中国对日稀土出口骤降八成，日企慌神：快歇菜了",
@@ -547,60 +668,62 @@
           "time_info": "[01时22分 ~ 06时24分]"
         },
         {
-          "title": "马斯克SpaceX拒绝中国投资者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
-        },
-        {
-          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
-          "url": "https://www.zhihu.com/question/2047276644910552070",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时02分 ~ 06时24分]"
-        },
-        {
           "title": "又一国产减肥药挑战司美格鲁肽",
           "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%9B%BD%E4%BA%A7%E5%87%8F%E8%82%A5%E8%8D%AF%E6%8C%91%E6%88%98%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 04时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 07时58分]"
         },
         {
           "title": "中国车手的纽北Vlog",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E6%89%8B%E7%9A%84%E7%BA%BD%E5%8C%97Vlog",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时58分]"
         },
         {
           "title": "中国重型运载火箭长征九号被称「令人窒息的庞然大物」，其研发对中国航天有何意义？",
           "url": "https://www.zhihu.com/question/2047030721127224279",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 07时58分]"
+        },
+        {
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%9A%82%E4%B8%8D%E6%8F%90%E4%BE%9B%E6%9C%80%E6%96%B0Siri+AI",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "07时58分"
+        },
+        {
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://wallstreetcn.com/livenews/3116381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
@@ -609,15 +732,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://flash.jin10.com/detail/20260609064804765800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -626,9 +760,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时58分]"
         },
         {
           "title": "【焦点复盘】科创50指数重挫4.3%，半导体产业链持续退潮，煤炭、银行等红利股获逆势抱团",
@@ -638,8 +772,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
+        },
+        {
+          "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
+          "url": "https://www.cls.cn/detail/2394225",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
+          "url": "https://www.cls.cn/detail/2394207",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
@@ -650,8 +806,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
         },
         {
           "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
@@ -676,13 +832,24 @@
           "time_info": "04时03分"
         },
         {
+          "title": "美股三大指数涨跌不一 芯片股反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80+%E8%8A%AF%E7%89%87%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "周一（6月8日），美股行业ETF涨跌各异，半导体ETF收涨5%，全球科技股指数ETF、科技行业ETF至少涨2.15%，网络股指数ETF则收跌0.43%，全球航空业ETF跌0.86%。",
           "url": "https://wallstreetcn.com/livenews/3116340",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -693,7 +860,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -704,7 +871,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -715,7 +882,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
@@ -723,8 +890,19 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "英国5月BRC同店销售同比 3.4%，前值 -3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3116387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
         {
           "title": "德国人就医喜提自家抗生素",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354971&amp;topic_name=%E5%BE%B7%E5%9B%BD%E4%BA%BA%E5%B0%B1%E5%8C%BB%E5%96%9C%E6%8F%90%E8%87%AA%E5%AE%B6%E6%8A%97%E7%94%9F%E7%B4%A0",
@@ -733,8 +911,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
         },
         {
           "title": "周一（6月8日）欧市尾盘，英国10年期国债收益率涨4.0个基点，报4.943%。 两年期英债收益率涨4.0个基点，报4.378%。 30年期英债收益率涨3.7个基点，50年期英债收益率涨3.4个基点。 2/10年期英债收益率利差涨0.033个基点，报+56.465个基点。",
@@ -746,6 +924,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "德国竞选安理会席位失败，前外长贝尔伯克遭批",
+          "url": "https://wallstreetcn.com/livenews/3116380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "英国5月消费支出回暖 旅行支出连降三月显谨慎",
+          "url": "https://flash.jin10.com/detail/20260609070421164800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "英国5月BRC总体零售销售年率 3.7%，前值-3%。",
+          "url": "https://flash.jin10.com/detail/20260609070207201800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "英国5月BRC同店零售销售年率 3.4%，前值-3.40%。",
+          "url": "https://flash.jin10.com/detail/20260609070102121800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "德国DAX 30指数初步收跌0.42%，报24655.44点。 法国股指初步收跌0.08%，意大利股指初步收涨0.68%、银行指数涨0.10%，英国股指初步收涨0.01%。",
@@ -784,7 +1006,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "15万买新能源车还没开回家就出问题",
@@ -792,11 +1014,23 @@
           "source": "今日头条",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
+        },
+        {
+          "title": "中信证券：宏观经济维度看好央国企、能源板块",
+          "url": "https://flash.jin10.com/detail/20260609075142353800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "乌克兰第一副总理兼能源部长：今天，乌克兰在“乌克兰基金”框架下获得28亿欧元资金。高度赞赏欧盟决定为乌克兰冬季准备工作拨款9.2亿欧元，期待该决定能够迅速付诸实施。",
@@ -810,13 +1044,24 @@
           "time_info": "01时22分"
         },
         {
+          "title": "新能源二手车越来越“香”了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%8C%E6%89%8B%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E2%80%9C%E9%A6%99%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "标普500指数的11个板块普遍收跌，公用事业板块跌1.92%，房地产板块跌1.63%，原材料板块跌1.28%，电信板块跌1.07%，能源板块则收涨1.14%，信息技术/科技板块涨1.47%。",
           "url": "https://wallstreetcn.com/livenews/3116341",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -834,6 +1079,46 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "印度博主蹭吃白嫖被拒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354970&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E8%B9%AD%E5%90%83%E7%99%BD%E5%AB%96%E8%A2%AB%E6%8B%92",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
+        },
+        {
+          "title": "奇瑞回应“与印度塔塔集团相关合作”",
+          "url": "https://www.toutiao.com/trending/7648157589721563190/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时58分]"
+        },
+        {
+          "title": "委内瑞拉代总统Delcy Rodriguez会见土耳其总统埃尔多安。 双方讨论实现30亿美元贸易额的措施。 双方侧重于推进贸易、能源、矿业合作。 Rodriguez此前结束了对印度持续五天的行程。",
+          "url": "https://wallstreetcn.com/livenews/3116367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
       "match_count": 3,
       "titles": [
@@ -843,11 +1128,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
         },
         {
           "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
@@ -856,7 +1142,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -874,34 +1160,6 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度博主蹭吃白嫖被拒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354970&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E8%B9%AD%E5%90%83%E7%99%BD%E5%AB%96%E8%A2%AB%E6%8B%92",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
-        },
-        {
-          "title": "奇瑞回应“与印度塔塔集团相关合作”",
-          "url": "https://www.toutiao.com/trending/7648157589721563190/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
       "match_count": 1,
       "titles": [
@@ -910,11 +1168,12 @@
           "url": "https://www.cls.cn/detail/2393742",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 07时58分]"
         }
       ]
     },
@@ -929,7 +1188,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
