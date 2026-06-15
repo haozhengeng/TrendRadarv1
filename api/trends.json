@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T04:46:50.130622+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-06-16T06:56:52.569615+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 39,
+      "match_count": 52,
       "titles": [
         {
           "title": "美国战略石油储备降至43年来低位",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "据AXIOS网站：消息人士称，美国中央情报局局长对伊朗协议持怀疑态度，认为伊朗并不愿意在最终协议中做出美国所要求的核妥协。",
+          "url": "https://flash.jin10.com/detail/20260616062552119800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "受美国金属流入影响，LME将底特律新增为铜交割点",
@@ -36,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国副总统万斯：核调查人员将被允许进入伊朗。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3119902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "惠誉评级：（关于美国与伊朗的潜在协议）认为伊朗的核计划及核能力仍将是其与美国和以色列关系中的紧张根源。",
@@ -61,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国交通部：特朗普政府结束对2024年CrowdStrike故障的调查。",
+          "url": "https://flash.jin10.com/detail/20260616061855394800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "美国石油储备创最近43年新低，恰逢特朗普试图遏制汽油价格",
@@ -90,11 +123,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            16
+            16,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "美国伊朗达成和平协议",
@@ -102,11 +136,24 @@
           "source": "微博",
           "ranks": [
             30,
-            29
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（6月15日），美国科技股七巨头（Magnificent 7）指数涨2.74%，报216.22点。 “超大”市值科技股指数涨3.48%，报448.96点。",
+          "url": "https://wallstreetcn.com/livenews/3119870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "time_info": "[04时46分 ~ 06时56分]"
         },
         {
           "title": "加拿大驻美国大使怀斯曼：幕后工作正在以理性、合作、灵活和务实的方式进行。",
@@ -120,15 +167,15 @@
           "time_info": "01时52分"
         },
         {
-          "title": "美股七巨头收盘播报｜周一（6月15日），美国科技股七巨头（Magnificent 7）指数涨2.74%，报216.22点。 “超大”市值科技股指数涨3.48%，报448.96点。",
-          "url": "https://wallstreetcn.com/livenews/3119870",
+          "title": "美国总统特朗普的官员们周一会见了来自Anthropic的人员。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3119898",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "06时56分"
         },
         {
           "title": "谷歌加强在美国阿拉巴马州的存在，2026-27年将投资15亿美元。 这笔资金将完全用于自家数据中心的电力与基础设施成本。",
@@ -170,9 +217,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "经济学家：若伊朗协议得以落实，美国通胀最严重的时期可能已经过去",
+          "url": "https://flash.jin10.com/detail/20260616054906195800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "福克斯收跌17%，跌幅创该公司美国IPO以来最差单日表现。",
@@ -181,7 +239,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -219,6 +277,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "委内瑞拉代总统Rodriguez会见美国公司GE Vernova的官员们。",
+          "url": "https://wallstreetcn.com/livenews/3119887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "美国总统特朗普声称：我认为“很快”就会披露谅解备忘录（MoU）。 MoU的文本将于周五之后公布。 霍尔木兹海峡免费通行。",
           "url": "https://wallstreetcn.com/livenews/3119810",
           "source": "华尔街见闻-快讯",
@@ -241,6 +310,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美国现货石化产品价格回落，因伊朗溢价逐步取消",
+          "url": "https://flash.jin10.com/detail/20260616053024813800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "美国官员谈论霍尔木兹海峡，宣称：到周五，一切都将开放。 预计（每天通过海峡的船只）很快将达到40-50艘。 现在，美国知道水雷都在哪里。",
           "url": "https://wallstreetcn.com/livenews/3119809",
           "source": "华尔街见闻-快讯",
@@ -250,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国副总统万斯：与伊朗达成的谅解备忘录（MoU）篇幅大约一页半，是一份非常笼统的文件。",
+          "url": "https://wallstreetcn.com/livenews/3119885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "美国官员：伊朗的激进分子反对协议，但没有提出可行的替代方案。",
@@ -269,7 +360,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -291,7 +382,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -329,6 +420,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美国西得克萨斯州天然气价格四个月来首次“破零”",
+          "url": "https://flash.jin10.com/detail/20260616051619913800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "美国总统特朗普：霍尔木兹海峡已经部分地开放，将于周五全面开放。 我们有望与伊朗拥有不错的关系。 下一步，将关注乌克兰局势。",
           "url": "https://wallstreetcn.com/livenews/3119806",
           "source": "华尔街见闻-快讯",
@@ -346,9 +448,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国顶尖大学新生不会解「7x–2=5」，这反映了哪些教育问题？",
+          "url": "https://www.zhihu.com/question/2048465671999197707",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "美国官员：我们与有意改变局势的伊朗各方展开合作。",
@@ -360,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国副总统万斯：谅解备忘录是一个非常通用的文件。",
+          "url": "https://flash.jin10.com/detail/20260616051117570800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "美国官员：与伊朗的谈判是历史上最艰难的任务之一。",
@@ -395,15 +519,37 @@
           "time_info": "01时52分"
         },
         {
+          "title": "现货黄金涨超2%，重拾4300美元关口，美国和伊朗达成协议以恢复霍尔木兹海峡通行",
+          "url": "https://wallstreetcn.com/livenews/3119877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "根据路透社/益普索调查，24%的美国民众认可特朗普应对生活成本的方式，高于一周前的22%和一个月前的20%。",
           "url": "https://flash.jin10.com/detail/20260616024936806800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "加拿大标普/TSX综合指数收涨0.97%，报35275.64点，突破6月4日所创收盘历史最高位35217.06点，最近三个交易日累计上涨3.29%。 小盘股指收涨1.17%，报1441.10点。",
+          "url": "https://wallstreetcn.com/livenews/3119876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "谷歌宣布2026年及2027年在美国阿拉巴马州投资15亿美元。",
@@ -423,7 +569,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -442,18 +588,75 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "瑞典5-1突尼斯首战告捷",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355167&amp;topic_name=%E7%91%9E%E5%85%B85-1%E7%AA%81%E5%B0%BC%E6%96%AF%E9%A6%96%E6%88%98%E5%91%8A%E6%8D%B7",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
+        },
+        {
+          "title": "佛得角爆冷逼平西班牙",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E7%88%86%E5%86%B7%E9%80%BC%E5%B9%B3%E8%A5%BF%E7%8F%AD%E7%89%99",
+          "source": "百度热搜",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "time_info": "[04时46分 ~ 06时56分]"
+        },
+        {
+          "title": "西班牙0比0战平佛得角",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%990%E6%AF%940%E6%88%98%E5%B9%B3%E4%BD%9B%E5%BE%97%E8%A7%92&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
+        },
+        {
+          "title": "西班牙0:0佛得角",
+          "url": "https://www.douyin.com/hot/2535775",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
+        },
+        {
+          "title": "2026 年美加墨世界杯小组赛 H 组，西班牙 vs 佛得角，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2049905235586281786",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
+        },
+        {
+          "title": "西班牙战佛得角互交白卷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355187&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%88%98%E4%BD%9B%E5%BE%97%E8%A7%92%E4%BA%92%E4%BA%A4%E7%99%BD%E5%8D%B7",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
         },
         {
           "title": "陪看世界杯：夺冠大热西班牙首秀",
@@ -473,42 +676,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
         {
-          "title": "佛得角爆冷逼平西班牙",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E7%88%86%E5%86%B7%E9%80%BC%E5%B9%B3%E8%A5%BF%E7%8F%AD%E7%89%99",
-          "source": "百度热搜",
+          "title": "爆大冷！西班牙0-0佛得角",
+          "url": "https://www.toutiao.com/trending/7650843762626494527/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "西班牙战佛得角互交白卷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355187&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%88%98%E4%BD%9B%E5%BE%97%E8%A7%92%E4%BA%92%E4%BA%A4%E7%99%BD%E5%8D%B7",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "西班牙0比0战平佛得角",
-          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%990%E6%AF%940%E6%88%98%E5%B9%B3%E4%BD%9B%E5%BE%97%E8%A7%92&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "06时56分"
         },
         {
           "title": "西班牙vs佛得角",
@@ -520,39 +701,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "西班牙0:0佛得角",
-          "url": "https://www.douyin.com/hot/2535775",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "2026 年美加墨世界杯小组赛 H 组，西班牙 vs 佛得角，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2049905235586281786",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "西班牙爆冷",
-          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%86%B7&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
         },
         {
           "title": "世界杯：西班牙vs佛得角",
@@ -572,11 +720,24 @@
           "source": "微博",
           "ranks": [
             1,
-            14
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
+        },
+        {
+          "title": "西班牙真没招了",
+          "url": "https://www.toutiao.com/trending/7651131985116778025/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "time_info": "[04时46分 ~ 06时56分]"
         },
         {
           "title": "西班牙佛得角 看睡着了",
@@ -591,6 +752,18 @@
           "time_info": "[01时52分 ~ 04时46分]"
         },
         {
+          "title": "西班牙爆冷",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%86%B7&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
+        },
+        {
           "title": "高市早苗抵达英国访问，现场无欢迎仪式，也没有红毯",
           "url": "https://v.ifeng.com/c/8tyglUVB0sF",
           "source": "凤凰网",
@@ -598,8 +771,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "英国官宣：16岁以下全面禁用社交媒体",
@@ -609,31 +782,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "德国7-1大胜库拉索",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355156&amp;topic_name=%E5%BE%B7%E5%9B%BD7-1%E5%A4%A7%E8%83%9C%E5%BA%93%E6%8B%89%E7%B4%A2",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
-        },
-        {
-          "title": "西班牙首发",
-          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E5%8F%91&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "德国队颜值断崖式下滑",
@@ -643,8 +805,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "梅西看德国队比赛玩嗨了",
@@ -652,6 +814,42 @@
           "source": "百度热搜",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
+        },
+        {
+          "title": "西班牙真没招了",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%9C%9F%E6%B2%A1%E6%8B%9B%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
+        },
+        {
+          "title": "西班牙25脚射门0进球",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%9925%E8%84%9A%E5%B0%84%E9%97%A80%E8%BF%9B%E7%90%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
+        },
+        {
+          "title": "西班牙首发",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E5%8F%91&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -669,39 +867,6 @@
           "time_info": "01时52分"
         },
         {
-          "title": "西班牙真没招了",
-          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%9C%9F%E6%B2%A1%E6%8B%9B%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "西班牙25脚射门0进球",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%9925%E8%84%9A%E5%B0%84%E9%97%A80%E8%BF%9B%E7%90%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "西班牙真没招了",
-          "url": "https://www.toutiao.com/trending/7651131985116778025/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
           "title": "德国2/10年期国债收益率跌超4个基点",
           "url": "https://wallstreetcn.com/livenews/3119814",
           "source": "华尔街见闻-快讯",
@@ -713,13 +878,24 @@
           "time_info": "01时52分"
         },
         {
+          "title": "康菲石油料将与叙利亚签署协议，从而恢复天然气生产。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3119889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "西班牙将与佛得角上演对决，大家预测最终比分可能是多少？会出现德国对库拉索那样的大比分吗？",
           "url": "https://www.zhihu.com/question/2049820244332508962",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -738,7 +914,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "头条世界杯｜日本战平荷兰绝非爆冷，库拉索败者也有伟大一夜",
@@ -748,63 +924,79 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "韩国女球迷在墨西哥遭歧视",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355174&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%81%AD%E6%AD%A7%E8%A7%86",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "89分钟绝平,日本2-2荷兰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355157&amp;topic_name=89%E5%88%86%E9%92%9F%E7%BB%9D%E5%B9%B3%2C%E6%97%A5%E6%9C%AC2-2%E8%8D%B7%E5%85%B0",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "《足球小将》没骗我：日本队真的能和荷兰掰手腕",
           "url": "https://m.thepaper.cn/newsDetail_forward_33379917",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "日本炸鸡秘方:一锅油用66年",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "现场看日本绝平荷兰",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA%E7%9C%8B%E6%97%A5%E6%9C%AC%E7%BB%9D%E5%B9%B3%E8%8D%B7%E5%85%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 06时56分]"
+        },
+        {
+          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
+          "url": "https://www.zhihu.com/question/2047945194050254497",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "06时56分"
         },
         {
           "title": "意大利与日本拟加快研发新一代战斗机",
@@ -816,12 +1008,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "韩国5月出口物价指数年率创下自1998年3月以来最大增幅，进口物价指数年率创下自2022年7月以来最大增幅。",
+          "url": "https://flash.jin10.com/detail/20260616050218639800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "韩国5月出口物价指数年率 46.9%，前值由40.80%修正为41.3%。",
+          "url": "https://flash.jin10.com/detail/20260616050002283800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "韩国5月进口物价指数年率 24.8%，前值由20.20%修正为20.5%。",
+          "url": "https://flash.jin10.com/detail/20260616050002280800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
@@ -835,6 +1060,17 @@
           "time_info": "[01时52分 ~ 04时46分]"
         },
         {
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "燧原科技、粤芯半导体, 同日过会！现场问询紧扣“盈利预期”",
           "url": "https://www.cls.cn/detail/2400342",
           "source": "财联社热门",
@@ -843,8 +1079,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨3.39%，电信板块涨2.42%，可选消费、工业板块至少涨1.36%，房地产板块则收跌0.9%，能源板块跌3.58%。 在所有成分股中，西部数据、Doordash、美光科技、希捷科技、安森美半导体、泰瑞达、高意公司Coherent领跑，Apa、因赛特公司、“大空头”Burry建仓的Fiserv、福克斯、福克斯A领跌。",
@@ -853,7 +1089,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -864,7 +1100,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -875,7 +1111,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -886,7 +1122,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
@@ -904,19 +1140,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
-        },
-        {
-          "title": "AI为何成为能源之战",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "美伊达成协议后首艘能源运输船通过霍尔木兹海峡",
@@ -926,19 +1151,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
+        },
+        {
+          "title": "AI为何成为能源之战",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "新能源车该不该承担“养护费”",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%89%BF%E6%8B%85%E2%80%9C%E5%85%BB%E6%8A%A4%E8%B4%B9%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.3%，报387.41点。 在十个板块中，北欧能源板块跌幅最大。 Kesko Oyj跌7.2%，在一众北欧个股里表现最差。",
@@ -965,8 +1203,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "315.82公里/小时！国产摩托刷新极速纪录",
@@ -980,24 +1218,25 @@
           "time_info": "[01时52分 ~ 04时46分]"
         },
         {
+          "title": "为什么说中国没必要抄SpaceX的作业",
+          "url": "https://www.toutiao.com/trending/7651590861641223721/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.39%，报6351.43点。 热门中概股里，金山云初步收涨5.8%，世纪互联涨5.1%，万国数据涨2.6%，拼多多涨2.4%，携程涨1.9%，日月光半导体涨1.2%，新东方涨0.7%，百度涨0.6%，网易涨0.1%。 ETF中，中国科技指数ETF（CQQQ）收涨4.60%，中概互联网指数ETF（KWEB）收涨0.49%。 MSCI新兴市场ex中国ETF（EMXC）收涨3.83%，德银嘉实沪深300指数ETF（ASHR）收涨2.32%，XtrackersHarvest中证50（ASHS）收涨3.74%。",
           "url": "https://wallstreetcn.com/livenews/3119860",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "为什么说中国没必要抄SpaceX的作业",
-          "url": "https://www.toutiao.com/trending/7651590861641223721/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
@@ -1013,11 +1252,24 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            25
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
+        },
+        {
+          "title": "印度女部长被支持者扣了一脑袋米布丁",
+          "url": "https://www.toutiao.com/trending/7651560539424620580/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "time_info": "[04时46分 ~ 06时56分]"
         },
         {
           "title": "印度男子骚扰女大学生被警方打脚心",
@@ -1029,17 +1281,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "印度女部长被支持者扣了一脑袋米布丁",
-          "url": "https://www.toutiao.com/trending/7651560539424620580/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
         }
       ]
     },
@@ -1052,22 +1293,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355151&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%BC%80%E5%94%AE%2C%E4%BA%BA%E6%9C%BA%E6%81%8B%E6%88%90%E7%9C%9F",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时56分]"
         },
         {
           "title": "优必选「机器人伴侣」10 天预售 3800 台，限成年人购买，不做家务只做陪伴，你看好这款产品市场前景吗？",
           "url": "https://www.zhihu.com/question/2049162105648051147",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
         }
       ]
     },
@@ -1080,11 +1323,12 @@
           "url": "https://wallstreetcn.com/livenews/3119872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时56分]"
         }
       ]
     }
