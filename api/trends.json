@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T18:29:05.684676+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-06-23T21:37:34.566069+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
         {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -93,11 +93,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 21时37分]"
         },
         {
           "title": "据Newsweek：特朗普的前盟友、美国知名保守派媒体人塔克·卡尔森宣布与共和党决裂。他的这一举动表明，随着伊朗战争和美以政策成为共和党内部辩论的焦点，右翼内部的分裂正在加深。",
@@ -120,6 +121,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
+          "url": "https://wallstreetcn.com/articles/3775244",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美伊战火暂歇，美国会对古巴动手吗？",
+          "url": "https://news.ifeng.com/c/8uC7urZCRfz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普召见多家军火制造商，寻求提高武器产量。 洛克希德-马丁公司、RTX、波音、L3Harris、Northrop Grumman、霍尼韦尔等料将会见特朗普。（华尔街日报）",
@@ -254,6 +277,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "美国联邦储备委员会前主席艾伦·格林斯潘去世，你对他有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2052494676024718106",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国务卿鲁比奥将出访中东三国",
           "url": "https://www.toutiao.com/trending/7653964706889220115/",
           "source": "今日头条",
@@ -274,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "美国银行：自2023年以来首次，多数消费者认为在当前市场环境下购房更为有利。",
+          "url": "https://flash.jin10.com/detail/20260623210112989800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
@@ -309,6 +354,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "美国银行：过去一年中，五分之一的潜在购房者和现有房主曾使用人工智能工具/聊天机器人进行购房调研。",
+          "url": "https://flash.jin10.com/detail/20260623210047330800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国总统特朗普谈经济：我们现在的情况与萧条相反。",
           "url": "https://wallstreetcn.com/livenews/3123016",
           "source": "华尔街见闻-快讯",
@@ -318,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美国6月费城联储非制造业指数 -25.8，预期 -16，前值 -23.6。",
+          "url": "https://wallstreetcn.com/livenews/3123452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国副总统万斯：伊朗方面允许检查人员入境，这是近一段时间以来的首次。",
@@ -384,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "ADP：截至6月6日的四周内，美国私营部门就业人数平均每周增加30,750人。",
+          "url": "https://wallstreetcn.com/livenews/3123448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国副总统万斯：必须让检查员进入伊朗核设施。",
@@ -474,6 +552,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "美国至6月20日当周红皮书商业零售销售年率 10%，前值9.4%。",
+          "url": "https://flash.jin10.com/detail/20260623205502118800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "阿曼外长：今晚在马斯喀特欢迎了伊朗议会议长卡利巴夫和外长阿拉格齐。双方就近期伊朗与美国的谅解备忘录进行了建设性讨论，特别是霍尔木兹海峡的相关内容。",
           "url": "https://flash.jin10.com/detail/20260623050922347800",
           "source": "金十数据",
@@ -518,6 +607,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3123433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "梁靖崑退出WTT美国大满贯",
           "url": "https://www.toutiao.com/trending/7654370625666039850/",
           "source": "今日头条",
@@ -543,7 +643,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "视频丨辽宁舰编队专业稳妥处置应对日本舰机滋扰挑衅，画面公布",
@@ -626,6 +726,18 @@
           "time_info": "07时13分"
         },
         {
+          "title": "中方回应“乌克兰与日本军事合作”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E5%90%88%E4%BD%9C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 21时37分]"
+        },
+        {
           "title": "韩国首尔综指日内跌3%。",
           "url": "https://wallstreetcn.com/livenews/3123121",
           "source": "华尔街见闻-快讯",
@@ -650,6 +762,31 @@
           "time_info": "[02时40分 ~ 07时13分]"
         },
         {
+          "title": "日本准备去格陵兰评估稀土开采，是否说明全球资源争夺已经进入「稀土时代」？",
+          "url": "https://www.zhihu.com/question/2049458434265855778",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 21时37分]"
+        },
+        {
+          "title": "泳装屈原!日本手游整狠活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 21时37分]"
+        },
+        {
           "title": "全面压制,日本送突尼斯出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355314&amp;topic_name=%E5%85%A8%E9%9D%A2%E5%8E%8B%E5%88%B6%2C%E6%97%A5%E6%9C%AC%E9%80%81%E7%AA%81%E5%B0%BC%E6%96%AF%E5%87%BA%E5%B1%80",
           "source": "贴吧",
@@ -662,28 +799,28 @@
           "time_info": "[02时40分 ~ 05时29分]"
         },
         {
-          "title": "日本准备去格陵兰评估稀土开采，是否说明全球资源争夺已经进入「稀土时代」？",
-          "url": "https://www.zhihu.com/question/2049458434265855778",
-          "source": "知乎",
+          "title": "终于懂韩国人看我们吃西瓜的感觉了",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%87%82%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9C%8B%E6%88%91%E4%BB%AC%E5%90%83%E8%A5%BF%E7%93%9C%E7%9A%84%E6%84%9F%E8%A7%89%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            15,
-            17
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时40分 ~ 18时29分]"
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
-          "title": "泳装屈原!日本手游整狠活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
-          "source": "贴吧",
+          "title": "日本“地狱级笑话”G7重演",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E5%9C%B0%E7%8B%B1%E7%BA%A7%E7%AC%91%E8%AF%9D%E2%80%9DG7%E9%87%8D%E6%BC%94",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            20
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时12分 ~ 10时14分]"
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "钧正平评日本旭日旗现身世界杯看台",
@@ -696,28 +833,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 05时29分]"
-        },
-        {
-          "title": "终于懂韩国人看我们吃西瓜的感觉了",
-          "url": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%87%82%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9C%8B%E6%88%91%E4%BB%AC%E5%90%83%E8%A5%BF%E7%93%9C%E7%9A%84%E6%84%9F%E8%A7%89%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "日本“地狱级笑话”G7重演",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E5%9C%B0%E7%8B%B1%E7%BA%A7%E7%AC%91%E8%AF%9D%E2%80%9DG7%E9%87%8D%E6%BC%94",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "中方批日本扩大自卫队活动范围",
@@ -753,17 +868,6 @@
           "time_info": "[18时28分 ~ 18时29分]"
         },
         {
-          "title": "中方回应“乌克兰与日本军事合作”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E5%90%88%E4%BD%9C%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
           "title": "韩国和日本股市因科技股大幅抛售而下跌",
           "url": "https://flash.jin10.com/detail/20260623142319115800",
           "source": "金十数据",
@@ -792,7 +896,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -929,6 +1033,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "《剑风传奇》也搞宿命论了，为何日本 ACG 作品总有「血统论」情结？",
+          "url": "https://www.zhihu.com/question/2049458030878761941",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "钧正平：日本铁了心走军国主义不归路",
           "url": "https://www.toutiao.com/trending/7654214119353188393/",
           "source": "今日头条",
@@ -971,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "意大利国防部长：我们正在与英国和日本推进GCAP（全球作战空中计划）项目，我认为其他国家会加入。",
+          "url": "https://flash.jin10.com/detail/20260623205920168800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "日本6月综合PMI初值 52.5，前值 51.1。",
@@ -1067,7 +1193,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
@@ -1075,7 +1201,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "一图看懂：10年有6位英国首相辞职，他们都是谁？",
@@ -1103,18 +1229,6 @@
           "time_info": "[02时40分 ~ 14时40分]"
         },
         {
-          "title": "英国首相斯塔默宣布辞职，英国政坛会发生什么变化？谁可能接任？",
-          "url": "https://www.zhihu.com/question/2052429865199088269",
-          "source": "知乎",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时40分 ~ 07时13分]"
-        },
-        {
           "title": "英国首相斯塔默宣布辞职",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E6%96%AF%E5%A1%94%E9%BB%98%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C",
           "source": "bilibili 热搜",
@@ -1126,8 +1240,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时40分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[02时40分 ~ 21时37分]"
+        },
+        {
+          "title": "英国首相斯塔默宣布辞职，英国政坛会发生什么变化？谁可能接任？",
+          "url": "https://www.zhihu.com/question/2052429865199088269",
+          "source": "知乎",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时13分]"
         },
         {
           "title": "世界杯：法国vs伊拉克",
@@ -1202,6 +1328,19 @@
           "time_info": "[02时40分 ~ 10时14分]"
         },
         {
+          "title": "法国3-0伊拉克",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD3-0%E4%BC%8A%E6%8B%89%E5%85%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 21时37分]"
+        },
+        {
           "title": "法国vs伊拉克",
           "url": "https://www.toutiao.com/trending/7654321927812566538/",
           "source": "今日头条",
@@ -1225,18 +1364,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时40分 ~ 07时13分]"
-        },
-        {
-          "title": "法国3-0伊拉克",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD3-0%E4%BC%8A%E6%8B%89%E5%85%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 18时29分]"
         },
         {
           "title": "伯纳姆宣誓就任议员，成为英国新首相热门人选",
@@ -1292,7 +1419,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1308,6 +1435,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时40分 ~ 07时13分]"
+        },
+        {
+          "title": "姆巴佩打进世界杯第 16 球，追平克洛泽并列历史射手榜第 2，怎样评价他的表现？他能带领法国走多远？",
+          "url": "https://www.zhihu.com/question/2052664375802951188",
+          "source": "知乎",
+          "ranks": [
+            18,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 21时37分]"
         },
         {
           "title": "法国3:0伊拉克",
@@ -1334,6 +1474,17 @@
           "time_info": "[05时28分 ~ 07时13分]"
         },
         {
+          "title": "人物｜“北方之王”伯纳姆重返威斯敏斯特，剑指英国首相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33430170",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 21时37分]"
+        },
+        {
           "title": "英国首相斯塔默宣布辞职",
           "url": "https://www.cls.cn/detail/2405641",
           "source": "财联社热门",
@@ -1345,16 +1496,15 @@
           "time_info": "[02时40分 ~ 05时29分]"
         },
         {
-          "title": "姆巴佩打进世界杯第 16 球，追平克洛泽并列历史射手榜第 2，怎样评价他的表现？他能带领法国走多远？",
-          "url": "https://www.zhihu.com/question/2052664375802951188",
-          "source": "知乎",
+          "title": "英国国王自曝个人税单",
+          "url": "https://news.ifeng.com/c/8uByD75qAtr",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时40分 ~ 18时29分]"
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "网友排队给西班牙队道歉",
@@ -1369,17 +1519,6 @@
           "time_info": "[02时40分 ~ 05时29分]"
         },
         {
-          "title": "人物｜“北方之王”伯纳姆重返威斯敏斯特，剑指英国首相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33430170",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
           "title": "法国vs伊拉克下半场因雷暴天气推迟",
           "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E4%BC%8A%E6%8B%89%E5%85%8B%E4%B8%8B%E5%8D%8A%E5%9C%BA%E5%9B%A0%E9%9B%B7%E6%9A%B4%E5%A4%A9%E6%B0%94%E6%8E%A8%E8%BF%9F&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -1389,17 +1528,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 07时13分]"
-        },
-        {
-          "title": "英国国王自曝个人税单",
-          "url": "https://news.ifeng.com/c/8uByD75qAtr",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "中方回应英国首相斯塔默辞职",
@@ -1452,9 +1580,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "分析师：英国PMI初值数据预示GDP增长将大幅放缓",
+          "url": "https://flash.jin10.com/detail/20260623210832201800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "周一（6月22日）纽约尾盘，欧元兑美元跌0.41%，英镑兑美元涨0.10%，美元兑瑞郎涨0.26%。 商品货币对中，澳元兑美元跌0.20%，纽元兑美元跌0.51%，美元兑加元涨0.07%。 瑞典克朗兑美元跌0.46%，挪威克朗兑美元大致持平，丹麦克朗兑美元跌0.45%。 波兰兹罗提兑美元跌0.72%，美元兑匈牙利福林涨0.53%。 印度卢比兑美元（收）跌0.37%，土耳其里拉兑美元跌0.04%，南非兰特兑美元涨0.24%，墨西哥比索兑美元跌0.20%，巴西雷亚尔兑美元涨0.15%。",
@@ -1479,15 +1618,37 @@
           "time_info": "10时14分"
         },
         {
+          "title": "UP主复盘法国挪威晋级淘汰赛",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E6%B3%95%E5%9B%BD%E6%8C%AA%E5%A8%81%E6%99%8B%E7%BA%A7%E6%B7%98%E6%B1%B0%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "英国政局动荡加剧：十年六相后，谁才是真正的“救世主”？",
           "url": "https://flash.jin10.com/detail/20260623180541273800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "哈兰德直言：我们可能踢不过法国",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%85%B0%E5%BE%B7%E7%9B%B4%E8%A8%80%EF%BC%9A%E6%88%91%E4%BB%AC%E5%8F%AF%E8%83%BD%E8%B8%A2%E4%B8%8D%E8%BF%87%E6%B3%95%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "欧美股指期货跌幅扩大，标普500指数期货下跌0.9%，纳斯达克期货指数下跌1.6%；欧洲斯托克50指数期货下跌0.9%，德国DAX指数期货下跌1.0%，英国富时指数期货下跌1.0%。",
@@ -1507,7 +1668,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1518,7 +1679,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1540,7 +1701,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1567,6 +1728,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "英国首相斯塔默向内阁表示，他计划实现平稳的领导层过渡。",
+          "url": "https://wallstreetcn.com/livenews/3123435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "德国两年期国债收益率跌超4个基点",
           "url": "https://wallstreetcn.com/livenews/3122959",
           "source": "华尔街见闻-快讯",
@@ -1581,7 +1753,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "NiKo感谢中国粉丝支持",
@@ -1595,8 +1767,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时40分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[02时40分 ~ 21时37分]"
         },
         {
           "title": "一天之内，中国对美祭出两份“管控名单”",
@@ -1608,6 +1780,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时40分 ~ 14时40分]"
+        },
+        {
+          "title": "赢学入脑,中亚人吐槽国产剧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355451&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E4%B8%AD%E4%BA%9A%E4%BA%BA%E5%90%90%E6%A7%BD%E5%9B%BD%E4%BA%A7%E5%89%A7",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 21时37分]"
         },
         {
           "title": "受邀担任上海电视节青年大使，张凌赫要讲好中国故事",
@@ -1637,24 +1820,13 @@
           "time_info": "[02时40分 ~ 10时14分]"
         },
         {
-          "title": "赢学入脑,中亚人吐槽国产剧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355451&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E4%B8%AD%E4%BA%9A%E4%BA%BA%E5%90%90%E6%A7%BD%E5%9B%BD%E4%BA%A7%E5%89%A7",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
           "title": "中国央行等印发《关于进一步加强金融支持妇女就业发展的实施意见》",
           "url": "https://wallstreetcn.com/livenews/3123370",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1676,9 +1848,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "两部门：国产小客车将能“当天买车，当天上牌”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33435826",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "佛得角很多地方都有“中国元素”",
@@ -1699,11 +1883,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 10时14分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 21时37分]"
         },
         {
           "title": "立陶宛总理宣布辞职，此前公开承认对中国“犯下大错”",
@@ -1713,8 +1898,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 21时37分]"
+        },
+        {
+          "title": "如何看待 2026 年大陆电影行业被曝投资撤退、票房失灵、演员无戏可接？中国电影到底出了什么问题？",
+          "url": "https://www.zhihu.com/question/2052111489327281889",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "日媒炒作中国游客回归，一秒被打脸",
@@ -1729,28 +1925,6 @@
           "time_info": "[10时14分 ~ 14时40分]"
         },
         {
-          "title": "两部门：国产小客车将能“当天买车，当天上牌”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33435826",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "如何看待 2026 年大陆电影行业被曝投资撤退、票房失灵、演员无戏可接？中国电影到底出了什么问题？",
-          "url": "https://www.zhihu.com/question/2052111489327281889",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
           "title": "中国球迷身穿张玉宁球衣看世界杯",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E8%BA%AB%E7%A9%BF%E5%BC%A0%E7%8E%89%E5%AE%81%E7%90%83%E8%A1%A3%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
           "source": "百度热搜",
@@ -1762,13 +1936,35 @@
           "time_info": "[18时28分 ~ 18时29分]"
         },
         {
+          "title": "中国人民银行法拟修改 健全宏观审慎制度框架",
+          "url": "https://wallstreetcn.com/livenews/3123464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "中国男篮vs荷兰男篮",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E8%8D%B7%E5%85%B0%E7%94%B7%E7%AF%AE&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "中慧生物：mRNA猴痘疫苗获中国药审中心的IND许可",
           "url": "https://flash.jin10.com/detail/20260623181134187800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1784,6 +1980,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "中国男篮65:60战胜荷兰男篮",
+          "url": "https://www.douyin.com/hot/2545075",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "媒体：中国足协多个部门在跟踪世界杯",
           "url": "https://www.toutiao.com/trending/7654070809782550574/",
           "source": "今日头条",
@@ -1793,6 +2000,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "加强数据期刊建设 中国科学院发布新刊",
+          "url": "https://wallstreetcn.com/livenews/3123458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "中国央行逆回购今日净投放750亿元人民币",
@@ -1834,7 +2052,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1911,7 +2129,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1938,6 +2156,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "中国赴日游客数量连续6个月减少",
+          "url": "https://www.toutiao.com/trending/7654239516169093183/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "国产科幻新片值得期待吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E7%A7%91%E5%B9%BB%E6%96%B0%E7%89%87%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E5%90%97",
           "source": "bilibili 热搜",
@@ -1952,18 +2181,19 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 21时37分]"
         },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -2038,7 +2268,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -2085,6 +2315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "半导体专家：第一次真正看到超级周期",
+          "url": "https://www.toutiao.com/trending/7654516746312748582/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
@@ -2183,9 +2424,92 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "匈牙利央行：福林走强，以及能源和食品价格下降，导致通胀降低。",
+          "url": "https://flash.jin10.com/detail/20260623211046708800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "培育钻石概念反复活跃，博云新材3连板，黄河旋风2连板，惠丰钻石涨超10%，力量钻石、四方达、恒盛能源涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3123112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块收跌3.83%，可选消费板块跌2.33%，信息技术/科技板块跌0.04%，能源板块涨1.24%，房地产板块涨1.38%。",
+          "url": "https://wallstreetcn.com/livenews/3123020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "远景科技集团发布三大能源系统解决方案，面向AI数据中心等场景",
+          "url": "https://wallstreetcn.com/livenews/3123454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美财政部放宽对伊朗能源相关交易限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431377",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "IEA署长：伊朗能源危机将推动全球电气化进程",
+          "url": "https://wallstreetcn.com/livenews/3122965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "欧盟停止出售成员国碳配额，以推动能源转型",
+          "url": "https://wallstreetcn.com/livenews/3123005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         }
       ]
     },
@@ -2251,56 +2575,6 @@
       ]
     },
     {
-      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "培育钻石概念反复活跃，博云新材3连板，黄河旋风2连板，惠丰钻石涨超10%，力量钻石、四方达、恒盛能源涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3123112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "标普500指数的11个板块中，电信板块收跌3.83%，可选消费板块跌2.33%，信息技术/科技板块跌0.04%，能源板块涨1.24%，房地产板块涨1.38%。",
-          "url": "https://wallstreetcn.com/livenews/3123020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "IEA署长：伊朗能源危机将推动全球电气化进程",
-          "url": "https://wallstreetcn.com/livenews/3122965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "欧盟停止出售成员国碳配额，以推动能源转型",
-          "url": "https://wallstreetcn.com/livenews/3123005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
       "match_count": 4,
       "titles": [
@@ -2312,8 +2586,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "刘强东：未来不需要快递员，将送70万快递员学修机器人",
