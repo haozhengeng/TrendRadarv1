@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-25T11:34:09.892871+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-06-25T15:35:16.210733+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
       "match_count": 77,
       "titles": [
+        {
+          "title": "如何看待本次美国世界杯场馆没有遮雨棚，比赛期间暴雨所有观众和媒体都被惨浇，不装顶棚是因为气候还是成本？",
+          "url": "https://www.zhihu.com/question/2052696986457827081",
+          "source": "知乎",
+          "ranks": [
+            4,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 15时35分]"
+        },
         {
           "title": "瑞士2-1加拿大",
           "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%A3%AB2-1%E5%8A%A0%E6%8B%BF%E5%A4%A7",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "如何看待本次美国世界杯场馆没有遮雨棚，比赛期间暴雨所有观众和媒体都被惨浇，不装顶棚是因为气候还是成本？",
-          "url": "https://www.zhihu.com/question/2052696986457827081",
-          "source": "知乎",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 11时34分]"
         },
         {
           "title": "美国加利福尼亚州北部地区发生5.5级地震",
@@ -416,7 +417,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -812,7 +813,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -864,7 +865,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 37,
+      "match_count": 52,
       "titles": [
         {
           "title": "2名日本人被中方拘留，外交部回应",
@@ -916,6 +917,18 @@
           "time_info": "[00时09分 ~ 08时00分]"
         },
         {
+          "title": "南非1-0韩国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%97%E9%9D%9E1-0%E9%9F%A9%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 15时35分]"
+        },
+        {
           "title": "韩国女消防员被强迫陪酒后死亡，李在明怒斥：竟把下属当玩物",
           "url": "https://news.ifeng.com/c/8uDZogEtyto",
           "source": "凤凰网",
@@ -928,26 +941,73 @@
           "time_info": "[00时09分 ~ 08时00分]"
         },
         {
-          "title": "南非1-0韩国",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%97%E9%9D%9E1-0%E9%9F%A9%E5%9B%BD",
-          "source": "bilibili 热搜",
+          "title": "韩国队输球众生相",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E8%BE%93%E7%90%83%E4%BC%97%E7%94%9F%E7%9B%B8",
+          "source": "百度热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "高开低走,韩国小组赛两连败",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355637&amp;topic_name=%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0%2C%E9%9F%A9%E5%9B%BD%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%B8%A4%E8%BF%9E%E8%B4%A5",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "韩国输球众生相",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%BE%93%E7%90%83%E4%BC%97%E7%94%9F%E7%9B%B8&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "世界杯小组赛 A 组，南非 1-0 韩国，首次晋级淘汰赛，韩国小组第三出线待定，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053071920468439136",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "南非1:0韩国",
           "url": "https://www.douyin.com/hot/2546677",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 15时35分]"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 15时35分]"
         },
         {
           "title": "据韩国媒体，SK海力士正评估扩大其清州NAND闪存工厂的投资。",
@@ -961,13 +1021,24 @@
           "time_info": "08时00分"
         },
         {
+          "title": "商务部回应近期日本经济界人士接连访华",
+          "url": "https://wallstreetcn.com/livenews/3124509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "摩根大通将韩国股市Kospi指数在牛市情景的目标位上调至15000点",
           "url": "https://wallstreetcn.com/livenews/3124408",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1016,18 +1087,6 @@
           "time_info": "08时00分"
         },
         {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 11时34分]"
-        },
-        {
           "title": "韩国总理近20年后重返母校清华",
           "url": "https://www.toutiao.com/trending/7654084237666615334/",
           "source": "今日头条",
@@ -1038,6 +1097,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时08分]"
+        },
+        {
+          "title": "韩国记者问踢成这样是否食物中毒",
+          "url": "https://www.toutiao.com/trending/7654706261342211627/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "面对“打平即出线” 韩国队又输了",
@@ -1062,6 +1132,17 @@
           "time_info": "[07时59分 ~ 08时00分]"
         },
         {
+          "title": "日本韩国世界杯死亡前景",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%9F%A9%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%BB%E4%BA%A1%E5%89%8D%E6%99%AF%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
           "title": "日本未来一周或再次强震",
           "url": "https://www.toutiao.com/trending/7655130295582215706/",
           "source": "今日头条",
@@ -1084,6 +1165,17 @@
           "time_info": "[07时59分 ~ 08时00分]"
         },
         {
+          "title": "面对“打平即出线”，韩国队又输了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449649",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
           "title": "南非半场0比0韩国",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E%E5%8D%8A%E5%9C%BA0%E6%AF%940%E9%9F%A9%E5%9B%BD&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1095,6 +1187,39 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
+          "title": "韩国输球众生相",
+          "url": "https://www.douyin.com/hot/2547173",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "日本本州7.1级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "韩国队要看别人脸色了",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E8%A6%81%E7%9C%8B%E5%88%AB%E4%BA%BA%E8%84%B8%E8%89%B2%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
           "title": "日本地震",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1104,6 +1229,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时33分 ~ 11时34分]"
+        },
+        {
+          "title": "日本企业组了10个团访华",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E7%BB%84%E4%BA%8610%E4%B8%AA%E5%9B%A2%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "日本6月19日当周外资净买进日本债券 -10573亿日元，前值 -5310亿日元。",
@@ -1145,7 +1281,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1194,6 +1330,17 @@
           "time_info": "08时00分"
         },
         {
+          "title": "大和证券：日本投资计划可能加剧日本国债市场对财政状况的担忧",
+          "url": "https://flash.jin10.com/detail/20260625151542311800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "韩国轻易带崩华尔街，AI储存线还有多久？",
           "url": "https://flash.jin10.com/detail/20260625013238997800",
           "source": "金十数据",
@@ -1211,7 +1358,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1236,6 +1383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "商务部回应近期日本经济界人士接连访华",
+          "url": "https://flash.jin10.com/detail/20260625151059045800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "日本本州东岸附近发生6.5级地震。（德国地球科学研究中心GFZ）",
@@ -1280,12 +1438,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "日本国收益率全线下跌 40年期领跌",
+          "url": "https://wallstreetcn.com/livenews/3124472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 32,
+      "match_count": 42,
       "titles": [
         {
           "title": "世界最快高铁跑出中国创新加速度",
@@ -1321,8 +1490,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 11时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时35分]"
         },
         {
           "title": "章泽天对谈中国合伙人王强",
@@ -1332,8 +1501,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 11时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时35分]"
         },
         {
           "title": "国产电影溃败,票房不行怪观众",
@@ -1342,11 +1511,12 @@
           "ranks": [
             19,
             21,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 11时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时35分]"
         },
         {
           "title": "赢学入脑,中亚人吐槽国产剧",
@@ -1388,6 +1558,28 @@
           "time_info": "[07时59分 ~ 11时34分]"
         },
         {
+          "title": "“六张网”夯实中国式现代化战略底座",
+          "url": "https://www.toutiao.com/trending/7654138782140137514/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 15时35分]"
+        },
+        {
+          "title": "国产大飞机C919首飞延安",
+          "url": "https://www.douyin.com/hot/2546764",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 15时35分]"
+        },
+        {
           "title": "欧洲病了别让中国吃药",
           "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E7%97%85%E4%BA%86%E5%88%AB%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%90%83%E8%8D%AF",
           "source": "百度热搜",
@@ -1424,26 +1616,26 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
-          "title": "“六张网”夯实中国式现代化战略底座",
-          "url": "https://www.toutiao.com/trending/7654138782140137514/",
-          "source": "今日头条",
+          "title": "中国链给世界稳稳的确定性",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%BE%E7%BB%99%E4%B8%96%E7%95%8C%E7%A8%B3%E7%A8%B3%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
-          "title": "国产大飞机C919首飞延安",
-          "url": "https://www.douyin.com/hot/2546764",
-          "source": "抖音",
+          "title": "中国在黄岩岛首次发现罕见蓝洞",
+          "url": "https://www.toutiao.com/trending/7654091159514497062/",
+          "source": "今日头条",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
@@ -1470,6 +1662,19 @@
           "time_info": "[02时28分 ~ 08时00分]"
         },
         {
+          "title": "高盛：中国白酒最困难的阶段已经过去",
+          "url": "https://wallstreetcn.com/articles/3775426",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 15时35分]"
+        },
+        {
           "title": "外交部：两名日本人因违反中国法律被拘留",
           "url": "https://www.cls.cn/detail/2407880",
           "source": "财联社热门",
@@ -1488,21 +1693,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
         {
-          "title": "高盛：中国白酒最困难的阶段已经过去",
-          "url": "https://wallstreetcn.com/articles/3775426",
-          "source": "华尔街见闻",
+          "title": "第四届中国—东盟防务智库交流活动将在昆明举行",
+          "url": "https://flash.jin10.com/detail/20260625152859764800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 11时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "中国超算重回世界第一，释放多重信号",
@@ -1515,6 +1719,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时59分 ~ 11时34分]"
+        },
+        {
+          "title": "中国企业家回了马斯克一句话，西方媒体不淡定了",
+          "url": "https://news.ifeng.com/c/8uE6Ferc62C",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 15时35分]"
         },
         {
           "title": "外国游客涌入中国农村体验干农活",
@@ -1540,17 +1756,6 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "中国企业家回了马斯克一句话，西方媒体不淡定了",
-          "url": "https://news.ifeng.com/c/8uE6Ferc62C",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
           "title": "中国侨联副主席连小敏逝世",
           "url": "https://www.toutiao.com/trending/7655120720158002742/",
           "source": "今日头条",
@@ -1562,6 +1767,17 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
+          "title": "“印度设限挡不住中国车企进入，日本车企压力来了”",
+          "url": "https://news.ifeng.com/c/8uF0REWD0lE",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
           "title": "如果把「中国玩家共同经历过的游戏时代」做成一条时间轴，你觉得哪些瞬间最值得被永久保存？",
           "url": "https://www.zhihu.com/question/2043732533016253106",
           "source": "知乎",
@@ -1571,6 +1787,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "胶囊旅馆为什么在日本那么盛行，在中国却难以推广？",
+          "url": "https://www.zhihu.com/question/20626290",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "国产折叠屏让老外集体真香",
@@ -1595,13 +1833,35 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
+          "title": "外交部：截至目前暂无中国公民伤亡的报告",
+          "url": "https://flash.jin10.com/detail/20260625152533236800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "外交部：中方愿在一个中国原则基础上 推动中洪关系不断向前发展",
+          "url": "https://flash.jin10.com/detail/20260625152516383800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "中国信通院启动“算力Token出海生态计划”",
           "url": "https://wallstreetcn.com/livenews/3124394",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1612,7 +1872,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1634,7 +1894,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1648,6 +1908,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "中国算力平台（贵州）正式建成上线",
+          "url": "https://wallstreetcn.com/livenews/3124488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "2026全球独角兽榜单出炉 中国以381家位居全球第二",
+          "url": "https://flash.jin10.com/detail/20260625150901576800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "中国地震台网自动测定：06月25日06时04分在委内瑞拉附近发生6.7级左右地震，最终结果以正式速报为准。",
@@ -1664,7 +1946,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -1693,6 +1975,18 @@
           "time_info": "[00时09分 ~ 06时08分]"
         },
         {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 15时35分]"
+        },
+        {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
           "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
@@ -1704,16 +1998,15 @@
           "time_info": "[00时09分 ~ 04时32分]"
         },
         {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
-          "source": "财联社热门",
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
             1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时59分 ~ 11时34分]"
+          "time_info": "[11时33分 ~ 15时35分]"
         },
         {
           "title": "标普纳指三连跌但跌势缓和，金银油大跳水，盘后美光高通拉动芯片大反弹",
@@ -1725,17 +2018,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
         },
         {
           "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
@@ -1788,6 +2070,17 @@
           "time_info": "[04时32分 ~ 06时08分]"
         },
         {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
           "title": "存储芯片涨价",
           "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1819,6 +2112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "股票ETF净流出超290亿元，半导体材料设备等板块“吸金”",
+          "url": "https://wallstreetcn.com/livenews/3124498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "标普500指数初步收跌0.2%，能源板块跌1.7%，科技板块跌0.8%，电信板块跌0.7%，工业板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Rocket Lab初步收跌10%，Strategy、Nebius集团、CoreWeave、西部数据、希捷科技至少跌超4%，高通跌3.7%，闪迪跌2.6%，星巴克则涨2.5%，Axon涨5.6%，Shopify涨5.9%，Booking涨7.1%。 家得宝初步收涨5.1%，与SHW、3M、霍尼韦尔、波音领跑道指成分股，英伟达跌1%，雪佛龙跌2.3%，微软跌2.4%。 费城半导体指数跌0.4%。",
@@ -1860,7 +2164,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1893,7 +2197,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1920,6 +2224,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "意法半导体在米兰上市的股票早盘上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260625150827729800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "高通跌幅扩大至6%，刷新日低。 纳斯达克100指数跌幅扩大至1.1%，标普跌0.3%，纳指跌0.8%，半导体指数跌2.1%。",
           "url": "https://wallstreetcn.com/livenews/3124201",
           "source": "华尔街见闻-快讯",
@@ -1929,6 +2244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "美光科技财报公布后，欧洲半导体股BESI、阿斯麦、ASMI股价上涨2.6%至3.4%不等。",
+          "url": "https://flash.jin10.com/detail/20260625150816992800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "高通投资者日活动开始，数据中心主管表示：将于2028年年中推出数据中心CPU。 从2027年第一季度（即2026年底）开始，高通的定制芯片（Custom Silicon）业务将开始贡献实质性收入。 微软将在其Azure数据中心部署高通的高带宽计算（HBC）芯片。 配备AI250的高通第一代高带宽计算（HBC Gen 1）芯片预计将于2027年年中开启商业采样。 高通将于2028年推出第二代高带宽计算（HBC）芯片。 Meta计划在其数据中心使用C1000 CPU。 计划2027年推出第三代AI芯片。",
@@ -1956,7 +2282,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "“脱欧”十年后，英国会否重回欧盟？",
@@ -1995,6 +2321,17 @@
           "time_info": "[00时09分 ~ 06时08分]"
         },
         {
+          "title": "匈牙利国债收益率向英国看齐 东欧“弃儿”逆袭成投资新宠",
+          "url": "https://flash.jin10.com/detail/20260625153040818800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "德国DAX30指数6月24日（周三）收盘下跌197.03点，跌幅0.79%，报24740.00点；<br/>英国富时100指数6月24日（周三）收盘上涨34.31点，涨幅0.33%，报10463.16点；<br/>法国CAC40指数6月24日（周三）收盘上涨44.78点，涨幅0.54%，报8385.49点；<br/>欧洲斯托克50指数6月24日（周三）收盘下跌12.10点，跌幅0.19%，报6218.45点；<br/>西班牙IBEX35指数6月24日（周三）收盘下跌89.69点，跌幅0.46%，报19386.81点；<br/>意大利富时MIB指数6月24日（周三）收盘下跌382.91点，跌幅0.74%，报51641.50点。",
           "url": "https://flash.jin10.com/detail/20260624233857220800",
           "source": "金十数据",
@@ -2024,8 +2361,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 15时35分]"
         },
         {
           "title": "北约秘书长吕特：德国等盟友正在加大力度，增加国防开支。",
@@ -2037,6 +2374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "欧洲斯托克50指数开盘涨0.4%，德国DAX指数涨0.4%，英国富时100指数跌0.3%，法国CAC 40指数平开。",
+          "url": "https://wallstreetcn.com/livenews/3124502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "德国DAX 30指数初步收跌0.94%，报24659.64点。 法国股指初步收涨0.44%，意大利股指初步收跌0.96%、银行指数跌1.05%，英国股指初步收涨0.11%。",
@@ -2070,6 +2418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "法国6月消费者信心指数 84，预期 83，前值 82。",
+          "url": "https://wallstreetcn.com/livenews/3124489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "法国气象局：巴黎创下有史以来6月最高气温纪录，巴黎-隆尚观测站录得40.9℃。",
@@ -2114,6 +2473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "英国财政大臣力挺伯纳姆 称不会“预先揣测”对其职务有何决定",
+          "url": "https://wallstreetcn.com/livenews/3124475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "德国地学研究中心GFZ：委内瑞拉沿海发生6.39级地震。",
@@ -2202,6 +2572,59 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "印度歹徒轮奸女子警方拒立案引众怒",
+          "url": "https://www.toutiao.com/trending/7654106920257224755/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 11时34分]"
+        },
+        {
+          "title": "印度5名歹徒轮奸30岁已婚女子",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A65%E5%90%8D%E6%AD%B9%E5%BE%92%E8%BD%AE%E5%A5%B830%E5%B2%81%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 08时00分]"
+        },
+        {
+          "title": "印度10年期基准国债收益率降至自3月20日以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260625113231407800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "据路透调查：对印度卢比的空头押注降至11个月来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260625152015618800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
       "match_count": 4,
       "titles": [
@@ -2255,44 +2678,69 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 3,
+      "keyword_group": "# 前沿科技 量子 脑机 基因",
+      "match_count": 4,
       "titles": [
         {
-          "title": "印度歹徒轮奸女子警方拒立案引众怒",
-          "url": "https://www.toutiao.com/trending/7654106920257224755/",
-          "source": "今日头条",
+          "title": "脑机接口重新点燃医疗创投圈，有投资人称“几乎所有方向都能融到钱”",
+          "url": "https://wallstreetcn.com/livenews/3124299",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            26,
-            30
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时28分 ~ 11时34分]"
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
-          "title": "印度5名歹徒轮奸30岁已婚女子",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A65%E5%90%8D%E6%AD%B9%E5%BE%92%E8%BD%AE%E5%A5%B830%E5%B2%81%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "国务院国资委举办中央企业量子科技人才特训班",
+          "url": "https://wallstreetcn.com/livenews/3124500",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 08时00分]"
-        },
-        {
-          "title": "印度10年期基准国债收益率降至自3月20日以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260625113231407800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "15时35分"
+        },
+        {
+          "title": "广东：将符合条件的脑机接口相关医疗服务项目纳入医保支付范围",
+          "url": "https://wallstreetcn.com/livenews/3124486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "广东：5年内新增百家脑机接口企业 建成200个脑机接口病房",
+          "url": "https://wallstreetcn.com/livenews/3124482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 可视化配置编辑器地址: https://sansan0.github.io/TrendRadar/ # # 凡是左侧有 # 的都是仅供阅读的说明性文字 # # 这个文件用来设置你想关注的新闻关键词。 # 系统会自动抓取包含这些关键词的热榜新闻推送给你。 # # 文件分为两个区域： #   [GLOBAL_FILTER]  - 全局过滤区：排除不想看的内容 #   [WORD_GROUPS]    - 词组定义区：设置想关注的关键词 # # ═══════════════════════════════════════════════════════════════",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "#全国考生正在晒分#",
+          "url": "https://www.baidu.com/s?wd=%23%E5%85%A8%E5%9B%BD%E8%80%83%E7%94%9F%E6%AD%A3%E5%9C%A8%E6%99%92%E5%88%86%23",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         }
       ]
     },
@@ -2310,23 +2758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 前沿科技 量子 脑机 基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "脑机接口重新点燃医疗创投圈，有投资人称“几乎所有方向都能融到钱”",
-          "url": "https://wallstreetcn.com/livenews/3124299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
         }
       ]
     }
