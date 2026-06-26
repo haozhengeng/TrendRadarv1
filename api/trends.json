@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T02:24:11.020465+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-06-27T04:28:05.361747+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 28,
+      "match_count": 45,
       "titles": [
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -41,15 +41,48 @@
           "time_info": "00时08分"
         },
         {
+          "title": "标普：确认美国“AA+/A-1+”主权信用评级，展望维持稳定。",
+          "url": "https://wallstreetcn.com/livenews/3125455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
           "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
           "url": "https://flash.jin10.com/detail/20260627022141001800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示：SpaceX(SPCX.O)公司发行70亿美元、票面利率5.35%的2031年到期高级票据；发行60亿美元、票面利率5.65%的2033年到期高级票据；发行60亿美元、票面利率5.88%的2036年到期高级票据；发行25亿美元、票面利率6.60%的2046年到期高级票据；发行35亿美元、票面利率6.65%的2056年到期高级票据。",
+          "url": "https://flash.jin10.com/detail/20260627041713725800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "【OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强】OpenAI表示，已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。Terra的性能与 GPT-5.5 相当，但成本低2倍；Luna则以其最低的成本提供了强大的能力。 GPT-5.6 Sol搭载了该公司迄今最强大的安全防护体系。加强了对高风险活动、敏感网络请求以及重复滥用行为的防护，并花费数周时间寻找系统弱点、进行压力测试，以增强其抵御现实世界攻击的能力。 该公司计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。作为我们与美国政府持续沟通的一部分，在周五发布之前，OpenAI提前向政府展示了该公司的发布计划以及模型的各项能力。 GPT-5.6 Sol是其迄今最强大的模型。",
@@ -58,9 +91,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "标普：广泛的收入韧性（包括稳健的关税收入）应有助于缓解美国财政状况恶化的风险。",
+          "url": "https://flash.jin10.com/detail/20260627041535770800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美国总统 特朗普谈及伊朗：伊朗向至少四架穿越霍尔木兹海峡的船只发射了自杀式无人机（单向攻击无人机）。 其中一架无人机击中了一艘货船的上层甲板，美国击落了另外三架无人机。 这是对我们停火协议的愚蠢违反。",
@@ -74,37 +118,108 @@
           "time_info": "00时08分"
         },
         {
+          "title": "标普：美国经济的韧性应能支撑稳健的财政收入（包括持续征收关税带来的收入），并使未来几年的财政赤字保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260627041511055800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "标普：基于对美国经济将持续稳健增长及货币政策执行既可信又有效的预期，美国的前景保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260627041449708800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
           "url": "https://wallstreetcn.com/livenews/3125428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 04时28分]"
         },
         {
           "title": "以色列交通部：美军将加速撤离停在以机场的美国军机",
           "url": "https://wallstreetcn.com/livenews/3125427",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 04时28分]"
+        },
+        {
+          "title": "美国、以色列、黎巴嫩签署三边框架协议。",
+          "url": "https://wallstreetcn.com/livenews/3125425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 04时28分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：以色列与黎巴嫩在华盛顿会谈后达成框架协议。 未来还需付出更多努力。",
+          "url": "https://wallstreetcn.com/livenews/3125421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 04时28分]"
+        },
+        {
+          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
+          "url": "https://wallstreetcn.com/livenews/3125418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 04时28分]"
+        },
+        {
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://www.toutiao.com/trending/7655052095490326578/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        },
+        {
+          "title": "标普：尽管房利美和房地美存在进行IPO的可能性，但不应预期美国政府会放弃对其管理权的控制。",
+          "url": "https://flash.jin10.com/detail/20260627041436027800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "time_info": "04时28分"
         },
         {
           "title": "美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）：预计2026年将加息一次，2027年利率将维持不变。 我们需要看看没有前瞻指引的效果如何。",
@@ -118,35 +233,13 @@
           "time_info": "00时08分"
         },
         {
-          "title": "美国、以色列、黎巴嫩签署三边框架协议。",
-          "url": "https://wallstreetcn.com/livenews/3125425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
           "title": "美国法官命令司法部解释其撤销对印度商人高塔姆·阿达尼刑事指控的决定。",
           "url": "https://flash.jin10.com/detail/20260627021412684800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：以色列与黎巴嫩在华盛顿会谈后达成框架协议。 未来还需付出更多努力。",
-          "url": "https://wallstreetcn.com/livenews/3125421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -157,7 +250,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -168,9 +261,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "标普：尽管美国政治极化加剧，我们仍认为关键机构以及制衡机制将继续发挥作用，确保政策结果保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260627041129234800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "加拿大总理宣布：卢森堡将成为新多边防务银行的欧洲总部",
@@ -184,15 +288,81 @@
           "time_info": "00时08分"
         },
         {
-          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
-          "url": "https://wallstreetcn.com/livenews/3125418",
+          "title": "标普：预计2026至2029年间美国经济将增长约2%。",
+          "url": "https://flash.jin10.com/detail/20260627041113603800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月23日当周，投机者所持COMEX黄金净多头头寸增加91手合约，至113,010手合约。",
+          "url": "https://wallstreetcn.com/livenews/3125441",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "标普：（谈及美国）鉴于非酌情性利息支出及与人口老龄化相关的支出呈结构性上升趋势，预计一般政府净债务将逼近GDP的100%。",
+          "url": "https://flash.jin10.com/detail/20260627041057925800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "Anthropic仍在与美国政府接触，希望能让Mythos重返市场。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3125437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "标普：确认美国“AA+/A-1+”主权信用评级，展望维持稳定。",
+          "url": "https://flash.jin10.com/detail/20260627040936308800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国商务部长卢特尼克声称：欧洲刚刚通过了关于美欧贸易协议的历史性立法。 欧洲首次将关税降至零。这是我们伟大的汽车制造商、渔民、牧场主以及众多生产商的历史性成就，他们终于在与欧洲贸易时拥有了公平的竞争环境。",
+          "url": "https://wallstreetcn.com/livenews/3125436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国法官未立即驳回对印度阿达尼的刑事指控",
+          "url": "https://wallstreetcn.com/livenews/3125435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美媒：美国政府将决定谁可以使用新版ChatGPT",
@@ -201,7 +371,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -223,7 +393,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -234,9 +404,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
+          "url": "https://wallstreetcn.com/livenews/3125432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美国、以色列、黎巴嫩签署了三边框架协议。",
@@ -245,7 +426,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -256,7 +437,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -267,7 +448,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -278,7 +459,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -289,7 +470,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -300,9 +481,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国总统特朗普：（当被问及伊朗在霍尔木兹海峡的行动时）你们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260627035601886800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美国能源部：去年美国单日炼油产能减少26.3万桶",
@@ -311,7 +503,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         }
@@ -319,7 +511,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "头条世界杯｜现在南美>欧洲，德国爆冷迎来最及时的打脸",
@@ -329,8 +521,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "法国VS挪威",
+          "url": "https://www.toutiao.com/trending/7654936564875493385/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        },
+        {
+          "title": "挪威vs法国",
+          "url": "https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
         },
         {
           "title": "挪威vs法国首发出炉",
@@ -344,13 +558,109 @@
           "time_info": "[02时23分 ~ 02时24分]"
         },
         {
+          "title": "挪威vs法国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        },
+        {
+          "title": "法国人热到不提环保了",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%BA%BA%E7%83%AD%E5%88%B0%E4%B8%8D%E6%8F%90%E7%8E%AF%E4%BF%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "世界杯小组赛 I 组，挪威 vs 法国，如何评价本场比赛？哈兰德和姆巴佩会上演进球大战吗？",
+          "url": "https://www.zhihu.com/question/2053791037974483526",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "高温能不能用空调？法国极左翼、极右翼领导人打起嘴仗",
+          "url": "https://news.ifeng.com/c/8uGwKqQfQ1k",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "法国与挪威的 “新绝代双骄”对决成为焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33460300",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "挪威vs法国",
+          "url": "https://www.douyin.com/hot/2548362",
+          "source": "抖音",
+          "ranks": [
+            16,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "谁能接手英国乱局",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E8%83%BD%E6%8E%A5%E6%89%8B%E8%8B%B1%E5%9B%BD%E4%B9%B1%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "不安空调,法国发达成笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355644&amp;topic_name=%E4%B8%8D%E5%AE%89%E7%A9%BA%E8%B0%83%2C%E6%B3%95%E5%9B%BD%E5%8F%91%E8%BE%BE%E6%88%90%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
           "title": "布基纳法索称法国没有遵守相互尊重和不干涉内政的原则。",
           "url": "https://flash.jin10.com/detail/20260627021816130800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -361,7 +671,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -377,16 +687,16 @@
           "time_info": "00时08分"
         },
         {
-          "title": "法国人热到不提环保了",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%BA%BA%E7%83%AD%E5%88%B0%E4%B8%8D%E6%8F%90%E7%8E%AF%E4%BF%9D%E4%BA%86",
+          "title": "世界杯：挪威vs法国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
             9,
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "time_info": "[02时23分 ~ 04时28分]"
         },
         {
           "title": "挪威vs法国赛事前瞻",
@@ -401,84 +711,15 @@
           "time_info": "[00时07分 ~ 02时24分]"
         },
         {
-          "title": "高温能不能用空调？法国极左翼、极右翼领导人打起嘴仗",
-          "url": "https://news.ifeng.com/c/8uGwKqQfQ1k",
-          "source": "凤凰网",
+          "title": "挪威半场1比3法国",
+          "url": "https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%81%E5%8D%8A%E5%9C%BA1%E6%AF%943%E6%B3%95%E5%9B%BD&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
-        },
-        {
-          "title": "法国与挪威的 “新绝代双骄”对决成为焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33460300",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
-        },
-        {
-          "title": "世界杯小组赛 I 组，挪威 vs 法国，如何评价本场比赛？哈兰德和姆巴佩会上演进球大战吗？",
-          "url": "https://www.zhihu.com/question/2053791037974483526",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
-        },
-        {
-          "title": "挪威vs法国",
-          "url": "https://www.douyin.com/hot/2548362",
-          "source": "抖音",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
-        },
-        {
-          "title": "谁能接手英国乱局",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E8%83%BD%E6%8E%A5%E6%89%8B%E8%8B%B1%E5%9B%BD%E4%B9%B1%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
-        },
-        {
-          "title": "不安空调,法国发达成笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355644&amp;topic_name=%E4%B8%8D%E5%AE%89%E7%A9%BA%E8%B0%83%2C%E6%B3%95%E5%9B%BD%E5%8F%91%E8%BE%BE%E6%88%90%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
-        },
-        {
-          "title": "世界杯：挪威vs法国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
+          "time_info": "[04时27分 ~ 04时28分]"
         },
         {
           "title": "法国高温留学生称二手空调卖280欧",
@@ -517,7 +758,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "日本对华外交是否在朝错误方向发展？岸田文雄答凤凰",
@@ -527,8 +768,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "如何看待韩国网友怒骂德国故意输球，日本不帮韩国队出线？客观分析，韩国出线概率真的很渺茫吗？",
@@ -536,11 +777,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "日本多个经济团体来华参观访问，外交部回应",
@@ -550,8 +792,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "“反腐少将”被查，朝鲜领导层重大调整",
+          "url": "https://news.ifeng.com/c/8uGvyTlL0MR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
+          "url": "https://wallstreetcn.com/articles/3775570",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
@@ -565,50 +829,17 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "“反腐少将”被查，朝鲜领导层重大调整",
-          "url": "https://news.ifeng.com/c/8uGvyTlL0MR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
-        },
-        {
-          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
-          "url": "https://wallstreetcn.com/articles/3775570",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
-        },
-        {
           "title": "韩国队一天被“坑”三次",
           "url": "https://www.toutiao.com/trending/7655539296639749642/",
           "source": "今日头条",
           "ranks": [
             6,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
-        },
-        {
-          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
-          "url": "https://www.zhihu.com/question/2053182874514364148",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "不挑对手直面巴西，日本挑战世界杯淘汰赛魔咒",
@@ -618,8 +849,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "韩国危!德国输球坑惨太极虎",
@@ -630,8 +861,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "强势之组,荷兰日本瑞典携手晋级",
@@ -642,8 +873,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "高开低走,韩国小组赛两连败",
@@ -652,6 +883,18 @@
           "ranks": [
             20,
             23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
+          "url": "https://www.zhihu.com/question/2053182874514364148",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -689,12 +932,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时24分]"
+        },
+        {
+          "title": "难不成德国输球是为了报复韩国",
+          "url": "https://www.douyin.com/hot/2548595",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "李在明称担忧中国渔船“非法捕捞”，外交部回应",
@@ -704,8 +958,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "2名中国公民在委内瑞拉地震中遇难",
@@ -715,8 +969,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "中国车热卖！5月欧洲毎10辆新车中就有一辆中国品牌",
+          "url": "https://www.cls.cn/detail/2410110",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
+          "url": "https://www.zhihu.com/question/2053125507613470786",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "SemiAnalysis：我们相信中国的刻蚀本地化进程比沉积更快。前端进口数据显示，刻蚀同比下降18%，而沉积同比增长3%。 全球蚀刻行业现任企业的财务数据传达了同样的信息，AMAT（应用材料） 在FY25财年的中国收入同比下降16%，TEL（泰科电子）在FY26财年的中国收入同比下降18%。 我们将Naura视为关键驱动力。",
@@ -730,38 +1019,38 @@
           "time_info": "00时08分"
         },
         {
-          "title": "中国车热卖！5月欧洲毎10辆新车中就有一辆中国品牌",
-          "url": "https://www.cls.cn/detail/2410110",
-          "source": "财联社热门",
+          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，网易初步收涨7.8%，拼多多涨4.5%，新东方、蔚来、百胜中国、理想至多涨4.2%，阿里涨0.1%，日月光半导体跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3125451",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
-          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
-          "url": "https://www.zhihu.com/question/2053125507613470786",
+          "title": "138.8 万元起，国产华为尊界 S800 Grand Design 典藏大观正式发布，你怎么看？",
+          "url": "https://www.zhihu.com/question/2053574442261944010",
           "source": "知乎",
           "ranks": [
-            11,
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "time_info": "[02时23分 ~ 04时28分]"
         },
         {
-          "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
-          "source": "澎湃新闻",
+          "title": "日媒承认：中国发动机技术赶超日企",
+          "url": "https://www.toutiao.com/trending/7654876209050091556/",
+          "source": "今日头条",
           "ranks": [
+            19,
             16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "time_info": "[02时23分 ~ 04时28分]"
         },
         {
           "title": "中国人就吃恨海情天这套",
@@ -773,28 +1062,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "138.8 万元起，国产华为尊界 S800 Grand Design 典藏大观正式发布，你怎么看？",
-          "url": "https://www.zhihu.com/question/2053574442261944010",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
-        },
-        {
-          "title": "日媒承认：中国发动机技术赶超日企",
-          "url": "https://www.toutiao.com/trending/7654876209050091556/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
         },
         {
           "title": "太平年最佳中国电视剧",
@@ -822,7 +1089,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
@@ -832,8 +1099,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
@@ -843,8 +1110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -854,8 +1121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
@@ -866,8 +1133,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
+        },
+        {
+          "title": "费城半导体指数本周下跌7.9%，创下4月初以来的最大单周跌幅。",
+          "url": "https://flash.jin10.com/detail/20260627041033190800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
@@ -887,9 +1165,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美股收盘，道指跌0.12%、标普500指数跌0.07%、纳指跌0.24%。半导体、存储概念股走软，西部数据(WDC.O)跌13%、希捷科技(STX.O)跌12%、闪迪(SNDK.O)跌10%、美光科技(MU.O)跌6.6%、高通(QCOM.O)跌7%。",
+          "url": "https://flash.jin10.com/detail/20260627040045015800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
@@ -905,8 +1194,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "新型能源体系建设“十五五”规划",
@@ -916,8 +1205,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "超20万亿元能源投资锚定三大方向",
@@ -939,8 +1228,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         },
         {
           "title": "欧盟能源专员：欧洲航空燃油供应在夏末可能会面临更严峻的局面。",
@@ -968,8 +1257,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         }
       ]
     },
@@ -1003,8 +1292,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时28分]"
         }
       ]
     }
