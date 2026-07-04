@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-05T04:11:41.457985+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-07-05T05:52:02.252933+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "加拿大摩洛哥冲突",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%91%A9%E6%B4%9B%E5%93%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 05时52分]"
+        },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
           "url": "https://wallstreetcn.com/livenews/3128944",
@@ -15,19 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
-          "title": "加拿大摩洛哥冲突",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%91%A9%E6%B4%9B%E5%93%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "近四成美国人不相信国家能延续 250 年，原因是什么？",
@@ -40,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "加拿大vs摩洛哥",
@@ -50,11 +51,94 @@
           "ranks": [
             2,
             5,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 05时52分]"
+        },
+        {
+          "title": "加拿大成首个被淘汰的东道主球队",
+          "url": "https://www.toutiao.com/trending/7657895882733702675/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
+        },
+        {
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "摩洛哥3-0加拿大晋级8强",
+          "url": "https://search.bilibili.com/all?keyword=%E6%91%A9%E6%B4%9B%E5%93%A53-0%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%99%8B%E7%BA%A78%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
+        },
+        {
+          "title": "创非洲历史,摩洛哥轻取加拿大",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355901&amp;topic_name=%E5%88%9B%E9%9D%9E%E6%B4%B2%E5%8E%86%E5%8F%B2%2C%E6%91%A9%E6%B4%9B%E5%93%A5%E8%BD%BB%E5%8F%96%E5%8A%A0%E6%8B%BF%E5%A4%A7",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
+        },
+        {
+          "title": "摩洛哥3:0加拿大",
+          "url": "https://www.douyin.com/hot/2558487",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
+        },
+        {
+          "title": "世界杯：加拿大vs摩洛哥",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%8A%A0%E6%8B%BF%E5%A4%A7vs%E6%91%A9%E6%B4%9B%E5%93%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "加拿大vs摩洛哥黄牌比射门还多",
+          "url": "https://www.toutiao.com/trending/7658733323522719786/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 05时52分]"
         },
         {
           "title": "摩洛哥1-0领先加拿大",
@@ -68,105 +152,38 @@
           "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "加拿大成首个被淘汰的东道主球队",
-          "url": "https://www.toutiao.com/trending/7657895882733702675/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "美国250周年庆典变特朗普私人派对？",
-          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
-          "title": "加拿大vs摩洛哥黄牌比射门还多",
-          "url": "https://www.toutiao.com/trending/7658733323522719786/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时11分]"
-        },
-        {
-          "title": "摩洛哥3-0加拿大晋级8强",
-          "url": "https://search.bilibili.com/all?keyword=%E6%91%A9%E6%B4%9B%E5%93%A53-0%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%99%8B%E7%BA%A78%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "世界杯：加拿大vs摩洛哥",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%8A%A0%E6%8B%BF%E5%A4%A7vs%E6%91%A9%E6%B4%9B%E5%93%A5",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
-          "title": "美国Axios记者称，若内塔尼亚胡造访白宫，这将是他自二月份在情况室与美国总统特朗普的戏剧性会晤以来的首次会面，当时，内塔尼亚胡提交了一份对伊朗开战的方案。",
-          "url": "https://flash.jin10.com/detail/20260705032036905800",
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普举行了新的电话会谈，通话由美方发起，持续了1小时25分钟。普京向特朗普和美国人民祝贺美国独立日，纪念美国独立250周年。",
+          "url": "https://flash.jin10.com/detail/20260705052117522800",
           "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "创非洲历史,摩洛哥轻取加拿大",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355901&amp;topic_name=%E5%88%9B%E9%9D%9E%E6%B4%B2%E5%8E%86%E5%8F%B2%2C%E6%91%A9%E6%B4%9B%E5%93%A5%E8%BD%BB%E5%8F%96%E5%8A%A0%E6%8B%BF%E5%A4%A7",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
+          "time_info": "05时52分"
         },
         {
           "title": "加拿大0比3摩洛哥",
           "url": "https://s.weibo.com/weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A70%E6%AF%943%E6%91%A9%E6%B4%9B%E5%93%A5&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
         },
         {
-          "title": "摩洛哥3:0加拿大",
-          "url": "https://www.douyin.com/hot/2558487",
-          "source": "抖音",
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "加拿大vs摩洛哥",
@@ -264,6 +281,18 @@
           "time_info": "[03时02分 ~ 04时11分]"
         },
         {
+          "title": "美国Axios记者称，若内塔尼亚胡造访白宫，这将是他自二月份在情况室与美国总统特朗普的戏剧性会晤以来的首次会面，当时，内塔尼亚胡提交了一份对伊朗开战的方案。",
+          "url": "https://flash.jin10.com/detail/20260705032036905800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时11分 ~ 05时52分]"
+        },
+        {
           "title": "加拿大vs摩洛哥",
           "url": "https://www.douyin.com/hot/2558487",
           "source": "抖音",
@@ -277,15 +306,26 @@
           "time_info": "[00时54分 ~ 03时02分]"
         },
         {
-          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
-          "url": "https://wallstreetcn.com/livenews/3128926",
-          "source": "华尔街见闻-快讯",
+          "title": "摩洛哥3-0加拿大",
+          "url": "https://www.toutiao.com/trending/7658173795634531882/",
+          "source": "今日头条",
           "ranks": [
-            20
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
+        },
+        {
+          "title": "摩洛哥3比0加拿大晋级8强",
+          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A53%E6%AF%940%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%99%8B%E7%BA%A78%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
         },
         {
           "title": "叙利亚总统：我们期待与美国建立基于尊重与合作的关系。",
@@ -298,28 +338,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时11分]"
-        },
-        {
-          "title": "摩洛哥3-0加拿大",
-          "url": "https://www.toutiao.com/trending/7658173795634531882/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "摩洛哥3比0加拿大晋级8强",
-          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A53%E6%AF%940%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%99%8B%E7%BA%A78%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
         },
         {
           "title": "美国总统特朗普：美国和伊朗决定暂停会谈一周。哈梅内伊葬礼相关事宜结束前，美伊双方互不交火。",
@@ -339,7 +357,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -350,9 +368,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "一名白宫高级官员透露，特朗普今晚将发表一篇具有历史意义的演讲，回顾美国建国二百五十年来的历程，并通过美国英雄的事迹来讲述这段历史。这将是一场独一无二的演讲，与他以往发表过的任何演讲都截然不同。",
+          "url": "https://flash.jin10.com/detail/20260705044719440800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "美国副总统万斯：英国历届领导人未能履职，期待下任首相带来变革",
+          "url": "https://flash.jin10.com/detail/20260705041759558800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
@@ -391,7 +431,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国7舰横穿日本4大要道",
@@ -401,8 +441,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "十五五期间美丽中国建设规划亮点",
@@ -412,8 +452,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "佛得角再谢中国,友谊长存",
@@ -424,8 +464,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "日媒关注：中国机车对日反向输出",
@@ -437,6 +477,120 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 04时11分]"
+        },
+        {
+          "title": "日本首次公布跟踪中国航母视频",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83%E8%B7%9F%E8%B8%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            14,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "明查｜柬埔寨电诈园区发现关押2100名中国大学生？无证据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33504773",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
+          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "佛得角再次感谢中国：帮我们圆梦",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E6%AC%A1%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%EF%BC%9A%E5%B8%AE%E6%88%91%E4%BB%AC%E5%9C%86%E6%A2%A6",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            12,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "现场｜易碎品中国男篮，需要一次破而后立",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33517134",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "董路：中国足球小将现在就能超越日本",
+          "url": "https://www.toutiao.com/trending/7657769293937098798/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
+          "url": "https://news.ifeng.com/c/8uUi1MnrVik",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 05时52分]"
+        },
+        {
+          "title": "中国地震局对大理地震启动四级响应",
+          "url": "https://www.toutiao.com/trending/7658643757931171347/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "针对云南大理州宾川县地震 中国地震局启动四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3128942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "佛得角再次感谢中国",
@@ -452,83 +606,6 @@
           "time_info": "[00时54分 ~ 03时02分]"
         },
         {
-          "title": "日本首次公布跟踪中国航母视频",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83%E8%B7%9F%E8%B8%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
-          "title": "明查｜柬埔寨电诈园区发现关押2100名中国大学生？无证据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33504773",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
-          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
-          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
-          "title": "佛得角再次感谢中国：帮我们圆梦",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E6%AC%A1%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%EF%BC%9A%E5%B8%AE%E6%88%91%E4%BB%AC%E5%9C%86%E6%A2%A6",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            12,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
-          "title": "现场｜易碎品中国男篮，需要一次破而后立",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33517134",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
-          "title": "董路：中国足球小将现在就能超越日本",
-          "url": "https://www.toutiao.com/trending/7657769293937098798/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
           "title": "董路：中国足球小将现在就能超越日本",
           "url": "https://www.baidu.com/s?wd=%E8%91%A3%E8%B7%AF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E7%8E%B0%E5%9C%A8%E5%B0%B1%E8%83%BD%E8%B6%85%E8%B6%8A%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
@@ -542,15 +619,15 @@
           "time_info": "[00时54分 ~ 04时11分]"
         },
         {
-          "title": "针对云南大理州宾川县地震 中国地震局启动四级应急响应",
-          "url": "https://wallstreetcn.com/livenews/3128942",
+          "title": "南非副总统：欢迎更多中国企业来南非投资兴业",
+          "url": "https://wallstreetcn.com/livenews/3128921",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "加纳巫师预测干不过中国大爷",
@@ -566,28 +643,38 @@
           "time_info": "[01时57分 ~ 04时11分]"
         },
         {
-          "title": "中国地震局对大理地震启动四级响应",
-          "url": "https://www.toutiao.com/trending/7658643757931171347/",
-          "source": "今日头条",
+          "title": "如何看待中国 80 后集体扎堆染黄毛？他们在「叛逆」什么？",
+          "url": "https://www.zhihu.com/question/2055282982999385425",
+          "source": "知乎",
           "ranks": [
             19,
-            24,
-            23
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "time_info": "[03时01分 ~ 05时52分]"
         },
         {
-          "title": "南非副总统：欢迎更多中国企业来南非投资兴业",
-          "url": "https://wallstreetcn.com/livenews/3128921",
-          "source": "华尔街见闻-快讯",
+          "title": "中国首架综合航测飞机首飞成功",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%B6%E7%BB%BC%E5%90%88%E8%88%AA%E6%B5%8B%E9%A3%9E%E6%9C%BA%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "百度热搜",
           "ranks": [
-            25
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
+        },
+        {
+          "title": "MiniMax高盛电话会：对今年10亿美元ARR充满信心，模型优势在“组织敏捷性”，与国产芯片高度集成",
+          "url": "https://wallstreetcn.com/articles/3776197",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 05时52分]"
         },
         {
           "title": "何小鹏：中国智驾领先全球，L2级辅助驾驶将加速出海",
@@ -602,17 +689,6 @@
           "time_info": "[00时54分 ~ 01时57分]"
         },
         {
-          "title": "如何看待中国 80 后集体扎堆染黄毛？他们在「叛逆」什么？",
-          "url": "https://www.zhihu.com/question/2055282982999385425",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
-        },
-        {
           "title": "日本首次公布跟踪中国航母视频",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83%E8%B7%9F%E8%B8%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E8%A7%86%E9%A2%91%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -622,34 +698,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "中国首架综合航测飞机首飞成功",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%B6%E7%BB%BC%E5%90%88%E8%88%AA%E6%B5%8B%E9%A3%9E%E6%9C%BA%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "普京首次承认缺油，被指准备从日本进口航空燃油",
           "url": "https://news.ifeng.com/c/8uUOZ6O0Say",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "日本“首次”从废旧空调中提取稀土，网民吐槽",
@@ -659,8 +725,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "王楚钦孙颖莎不敌韩国组合，获WTT美国大满贯赛混双亚军",
@@ -671,8 +737,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "韩国存储扩产、Meta出租算力--野村谈“存储两大利空”",
@@ -682,21 +748,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
-        },
-        {
-          "title": "随着日本队被绝杀，地理意义上的亚洲球队全部告别世界杯，你觉得亚洲足球的整体水平是进步了还是退步了？",
-          "url": "https://www.zhihu.com/question/2055227215474856026",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
@@ -706,8 +759,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "随着日本队被绝杀，地理意义上的亚洲球队全部告别世界杯，你觉得亚洲足球的整体水平是进步了还是退步了？",
+          "url": "https://www.zhihu.com/question/2055227215474856026",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "父凭子贵,Bin爸赴韩国督战",
@@ -719,8 +786,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内",
@@ -730,8 +797,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "一碗面38块,日本还在吹经济",
@@ -743,8 +810,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "日本男演员片场骚扰女明星",
@@ -756,8 +823,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "酱油日本特有?日网友醒醒",
@@ -770,12 +837,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时54分 ~ 03时02分]"
+        },
+        {
+          "title": "日本扎堆军演离岛防御",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%8E%E5%A0%86%E5%86%9B%E6%BC%94%E7%A6%BB%E5%B2%9B%E9%98%B2%E5%BE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 05时52分]"
+        },
+        {
+          "title": "美网友说日本被轰炸过还对我们好",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BD%91%E5%8F%8B%E8%AF%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E8%BD%B0%E7%82%B8%E8%BF%87%E8%BF%98%E5%AF%B9%E6%88%91%E4%BB%AC%E5%A5%BD%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 05时52分]"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "BBC 报道英国女子在印度旅行后脑子长 38 只寄生虫，这么多寄生虫哪来的？有彻底消灭它们的办法吗？",
@@ -786,8 +875,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "巴拉圭vs法国",
+          "url": "https://www.toutiao.com/trending/7658185521180999734/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 05时52分]"
+        },
+        {
+          "title": "巴拉圭vs法国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%8B%89%E5%9C%ADvs%E6%B3%95%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 05时52分]"
         },
         {
           "title": "烧穿了,法国人因高温避暑溺亡",
@@ -799,8 +910,31 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
+        },
+        {
+          "title": "世界杯：巴拉圭vs法国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%B7%B4%E6%8B%89%E5%9C%ADvs%E6%B3%95%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
+        },
+        {
+          "title": "巴拉圭vs法国",
+          "url": "https://www.douyin.com/hot/2558493",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 05时52分]"
         },
         {
           "title": "德国监管机构警告，拟议的信息法重大修订实际上等同于彻底废除政务透明机制。",
@@ -863,17 +997,6 @@
           "time_info": "[00时54分 ~ 01时57分]"
         },
         {
-          "title": "世界杯：巴拉圭vs法国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%B7%B4%E6%8B%89%E5%9C%ADvs%E6%B3%95%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
           "title": "欧洲议会拟取缔德国极右翼政党选择党所属欧盟党团",
           "url": "https://flash.jin10.com/detail/20260705003016247800",
           "source": "金十数据",
@@ -883,17 +1006,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "巴拉圭vs法国",
-          "url": "https://www.douyin.com/hot/2558493",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
         }
       ]
     },
@@ -910,8 +1022,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "女子印度游,脑子长出寄生虫",
@@ -923,8 +1035,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "媒体为印度人发声:莫以偏概全",
@@ -936,8 +1048,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "随着中东LNG供应恢复，印度取消天然气供应限制",
@@ -1007,8 +1119,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时52分]"
         },
         {
           "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
@@ -1021,6 +1133,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊拉克内阁批准巴士拉石油公司与由雪佛龙、Capital Energy TI和卡塔尔UCC能源组成的财团签署战略输油管道项目初步协议。",
+          "url": "https://flash.jin10.com/detail/20260705044508876800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         }
       ]
     }
