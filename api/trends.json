@@ -1,22 +1,55 @@
 {
-  "generated_at": "2026-07-07T01:43:44.002095+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-07T03:43:58.701295+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 18,
+      "match_count": 27,
       "titles": [
         {
-          "title": "如何看美国队红牌特赦",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E7%89%B9%E8%B5%A6",
-          "source": "bilibili 热搜",
+          "title": "美国商品期货交易委员会（CFTC）：投机者在截至6月30日的一周内，将COMEX白银投机者将净多头头寸增加1,088份合约，至12,747份；COMEX铜投机者将净多头头寸削减7,452份合约，至61,367份。",
+          "url": "https://flash.jin10.com/detail/20260707033143230800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者所持NYMEX WTI原油净多头头寸减少3,299手合约，至85,187手合约。",
+          "url": "https://wallstreetcn.com/livenews/3129538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：投机者在截至6月30日的一周内，将芝加哥期货交易所美国超长期国债期货净空头头寸削减31,431份合约，至286,669份；将10年期国债期货净空头头寸削减26,375份合约，至808,891份；将2年期国债期货净空头头寸削减31,265份合约，至1,287,581份；将美国国债期货净空头头寸削减85,263份合约，至90,780份；但5年期国债期货净空头头寸增加19,241份合约，至1,320,510份。",
+          "url": "https://flash.jin10.com/detail/20260707033136793800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者所持COMEX黄金净多头头寸增加3,808手合约，至116,817手合约。",
+          "url": "https://wallstreetcn.com/livenews/3129537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "市场消息：美国密歇根州底特律的马拉松炼油厂在停电后恢复供电。",
@@ -28,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者转而持有NYMEX天然气净多头头寸8,963手合约，较之前一周增加11,147手合约。",
+          "url": "https://wallstreetcn.com/livenews/3129536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "美国加州州长纽森：任何协助特朗普干预加州选举或计票的人都将面临刑事起诉。",
@@ -52,15 +96,16 @@
           "time_info": "01时43分"
         },
         {
-          "title": "美国国庆日为何异象四起",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BA%E4%BD%95%E5%BC%82%E8%B1%A1%E5%9B%9B%E8%B5%B7",
+          "title": "如何看美国队红牌特赦",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E7%89%B9%E8%B5%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         },
         {
           "title": "川普关税施压,美国红牌不禁赛",
@@ -70,8 +115,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "美国国庆日为何异象四起",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BA%E4%BD%95%E5%BC%82%E8%B1%A1%E5%9B%9B%E8%B5%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         },
         {
           "title": "逼走中企后接盘工厂，美国还吹上新能源“复兴”了",
@@ -81,8 +138,66 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "美国战略石油储备原油库存降至1983年以来最低水平",
+          "url": "https://wallstreetcn.com/livenews/3129503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "美国人：现在才知道我们是个坏国家",
+          "url": "https://www.toutiao.com/trending/7659278040756944947/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "美国前锋红牌被特赦 比利时上诉",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E9%94%8B%E7%BA%A2%E7%89%8C%E8%A2%AB%E7%89%B9%E8%B5%A6+%E6%AF%94%E5%88%A9%E6%97%B6%E4%B8%8A%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "国际足联主席回应美国球员巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8uYELXPooFC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "03时43分"
         },
         {
           "title": "美国驻北约大使：美国无意退出北约，但正积极研究减少在北约的参与。",
@@ -90,28 +205,6 @@
           "source": "金十数据",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "美国战略石油储备原油库存降至1983年以来最低水平",
-          "url": "https://wallstreetcn.com/livenews/3129503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
-          "url": "https://www.cls.cn/detail/2417917",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -129,15 +222,26 @@
           "time_info": "01时43分"
         },
         {
-          "title": "美国人：现在才知道我们是个坏国家",
-          "url": "https://www.toutiao.com/trending/7659278040756944947/",
-          "source": "今日头条",
+          "title": "乌克兰总统泽连斯基：乌克兰昨夜击落全部6枚“口径”导弹和31枚巡航导弹，呼吁美国授权乌方生产“爱国者”导弹，以弥补拦截弹不足。",
+          "url": "https://flash.jin10.com/detail/20260707023631748800",
+          "source": "金十数据",
           "ranks": [
-            17
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "03时43分"
+        },
+        {
+          "title": "FIFA 决定美国核心主力巴洛贡红牌停赛处罚暂缓一年执行，如何评价这一决定？",
+          "url": "https://www.zhihu.com/question/2057280677406577002",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
@@ -149,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "以色列驻美国大使：以色列与黎巴嫩下一轮会谈将于7月14日至15日在意大利罗马举行。",
+          "url": "https://flash.jin10.com/detail/20260707021306646800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "Anthropic已于6月10日写信给美国参议院民主党成员Warren和国会议员Scott。（纽约时报）",
@@ -184,17 +299,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "美国前锋红牌被特赦 比利时上诉",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E9%94%8B%E7%BA%A2%E7%89%8C%E8%A2%AB%E7%89%B9%E8%B5%A6+%E6%AF%94%E5%88%A9%E6%97%B6%E4%B8%8A%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
           "title": "加拿大央行：伊朗停火后，加拿大企业的通胀预期有所缓解",
           "url": "https://wallstreetcn.com/livenews/3129481",
           "source": "华尔街见闻-快讯",
@@ -208,146 +312,8 @@
       ]
     },
     {
-      "keyword_group": "[中国] 国产 中国",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "中国男篮力克中国台北",
-          "url": "https://www.douyin.com/hot/2560291",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "中国海军成功组织潜射战略导弹试射，有哪些亮点？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2057451748705448806",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "不到2年 中国再向太平洋发射战略导弹",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%88%B02%E5%B9%B4+%E4%B8%AD%E5%9B%BD%E5%86%8D%E5%90%91%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%8F%91%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "LV胜诉敲响中国纹样版权保护警钟",
-          "url": "https://s.weibo.com/weibo?q=%23LV%E8%83%9C%E8%AF%89%E6%95%B2%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BA%B9%E6%A0%B7%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4%E8%AD%A6%E9%92%9F%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "中国银行、平安银行重启 5 年期大额存单，利率 1.6%，如何解读？会有更多银行跟进上架吗？",
-          "url": "https://www.zhihu.com/question/2056675738087075884",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "中国海军成功组织潜射战略导弹试射",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33525042",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "中国首次成功向太平洋发射潜射战略导弹，释放何种重要信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33526577",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "LV被指垄断中国古纹样",
-          "url": "https://s.weibo.com/weibo?q=LV%E8%A2%AB%E6%8C%87%E5%9E%84%E6%96%AD%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%BA%B9%E6%A0%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "中国男篮力克中国台北",
-          "url": "https://www.toutiao.com/trending/7658607770665451574/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "中国安能驰援南宁水库险情",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AE%89%E8%83%BD%E9%A9%B0%E6%8F%B4%E5%8D%97%E5%AE%81%E6%B0%B4%E5%BA%93%E9%99%A9%E6%83%85",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "葡萄牙vs西班牙",
@@ -357,19 +323,88 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "葡萄牙vs西班牙",
+          "url": "https://www.toutiao.com/trending/7659138318382252073/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "03时43分"
+        },
+        {
+          "title": "葡萄牙vs西班牙",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "葡萄牙vs西班牙首发出炉",
+          "url": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E5%8F%91%E5%87%BA%E7%82%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "世界杯：葡萄牙vs西班牙",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
           "url": "https://wallstreetcn.com/livenews/3129510",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "德国10年期国债收益率涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3129504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "世界杯 1/8 决赛，葡萄牙 vs 西班牙，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2057413304579051709",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         },
         {
           "title": "AI预测葡萄牙vs西班牙赛果",
@@ -383,37 +418,15 @@
           "time_info": "01时43分"
         },
         {
-          "title": "世界杯：葡萄牙vs西班牙",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "德国10年期国债收益率涨超1个基点",
-          "url": "https://wallstreetcn.com/livenews/3129504",
-          "source": "华尔街见闻-快讯",
+          "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
+          "url": "https://flash.jin10.com/detail/20260707024555773800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "世界杯 1/8 决赛，葡萄牙 vs 西班牙，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2057413304579051709",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "03时43分"
         },
         {
           "title": "C罗：最后一届世界杯希望能赢西班牙",
@@ -449,6 +462,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "叙利亚总统沙拉：法国可在叙利亚重建和其他领域发挥作用。",
+          "url": "https://flash.jin10.com/detail/20260707022701443800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
           "title": "法国总统府：马克龙将呼吁叙利亚在“缓解中东紧张局势”中发挥作用。",
           "url": "https://flash.jin10.com/detail/20260707003703410800",
           "source": "金十数据",
@@ -473,8 +497,162 @@
       ]
     },
     {
+      "keyword_group": "[中国] 国产 中国",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中国男篮力克中国台北",
+          "url": "https://www.douyin.com/hot/2560291",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "中国海军成功组织潜射战略导弹试射，有哪些亮点？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2057451748705448806",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "不到2年 中国再向太平洋发射战略导弹",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%88%B02%E5%B9%B4+%E4%B8%AD%E5%9B%BD%E5%86%8D%E5%90%91%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%8F%91%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "LV胜诉敲响中国纹样版权保护警钟",
+          "url": "https://s.weibo.com/weibo?q=%23LV%E8%83%9C%E8%AF%89%E6%95%B2%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BA%B9%E6%A0%B7%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4%E8%AD%A6%E9%92%9F%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "中国银行、平安银行重启 5 年期大额存单，利率 1.6%，如何解读？会有更多银行跟进上架吗？",
+          "url": "https://www.zhihu.com/question/2056675738087075884",
+          "source": "知乎",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "中国首次成功向太平洋发射潜射战略导弹，释放何种重要信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526577",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "中国海军成功组织潜射战略导弹试射",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33525042",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "LV被指垄断中国古纹样",
+          "url": "https://s.weibo.com/weibo?q=LV%E8%A2%AB%E6%8C%87%E5%9E%84%E6%96%AD%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%BA%B9%E6%A0%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "中国男篮力克中国台北",
+          "url": "https://www.toutiao.com/trending/7658607770665451574/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "中国海军潜射战略导弹试射有哪些看点",
+          "url": "https://www.toutiao.com/trending/7659377353188970047/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "中国安能驰援南宁水库险情",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AE%89%E8%83%BD%E9%A9%B0%E6%8F%B4%E5%8D%97%E5%AE%81%E6%B0%B4%E5%BA%93%E9%99%A9%E6%83%85",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "表态更加强硬！韩国央行警告海力士、三星电子杠杆ETF风险",
@@ -484,8 +662,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "漠叔调查日本毒气战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
+        },
+        {
+          "title": "空调炼稀土,日本没招了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         },
         {
           "title": "韩国总统李在明遭死亡威胁",
@@ -499,15 +700,15 @@
           "time_info": "01时43分"
         },
         {
-          "title": "漠叔调查日本毒气战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
+          "url": "https://flash.jin10.com/detail/20260707022859049800",
+          "source": "金十数据",
           "ranks": [
-            15
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "03时43分"
         },
         {
           "title": "韩国总统李在明遭死亡威胁",
@@ -521,15 +722,15 @@
           "time_info": "01时43分"
         },
         {
-          "title": "空调炼稀土,日本没招了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
-          "source": "贴吧",
+          "title": "韩国足协主席辞职",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
           "ranks": [
-            30
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "03时43分"
         }
       ]
     },
@@ -545,8 +746,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         },
         {
           "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
@@ -556,8 +757,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         },
         {
           "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
@@ -567,8 +768,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         },
         {
           "title": "马斯克部分推翻“推特机器人案”陪审团裁决。（彭博法律Blaw）",
@@ -595,8 +796,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         },
         {
           "title": "印度再坑苹果,机密惨遭开源",
@@ -606,8 +807,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         }
       ]
     },
@@ -631,11 +832,12 @@
           "url": "https://www.cls.cn/detail/2418140",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         }
       ]
     },
@@ -665,11 +867,12 @@
           "url": "https://wallstreetcn.com/livenews/3129506",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时43分]"
         }
       ]
     }
