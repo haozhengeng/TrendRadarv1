@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T21:09:20.270332+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-07-14T23:18:44.682633+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 107,
+      "match_count": 119,
       "titles": [
         {
           "title": "美国外卖小哥戴项圈抢银行",
@@ -17,11 +17,23 @@
             13,
             16,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 21时09分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 23时18分]"
+        },
+        {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 23时18分]"
         },
         {
           "title": "美国或六年来首现环比“负CPI”？但今晚的重点不在这……",
@@ -48,15 +60,20 @@
           "time_info": "[01时07分 ~ 09时27分]"
         },
         {
-          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
-          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
-          "source": "凤凰网",
+          "title": "挑战在美国E人coser前跳舞",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            10,
+            16,
+            17,
+            25,
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 23时18分]"
         },
         {
           "title": "美国将恢复“针对伊朗的封锁”",
@@ -73,13 +90,24 @@
           "time_info": "[01时07分 ~ 07时44分]"
         },
         {
+          "title": "外交部：奉劝有关国家不要沦为美国帮凶",
+          "url": "https://news.ifeng.com/c/8ukpXf7NqrK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "因能源价格回落 美国6月消费者价格涨幅低于预期",
           "url": "https://flash.jin10.com/detail/20260714204742412800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -95,19 +123,15 @@
           "time_info": "03时13分"
         },
         {
-          "title": "挑战在美国E人coser前跳舞",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
-          "source": "bilibili 热搜",
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            16,
-            17,
-            25,
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 21时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "据CNN：美国官员表示，美军打击目标为伊朗军事设施，包括海岸监视系统、无人机和导弹能力。",
@@ -130,6 +154,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "美国软件股重挫，IBM业绩逊于预期引发投资者担忧",
+          "url": "https://wallstreetcn.com/livenews/3133734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "美国CPI六年来首现负增长！市场随即“开香槟” 但油价风险已经重燃",
+          "url": "https://www.cls.cn/detail/2426354",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国两年期国债收益率上涨2个基点，报4.2836%。",
@@ -157,6 +203,17 @@
           "time_info": "[04时50分 ~ 07时44分]"
         },
         {
+          "title": "通胀全面降温！美国6月CPI同比上涨3.5%远低于预期，环比六年来首次下降，核心CPI涨幅收窄至2.6%",
+          "url": "https://wallstreetcn.com/articles/3776924",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国军舰起火",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E8%B5%B7%E7%81%AB",
           "source": "bilibili 热搜",
@@ -166,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2426306",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国国家航空航天局（NASA）的SunRISE任务将发射载具从ULA更换为马斯克旗下太空探索公司SpaceX。",
@@ -335,6 +403,18 @@
           "time_info": "[05时45分 ~ 06时46分]"
         },
         {
+          "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
+          "url": "https://wallstreetcn.com/articles/3776884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时18分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗谅解备忘录是一次测试，他们没有遵守。",
           "url": "https://flash.jin10.com/detail/20260714041308694800",
           "source": "金十数据",
@@ -452,6 +532,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "美国最高法院法官Barrett：（特朗普政府）在国会山预算听证会上释放的威胁水平相当高。",
+          "url": "https://wallstreetcn.com/livenews/3133730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国短期利率期货显示，美联储7月加息概率约为45%，较周一早些时候的35%有所上升。",
           "url": "https://flash.jin10.com/detail/20260714004013180800",
           "source": "金十数据",
@@ -502,7 +593,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -518,15 +609,15 @@
           "time_info": "03时13分"
         },
         {
-          "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
-          "url": "https://wallstreetcn.com/articles/3776884",
-          "source": "华尔街见闻",
+          "title": "美联储主席沃什：30年期抵押贷款利率偏高，在一定程度上系美国通胀所致。 对于抵押贷款利率，美联储能做的就是实现价格稳定性。",
+          "url": "https://wallstreetcn.com/livenews/3133727",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "23时18分"
         },
         {
           "title": "美联储主席沃什：我和我的同僚们认识到，高通胀一直是美国家庭和企业的不当负担。从更长时间维度看，潜在通胀在很大程度上由货币政策决定。",
@@ -535,7 +626,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -560,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "美联储主席沃什：美国高通胀意味着，对外沟通改革具有重要性。 价格稳定性与长期收益率下滑相一致。",
+          "url": "https://wallstreetcn.com/livenews/3133725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普：美国可能负责管理霍尔木兹海峡 守护航道应“收费”",
@@ -623,7 +725,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -667,7 +769,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -700,7 +802,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -744,9 +846,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "美联储主席沃什：美联储作为独立的中央银行而感到荣幸。 美国最高法院围绕美联储的独立性回应了诸多疑问。 我在美联储的目标是消除（来自美国总统特朗普的）政治因素。 美联储对国会山也具有独立性。",
+          "url": "https://wallstreetcn.com/livenews/3133720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "市场消息：加拿大银行监管机构在四月给公司高管的邮件中警告金融机构关于Anthropic的Claude Mythos的风险。",
@@ -799,9 +912,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "美联储主席沃什：美联储必须强力避开美国联邦政府的财政政策。",
+          "url": "https://wallstreetcn.com/livenews/3133719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国球迷不满世界杯半决赛开球时间",
@@ -898,7 +1022,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -920,7 +1044,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -953,7 +1077,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -975,7 +1099,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1052,7 +1176,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1123,6 +1247,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "美联储主席沃什：我们希望美国经济增长出现在更加广泛的领域。",
+          "url": "https://wallstreetcn.com/livenews/3133711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "加拿大央行仍将于当地时间周三09:45（北京时间21:45）发布声明与MPR（货币政策报告）。 随后将举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3132985",
           "source": "华尔街见闻-快讯",
@@ -1162,7 +1297,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1184,7 +1319,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1206,7 +1341,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1225,7 +1360,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "韩国五大银行已用掉85%全年家庭贷款额度，借钱炒股或“刹车”！",
@@ -1264,11 +1399,12 @@
             19,
             23,
             22,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 21时09分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 23时18分]"
         },
         {
           "title": "你跑不过我!日本少年制服窃贼",
@@ -1318,11 +1454,51 @@
           "ranks": [
             5,
             2,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 21时09分]"
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 23时18分]"
+        },
+        {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 23时18分]"
+        },
+        {
+          "title": "王沪宁将访问朝鲜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580938",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 23时18分]"
+        },
+        {
+          "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
+          "url": "https://www.zhihu.com/question/2060415646706263496",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时18分]"
         },
         {
           "title": "恐慌抛售引发3442亿韩元强制平仓潮，韩国股市陷信用盘危机",
@@ -1338,29 +1514,6 @@
           "time_info": "[09时27分 ~ 19时19分]"
         },
         {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 21时09分]"
-        },
-        {
-          "title": "韩国出手救市",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E5%87%BA%E6%89%8B%E6%95%91%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "日本5月库存月率终值 -1.1%，前值-0.6%。",
           "url": "https://flash.jin10.com/detail/20260714123218273800",
           "source": "金十数据",
@@ -1370,17 +1523,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
-        },
-        {
-          "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
-          "url": "https://www.zhihu.com/question/2060415646706263496",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
         },
         {
           "title": "日本5月设备利用指数 103，前值102.9。",
@@ -1428,20 +1570,6 @@
           "time_info": "12时42分"
         },
         {
-          "title": "王沪宁将访问朝鲜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580938",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时04分 ~ 21时09分]"
-        },
-        {
           "title": "一条视频带你们逛一逛韩国首尔",
           "url": "https://www.douyin.com/hot/2570108",
           "source": "抖音",
@@ -1454,6 +1582,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时45分 ~ 09时27分]"
+        },
+        {
+          "title": "韩国出手救市",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E5%87%BA%E6%89%8B%E6%95%91%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时18分]"
         },
         {
           "title": "打着躲避台风的幌子，日本巡逻船逗留台海、多点布局",
@@ -1722,6 +1862,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "美国总统特朗普兜售与日本的贸易协议和投资交易。",
+          "url": "https://wallstreetcn.com/livenews/3133716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "日本财务大臣片山皋月：希望尽快提出关于提升日本政府债券吸引力的具体细节。",
           "url": "https://flash.jin10.com/detail/20260714085211923800",
           "source": "金十数据",
@@ -1918,12 +2069,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "Tower Semiconductor一度涨超19%，此前公司宣布在日本政府支持下，将在日本同步推进两条战略扩产路径，扩大其300mm硅光子（SiPho）、硅锗（SiGe）及先进封装产能。",
+          "url": "https://wallstreetcn.com/livenews/3133704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "中国人民大学：根据新线索认定蒋方舟学术不端，撤销其硕士学位",
@@ -2007,6 +2169,21 @@
           "time_info": "[01时07分 ~ 09时27分]"
         },
         {
+          "title": "中国数学家或斩获菲尔兹奖",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%88%96%E6%96%A9%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            11,
+            25,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 23时18分]"
+        },
+        {
           "title": "日本民众集会举牌“中国对不起”",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E4%B8%BE%E7%89%8C%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7%E2%80%9D",
           "source": "百度热搜",
@@ -2019,20 +2196,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时07分 ~ 09时27分]"
-        },
-        {
-          "title": "中国数学家或斩获菲尔兹奖",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%88%96%E6%96%A9%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            11,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时27分 ~ 21时09分]"
         },
         {
           "title": "不用“外挂”的中国空调在欧洲杀疯了",
@@ -2177,6 +2340,28 @@
           "time_info": "12时42分"
         },
         {
+          "title": "菲尔兹奖泄露,中国数学家封神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356174&amp;topic_name=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E6%B3%84%E9%9C%B2%2C%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%B0%81%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "感动中国2025年度人物揭晓",
+          "url": "https://www.baidu.com/s?wd=%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2025%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E6%8F%AD%E6%99%93",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "要赢中国，“还得再裁员5万”",
           "url": "https://news.ifeng.com/c/8ukMQsVJAxY",
           "source": "凤凰网",
@@ -2201,6 +2386,19 @@
           "time_info": "[12时42分 ~ 17时47分]"
         },
         {
+          "title": "中国燃油车只剩最后一根续命稻草",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%AA%E5%89%A9%E6%9C%80%E5%90%8E%E4%B8%80%E6%A0%B9%E7%BB%AD%E5%91%BD%E7%A8%BB%E8%8D%89%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 23时18分]"
+        },
+        {
           "title": "高盛：中国股票出现“轮动信号”",
           "url": "https://www.toutiao.com/trending/7660891930447970346/",
           "source": "今日头条",
@@ -2213,18 +2411,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时13分 ~ 07时44分]"
-        },
-        {
-          "title": "中国燃油车只剩最后一根续命稻草",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%AA%E5%89%A9%E6%9C%80%E5%90%8E%E4%B8%80%E6%A0%B9%E7%BB%AD%E5%91%BD%E7%A8%BB%E8%8D%89%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时09分]"
         },
         {
           "title": "“中国正成为全球鹅肝新霸主”",
@@ -2249,6 +2435,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时45分]"
+        },
+        {
+          "title": "美国媒体，这次服了中国电网",
+          "url": "https://news.ifeng.com/c/8ulCTzV3bNC",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时18分]"
         },
         {
           "title": "中国自研AI芯片取得架构突破",
@@ -2286,6 +2483,18 @@
           "time_info": "[19时18分 ~ 19时19分]"
         },
         {
+          "title": "中国U17女篮不敌西班牙",
+          "url": "https://www.toutiao.com/trending/7661962253742784539/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时18分]"
+        },
+        {
           "title": "深度解析中国第一枚回收火箭",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
           "source": "bilibili 热搜",
@@ -2309,6 +2518,17 @@
           "time_info": "[06时45分 ~ 06时46分]"
         },
         {
+          "title": "感动中国2025年度人物",
+          "url": "https://search.bilibili.com/all?keyword=%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2025%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "中国人一旦吃饱就触发善良人格",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E6%97%A6%E5%90%83%E9%A5%B1%E5%B0%B1%E8%A7%A6%E5%8F%91%E5%96%84%E8%89%AF%E4%BA%BA%E6%A0%BC&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -2318,17 +2538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
-        },
-        {
-          "title": "美国媒体，这次服了中国电网",
-          "url": "https://news.ifeng.com/c/8ulCTzV3bNC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
         },
         {
           "title": "富时中国A50指数期货开盘下跌0.11%。",
@@ -2408,6 +2617,17 @@
           "time_info": "17时47分"
         },
         {
+          "title": "中国驻孟加拉国大使馆：提醒中国公民谨慎来孟娶妻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33585138",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "中国地震台网正式测定：07月14日14时24分在西藏阿里地区改则县（北纬34.35度，东经83.36度）发生3.2级地震，震源深度10千米。",
           "url": "https://flash.jin10.com/detail/20260714143214138800",
           "source": "金十数据",
@@ -2463,15 +2683,15 @@
           "time_info": "15时04分"
         },
         {
-          "title": "中国U17女篮不敌西班牙",
-          "url": "https://www.toutiao.com/trending/7661962253742784539/",
-          "source": "今日头条",
+          "title": "经纬度：中国人工智能发展的战略定力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574020",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "23时18分"
         },
         {
           "title": "中国人寿：预计上半年净利润约人民币1,289.33亿元到人民币1,371.19亿元，同比增长约215%到235%。",
@@ -2502,9 +2722,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "国产创新药BD为何还能“疯狂”",
+          "url": "https://www.toutiao.com/trending/7662371740206501403/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "感动中国2025年度人物",
+          "url": "https://www.toutiao.com/trending/7661787434006515242/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "中国东航：预计上半年净亏损18亿元-24亿元，上年同期亏损14.31亿元。",
@@ -2516,6 +2758,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "美媒这次服了中国电网",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E8%BF%99%E6%AC%A1%E6%9C%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "杀害中国医生的柬嫌犯曾杀害亲妹",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%9A%84%E6%9F%AC%E5%AB%8C%E7%8A%AF%E6%9B%BE%E6%9D%80%E5%AE%B3%E4%BA%B2%E5%A6%B9",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "【通富微电：预计上半年净利润16亿元-18亿元，同比增长288.26%-336.80%】上半年，在AI算力建设带动需求提升，存储市场景气上行，国产化加速等驱动下，半导体行业迎来强劲增长。公司积极进取，产能利用率提升，营业收入增幅上升，特别是中高端产品营业收入明显增加。同时，得益于加强经营管理及成本费用的管控，公司整体效益显著提升。",
@@ -2543,7 +2807,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "法国vs西班牙赛前战术分析",
@@ -2594,11 +2858,12 @@
           "ranks": [
             1,
             4,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时04分 ~ 21时09分]"
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 23时18分]"
         },
         {
           "title": "AI预测法国vs西班牙赛果",
@@ -2662,7 +2927,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -2722,6 +2987,18 @@
           "time_info": "07时44分"
         },
         {
+          "title": "法国vs西班牙",
+          "url": "https://www.douyin.com/hot/2571098",
+          "source": "抖音",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 23时18分]"
+        },
+        {
           "title": "管泽元预测法国vs西班牙",
           "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99",
           "source": "bilibili 热搜",
@@ -2769,17 +3046,6 @@
           "time_info": "[06时46分 ~ 07时44分]"
         },
         {
-          "title": "法国vs西班牙",
-          "url": "https://www.douyin.com/hot/2571098",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 21时09分]"
-        },
-        {
           "title": "法国vs西班牙前瞻",
           "url": "https://www.douyin.com/hot/2570330",
           "source": "抖音",
@@ -2816,6 +3082,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 12时42分]"
+        },
+        {
+          "title": "世界杯半决赛：法国vs西班牙",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时18分]"
+        },
+        {
+          "title": "姆巴佩确定出战西班牙",
+          "url": "https://www.douyin.com/hot/2570351",
+          "source": "抖音",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时18分]"
         },
         {
           "title": "法国有望成第2支世界杯7连胜欧洲球队",
@@ -2884,6 +3174,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "世界杯半决赛，法国 vs 西班牙，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2060325379596933035",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "市场消息：英国工党领袖候选人安迪·伯纳姆已获得足够提名，有望出任英国首相。",
           "url": "https://flash.jin10.com/detail/20260714022510920800",
           "source": "金十数据",
@@ -2917,28 +3218,6 @@
           "time_info": "19时19分"
         },
         {
-          "title": "世界杯半决赛：法国vs西班牙",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "姆巴佩确定出战西班牙",
-          "url": "https://www.douyin.com/hot/2570351",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "伯纳姆锁定英国工党党首职位 有望7月20日接任首相",
           "url": "https://flash.jin10.com/detail/20260714043020730800",
           "source": "金十数据",
@@ -2967,9 +3246,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "当世界杯最强进攻遇上最稳防守，法国与西班牙谁能晋级决赛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33582373",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "2026 世界杯半决赛西班牙 vs 法国，你看好哪支球队？",
@@ -2981,6 +3271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "泽连斯基称与法国就防空系统及战机采购等达成合作协议",
+          "url": "https://wallstreetcn.com/livenews/3133715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "法国总统马克龙：多国部队将在乌克兰周边国家与乌军举行联合军事演习。",
@@ -3014,6 +3315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "法国共产党将总部对外开放供民众纳凉",
+          "url": "https://www.toutiao.com/trending/7661489811678429227/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "伊朗外交部谴责英国将革命卫队列为国家支持的威胁",
@@ -3077,7 +3389,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
@@ -3085,7 +3397,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -3094,11 +3406,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时44分 ~ 21时09分]"
+          "appearance_count": 9,
+          "time_info": "[07时44分 ~ 23时18分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -3173,6 +3486,19 @@
           "time_info": "[01时07分 ~ 06时46分]"
         },
         {
+          "title": "9分钟回撤11个点！半导体龙头复盘次日再巨震，全市场高波动股名单一览",
+          "url": "https://www.cls.cn/detail/2426035",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 23时18分]"
+        },
+        {
           "title": "全球芯片LOF：将于7月15日开市起停牌，10:30起复牌",
           "url": "https://flash.jin10.com/detail/20260714190356210800",
           "source": "金十数据",
@@ -3190,7 +3516,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -3205,18 +3531,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时47分 ~ 19时19分]"
-        },
-        {
-          "title": "9分钟回撤11个点！半导体龙头复盘次日再巨震，全市场高波动股名单一览",
-          "url": "https://www.cls.cn/detail/2426035",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时09分]"
         },
         {
           "title": "7月14日投资避雷针：10天9板人气股澄清 拟收购标的无生产存储芯片能力",
@@ -3253,6 +3567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "威兆半导体递表港交所",
+          "url": "https://wallstreetcn.com/livenews/3133726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "费城半导体指数跌4.6%，存储芯片指数跌6.8%。 标普500指数初步收 跌0.7%，科技板块跌1.9%，电信板块跌1%，能源板块涨3.1%。 纳斯达克100指数初步收跌1.8%，成分股中，Applovin、闪迪初步收跌12.9%，Astera Labs跌12.4%，Arm控股跌7.6%，CoreWeave跌6.6%，英特尔跌5.9%，希捷科技跌5.6%，Diamondback Energy涨4.5%，汤森路透涨5.1%，财季Intuit涨5.4%。",
@@ -3299,6 +3624,17 @@
           "time_info": "12时42分"
         },
         {
+          "title": "据港交所文件：深圳市威兆半导体股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260714223836638800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "纳斯达克100指数跌幅收窄至1%，半导体指数目前跌2.9%。",
           "url": "https://wallstreetcn.com/livenews/3132983",
           "source": "华尔街见闻-快讯",
@@ -3324,7 +3660,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "印度人素质差,泰国取消免签",
@@ -3336,11 +3672,12 @@
             15,
             18,
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 21时09分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 23时18分]"
         },
         {
           "title": "据知情人士透露，印度亿万富翁库马尔·曼加拉姆·比拉旗下集团的一家子公司，已从三菱日联金融集团获得约15亿美元的收购融资，用于收购壳牌(SHEL.N)在印度的可再生能源资产。",
@@ -3398,6 +3735,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "印度接近接受Fairfax对IDBI银行的加价收购要约",
+          "url": "https://wallstreetcn.com/livenews/3133724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "印度10年期国债收益率上行5个基点至6.78%。",
           "url": "https://wallstreetcn.com/livenews/3133298",
           "source": "华尔街见闻-快讯",
@@ -3426,9 +3774,126 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "伊朗伊斯兰革命卫队：两艘“违规超级油轮”在霍尔木兹海峡遭到袭击并失去动力。 油轮无视警告、关闭导航系统并试图强行通过“布雷航线”。 在霍尔木兹海峡与“侵略者敌人”合作将推迟该航道的重新开放，并引发全球能源危机。",
+          "url": "https://wallstreetcn.com/livenews/3133180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "中汽协回应新能源车平均车龄仅1.8年：系误读，不等于换车频率",
+          "url": "https://wallstreetcn.com/livenews/3133522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "标普500指数的11个板块中，信息技术/科技板块跌2.07%，电信板块跌0.98%，能源板块涨3.16%——创2月3日以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/3133071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时45分]"
+        },
+        {
+          "title": "广西能源：预计上半年净利润同比增长50%以上",
+          "url": "https://flash.jin10.com/detail/20260714172759894800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "【全国用电负荷达15.51亿千瓦再创新高 电力供需形势总体平稳】从国家能源局了解到，继7月10日全国用电负荷15.18亿千瓦首创新高后，7月14日全国用电负荷再创新高，达到15.51亿千瓦。国家发展改革委、国家能源局充分发挥全国统一电力市场体系作用，加强电力互济，7月10日跨省跨区跨网最大输送电力合计2.63亿千瓦，7月14日合计2.78亿千瓦，有力支撑全国用电保障。目前，全国能源电力供需形势总体平稳。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3133722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "土耳其能源部长：土耳其与伊拉克讨论增加石油管道输送量。",
+          "url": "https://wallstreetcn.com/livenews/3133507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数大致持平，报392.87点。 在十个板块中，北欧能源板块涨幅最大。 马士基涨6.0%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3132997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "美联储理事沃勒：尽管关税导致商品成本上升，以及中东冲突引发的能源价格飙升，家庭和企业支出依然强劲。",
+          "url": "https://flash.jin10.com/detail/20260714003245109800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "【赣锋锂业：预计上半年净利润为36.5亿元–46亿元，同比扭亏为盈】赣锋锂业公告，预计2026年上半年净利润为36.5亿元–46亿元，上年同期亏损5.31亿元。报告期内，受益于全球新能源产业快速发展，下游客户对锂盐的需求增长，公司锂盐产品的销售价格较上年同期显著上涨；同时，随着锂资源项目的产能逐步释放，公司成本结构有效优化。叠加储能市场需求持续增长，锂电池板块产销量明显提升，共同推动公司经营业绩同比增长。",
+          "url": "https://wallstreetcn.com/livenews/3133476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "俄罗斯国防部：在过去24小时内，俄罗斯武装部队对乌克兰武装部队使用的燃料、能源和交通基础设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260714171507564800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         }
       ]
     },
@@ -3541,112 +4006,6 @@
       ]
     },
     {
-      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "伊朗伊斯兰革命卫队：两艘“违规超级油轮”在霍尔木兹海峡遭到袭击并失去动力。 油轮无视警告、关闭导航系统并试图强行通过“布雷航线”。 在霍尔木兹海峡与“侵略者敌人”合作将推迟该航道的重新开放，并引发全球能源危机。",
-          "url": "https://wallstreetcn.com/livenews/3133180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "中汽协回应新能源车平均车龄仅1.8年：系误读，不等于换车频率",
-          "url": "https://wallstreetcn.com/livenews/3133522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
-          "title": "标普500指数的11个板块中，信息技术/科技板块跌2.07%，电信板块跌0.98%，能源板块涨3.16%——创2月3日以来最佳单日表现。",
-          "url": "https://wallstreetcn.com/livenews/3133071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时45分]"
-        },
-        {
-          "title": "广西能源：预计上半年净利润同比增长50%以上",
-          "url": "https://flash.jin10.com/detail/20260714172759894800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
-          "title": "土耳其能源部长：土耳其与伊拉克讨论增加石油管道输送量。",
-          "url": "https://wallstreetcn.com/livenews/3133507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数大致持平，报392.87点。 在十个板块中，北欧能源板块涨幅最大。 马士基涨6.0%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3132997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "美联储理事沃勒：尽管关税导致商品成本上升，以及中东冲突引发的能源价格飙升，家庭和企业支出依然强劲。",
-          "url": "https://flash.jin10.com/detail/20260714003245109800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "【赣锋锂业：预计上半年净利润为36.5亿元–46亿元，同比扭亏为盈】赣锋锂业公告，预计2026年上半年净利润为36.5亿元–46亿元，上年同期亏损5.31亿元。报告期内，受益于全球新能源产业快速发展，下游客户对锂盐的需求增长，公司锂盐产品的销售价格较上年同期显著上涨；同时，随着锂资源项目的产能逐步释放，公司成本结构有效优化。叠加储能市场需求持续增长，锂电池板块产销量明显提升，共同推动公司经营业绩同比增长。",
-          "url": "https://wallstreetcn.com/livenews/3133476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
-          "title": "俄罗斯国防部：在过去24小时内，俄罗斯武装部队对乌克兰武装部队使用的燃料、能源和交通基础设施进行了打击。",
-          "url": "https://flash.jin10.com/detail/20260714171507564800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[GLOBAL_FILTER] # 过滤标题党 震惊",
       "match_count": 1,
       "titles": [
@@ -3662,6 +4021,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时04分 ~ 19时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米机器人打螺丝成功率98%",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%9E%BA%E4%B8%9D%E6%88%90%E5%8A%9F%E7%8E%8798%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 产业政策 生产力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储主席沃什：我们不怕以生产力为驱动的经济增长。",
+          "url": "https://flash.jin10.com/detail/20260714224818710800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     }
