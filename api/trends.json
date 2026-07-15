@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T05:49:37.653367+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-07-16T06:50:25.134282+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 80,
+      "match_count": 89,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "三名美国官员称，近期美国对伊朗的打击行动正在增强美方进一步升级行动的选项。",
@@ -56,15 +56,27 @@
           "time_info": "02时56分"
         },
         {
-          "title": "美国食品药品管理局（FDA）批准紧急使用药物以治疗马匹的新大陆螺旋蝇（蛆）感染。",
-          "url": "https://wallstreetcn.com/livenews/3134623",
-          "source": "华尔街见闻-快讯",
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
+          "source": "财联社热门",
           "ranks": [
-            1
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "美国州长闯红灯被拦停，说一句话后警察立即放行",
+          "url": "https://v.ifeng.com/c/8uko8JgQNQb",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "美国驻伊拉克埃尔比勒领馆附近传出爆炸声",
@@ -89,17 +101,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
-          "url": "https://wallstreetcn.com/livenews/3134622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
           "title": "美国总统特朗普称赞摩根大通(JPM.N)、波音(BA.N)和通用动力公司CEO。",
           "url": "https://flash.jin10.com/detail/20260716034427070800",
           "source": "金十数据",
@@ -117,7 +118,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -139,7 +140,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -155,6 +156,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "据悉美国考虑对部分绿卡申请人收取10万美元保证金",
+          "url": "https://flash.jin10.com/detail/20260716063651974800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉领导层表现出色。",
           "url": "https://wallstreetcn.com/livenews/3134585",
           "source": "华尔街见闻-快讯",
@@ -166,27 +178,28 @@
           "time_info": "04时03分"
         },
         {
-          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2427604",
-          "source": "财联社热门",
+          "title": "美国食品药品管理局（FDA）批准紧急使用药物以治疗马匹的新大陆螺旋蝇（蛆）感染。",
+          "url": "https://wallstreetcn.com/livenews/3134623",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时50分]"
         },
         {
-          "title": "美国州长闯红灯被拦停，说一句话后警察立即放行",
-          "url": "https://v.ifeng.com/c/8uko8JgQNQb",
-          "source": "凤凰网",
+          "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
+          "url": "https://wallstreetcn.com/livenews/3134622",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时50分]"
         },
         {
           "title": "美国总统特朗普：重申美国无需风电。",
@@ -225,6 +238,18 @@
           "time_info": "[01时06分 ~ 04时03分]"
         },
         {
+          "title": "通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期",
+          "url": "https://wallstreetcn.com/articles/3777031",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时03分 ~ 06时50分]"
+        },
+        {
           "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
           "url": "https://wallstreetcn.com/livenews/3134527",
           "source": "华尔街见闻-快讯",
@@ -237,16 +262,52 @@
           "time_info": "[01时06分 ~ 02时56分]"
         },
         {
-          "title": "通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期",
-          "url": "https://wallstreetcn.com/articles/3777031",
-          "source": "华尔街见闻",
+          "title": "美国中央司令部：美军7月15日在阿拉伯湾执行针对伊朗的海上封锁措施，击停了一艘试图驶往伊朗港口、且未装载货物的油轮。",
+          "url": "https://wallstreetcn.com/livenews/3134611",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            10,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时03分 ~ 05时49分]"
+          "time_info": "[05时49分 ~ 06时50分]"
+        },
+        {
+          "title": "周三（7月15日，美国PPI通胀数据发布日），美股降息赢家指数涨1.44%——延续CPI数据出炉当天反弹的表现，报97.17点，美股早盘持续上涨，北京时间22:00以来主要持稳于97点上方。",
+          "url": "https://wallstreetcn.com/livenews/3134610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时50分]"
+        },
+        {
+          "title": "美国总统特朗普声称：美国很快将对“非法”卡车司机采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3134602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时50分]"
+        },
+        {
+          "title": "美国总统特朗普兜售来自摩根大通与Kratos的投资。",
+          "url": "https://wallstreetcn.com/livenews/3134601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时50分]"
         },
         {
           "title": "美国总统特朗普：将宣布国防工业领域近100亿美元投资。",
@@ -310,9 +371,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美国五角大楼20多年来首次禁止发布F-35战机项目报告",
+          "url": "https://flash.jin10.com/detail/20260716062657832800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "美国总统特朗普：赞赏摩根大通CEO戴蒙。",
@@ -324,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "据知情人士透露，特朗普政府正考虑要求部分美国绿卡申请人缴纳10万美元保证金。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3134627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "伊朗卫生部：美国近期对伊军事打击已致35人死亡",
@@ -370,15 +453,15 @@
           "time_info": "04时03分"
         },
         {
-          "title": "美国中央司令部：美军7月15日在阿拉伯湾执行针对伊朗的海上封锁措施，击停了一艘试图驶往伊朗港口、且未装载货物的油轮。",
-          "url": "https://wallstreetcn.com/livenews/3134611",
+          "title": "美国贸易代表格里尔谈及评估美国墨西哥加拿大贸易协议（USMCA），宣称：美方与墨西哥的磋商进行得不错。 美墨两国正设法收紧原产地制度。 尚未看到加拿大采取大量行动。",
+          "url": "https://wallstreetcn.com/livenews/3134625",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "06时50分"
         },
         {
           "title": "美国总统特朗普：出于政治原因，纽约州州长凯西·霍楚尔叫停了纽约州所有正在建设或计划建设的数据中心项目。",
@@ -412,17 +495,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "周三（7月15日，美国PPI通胀数据发布日），美股降息赢家指数涨1.44%——延续CPI数据出炉当天反弹的表现，报97.17点，美股早盘持续上涨，北京时间22:00以来主要持稳于97点上方。",
-          "url": "https://wallstreetcn.com/livenews/3134610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
         },
         {
           "title": "据NewsNation：特朗普称，若无法与伊朗革命卫队达成解决方案，美国可能像打击“伊斯兰国”一样将其消灭。",
@@ -486,9 +558,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "本周美国大豆出口报告或体现乐观转机",
+          "url": "https://flash.jin10.com/detail/20260716060716867800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "白宫发言人Anna Kelly：美国总统特朗普今天将宣布合计超过100亿美元的若干协议。",
@@ -530,7 +613,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -574,7 +657,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -585,7 +668,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -596,7 +679,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -629,7 +712,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -651,7 +734,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -700,17 +783,6 @@
           "time_info": "04时03分"
         },
         {
-          "title": "美国总统特朗普声称：美国很快将对“非法”卡车司机采取行动。",
-          "url": "https://wallstreetcn.com/livenews/3134602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
           "title": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33584221",
           "source": "澎湃新闻",
@@ -739,18 +811,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "美国总统特朗普兜售来自摩根大通与Kratos的投资。",
-          "url": "https://wallstreetcn.com/livenews/3134601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -783,7 +844,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -805,7 +866,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -819,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗军方发言人表示，美国遵守谅解备忘录并在霍尔木兹海峡落实“伊朗法规”是重新开放水道的唯一途径。",
+          "url": "https://flash.jin10.com/detail/20260716054958538800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC：预计周三夜间用电需求将达到164 GW，较历史最高位略低4 GW。",
@@ -843,6 +915,28 @@
           "time_info": "01时06分"
         },
         {
+          "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
+          "url": "https://wallstreetcn.com/livenews/3134606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "美国国务院已批准向科威特出售C-17运输机，预估金额4.84亿美元。",
+          "url": "https://flash.jin10.com/detail/20260716052928511800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
           "title": "报道：美国曾探讨对古巴发动空中突击的可能性",
           "url": "https://wallstreetcn.com/livenews/3134562",
           "source": "华尔街见闻-快讯",
@@ -860,9 +954,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美国国务院批准向沙特阿拉伯出售先进精确打击武器系统及相关设备，预计交易金额为19.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260716052212185800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "科威特一处美国军事基地附近传出爆炸声",
@@ -901,7 +1006,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "阿根廷球迷焚烧英国国旗",
@@ -912,8 +1017,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "头条世界杯｜西班牙对法国三连杀，最强传控让姆巴佩没了脾气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33587825",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
@@ -927,28 +1044,18 @@
           "time_info": "[01时06分 ~ 05时49分]"
         },
         {
-          "title": "头条世界杯｜西班牙对法国三连杀，最强传控让姆巴佩没了脾气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33587825",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
           "title": "法国队遭调侃「遇到西班牙前一点力都没出，遇到后一点力都使不出」，其杀到半决赛真是运气吗？真实水平如何？",
           "url": "https://www.zhihu.com/question/2060756732121276647",
           "source": "知乎",
           "ranks": [
             11,
             5,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "阿根廷2比1淘汰英格兰 决赛战西班牙",
@@ -957,9 +1064,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时50分]"
         },
         {
           "title": "西班牙首相当面向法国总理致歉：我无比惭愧",
@@ -969,8 +1076,70 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "法国：原来我还不如佛得角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589168",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "法国输球,巴黎街头爆发骚乱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356195&amp;topic_name=%E6%B3%95%E5%9B%BD%E8%BE%93%E7%90%83%2C%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E7%88%86%E5%8F%91%E9%AA%9A%E4%B9%B1",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "法国人出差上海背空调回家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356186&amp;topic_name=%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%87%BA%E5%B7%AE%E4%B8%8A%E6%B5%B7%E8%83%8C%E7%A9%BA%E8%B0%83%E5%9B%9E%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "马克龙回应法国队无缘决赛",
+          "url": "https://www.douyin.com/hot/2571904",
+          "source": "抖音",
+          "ranks": [
+            18,
+            23,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "传控碾压法国,斗牛士零封取胜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356177&amp;topic_name=%E4%BC%A0%E6%8E%A7%E7%A2%BE%E5%8E%8B%E6%B3%95%E5%9B%BD%2C%E6%96%97%E7%89%9B%E5%A3%AB%E9%9B%B6%E5%B0%81%E5%8F%96%E8%83%9C",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "英国拟对以色列非法定居点实施进出口贸易禁令",
@@ -982,29 +1151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "法国：原来我还不如佛得角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589168",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
-          "title": "法国输球,巴黎街头爆发骚乱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356195&amp;topic_name=%E6%B3%95%E5%9B%BD%E8%BE%93%E7%90%83%2C%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E7%88%86%E5%8F%91%E9%AA%9A%E4%B9%B1",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
         },
         {
           "title": "法国输球后巴黎街头陷入混乱",
@@ -1020,55 +1166,18 @@
           "time_info": "[01时06分 ~ 05时49分]"
         },
         {
-          "title": "法国人出差上海背空调回家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356186&amp;topic_name=%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%87%BA%E5%B7%AE%E4%B8%8A%E6%B5%B7%E8%83%8C%E7%A9%BA%E8%B0%83%E5%9B%9E%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
-          "title": "马克龙回应法国队无缘决赛",
-          "url": "https://www.douyin.com/hot/2571904",
-          "source": "抖音",
-          "ranks": [
-            18,
-            23,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
-          "title": "传控碾压法国,斗牛士零封取胜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356177&amp;topic_name=%E4%BC%A0%E6%8E%A7%E7%A2%BE%E5%8E%8B%E6%B3%95%E5%9B%BD%2C%E6%96%97%E7%89%9B%E5%A3%AB%E9%9B%B6%E5%B0%81%E5%8F%96%E8%83%9C",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
           "title": "管泽元锐评西班牙战胜法国",
           "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%94%90%E8%AF%84%E8%A5%BF%E7%8F%AD%E7%89%99%E6%88%98%E8%83%9C%E6%B3%95%E5%9B%BD",
           "source": "bilibili 热搜",
           "ranks": [
             27,
             15,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "西班牙2:0法国",
@@ -1080,8 +1189,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "法国1.5亿欧巨星灾难表现遭法媒怒批",
@@ -1121,6 +1230,18 @@
           "time_info": "[01时06分 ~ 02时56分]"
         },
         {
+          "title": "世界杯｜2比1胜英格兰，阿根廷逆转进决赛，将对阵西班牙",
+          "url": "https://wallstreetcn.com/livenews/3134614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时50分]"
+        },
+        {
           "title": "英债收益率普遍涨约4个基点，报道称马哈茂德有望出任英国财相",
           "url": "https://wallstreetcn.com/livenews/3134525",
           "source": "华尔街见闻-快讯",
@@ -1131,6 +1252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 02时56分]"
+        },
+        {
+          "title": "西班牙完胜法国晋级决赛，他们的极致传控有多强？夺冠概率有多大？",
+          "url": "https://www.zhihu.com/question/2060635873490593474",
+          "source": "知乎",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "锐评西班牙本次世界杯打法",
@@ -1150,28 +1283,6 @@
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "世界杯｜2比1胜英格兰，阿根廷逆转进决赛，将对阵西班牙",
-          "url": "https://wallstreetcn.com/livenews/3134614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "西班牙完胜法国晋级决赛，他们的极致传控有多强？夺冠概率有多大？",
-          "url": "https://www.zhihu.com/question/2060635873490593474",
-          "source": "知乎",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1222,13 +1333,24 @@
           "time_info": "02时56分"
         },
         {
+          "title": "阿根廷vs西班牙",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E8%A5%BF%E7%8F%AD%E7%89%99&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
           "title": "解读西班牙2-0法国",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E8%A5%BF%E7%8F%AD%E7%89%992-0%E6%B3%95%E5%9B%BD",
           "source": "bilibili 热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -1239,7 +1361,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -1268,8 +1390,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "今年上半年中国经济总体平稳向新向优",
@@ -1279,8 +1401,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "打卡中国",
@@ -1290,8 +1412,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "四字解读中国经济上半年成绩单",
@@ -1301,8 +1423,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "中国二季度GDP同比4.3%，上半年同比增长4.7%",
@@ -1313,8 +1435,81 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "中国代表在安理会连续驳斥美方",
+          "url": "https://news.ifeng.com/c/8ulwzsAk2dI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "富士康打工妹逆袭成中国女首富",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%89%93%E5%B7%A5%E5%A6%B9%E9%80%86%E8%A2%AD%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "初见定终身,老外求婚中国球迷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356184&amp;topic_name=%E5%88%9D%E8%A7%81%E5%AE%9A%E7%BB%88%E8%BA%AB%2C%E8%80%81%E5%A4%96%E6%B1%82%E5%A9%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "半年报出炉，人民日报：中国经济坚韧向前",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588680",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "中国胃,Knight巴黎干麻辣烫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356188&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%2CKnight%E5%B7%B4%E9%BB%8E%E5%B9%B2%E9%BA%BB%E8%BE%A3%E7%83%AB",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
+        },
+        {
+          "title": "菲尔兹奖泄露,中国数学家封神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356174&amp;topic_name=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E6%B3%84%E9%9C%B2%2C%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%B0%81%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收2.9%。 热门中概股里，名创优品初步收涨9.2%，美团涨6.2%，再鼎医药涨5.8%，腾讯涨5%，阿里涨4.8%，亚朵涨4.5%，万国数据涨4%，阿特斯、华住、金山云涨超3%。 ETF中，KWEB涨3.2%，CQQQ跌0.3%。",
@@ -1352,30 +1547,6 @@
           "time_info": "[02时55分 ~ 05时49分]"
         },
         {
-          "title": "富士康打工妹逆袭成中国女首富",
-          "url": "https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%89%93%E5%B7%A5%E5%A6%B9%E9%80%86%E8%A2%AD%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
-          "title": "中国代表在安理会连续驳斥美方",
-          "url": "https://news.ifeng.com/c/8ulwzsAk2dI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
           "title": "中国经济最大的挑战是什么",
           "url": "https://www.toutiao.com/trending/7662735348631342630/",
           "source": "今日头条",
@@ -1388,64 +1559,18 @@
           "time_info": "[01时06分 ~ 02时56分]"
         },
         {
-          "title": "初见定终身,老外求婚中国球迷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356184&amp;topic_name=%E5%88%9D%E8%A7%81%E5%AE%9A%E7%BB%88%E8%BA%AB%2C%E8%80%81%E5%A4%96%E6%B1%82%E5%A9%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
-          "title": "半年报出炉，人民日报：中国经济坚韧向前",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588680",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
-          "title": "中国胃,Knight巴黎干麻辣烫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356188&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%2CKnight%E5%B7%B4%E9%BB%8E%E5%B9%B2%E9%BA%BB%E8%BE%A3%E7%83%AB",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
-          "title": "菲尔兹奖泄露,中国数学家封神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356174&amp;topic_name=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E6%B3%84%E9%9C%B2%2C%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%B0%81%E7%A5%9E",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
-        },
-        {
           "title": "日媒：日系车“拥抱”中国技术",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E6%97%A5%E7%B3%BB%E8%BD%A6%E2%80%9C%E6%8B%A5%E6%8A%B1%E2%80%9D%E4%B8%AD%E5%9B%BD%E6%8A%80%E6%9C%AF",
           "source": "百度热搜",
           "ranks": [
             8,
             6,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 06时50分]"
         },
         {
           "title": "专家：收拾日菲中国手上的“牌”很多",
@@ -1454,11 +1579,12 @@
           "ranks": [
             24,
             30,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 06时50分]"
         },
         {
           "title": "中国名哨称亚马尔造点是错判",
@@ -1480,7 +1606,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         }
@@ -1501,8 +1627,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "高盛韩国一线评论：IBM暴跌验证了存储短缺，散户投降但韩股关键支撑位挺住了，机构相信存储扩产不会太猛",
@@ -1513,8 +1639,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "南方两倍做多海力士反弹47%，本周交易量直逼600亿，韩国资金越跌越买",
@@ -1526,8 +1652,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "日方企图将“南京大屠杀”改称“南京事件”，日本民众抗议",
@@ -1537,8 +1663,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "日本护士涉嫌将排泄物混入输液管被捕",
@@ -1548,11 +1674,12 @@
             24,
             26,
             19,
-            27
+            27,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "调查显示日本逾五成家庭“过得苦”",
@@ -1643,6 +1770,18 @@
           "time_info": "04时03分"
         },
         {
+          "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
+          "url": "https://wallstreetcn.com/livenews/3134607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时50分]"
+        },
+        {
           "title": "【每日收评】创业板指冲高回落跌超1%，创新药板块集体爆发，芯片产业链再遭重挫",
           "url": "https://www.cls.cn/detail/2427247",
           "source": "财联社热门",
@@ -1654,24 +1793,13 @@
           "time_info": "01时06分"
         },
         {
-          "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
-          "url": "https://wallstreetcn.com/livenews/3134607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
           "title": "周三（7月15日），美股行业ETF涨跌各异，全球航空业ETF收涨1.30%，银行业ETF、区域银行ETF至多涨1.18%，能源业ETF跌0.79%，全球科技股指数ETF跌0.82%，科技行业ETF跌1.08%，半导体ETF跌1.59%。",
           "url": "https://wallstreetcn.com/livenews/3134596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -1693,7 +1821,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         }
@@ -1715,6 +1843,18 @@
           "time_info": "01时06分"
         },
         {
+          "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
+          "url": "https://wallstreetcn.com/livenews/3134609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时50分]"
+        },
+        {
           "title": "据The Information：为推动公司安全体系和人工智能转型，微软(MSFT.O)新任安全负责人海耶特·加洛特已替换至少8名曾向前任安全负责人查理·贝尔汇报的高管。",
           "url": "https://flash.jin10.com/detail/20260716023727073800",
           "source": "金十数据",
@@ -1724,17 +1864,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
-          "url": "https://wallstreetcn.com/livenews/3134609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
         },
         {
           "title": "世界人工智能大会逛展攻略来了",
@@ -1773,8 +1902,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时50分]"
         },
         {
           "title": "印度上调柴油和航空燃油出口税 下调汽油出口税",
