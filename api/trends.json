@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T06:39:50.053581+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-07-18T07:43:50.109015+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "美国不再延续涉港国家紧急状态，商务部回应",
@@ -16,19 +16,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
           "url": "https://news.ifeng.com/c/8upHX3E0KP3",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时43分]"
+        },
+        {
+          "title": "加拿大网民：去年还帮美国救火，今年就成了罪人？",
+          "url": "https://news.ifeng.com/c/8uqB77EU9I5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时43分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：美国导弹袭击了伊朗阿瓦士市西南部地区。",
@@ -36,11 +48,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时43分]"
         },
         {
           "title": "伊朗革命卫队打击并摧毁了美军驻巴林的无人艇存放基地，大量无人艇被大火焚毁。此外，巴林的主要人工智能中心也遭到多枚弹道导弹和数十架无人机的打击，已被完全摧毁。该中心被美国用于定位敌方目标，以实施战争罪行。（央视）",
@@ -54,26 +67,15 @@
           "time_info": "05时43分"
         },
         {
-          "title": "监测机构：加拿大野火烟雾或波及世界杯决赛举办地",
-          "url": "https://wallstreetcn.com/livenews/3135924",
+          "title": "美国：伊朗朝着美国位于沙特的军事基地发射导弹。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3135937",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "加拿大网民：去年还帮美国救火，今年就成了罪人？",
-          "url": "https://news.ifeng.com/c/8uqB77EU9I5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时39分]"
+          "time_info": "07时43分"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -85,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
-        },
-        {
-          "title": "周五（7月17日）纽约尾盘，美国10年期基准国债收益率跌0.59个基点，报4.5474%，本周累计下跌1.38个基点，整体交投于4.6338%-4.5094%区间。 两年期美债收益率涨3.58个基点，报4.1767%，本周累跌3.13个基点，交投于4.2963%-4.1091%区间。",
-          "url": "https://wallstreetcn.com/livenews/3135922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
         },
         {
           "title": "美国商品期货交易委员会：截至7月14日当周，日元投机者净空头持仓为122,663手。瑞士法郎投机者转为净空头持仓，净空头为36,956手。英镑投机者净空头持仓为71,253手。欧元投机者净空头持仓为12,605手。",
@@ -118,6 +109,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "美国贸易办公室（USTR）：美国、墨西哥将在墨西哥城继续评估美国墨西哥加拿大贸易协议（USMCA）。 两国将于7月21日举行第三轮双边谈判，谈判团队将交流三天时间。 两国将讨论钢铁、铝、汽车贸易，并讨论农业、电子支付、劳动力。",
+          "url": "https://wallstreetcn.com/livenews/3135912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
+        },
+        {
+          "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
+          "url": "https://flash.jin10.com/detail/20260718043845403800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
         },
         {
           "title": "媒体：为应对局势升级，美国将向以色列增派数十架加油机",
@@ -153,30 +172,60 @@
           "time_info": "03时59分"
         },
         {
-          "title": "美国贸易办公室（USTR）：美国、墨西哥将在墨西哥城继续评估美国墨西哥加拿大贸易协议（USMCA）。 两国将于7月21日举行第三轮双边谈判，谈判团队将交流三天时间。 两国将讨论钢铁、铝、汽车贸易，并讨论农业、电子支付、劳动力。",
-          "url": "https://wallstreetcn.com/livenews/3135912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
-        },
-        {
-          "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
-          "url": "https://flash.jin10.com/detail/20260718043845403800",
+          "title": "美国和墨西哥的会议将于当地时间7月21日举行。",
+          "url": "https://flash.jin10.com/detail/20260718043659133800",
           "source": "金十数据",
           "ranks": [
-            1,
-            9,
-            12
+            2,
+            10,
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
+        },
+        {
+          "title": "美国将在墨西哥城与墨西哥举行第三次双边会谈，就《美墨自由贸易协定》联合审查事宜进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260718043536008800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
+        },
+        {
+          "title": "美媒：美国欲向以色列增派数十架加油飞机",
+          "url": "https://flash.jin10.com/detail/20260718043341452800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
+        },
+        {
+          "title": "美媒：美国欲向以色列增派数十架加油飞机",
+          "url": "https://wallstreetcn.com/livenews/3135908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
         },
         {
           "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
@@ -184,11 +233,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时43分]"
         },
         {
           "title": "美国总统特朗普再次赞赏6月通胀数据。",
@@ -204,17 +254,17 @@
           "time_info": "[03时59分 ~ 05时43分]"
         },
         {
-          "title": "美国和墨西哥的会议将于当地时间7月21日举行。",
-          "url": "https://flash.jin10.com/detail/20260718043659133800",
+          "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
+          "url": "https://flash.jin10.com/detail/20260718045807451800",
           "source": "金十数据",
           "ranks": [
-            2,
-            10,
-            13
+            4,
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
+          "time_info": "[05时43分 ~ 07时43分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：7月14日当周，投机者所持NYMEX WTI原油净多头头寸增加11,704手合约，至86,383手合约。 所持布伦特与WTI原油净多头头寸增至252,836手合约，创五周新高。 所持NYMEX天然气净空头头寸增至48,229手合约，创逾两年新高。",
@@ -228,19 +278,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时59分 ~ 05时43分]"
-        },
-        {
-          "title": "美国将在墨西哥城与墨西哥举行第三次双边会谈，就《美墨自由贸易协定》联合审查事宜进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260718043536008800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：7月14日当周，投机者所持COMEX黄金净多头头寸增加4,293手合约，至119,147手合约，创五个月新高。 所持COMEX铜净多头头寸增至61,932手合约，创三周新高。 所持NYMEX铂金净多头头寸增至8,146手合约，创三周新高。",
@@ -268,16 +305,16 @@
           "time_info": "[03时59分 ~ 04时53分]"
         },
         {
-          "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
-          "url": "https://flash.jin10.com/detail/20260718045807451800",
-          "source": "金十数据",
+          "title": "监测机构：加拿大野火烟雾或波及世界杯决赛举办地",
+          "url": "https://wallstreetcn.com/livenews/3135924",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            7
+            1,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时39分]"
+          "time_info": "[06时39分 ~ 07时43分]"
         },
         {
           "title": "美国总统特朗普：6月通胀数据传来“重大好消息”，美国正迎来“黄金时代”。",
@@ -292,32 +329,6 @@
           "time_info": "[03时59分 ~ 04时53分]"
         },
         {
-          "title": "美媒：美国欲向以色列增派数十架加油飞机",
-          "url": "https://flash.jin10.com/detail/20260718043341452800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
-        },
-        {
-          "title": "美媒：美国欲向以色列增派数十架加油飞机",
-          "url": "https://wallstreetcn.com/livenews/3135908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
-        },
-        {
           "title": "美国联邦航空管理局（FAA）：波音飞机认证恢复工作将于7月20日生效。 FAA将允许波音恢复对所有737 MAX及787飞机的认证。 FAA批准波音恢复颁发适航证书。",
           "url": "https://wallstreetcn.com/livenews/3135862",
           "source": "华尔街见闻-快讯",
@@ -328,6 +339,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时07分 ~ 03时59分]"
+        },
+        {
+          "title": "周五（7月17日）纽约尾盘，美国10年期基准国债收益率跌0.59个基点，报4.5474%，本周累计下跌1.38个基点，整体交投于4.6338%-4.5094%区间。 两年期美债收益率涨3.58个基点，报4.1767%，本周累跌3.13个基点，交投于4.2963%-4.1091%区间。",
+          "url": "https://wallstreetcn.com/livenews/3135922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时43分]"
         },
         {
           "title": "美国原油期货涨幅扩大至4%，报道称美国向以色列增派数十架空中加油机。",
@@ -360,11 +383,38 @@
           "ranks": [
             7,
             15,
-            18
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
+        },
+        {
+          "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
+          "url": "https://flash.jin10.com/detail/20260718044547376800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
+          "time_info": "[05时43分 ~ 07时43分]"
+        },
+        {
+          "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
+          "url": "https://flash.jin10.com/detail/20260718044353532800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时43分]"
         },
         {
           "title": "墨西哥驻美国大使Roberto Lazzeri：持续围绕美国墨西哥加拿大贸易协议（USMCA）取得谈判进展。 这是翻新USMCA的好时机。 每次我们损失，都是在丧失竞争。 快速达成新版USMCA协议符合地区的最佳利益。",
@@ -405,18 +455,6 @@
           "time_info": "[03时59分 ~ 04时53分]"
         },
         {
-          "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
-          "url": "https://flash.jin10.com/detail/20260718044547376800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时39分]"
-        },
-        {
           "title": "美国7月17日当周石油钻井数 452，前值 445。",
           "url": "https://wallstreetcn.com/livenews/3135856",
           "source": "华尔街见闻-快讯",
@@ -439,18 +477,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 04时53分]"
-        },
-        {
-          "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
-          "url": "https://flash.jin10.com/detail/20260718044353532800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时39分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
@@ -711,6 +737,17 @@
           "time_info": "03时59分"
         },
         {
+          "title": "贝克休斯称：美国能源企业钻井平台数量增至2025年4月以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3135932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "美国至7月17日当周总钻井总数 588口，前值581口。",
           "url": "https://flash.jin10.com/detail/20260718010126711800",
           "source": "金十数据",
@@ -944,6 +981,257 @@
       ]
     },
     {
+      "keyword_group": "[中国] 国产 中国",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604109",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603376",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时43分]"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "美总统称“中国干预了2020年总统选举”，外交部：无中生有",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604979",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "通过八仙看懂中国神话",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%9A%E8%BF%87%E5%85%AB%E4%BB%99%E7%9C%8B%E6%87%82%E4%B8%AD%E5%9B%BD%E7%A5%9E%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "中国车凭什么在英国成为爆款",
+          "url": "https://www.toutiao.com/trending/7663325355393945124/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            15,
+            30,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "国产钻石上分,南非被迫停产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356250&amp;topic_name=%E5%9B%BD%E4%BA%A7%E9%92%BB%E7%9F%B3%E4%B8%8A%E5%88%86%2C%E5%8D%97%E9%9D%9E%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "中国援助海外,日本冒领功劳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "中国博主看世界杯遭阿根廷球迷辱骂",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E9%81%AD%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E8%BE%B1%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            22,
+            23,
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时43分]"
+        },
+        {
+          "title": "英国政府通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038539763599266938",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "英国政府拟通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038539763599266938",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 06时39分]"
+        },
+        {
+          "title": "高盛指中国股市“国家队”ETF录得15个月最大四日资金流入",
+          "url": "https://wallstreetcn.com/livenews/3135884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
+          "url": "https://wallstreetcn.com/livenews/3135899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 06时39分]"
+        },
+        {
+          "title": "哈兰德最喜欢的表情包出自中国网友",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E5%87%BA%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时39分]"
+        },
+        {
+          "title": "6 月中国原油进口大降四成，创下十年月度新低，是需求减弱还是其他原因？",
+          "url": "https://www.zhihu.com/question/2060663328502977751",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时43分]"
+        },
+        {
+          "title": "蔡磊牵线研发国产渐冻症药有望上市",
+          "url": "https://www.toutiao.com/trending/7662677592900091946/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时43分]"
+        },
+        {
+          "title": "中国地震台网正式测定：07月17日22时48分在墨西哥恰帕斯州沿岸近海（北纬14.80度，西经92.95度）发生7.2级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260717231853242800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
       "match_count": 20,
       "titles": [
@@ -957,8 +1245,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "西班牙晒大力神杯",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E6%99%92%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "姆总缺席,法国季军战练兵",
@@ -968,20 +1269,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "西班牙晒大力神杯",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E6%99%92%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "伯纳姆将接任英国首相",
@@ -991,8 +1280,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "伯纳姆当选英国工党党首 将接任首相",
@@ -1003,8 +1292,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "“北境之王”接替斯塔默，英国困境难解",
@@ -1014,8 +1303,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时43分]"
         },
         {
           "title": "王濛预测西班牙夺冠",
@@ -1026,11 +1315,39 @@
             15,
             10,
             29,
-            23
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时43分]"
+        },
+        {
+          "title": "伯纳姆当选英国工党党首 将接任首相",
+          "url": "https://www.douyin.com/hot/2575257",
+          "source": "抖音",
+          "ranks": [
+            8,
+            18,
+            16,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时39分]"
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "法拉奇在英国补选中将面临包括“垃圾桶伯爵”在内的边缘候选人",
+          "url": "https://wallstreetcn.com/livenews/3135916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时43分]"
         },
         {
           "title": "英国两年期国债收益率本周涨超12个基点",
@@ -1045,18 +1362,6 @@
           "time_info": "[01时02分 ~ 02时07分]"
         },
         {
-          "title": "法拉奇在英国补选中将面临包括“垃圾桶伯爵”在内的边缘候选人",
-          "url": "https://wallstreetcn.com/livenews/3135916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时39分]"
-        },
-        {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3135845",
           "source": "华尔街见闻-快讯",
@@ -1067,19 +1372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "伯纳姆当选英国工党党首 将接任首相",
-          "url": "https://www.douyin.com/hot/2575257",
-          "source": "抖音",
-          "ranks": [
-            8,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "西班牙东北部山火过火面积已达1.4万公顷",
@@ -1187,241 +1479,8 @@
       ]
     },
     {
-      "keyword_group": "[中国] 国产 中国",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33604109",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33603376",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时39分]"
-        },
-        {
-          "title": "中国拉群搞AI,28国兄弟入伙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://wallstreetcn.com/articles/3777174",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "通过八仙看懂中国神话",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%9A%E8%BF%87%E5%85%AB%E4%BB%99%E7%9C%8B%E6%87%82%E4%B8%AD%E5%9B%BD%E7%A5%9E%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "美总统称“中国干预了2020年总统选举”，外交部：无中生有",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33604979",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "中国车凭什么在英国成为爆款",
-          "url": "https://www.toutiao.com/trending/7663325355393945124/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            15,
-            30,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "国产钻石上分,南非被迫停产",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356250&amp;topic_name=%E5%9B%BD%E4%BA%A7%E9%92%BB%E7%9F%B3%E4%B8%8A%E5%88%86%2C%E5%8D%97%E9%9D%9E%E8%A2%AB%E8%BF%AB%E5%81%9C%E4%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "中国援助海外,日本冒领功劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "中国博主看世界杯遭阿根廷球迷辱骂",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E9%81%AD%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E8%BE%B1%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            22,
-            23,
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时39分]"
-        },
-        {
-          "title": "英国政府拟通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038539763599266938",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 06时39分]"
-        },
-        {
-          "title": "高盛指中国股市“国家队”ETF录得15个月最大四日资金流入",
-          "url": "https://wallstreetcn.com/livenews/3135884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时53分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
-          "url": "https://wallstreetcn.com/livenews/3135899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
-        },
-        {
-          "title": "哈兰德最喜欢的表情包出自中国网友",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E5%87%BA%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时39分]"
-        },
-        {
-          "title": "蔡磊牵线研发国产渐冻症药有望上市",
-          "url": "https://www.toutiao.com/trending/7662677592900091946/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "6 月中国原油进口大降四成，创下十年月度新低，是需求减弱还是其他原因？",
-          "url": "https://www.zhihu.com/question/2060663328502977751",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
-          "url": "https://www.zhihu.com/question/2060791514276615811",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "中国地震台网正式测定：07月17日22时48分在墨西哥恰帕斯州沿岸近海（北纬14.80度，西经92.95度）发生7.2级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260717231853242800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -1451,11 +1510,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时43分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -1464,20 +1536,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "07时43分"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -1486,11 +1558,12 @@
           "ranks": [
             6,
             12,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
         },
         {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
@@ -1499,11 +1572,12 @@
           "ranks": [
             7,
             13,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
         },
         {
           "title": "费城半导体指数进入熊市",
@@ -1512,11 +1586,12 @@
           "ranks": [
             9,
             17,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时43分]"
         },
         {
           "title": "费城半导体指数较6月22日创下的历史收盘高点下跌20.2%。",
@@ -1591,8 +1666,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%",
@@ -1610,25 +1685,12 @@
           "url": "https://news.ifeng.com/c/8uq9lkVDSxJ",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时39分]"
-        },
-        {
-          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-          "url": "https://www.zhihu.com/question/2061057694832620856",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时43分]"
         },
         {
           "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
@@ -1637,11 +1699,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "黄油拌糖嘎嘣脆,日本网友整活",
@@ -1651,8 +1714,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "傅面学传入日本,恶人脸遭处刑",
@@ -1662,8 +1725,23 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
@@ -1701,8 +1779,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -1712,8 +1790,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -1721,11 +1799,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -1735,11 +1814,12 @@
             6,
             13,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -1771,6 +1851,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "全球首款机器人手机亮相引老外围观",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7,
+            6,
+            14,
+            17,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时43分]"
+        },
+        {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
           "url": "https://www.cls.cn/detail/2429951",
           "source": "财联社热门",
@@ -1782,22 +1879,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "全球首款机器人手机亮相引老外围观",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            7,
-            6,
-            14,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时39分]"
         },
         {
           "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
@@ -1879,11 +1960,12 @@
           "source": "微博",
           "ranks": [
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 06时39分]"
+          "appearance_count": 5,
+          "time_info": "[03时59分 ~ 07时43分]"
         }
       ]
     }
