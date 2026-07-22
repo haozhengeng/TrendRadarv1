@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-22T07:49:32.486574+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-07-22T09:45:28.394226+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 86,
+      "match_count": 92,
       "titles": [
         {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
           "url": "https://wallstreetcn.com/articles/3777542",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
         },
         {
           "title": "美国宣布对加拿大部分产品加征50%关税",
@@ -70,9 +71,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：全球经济面临威胁。",
+          "url": "https://flash.jin10.com/detail/20260722094359041800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "据伊朗媒体Fars News：巴林遭到袭击的区域是美国军方人员驻扎地点。",
@@ -114,7 +126,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -139,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国对中东冲突持开放态度，愿意参与、谈判并解决分歧。我们面临的问题是对方并不认真对待谈判。",
+          "url": "https://flash.jin10.com/detail/20260722094207537800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -260,6 +283,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时49分]"
+        },
+        {
+          "title": "美国贸易代表暗示将很快出台新关税政策",
+          "url": "https://www.cls.cn/detail/2433214",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 09时45分]"
         },
         {
           "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
@@ -394,6 +429,17 @@
           "time_info": "[05时56分 ~ 06时47分]"
         },
         {
+          "title": "美国防部发布声明，公布美军最新死亡人数",
+          "url": "https://news.ifeng.com/c/8uxfcoeJAyo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
           "url": "https://flash.jin10.com/detail/20260722013554217800",
           "source": "金十数据",
@@ -447,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国致力于通过外交途径处理中东及伊朗问题。 美国仍然持开放态度，愿意进行谈判。 伊朗对待谈判缺乏诚意。",
+          "url": "https://wallstreetcn.com/livenews/3137851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
@@ -532,7 +589,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -565,7 +622,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -587,18 +644,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "美国贸易代表暗示将很快出台新关税政策",
-          "url": "https://www.cls.cn/detail/2433214",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -631,9 +677,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "A股创新药板块走强，药康生物涨超13%，莱美药业涨超8%，益诺思、哈三联、博瑞医药、华兰股份、众生药业等个股跟涨。消息面上，美国总统特朗普当地时间7月21日在社交媒体发文表示，自2026年8月1日起，所有进口到美国的仿制药将在未来两年内继续适用零关税。两年期满后，相关产品将被征收100%的关税，期限为一年；此后，关税将进一步提高至200%。",
+          "url": "https://flash.jin10.com/detail/20260722093524095800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
@@ -785,7 +842,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -873,7 +930,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -975,12 +1032,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美国：完成对伊朗的第11晚打击。 霍尔木兹海峡仍对商船开放通行。",
+          "url": "https://wallstreetcn.com/livenews/3137826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 20,
+      "match_count": 32,
       "titles": [
         {
           "title": "中国科技这3组数字真提气",
@@ -990,8 +1058,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
         },
         {
           "title": "视频丨允许菲方采取舰载小艇转运伤员，中国海警全程监管",
@@ -1001,11 +1069,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
         },
         {
           "title": "开局之年看中国",
@@ -1028,11 +1097,12 @@
             9,
             20,
             15,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
         },
         {
           "title": "中国人寿减持兆易创新110.97万股，套现6.82亿元",
@@ -1065,6 +1135,17 @@
           "time_info": "[00时16分 ~ 07时49分]"
         },
         {
+          "title": "联合国会议上，中国发布重要文件",
+          "url": "https://news.ifeng.com/c/8uxL1hNztEC",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.7%。 热门中概股里，腾讯跌3.5%，网易跌3.4%，阿里跌2%，拼多多跌1.3%，日月光半导体涨8.7%。",
           "url": "https://wallstreetcn.com/livenews/3137739",
           "source": "华尔街见闻-快讯",
@@ -1076,13 +1157,24 @@
           "time_info": "04时14分"
         },
         {
+          "title": "中国商务部：牛肉保障措施项下自巴西进口的牛肉已达到规定数量的80%",
+          "url": "https://wallstreetcn.com/livenews/3137866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "印尼游轮被击沉中国游客漂流数小时",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E6%B8%B8%E8%BD%AE%E8%A2%AB%E5%87%BB%E6%B2%89%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%BC%82%E6%B5%81%E6%95%B0%E5%B0%8F%E6%97%B6%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -1117,11 +1209,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 07时49分]"
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 09时45分]"
         },
         {
           "title": "美加墨世界杯：中国伙伴的“新呈现”",
@@ -1134,6 +1227,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 06时47分]"
+        },
+        {
+          "title": "只剩72小时！中国果断出手跨国追索",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%AA%E5%89%A972%E5%B0%8F%E6%97%B6%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%9E%9C%E6%96%AD%E5%87%BA%E6%89%8B%E8%B7%A8%E5%9B%BD%E8%BF%BD%E7%B4%A2",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 09时45分]"
         },
         {
           "title": "假如史蒂夫执教中国队",
@@ -1159,15 +1263,48 @@
           "time_info": "[06时46分 ~ 06时47分]"
         },
         {
-          "title": "只剩72小时！中国果断出手跨国追索",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%AA%E5%89%A972%E5%B0%8F%E6%97%B6%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%9E%9C%E6%96%AD%E5%87%BA%E6%89%8B%E8%B7%A8%E5%9B%BD%E8%BF%BD%E7%B4%A2",
-          "source": "百度热搜",
+          "title": "美国政府有人要用阴招？美媒：被中国这个产品刺激了",
+          "url": "https://news.ifeng.com/c/8uxgiHDgogm",
+          "source": "凤凰网",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "09时45分"
+        },
+        {
+          "title": "这个夏天中国出口暴增的不只是空调",
+          "url": "https://www.toutiao.com/trending/7664967355297959478/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "2026年财富中国500强出炉",
+          "url": "https://www.douyin.com/hot/2579707",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "澳外长宣称：中国要就军事建设做出保证",
+          "url": "https://news.ifeng.com/c/8uxc6goCNKL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "外资机构密集发声看好中国股市",
@@ -1176,9 +1313,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "硬要替换中国技术，美国车企算完账“下巴都惊掉了”",
+          "url": "https://news.ifeng.com/c/8uwxjZi2bzq",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "中国央行公开市场开展760亿元7天期逆回购操作，操作利率1.40%。今日4265亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3137843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "成吉思鸡小哥将来到中国",
+          "url": "https://www.douyin.com/hot/2580313",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "中国数学家王虹邓煜有望斩获最高奖项",
@@ -1192,6 +1362,28 @@
           "time_info": "00时16分"
         },
         {
+          "title": "A股石油石化板块高开，科力股份涨超8%，通源石油、中曼石油、潜能恒信、中国海油、泰山石油等个股跟涨。消息面上，伊朗伊斯兰革命卫队发表声明称，“惩罚侵略者的行动仍在继续”。此前，美国已连续第11晚对伊朗发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260722093119744800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.17%，上一个交易日夜盘收涨0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3137832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "中国医药控股一度飙升2000%，单日涨幅料创纪录",
           "url": "https://wallstreetcn.com/livenews/3137714",
           "source": "华尔街见闻-快讯",
@@ -1201,6 +1393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "中国石油上半年乙烯产量创历史新高",
+          "url": "https://flash.jin10.com/detail/20260722092957764800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.68%，报6294.45点。 热门中概股里，腾讯跌3.5%，网易跌3.4%，阿里跌2%，拼多多跌1.3%，日月光半导体涨8.7%。 ETF中，中概互联网指数ETF（KWEB）收跌1.53%，中国科技指数ETF（CQQQ）收涨3.81%。 德银嘉实沪深300指数ETF（ASHR）收涨3.09%，MSCI新兴市场ex中国ETF（EMXC）收涨3.63%，XtrackersHarvest中证50（ASHS）收涨5.46%。",
@@ -1228,25 +1431,26 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
+          "url": "https://wallstreetcn.com/articles/3777521",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
+        },
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
-        },
-        {
-          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
-          "url": "https://wallstreetcn.com/articles/3777521",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -1264,6 +1468,17 @@
           "time_info": "[05时56分 ~ 06时47分]"
         },
         {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 09时45分]"
+        },
+        {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -1276,15 +1491,17 @@
           "time_info": "[02时10分 ~ 04时14分]"
         },
         {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
           "ranks": [
-            1
+            11,
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 09时45分]"
         },
         {
           "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
@@ -1315,21 +1532,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
         {
-          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
-          "url": "https://www.cls.cn/detail/2433220",
-          "source": "财联社热门",
+          "title": "A股存储芯片板块低开高走，托伦斯、大为股份2连板，臻宝科技涨超10%，深科达、通富微电、富满微、北方华创涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3137859",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
             4
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
+          "url": "https://www.cls.cn/detail/2433245",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 07时49分]"
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 09时45分]"
         },
         {
           "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
@@ -1379,17 +1607,6 @@
           "time_info": "[00时16分 ~ 02时10分]"
         },
         {
-          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
-          "url": "https://www.cls.cn/detail/2433245",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
           "title": "纳斯达克100指数涨幅扩大至2%，刷新日高，成分股Nebius涨16.1%，闪迪涨13.2%泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。 标普500指数涨幅扩大至将近1%，道指涨526点涨幅超过1%，纳指涨353点涨幅1.4%，半导体指数涨5.4%，银行指数涨1%。",
           "url": "https://wallstreetcn.com/livenews/3137697",
           "source": "华尔街见闻-快讯",
@@ -1399,6 +1616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "A股半导体板块短线拉升，托伦斯涨超17%，大为股份涨超8%，北方华创、杰华特、富满微、源杰科技、臻宝科技、格科微等个股跟涨。消息面上，台积电据悉计划从2027年起上调先进及成熟制程价格，基础涨幅最高达10%。同时，源杰科技公告，预计上半年净利润6.00亿元-6.50亿元，同比增长1197%-1305%。",
+          "url": "https://flash.jin10.com/detail/20260722093357137800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
@@ -1418,7 +1646,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -1432,6 +1660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "港股芯片股高开，壁仞科技(06082.HK)涨超5%，兆易创新(03986.HK)、英诺赛科(02577.HK)双双涨超3%，澜起科技(06809.HK)、中芯国际(00981.HK)、华虹宏力(01347.HK)等个股跟涨。消息面上，台积电据悉计划从2027年起上调先进及成熟制程价格，基础涨幅最高达10%，部分AI高性能计算芯片追加订单涨幅可能更高。",
+          "url": "https://flash.jin10.com/detail/20260722092828632800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "纳斯达克100指数收涨超1.9%，半导体指数涨超5.2%",
@@ -1448,7 +1687,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "伯纳姆如何破解英国困局",
@@ -1459,22 +1698,36 @@
             11,
             3,
             10,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
         },
         {
           "title": "西班牙捧杯,球迷街头开战",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356369&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF%2C%E7%90%83%E8%BF%B7%E8%A1%97%E5%A4%B4%E5%BC%80%E6%88%98",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
+        },
+        {
+          "title": "西班牙夺冠,中式碳水立大功",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356359&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%2C%E4%B8%AD%E5%BC%8F%E7%A2%B3%E6%B0%B4%E7%AB%8B%E5%A4%A7%E5%8A%9F",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
         },
         {
           "title": "头条世界杯｜西班牙世界排名重返第一，C罗社媒再掀风波",
@@ -1495,17 +1748,6 @@
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
-        },
-        {
-          "title": "西班牙夺冠,中式碳水立大功",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356359&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%2C%E4%B8%AD%E5%BC%8F%E7%A2%B3%E6%B0%B4%E7%AB%8B%E5%A4%A7%E5%8A%9F",
-          "source": "贴吧",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -1565,6 +1807,19 @@
           "time_info": "[02时10分 ~ 07时49分]"
         },
         {
+          "title": "重温西班牙的夺冠之路",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E6%B8%A9%E8%A5%BF%E7%8F%AD%E7%89%99%E7%9A%84%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 09时45分]"
+        },
+        {
           "title": "英国新任首相伯纳姆召开首次内阁会议",
           "url": "https://wallstreetcn.com/livenews/3137756",
           "source": "华尔街见闻-快讯",
@@ -1589,16 +1844,15 @@
           "time_info": "[00时16分 ~ 02时10分]"
         },
         {
-          "title": "重温西班牙的夺冠之路",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E6%B8%A9%E8%A5%BF%E7%8F%AD%E7%89%99%E7%9A%84%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF",
-          "source": "bilibili 热搜",
+          "title": "英国政府明抢中企钢厂背后",
+          "url": "https://www.toutiao.com/trending/7664970049442024966/",
+          "source": "今日头条",
           "ranks": [
-            23,
-            30
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "市场消息：英国首相伯纳姆将宣布，从明年1月起，英格兰各地的公交票价将设定2英镑的上限。",
@@ -1607,7 +1861,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -1645,6 +1899,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "西班牙赢下“澡盆德比”意味着什么",
+          "url": "https://www.toutiao.com/trending/7665026683958726171/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "德国DAX30指数7月21日（周二）收盘上涨152.88点，涨幅0.61%，报25014.55点；<br/>英国富时100指数7月21日（周二）收盘上涨58.24点，涨幅0.55%，报10583.00点；<br/>法国CAC40指数7月21日（周二）收盘上涨23.03点，涨幅0.28%，报8363.14点；<br/>欧洲斯托克50指数7月21日（周二）收盘上涨55.75点，涨幅0.90%，报6283.15点；<br/>西班牙IBEX35指数7月21日（周二）收盘上涨173.57点，涨幅0.90%，报19380.47点；<br/>意大利富时MIB指数7月21日（周二）收盘上涨439.21点，涨幅0.85%，报52302.00点。",
           "url": "https://flash.jin10.com/detail/20260721233612204800",
           "source": "金十数据",
@@ -1654,6 +1919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "德国英飞凌到无锡深化对接合作",
+          "url": "https://flash.jin10.com/detail/20260722093132195800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "法国议会通过法案，禁止15岁以下未成年人使用社交媒体",
@@ -1670,7 +1946,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "听说日本自行车拥有量亚洲第一，日本人真的这么喜欢骑自行车吗？",
@@ -1758,6 +2034,62 @@
           "time_info": "[05时56分 ~ 06时47分]"
         },
         {
+          "title": "日本支付公司破产 殃及数万商户",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%AF%E4%BB%98%E5%85%AC%E5%8F%B8%E7%A0%B4%E4%BA%A7+%E6%AE%83%E5%8F%8A%E6%95%B0%E4%B8%87%E5%95%86%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 09时45分]"
+        },
+        {
+          "title": "据韩联社：韩国与东盟将在中东危机背景下寻求加强合作，推进伙伴关系愿景。",
+          "url": "https://flash.jin10.com/detail/20260722093819899800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
+          "url": "https://www.zhihu.com/question/2063034932763669204",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本30年期国债收益率上行1.5个基点至3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3137838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：必要时可以随时采取大胆行动；不就具体的汇率水平发表评论。",
+          "url": "https://wallstreetcn.com/livenews/3137837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "美元兑日元涨至163上方，日内涨超0.3%，日本当局干预的风险加重。",
           "url": "https://wallstreetcn.com/livenews/3137655",
           "source": "华尔街见闻-快讯",
@@ -1769,21 +2101,43 @@
           "time_info": "00时16分"
         },
         {
-          "title": "日本支付公司破产 殃及数万商户",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%AF%E4%BB%98%E5%85%AC%E5%8F%B8%E7%A0%B4%E4%BA%A7+%E6%AE%83%E5%8F%8A%E6%95%B0%E4%B8%87%E5%95%86%E6%88%B7",
-          "source": "百度热搜",
+          "title": "日本指礁为“岛”闹剧还要演多久",
+          "url": "https://www.toutiao.com/trending/7665117365369110579/",
+          "source": "今日头条",
           "ranks": [
-            28
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本五年期国债收益率上涨2.0个基点至1.960%。",
+          "url": "https://wallstreetcn.com/livenews/3137817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "韩国首尔综指日内涨幅扩大至6%。 MSCI亚太指数上涨1%至269.25点。",
+          "url": "https://wallstreetcn.com/livenews/3137816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -1793,19 +2147,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
+        },
+        {
+          "title": "淡马锡：人工智能技术突破有望大幅降低能源需求",
+          "url": "https://flash.jin10.com/detail/20260722094308970800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "如何看待申真谞二比一战胜围棋人工智能「KataGo」？",
           "url": "https://www.zhihu.com/question/2062927366180157304",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 09时45分]"
         },
         {
           "title": "据华尔街日报：白宫将把数十亿美元的研究资金从高校转向人工智能领域，减少对高校的支持。",
@@ -1848,11 +2214,12 @@
           "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20%E6%96%87%E7%A7%91%E7%94%9F&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 09时45分]"
         }
       ]
     },
@@ -1865,11 +2232,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356377&amp;topic_name=%E8%80%83%E9%A2%98%E5%A4%96%E6%B3%84%2C%E5%8D%B0%E5%BA%A6%E8%80%83%E7%94%9F%E9%9B%86%E4%BD%93%E6%8A%97%E8%AE%AE",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
         },
         {
           "title": "印度就4名船员遇袭身亡召见俄外交官",
@@ -1880,11 +2248,12 @@
             13,
             7,
             9,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
         },
         {
           "title": "印度成吉思鸡制作现场",
@@ -1895,11 +2264,12 @@
             18,
             27,
             21,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 09时45分]"
         },
         {
           "title": "印度首都爆发大规模抗议",
@@ -1929,7 +2299,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
