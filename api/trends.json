@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T12:58:46.965132+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-07-25T15:13:22.052002+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时13分 ~ 12时58分]"
+          "appearance_count": 11,
+          "time_info": "[02时13分 ~ 15时13分]"
         },
         {
           "title": "加总理表态：若谈判破裂，会对美国采取反制措施",
@@ -44,6 +45,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时13分 ~ 12时58分]"
+        },
+        {
+          "title": "王小洪会见美国联邦调查局局长",
+          "url": "https://www.toutiao.com/trending/7666079821497630771/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 15时13分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -72,18 +85,6 @@
         },
         {
           "title": "王小洪会见美国联邦调查局局长",
-          "url": "https://www.toutiao.com/trending/7666079821497630771/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 12时58分]"
-        },
-        {
-          "title": "王小洪会见美国联邦调查局局长",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E8%B0%83%E6%9F%A5%E5%B1%80%E5%B1%80%E9%95%BF",
           "source": "百度热搜",
           "ranks": [
@@ -106,6 +107,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 15时13分]"
         },
         {
           "title": "美国总统特朗普：众议院共和党已在推动通过预算案方面取得重要进展。我要求参议院在进入8月休会期之前通过一项预算决议，该决议只需简单多数即可通过。",
@@ -200,17 +214,6 @@
           "time_info": "04时11分"
         },
         {
-          "title": "伊朗外长说不惧威胁不屈服于美国",
-          "url": "https://wallstreetcn.com/livenews/3139714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "特朗普称美国与伊朗仍在对话",
           "url": "https://wallstreetcn.com/livenews/3139662",
           "source": "华尔街见闻-快讯",
@@ -223,19 +226,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时57分 ~ 09时49分]"
-        },
-        {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 12时58分]"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
@@ -313,6 +303,18 @@
           "time_info": "[07时57分 ~ 09时49分]"
         },
         {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://wallstreetcn.com/livenews/3139714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
           "url": "https://wallstreetcn.com/livenews/3139664",
           "source": "华尔街见闻-快讯",
@@ -351,6 +353,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时57分]"
+        },
+        {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
+          "url": "https://wallstreetcn.com/livenews/3139705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3139702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
         },
         {
           "title": "专家：撕开美国关税战真相",
@@ -481,7 +507,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -563,17 +589,6 @@
           "time_info": "04时11分"
         },
         {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
-          "url": "https://wallstreetcn.com/livenews/3139705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "特朗普称欧盟“掠夺”美国企业 威胁启动301调查并征收大规模关税",
           "url": "https://flash.jin10.com/detail/20260725011333281800",
           "source": "金十数据",
@@ -629,17 +644,6 @@
           "time_info": "02时13分"
         },
         {
-          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
-          "url": "https://wallstreetcn.com/livenews/3139702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "美国总统特朗普：我们在伊朗问题上有很多退出策略。",
           "url": "https://flash.jin10.com/detail/20260725033349906800",
           "source": "金十数据",
@@ -679,7 +683,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -734,7 +738,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -838,6 +842,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "欧洲央行首席经济学家：美国并非国际贸易主导力量",
+          "url": "https://flash.jin10.com/detail/20260725125828916800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
           "url": "https://wallstreetcn.com/livenews/3139570",
           "source": "华尔街见闻-快讯",
@@ -907,18 +922,19 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "中国证监会原党委委员、副主席方星海接受审查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33653301",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时13分 ~ 12时58分]"
+          "appearance_count": 11,
+          "time_info": "[02时13分 ~ 15时13分]"
         },
         {
           "title": "从三组外贸数据读懂“中国机遇2.0”",
@@ -954,6 +970,21 @@
           "time_info": "[02时13分 ~ 07时57分]"
         },
         {
+          "title": "中国海警水炮驱离菲侵权船只",
+          "url": "https://www.douyin.com/hot/2583959",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12,
+            2,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时13分 ~ 15时13分]"
+        },
+        {
           "title": "菲律宾位南海多点生事、蓄意挑衅，中国海警局发表谈话",
           "url": "https://m.thepaper.cn/newsDetail_forward_33651723",
           "source": "澎湃新闻",
@@ -965,22 +996,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时13分 ~ 12时58分]"
-        },
-        {
-          "title": "中国海警水炮驱离菲侵权船只",
-          "url": "https://www.douyin.com/hot/2583959",
-          "source": "抖音",
-          "ranks": [
-            13,
-            12,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时13分 ~ 09时49分]"
+          "appearance_count": 11,
+          "time_info": "[02时13分 ~ 15时13分]"
         },
         {
           "title": "斯里兰卡发生针对中国公民抢劫现金、挟持杀害等案件，中使馆提醒",
@@ -1007,6 +1024,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时13分 ~ 12时58分]"
+        },
+        {
+          "title": "视频丨中国海警水炮喷射驱离菲侵权船只，现场画面公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652886",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 15时13分]"
         },
         {
           "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
@@ -1042,19 +1072,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时13分 ~ 07时57分]"
-        },
-        {
-          "title": "视频丨中国海警水炮喷射驱离菲侵权船只，现场画面公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652886",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时11分 ~ 12时58分]"
         },
         {
           "title": "中国美术学院的录取通知书里附带 30 张速写作业，你怎么看高校给新生布置暑假作业？",
@@ -1111,6 +1128,18 @@
           "time_info": "[02时13分 ~ 07时57分]"
         },
         {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
           "title": "中国海警水炮喷射驱离菲船只现场",
           "url": "https://www.toutiao.com/trending/7665836967930282027/",
           "source": "今日头条",
@@ -1142,7 +1171,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1153,18 +1182,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1186,7 +1204,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1197,18 +1215,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "中国大使问菲方闹什么闹能承担后果吗",
-          "url": "https://www.toutiao.com/trending/7665543921963044371/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1218,11 +1225,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 15时13分]"
+        },
+        {
+          "title": "14对14，中国反击欧盟，干净利落",
+          "url": "https://news.ifeng.com/c/8v2YKgZrSyj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 15时13分]"
         },
         {
           "title": "中国气象局升级台风、暴雨、强对流应急响应至二级。（新华社）",
@@ -1237,15 +1256,28 @@
           "time_info": "[09时49分 ~ 12时58分]"
         },
         {
-          "title": "14对14，中国反击欧盟，干净利落",
-          "url": "https://news.ifeng.com/c/8v2YKgZrSyj",
-          "source": "凤凰网",
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时58分]"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
+          "title": "中国大使问菲方闹什么闹能承担后果吗",
+          "url": "https://www.toutiao.com/trending/7665543921963044371/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
         },
         {
           "title": "明晟MSCI新兴市场外汇指数周五跌0.1%，整体上连涨四周，创1月初以来最长连涨周数。 MSCI发展中国家股票指数跌2.6%，创最近一个月最大单日跌幅。",
@@ -1261,6 +1293,54 @@
           "time_info": "[05时57分 ~ 07时57分]"
         },
         {
+          "title": "斯里兰卡前高官之子，涉嫌抢劫中国公民被羁押",
+          "url": "https://news.ifeng.com/c/8v1JiU8l1E0",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
+          "title": "一位中国青年学者的菲尔兹奖现场感悟：要学王虹敢挑战大问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654786",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
+          "title": "为什么中国父母会沉迷于让孩子吃苦？",
+          "url": "https://www.zhihu.com/question/620293603",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
+          "title": "北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3139698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
           "title": "中国海上发射商业火箭有何意义",
           "url": "https://www.toutiao.com/trending/7666231070102130202/",
           "source": "今日头条",
@@ -1272,59 +1352,37 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "斯里兰卡前高官之子，涉嫌抢劫中国公民被羁押",
-          "url": "https://news.ifeng.com/c/8v1JiU8l1E0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "中国气象局启动重大气象灾害Ⅱ级响应",
           "url": "https://www.toutiao.com/trending/7665554499678847012/",
           "source": "今日头条",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
         {
-          "title": "一位中国青年学者的菲尔兹奖现场感悟：要学王虹敢挑战大问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654786",
+          "title": "玉渊谭天丨中国海警依法驱离，菲律宾侵权船只边逃窜边喊糟糕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33655417",
           "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时13分"
         },
         {
-          "title": "为什么中国父母会沉迷于让孩子吃苦？",
-          "url": "https://www.zhihu.com/question/620293603",
-          "source": "知乎",
+          "title": "中国世界遗产+1",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%2B1",
+          "source": "百度热搜",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时13分"
         },
         {
           "title": "中国女排主教练谈逆转美国进入四强",
@@ -1333,20 +1391,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
         {
-          "title": "北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展",
-          "url": "https://wallstreetcn.com/livenews/3139698",
-          "source": "华尔街见闻-快讯",
+          "title": "佛得角门将称收到多份来自中国的邀请",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E7%A7%B0%E6%94%B6%E5%88%B0%E5%A4%9A%E4%BB%BD%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%82%80%E8%AF%B7",
+          "source": "百度热搜",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时13分"
         },
         {
           "title": "塞尔维亚总统武契奇：美国已经对我国产品取消（加征）35%的关税。 塞美将谈判新的关税，税率可能会（低至）10%-12%。",
@@ -1396,7 +1454,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "重大转向！俄罗斯宣布不再支持朝鲜半岛无核化呼声",
@@ -1415,11 +1473,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时13分 ~ 12时58分]"
+          "appearance_count": 11,
+          "time_info": "[02时13分 ~ 15时13分]"
         },
         {
           "title": "日本游客锐减,仇越情绪爆发",
@@ -1427,11 +1486,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时13分 ~ 12时58分]"
+          "appearance_count": 11,
+          "time_info": "[02时13分 ~ 15时13分]"
         },
         {
           "title": "《日本三国》作者疑删号退网",
@@ -1439,11 +1499,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时13分 ~ 12时58分]"
+          "appearance_count": 11,
+          "time_info": "[02时13分 ~ 15时13分]"
         },
         {
           "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
@@ -1517,18 +1578,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
-          "url": "https://wallstreetcn.com/livenews/3139717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1550,7 +1600,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1561,7 +1611,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1590,6 +1640,18 @@
           "time_info": "[09时49分 ~ 12时58分]"
         },
         {
+          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://wallstreetcn.com/livenews/3139717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
           "title": "关于中日关系，石破茂又说了很多日本人不爱听的大实话",
           "url": "https://news.ifeng.com/c/8v1pOgU8oeC",
           "source": "凤凰网",
@@ -1597,8 +1659,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 15时13分]"
         },
         {
           "title": "印度和日本因高铁闹翻了",
@@ -1611,6 +1673,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时48分 ~ 12时58分]"
+        },
+        {
+          "title": "日本皇室恐上演养子夺嫡，麻生太郎成重要推手",
+          "url": "https://news.ifeng.com/c/8v2mKHkpzGm",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
         },
         {
           "title": "韩国初中生KTV遭10名同学围殴3小时",
@@ -1630,20 +1704,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
         {
-          "title": "日本皇室恐上演养子夺嫡，麻生太郎成重要推手",
-          "url": "https://news.ifeng.com/c/8v2mKHkpzGm",
-          "source": "凤凰网",
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时13分"
         },
         {
           "title": "英伟达计划与韩国SK集团达成5000亿美元的合作协议",
@@ -1663,7 +1737,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1674,7 +1748,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1699,12 +1773,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic就韩国境内的吉瓦（GW）级AI数据中心项目开展投资合作。",
+          "url": "https://flash.jin10.com/detail/20260725131035027800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -1714,8 +1799,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 15时13分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 15时13分]"
         },
         {
           "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
@@ -1729,19 +1827,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时13分 ~ 07时57分]"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 12时58分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -1791,6 +1876,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
           "url": "https://www.cls.cn/detail/2436840",
           "source": "财联社热门",
@@ -1799,8 +1895,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 15时13分]"
         },
         {
           "title": "沪指跌超1%逼近3800点，全市场成交不足2万亿，半导体设备逆势爆发，恒指、恒科指均跌超1%，科网股低迷",
@@ -1811,8 +1907,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 15时13分]"
         },
         {
           "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
@@ -1853,6 +1949,17 @@
           "time_info": "[05时57分 ~ 07时12分]"
         },
         {
+          "title": "两大存储芯片巨头股价大跌",
+          "url": "https://www.toutiao.com/trending/7665520668645113919/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "费城半导体指数跌5%，美光科技跌超8%，英特尔跌超7%，高通跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3139620",
           "source": "华尔街见闻-快讯",
@@ -1881,7 +1988,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1930,11 +2037,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时13分 ~ 12时58分]"
+          "appearance_count": 11,
+          "time_info": "[02时13分 ~ 15时13分]"
         },
         {
           "title": "德国铁路铺错电缆的背后",
@@ -2025,8 +2133,19 @@
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "三星电子与博通签署谅解备忘录，涵盖至2030年在存储芯片、代工服务和先进封装领域的合作，金额可达2000亿美元。三星电子将与博通合作开发基于三星HBM技术的博通下一代人工智能加速器。三星电子将提供亚2纳米代工工艺和先进封装解决方案。",
+          "url": "https://flash.jin10.com/detail/20260725131150393800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
           "url": "https://wallstreetcn.com/livenews/3139600",
@@ -2042,8 +2161,19 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "7月24日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260725132418241800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
         {
           "title": "标普500指数的11个板块普遍收涨，房地产板块涨2.36%，原材料板块涨1.44%，能源板块涨0.25%，信息技术/科技板块跌0.88%。 所有成分股里，Packaging Corp. of America、Travelers Companies Inc.、Ventas Inc.等13只个股创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3139641",
@@ -2054,6 +2184,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息人士称，印度政府将德里市中心移动互联网的中断时间延长至周六午夜。",
+          "url": "https://flash.jin10.com/detail/20260725134628716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
