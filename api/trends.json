@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T09:59:48.900944+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-07-27T13:48:44.848442+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 38,
+      "match_count": 51,
       "titles": [
         {
           "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
@@ -89,11 +89,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 09时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 13时48分]"
         },
         {
           "title": "吃美了!中国食堂拿捏日本胃",
@@ -101,11 +102,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 09时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 13时48分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -147,6 +149,33 @@
           "time_info": "[00时48分 ~ 06时51分]"
         },
         {
+          "title": "Gut Genug但是中国人能飞",
+          "url": "https://search.bilibili.com/all?keyword=Gut%20Genug%E4%BD%86%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            29,
+            24,
+            25,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时48分]"
+        },
+        {
+          "title": "使馆通报中国公民遭保安强力对待",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%BF%E9%A6%86%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%AD%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%8A%9B%E5%AF%B9%E5%BE%85%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "金正恩参谒中国人民志愿军烈士陵园",
           "url": "https://wallstreetcn.com/livenews/3139883",
           "source": "华尔街见闻-快讯",
@@ -158,30 +187,81 @@
           "time_info": "06时51分"
         },
         {
-          "title": "Gut Genug但是中国人能飞",
-          "url": "https://search.bilibili.com/all?keyword=Gut%20Genug%E4%BD%86%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            29,
-            24,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 06时51分]"
-        },
-        {
           "title": "金正恩参谒中国人民志愿军烈士陵园",
           "url": "https://www.toutiao.com/trending/7666966427975008306/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "长鑫上市前，高盛紧急召开电话会：中国DRAM产能有望翻倍",
+          "url": "https://wallstreetcn.com/articles/3777983",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "机构：中国AI实验室料将受益于token消耗量激增",
+          "url": "https://flash.jin10.com/detail/20260727131420117800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "一组数据读懂中国硬核经济满满亮点",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%BB%8F%E6%B5%8E%E6%BB%A1%E6%BB%A1%E4%BA%AE%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "中国成为外国游客消暑度假新选择",
+          "url": "https://www.douyin.com/hot/2586631",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "中国公民在泰遭强力对待 中使馆回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%B3%B0%E9%81%AD%E5%BC%BA%E5%8A%9B%E5%AF%B9%E5%BE%85+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
+          "url": "https://www.cls.cn/detail/2437447",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "中国6月规模以上工业企业利润同比 15.1%，前值 21.1%。",
@@ -190,7 +270,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -219,6 +299,17 @@
           "time_info": "[00时48分 ~ 01时55分]"
         },
         {
+          "title": "越南外交部：感谢中国！",
+          "url": "https://news.ifeng.com/c/8v5ooxIqQPV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时48分]"
+        },
+        {
           "title": "评论员：中国女排“练兵”效果超预期",
           "url": "https://www.toutiao.com/trending/7666819667154964006/",
           "source": "今日头条",
@@ -236,20 +327,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
         {
-          "title": "越南外交部：感谢中国！",
-          "url": "https://news.ifeng.com/c/8v5ooxIqQPV",
-          "source": "凤凰网",
+          "title": "把中国人能飞变成古风",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E5%8F%98%E6%88%90%E5%8F%A4%E9%A3%8E",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "13时48分"
         },
         {
           "title": "中国1至6月规模以上工业企业利润同比 18.7%，前值 18.8%。",
@@ -258,9 +349,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "A股玻璃纤维板块午后拉升，国际复材涨超15%，宏和科技触及涨停，中国巨石、山东玻纤、中材科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260727130738276800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "中国粉丝在泰国被打，中使馆发声",
+          "url": "https://news.ifeng.com/c/8v69UOTMvjy",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "中国央行今日开展3255亿元7天逆回购操作，操作利率为1.40%。今日有3985亿元逆回购到期，4000亿元MLF到期。",
@@ -269,7 +382,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -280,7 +393,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -291,7 +404,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -302,7 +415,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -313,7 +426,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -324,9 +437,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "经济日报：中国学者开出菲尔兹奖“双响”，欣喜之余亦需清醒看到不足",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664671",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "A股油气板块竞价调整，中曼石油、山东墨龙双双跌停，通源石油、科力股份跌超15%，潜能恒信、泰山石油、中国海油、海油工程、蓝焰控股等低开。",
@@ -335,9 +459,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "美财政部威胁制裁中国模型，硅谷 200 家企业联名反对，硅谷的态度反弹说明了什么？",
+          "url": "https://www.zhihu.com/question/2064030510549054193",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "中国上证综指7月27日（周一）开盘下跌5.29点，跌幅：0.14%，报3808.9点；<br/>中国深证成指7月27日（周一）开盘下跌6.07点，跌幅：0.04%，报13768.6点；<br/>中国沪深300指数7月27日（周一）开盘上涨6.84点，涨幅：0.15%，报4656.03点；<br/>中国创业板指数7月27日（周一）开盘上涨1.18点，涨幅：0.03%，报3482.04点；<br/>中国科创50指数7月27日（周一）开盘下跌6.48点，跌幅：0.36%，报1780.72点。",
@@ -346,7 +481,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -357,7 +492,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -368,7 +503,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -379,7 +514,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -390,9 +525,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "中使馆回应中国公民在泰遭强力对待",
+          "url": "https://www.toutiao.com/trending/7666720199391019049/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "越南外交部：感谢中国的迅速帮助",
@@ -401,7 +547,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -412,7 +558,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -423,7 +569,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -434,7 +580,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -445,15 +591,331 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
       ]
     },
     {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 09时59分]"
+        },
+        {
+          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437150",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 09时59分]"
+        },
+        {
+          "title": "日本机器人格斗赛没开打就撞门跑路",
+          "url": "https://www.toutiao.com/trending/7666289625798905398/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            9,
+            10,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 13时48分]"
+        },
+        {
+          "title": "日本技术员拆完宇树机器人，当场破防",
+          "url": "https://news.ifeng.com/c/8v4eso1qejg",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 09时59分]"
+        },
+        {
+          "title": "日本爱豆猫月猫小妹离世",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356530&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B1%E8%B1%86%E7%8C%AB%E6%9C%88%E7%8C%AB%E5%B0%8F%E5%A6%B9%E7%A6%BB%E4%B8%96",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "日本确认南鸟岛海泥含稀土，对全球稀土供应有何影响？",
+          "url": "https://www.zhihu.com/question/2064455331346962042",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "调查显示日本8月将有近1900种食品涨价",
+          "url": "https://wallstreetcn.com/livenews/3139839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 05时51分]"
+        },
+        {
+          "title": "韩国气象厅发布多地最高级别高温警报",
+          "url": "https://wallstreetcn.com/livenews/3139830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 05时51分]"
+        },
+        {
+          "title": "日本如何评价宇树机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 09时59分]"
+        },
+        {
+          "title": "据日经新闻与东京电视台的最新民调，日本首相高市早苗内阁的支持率较上月下降10个百分点，跌至58%；这是自她去年10月上任以来，支持率首次低于60%。",
+          "url": "https://flash.jin10.com/detail/20260727001807034800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时57分]"
+        },
+        {
+          "title": "日本防相发表涉核狂言，朝中社：必须粉碎“战犯国的拥核野心”",
+          "url": "https://news.ifeng.com/c/8v55GoLWnEL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时48分]"
+        },
+        {
+          "title": "日本为找稀土开始拆解废旧空调",
+          "url": "https://www.douyin.com/hot/2585861",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时57分]"
+        },
+        {
+          "title": "日本5月领先指标终值 116.5，初值 116.8。",
+          "url": "https://wallstreetcn.com/livenews/3140027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "日本5月同步指标终值 117.9，初值 118.5。",
+          "url": "https://wallstreetcn.com/livenews/3140026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "日本10年期国债收益率下行6个基点至2.755%。",
+          "url": "https://wallstreetcn.com/livenews/3140025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "74万亿抛压警报解除！韩国国民年金反向调仓，大幅买入SK海力士",
+          "url": "https://www.cls.cn/detail/2437484",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
+          "url": "https://www.cls.cn/detail/2437139",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "日本5月领先指标月率终值 0.4%，前值0.7%。",
+          "url": "https://flash.jin10.com/detail/20260727130125117800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "日本5月同步指标终值 117.9，前值118.5。",
+          "url": "https://flash.jin10.com/detail/20260727130102516800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "日本5月领先指标终值 116.5，前值116.8。",
+          "url": "https://flash.jin10.com/detail/20260727130059089800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "日本首相高市早苗：具体的货币政策留待日本央行作出。 将提升经济竞争力以增强市场对日元的信心。",
+          "url": "https://wallstreetcn.com/livenews/3139913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "日本5月同步指标月率终值 -0.2%，前值0.4%。",
+          "url": "https://flash.jin10.com/detail/20260727130044365800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "日本首相高市早苗：降低债务占GDP比重是财政管理的关键。",
+          "url": "https://wallstreetcn.com/livenews/3139908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "韩国KOSPI指数向下触及6600点，日内跌1.42%。",
+          "url": "https://flash.jin10.com/detail/20260727092322529800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "日本机器人格斗赛没开打就撞门跑路",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E6%B2%A1%E5%BC%80%E6%89%93%E5%B0%B1%E6%92%9E%E9%97%A8%E8%B7%91%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "日经225指数高开0.8%，韩国首尔综指高开1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3139902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "日本称与俄谈重要问题 遭俄方打脸",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A7%B0%E4%B8%8E%E4%BF%84%E8%B0%88%E9%87%8D%E8%A6%81%E9%97%AE%E9%A2%98+%E9%81%AD%E4%BF%84%E6%96%B9%E6%89%93%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "据伊朗高级知情人士透露，美国暂停对伊朗袭击之后，（对美国+以色列的）“怀疑态度超过乐观情绪”。（彭博）",
@@ -493,6 +955,17 @@
           "time_info": "[00时48分 ~ 09时59分]"
         },
         {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时48分]"
+        },
+        {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
           "url": "https://wallstreetcn.com/livenews/3139853",
           "source": "华尔街见闻-快讯",
@@ -504,17 +977,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 06时51分]"
-        },
-        {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         },
         {
           "title": "美国防部：美军因伊朗战事累计伤亡642人",
@@ -537,6 +999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "内塔尼亚胡告知内阁，美国希望以军从三条战线撤退，但他将说不",
+          "url": "https://news.ifeng.com/c/8v6CgjsiFBI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -720,15 +1193,37 @@
           "time_info": "06时51分"
         },
         {
+          "title": "美国男子向人群随机射击被警方击倒",
+          "url": "https://www.toutiao.com/trending/7666465510288195603/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "伊朗暂停对美国报复性行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "汇丰：美国30年期实际收益率从当前估值来看具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3140001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "泽连斯基再赴美寻求美国主导和谈",
@@ -744,214 +1239,8 @@
       ]
     },
     {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 09时59分]"
-        },
-        {
-          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437150",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 09时59分]"
-        },
-        {
-          "title": "日本机器人格斗赛没开打就撞门跑路",
-          "url": "https://www.toutiao.com/trending/7666289625798905398/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            9,
-            10,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 09时59分]"
-        },
-        {
-          "title": "日本技术员拆完宇树机器人，当场破防",
-          "url": "https://news.ifeng.com/c/8v4eso1qejg",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 09时59分]"
-        },
-        {
-          "title": "调查显示日本8月将有近1900种食品涨价",
-          "url": "https://wallstreetcn.com/livenews/3139839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 05时51分]"
-        },
-        {
-          "title": "韩国气象厅发布多地最高级别高温警报",
-          "url": "https://wallstreetcn.com/livenews/3139830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 05时51分]"
-        },
-        {
-          "title": "日本如何评价宇树机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 09时59分]"
-        },
-        {
-          "title": "据日经新闻与东京电视台的最新民调，日本首相高市早苗内阁的支持率较上月下降10个百分点，跌至58%；这是自她去年10月上任以来，支持率首次低于60%。",
-          "url": "https://flash.jin10.com/detail/20260727001807034800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时57分]"
-        },
-        {
-          "title": "日本为找稀土开始拆解废旧空调",
-          "url": "https://www.douyin.com/hot/2585861",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时57分]"
-        },
-        {
-          "title": "日本防相发表涉核狂言，朝中社：必须粉碎“战犯国的拥核野心”",
-          "url": "https://news.ifeng.com/c/8v55GoLWnEL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
-          "url": "https://www.cls.cn/detail/2437139",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "日本首相高市早苗：具体的货币政策留待日本央行作出。 将提升经济竞争力以增强市场对日元的信心。",
-          "url": "https://wallstreetcn.com/livenews/3139913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "日本首相高市早苗：降低债务占GDP比重是财政管理的关键。",
-          "url": "https://wallstreetcn.com/livenews/3139908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "韩国KOSPI指数向下触及6600点，日内跌1.42%。",
-          "url": "https://flash.jin10.com/detail/20260727092322529800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "日本机器人格斗赛没开打就撞门跑路",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E6%B2%A1%E5%BC%80%E6%89%93%E5%B0%B1%E6%92%9E%E9%97%A8%E8%B7%91%E8%B7%AF",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "日经225指数高开0.8%，韩国首尔综指高开1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3139902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "日本称与俄谈重要问题 遭俄方打脸",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A7%B0%E4%B8%8E%E4%BF%84%E8%B0%88%E9%87%8D%E8%A6%81%E9%97%AE%E9%A2%98+%E9%81%AD%E4%BF%84%E6%96%B9%E6%89%93%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "德国一架飞机坠入民宅，砸穿屋顶(图)",
@@ -1060,9 +1349,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "经济学家：尽管油价飙升，英国央行料维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260727130349496800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "过火面积约5万公顷 西班牙阿维拉山火规模创纪录",
@@ -1079,7 +1379,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1099,7 +1399,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -1108,11 +1408,23 @@
           "url": "https://www.cls.cn/detail/2437213",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时48分]"
+        },
+        {
+          "title": "长鑫科技开盘 3.3 万亿登顶 A 股市值王，A 股 35 年首次由半导体硬科技拿下股王，意味着什么？",
+          "url": "https://www.zhihu.com/question/2065019773163984075",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "13时48分"
         },
         {
           "title": "专家：存储芯片和光模块走势将明朗",
@@ -1121,7 +1433,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
@@ -1129,7 +1441,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "印度财长：暂时不打算修正预算数据",
@@ -1154,6 +1466,85 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 01时55分]"
+        },
+        {
+          "title": "路透调查：72位经济学家中有68位预计印度央行将在8月5日维持回购利率在5.25%不变。",
+          "url": "https://flash.jin10.com/detail/20260727130358527800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "印度男子在祖母火化时钻入焚尸炉",
+          "url": "https://www.toutiao.com/trending/7667049404360867883/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗能源部长在谈及可再生能源发展时表示，上周已有70兆瓦的太阳能发电项目投入运行；本周还将有约100兆瓦的太阳能发电项目投入运行，且这一进程将持续进行。",
+          "url": "https://flash.jin10.com/detail/20260726233459980800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时55分]"
+        },
+        {
+          "title": "意大利能源服务企业Saipem SpA：意大利油企埃尼集团向公司授予了在科特迪瓦和意大利的新合同，合同总价值约为8亿欧元。项目预计将持续约三年。",
+          "url": "https://flash.jin10.com/detail/20260727130240522800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 前沿科技 量子 脑机 基因",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "用一个「可能致死」的技术（ 比如基因编辑）去治疗一个不致命的病，是不是从一开始就不该被允许？",
+          "url": "https://www.zhihu.com/question/2063993752285177641",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时48分]"
+        },
+        {
+          "title": "卫健局介入女童基因编辑死亡事件",
+          "url": "https://www.douyin.com/hot/2586735",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     },
@@ -1168,42 +1559,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗能源部长在谈及可再生能源发展时表示，上周已有70兆瓦的太阳能发电项目投入运行；本周还将有约100兆瓦的太阳能发电项目投入运行，且这一进程将持续进行。",
-          "url": "https://flash.jin10.com/detail/20260726233459980800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            23
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 前沿科技 量子 脑机 基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "用一个「可能致死」的技术（ 比如基因编辑）去治疗一个不致命的病，是不是从一开始就不该被允许？",
-          "url": "https://www.zhihu.com/question/2063993752285177641",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
