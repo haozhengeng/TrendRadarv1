@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T18:32:08.009669+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-07-29T20:58:23.445617+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 92,
+      "match_count": 105,
       "titles": [
         {
           "title": "日本发生7.1级地震，灾区画面曝光",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时19分 ~ 18时32分]"
+          "appearance_count": 15,
+          "time_info": "[01时19分 ~ 20时58分]"
         },
         {
           "title": "日本强震时天空出现巨型蘑菇云",
@@ -53,11 +53,12 @@
             4,
             8,
             14,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时19分 ~ 18时32分]"
+          "appearance_count": 15,
+          "time_info": "[01时19分 ~ 20时58分]"
         },
         {
           "title": "日本坍塌购物中心多人确认死亡",
@@ -119,6 +120,30 @@
           "time_info": "[01时19分 ~ 13时02分]"
         },
         {
+          "title": "日本发生强烈地震，中方：对遇难者表示哀悼",
+          "url": "https://news.ifeng.com/c/8v9iQY1KXBO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 20时58分]"
+        },
+        {
+          "title": "日本熊本7.1级地震：一商场或有大量人员死亡，专家警告有后续强震风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674438",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 20时58分]"
+        },
+        {
           "title": "海啸预警,日本发生7.1级地震",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356574&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "贴吧",
@@ -131,6 +156,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时19分 ~ 15时46分]"
+        },
+        {
+          "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
+          "url": "https://www.zhihu.com/question/2065767078427113175",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 20时58分]"
         },
         {
           "title": "日本熊本7.1级地震",
@@ -159,39 +196,17 @@
           "time_info": "[13时01分 ~ 18时32分]"
         },
         {
-          "title": "日本发生强烈地震，中方：对遇难者表示哀悼",
-          "url": "https://news.ifeng.com/c/8v9iQY1KXBO",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时32分]"
-        },
-        {
-          "title": "日本熊本7.1级地震：一商场或有大量人员死亡，专家警告有后续强震风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674438",
+          "title": "日本熊本发生7.1级地震，在日华人拉朋友躲在商场墙角避险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674135",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 18时32分]"
-        },
-        {
-          "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
-          "url": "https://www.zhihu.com/question/2065767078427113175",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 20时58分]"
         },
         {
           "title": "日本7.1级强震亲历者：红绿灯变黑，抬头时见楼房开始倒塌",
@@ -229,6 +244,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 09时44分]"
+        },
+        {
+          "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
+          "url": "https://wallstreetcn.com/articles/3778200",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 20时58分]"
         },
         {
           "title": "日本购物中心震后爆炸 白烟猛烈喷涌",
@@ -291,6 +319,20 @@
           "time_info": "[13时01分 ~ 18时32分]"
         },
         {
+          "title": "日本熊本地震已致13人死亡，近万人避难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33679905",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 20时58分]"
+        },
+        {
           "title": "日本强震瞬间满载大货车被抛起",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E7%9E%AC%E9%97%B4%E6%BB%A1%E8%BD%BD%E5%A4%A7%E8%B4%A7%E8%BD%A6%E8%A2%AB%E6%8A%9B%E8%B5%B7",
           "source": "百度热搜",
@@ -330,29 +372,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 07时52分]"
-        },
-        {
-          "title": "怎么看韩国股市跌44%",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C44%25",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
-          "title": "日本熊本发生7.1级地震，在日华人拉朋友躲在商场墙角避险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674135",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 18时32分]"
         },
         {
           "title": "日本强震致神社垮塌列车脱轨",
@@ -403,17 +422,6 @@
           "time_info": "[15时45分 ~ 18时32分]"
         },
         {
-          "title": "日本强震医院爆满停电病房像“战区”",
-          "url": "https://www.toutiao.com/trending/7667858812686208562/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
           "title": "日本熊本天空浮现巨型蘑菇云",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%A4%A9%E7%A9%BA%E6%B5%AE%E7%8E%B0%E5%B7%A8%E5%9E%8B%E8%98%91%E8%8F%87%E4%BA%91",
           "source": "百度热搜",
@@ -426,18 +434,6 @@
           "time_info": "[01时19分 ~ 07时52分]"
         },
         {
-          "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
-          "url": "https://wallstreetcn.com/articles/3778200",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时32分]"
-        },
-        {
           "title": "外交部批日本右翼势力借助人工智能歪曲侵华历史",
           "url": "https://wallstreetcn.com/livenews/3141533",
           "source": "华尔街见闻-快讯",
@@ -447,19 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
-        },
-        {
-          "title": "日本熊本地震已致13人死亡，近万人避难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33679905",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 18时32分]"
         },
         {
           "title": "2小时内超30次余震 日本高架桥断了",
@@ -498,6 +481,29 @@
           "time_info": "15时46分"
         },
         {
+          "title": "怎么看韩国股市跌44%",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C44%25",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "媒体：金正恩女儿亮相朝鲜纪念日活动",
+          "url": "https://www.toutiao.com/trending/7667888296424525362/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "日本强震已超百次余震 致多人伤亡",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%B6%85%E7%99%BE%E6%AC%A1%E4%BD%99%E9%9C%87+%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1",
           "source": "百度热搜",
@@ -529,6 +535,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "韩国股市连续两日熔断",
+          "url": "https://www.douyin.com/hot/2589569",
+          "source": "抖音",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "日本强震医院爆满停电病房像“战区”",
+          "url": "https://www.toutiao.com/trending/7667858812686208562/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
         },
         {
           "title": "日本7.1级强震已致多人死亡",
@@ -768,17 +798,6 @@
           "time_info": "[01时19分 ~ 03时08分]"
         },
         {
-          "title": "韩国股市连续两日熔断",
-          "url": "https://www.douyin.com/hot/2589569",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
           "title": "日本地震亲历者：抬头瞬间有楼房倒塌",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E4%BA%B2%E5%8E%86%E8%80%85%EF%BC%9A%E6%8A%AC%E5%A4%B4%E7%9E%AC%E9%97%B4%E6%9C%89%E6%A5%BC%E6%88%BF%E5%80%92%E5%A1%8C",
           "source": "百度热搜",
@@ -846,6 +865,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "韩国：承诺采取更多措施以稳定股市，着手遏制杠杆ETF交易。 将限制散户对杠杆ETF的投资敞口。 考虑提高交易成本以遏制ETF投机。",
+          "url": "https://wallstreetcn.com/livenews/3141703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "韩国首尔综指跌超11%，SK海力士大跌17%。",
           "url": "https://wallstreetcn.com/livenews/3141444",
           "source": "华尔街见闻-快讯",
@@ -855,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "韩国财政部：将为紧急情况下的市场稳定措施制定法律依据。",
+          "url": "https://flash.jin10.com/detail/20260729202853327800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "韩国首尔综指日内跌超10%。",
@@ -868,6 +909,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "韩国财政部：将提高与单只股票杠杆ETF相关的交易成本。",
+          "url": "https://flash.jin10.com/detail/20260729202818281800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "韩国金融当局将于今日下午召开紧急会议",
           "url": "https://flash.jin10.com/detail/20260729152504346800",
           "source": "金十数据",
@@ -877,6 +929,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "韩国财政部：将立即推出针对单只股票杠杆ETF的额外措施。",
+          "url": "https://flash.jin10.com/detail/20260729202605226800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "SK海力士ADR美股盘后跌幅扩大至5.7%，该公司二季度运营利润逊色于分析师预期；韩国股市即将在北京时间08:00开盘。 纳斯达克100指数股指期货在亚太盘初下跌0.5%，AI顾虑和美国-伊朗紧张关系牵动投资者神经。",
@@ -912,6 +975,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "韩国财政部：韩国考虑提高交易成本以抑制ETF投机行为。",
+          "url": "https://flash.jin10.com/detail/20260729202547624800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "日本内阁官房长官：不会预先判断使用储备资金进行地震救援的情况。",
           "url": "https://flash.jin10.com/detail/20260729152301456800",
           "source": "金十数据",
@@ -934,6 +1008,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "韩国财政部长：将维持24小时股票市场监测系统。",
+          "url": "https://flash.jin10.com/detail/20260729202445105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "韩国首尔综指转跌，SK海力士跌近3%。",
           "url": "https://wallstreetcn.com/livenews/3141302",
           "source": "华尔街见闻-快讯",
@@ -943,6 +1028,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "韩国财政部：韩国将限制散户投资者对杠杆ETF投资的敞口。",
+          "url": "https://flash.jin10.com/detail/20260729202418883800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "韩国财政部：韩国承诺采取更多措施以稳定股市，将采取措施限制杠杆ETF交易。",
+          "url": "https://flash.jin10.com/detail/20260729202300332800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "韩国几十万股民本金亏光",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%87%A0%E5%8D%81%E4%B8%87%E8%82%A1%E6%B0%91%E6%9C%AC%E9%87%91%E4%BA%8F%E5%85%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "韩国市场是否中了美元的圈套",
+          "url": "https://www.toutiao.com/trending/7667904442645089842/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "韩国首尔综合指数下跌8%后触发熔断机制，交易暂停20分钟。",
@@ -965,6 +1094,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "摩根大通：韩国杠杆ETF平仓潮接近尾声",
+          "url": "https://wallstreetcn.com/livenews/3141677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "韩国交易所对KOSDAQ指数启动熔断机制，交易暂停20分钟。",
@@ -1066,6 +1206,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "韩国股市为何变成“赌场”",
+          "url": "https://www.toutiao.com/trending/7667887340177591851/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "日本首相高市早苗：熊本地震死亡人数上升至13人。",
           "url": "https://wallstreetcn.com/livenews/3141285",
           "source": "华尔街见闻-快讯",
@@ -1094,7 +1245,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -1102,7 +1253,7 @@
     },
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 74,
+      "match_count": 81,
       "titles": [
         {
           "title": "华裔儿媳连刺美国白人婆婆",
@@ -1112,11 +1263,12 @@
             1,
             5,
             8,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时19分 ~ 18时32分]"
+          "appearance_count": 15,
+          "time_info": "[01时19分 ~ 20时58分]"
         },
         {
           "title": "美国更新受管制清单，外媒分析其意图",
@@ -1128,8 +1280,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 20时58分]"
         },
         {
           "title": "642人伤亡背后的多重隐忧，专家：美国承受不住这样的伤亡",
@@ -1140,8 +1292,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 18时32分]"
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 20时58分]"
         },
         {
           "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
@@ -1151,8 +1303,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 20时58分]"
         },
         {
           "title": "美国精简商业航天审批流程 希捷、海力士最新财报出炉 | 环球市场",
@@ -1669,6 +1821,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "美国总统特朗普：伊朗昨天的攻击令人意外，我们的部队只有几分钟的时间来拦截伊朗的导弹。",
+          "url": "https://flash.jin10.com/detail/20260729202522532800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美国至7月28日7年期国债竞拍-得标利率配置百分比 95.17%，前值36.22%。",
           "url": "https://flash.jin10.com/detail/20260729010208386800",
           "source": "金十数据",
@@ -1689,6 +1852,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "意大利油企埃尼集团首席执行官：正与委内瑞拉国家石油公司以及潜在的美国合作伙伴进行非常良好的谈判。",
+          "url": "https://flash.jin10.com/detail/20260729202456881800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国至7月28日7年期国债竞拍-得标利率 4.473%，前值4.26%。",
@@ -1741,7 +1915,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1807,9 +1981,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "因美国总统特朗普对伊朗的评论，欧洲天然气价格一度涨5.7%。",
+          "url": "https://flash.jin10.com/detail/20260729202038196800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国监管机构提议对波音737 MAX客机座椅展开检查",
@@ -1878,6 +2063,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "美国总统特朗普：美国与沙特的打击行动是与伊拉克政府协调进行的。",
+          "url": "https://flash.jin10.com/detail/20260729201914504800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "WTI原油期货涨5%，美国称拦截了伊朗朝美军发射的导弹。",
           "url": "https://wallstreetcn.com/livenews/3141223",
           "source": "华尔街见闻-快讯",
@@ -1906,7 +2102,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1920,6 +2116,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "伊朗谴责美国沙特袭击伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3141668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "美国总统特朗普：美国将对伊朗采取打击，以回应在约旦针对美国目标的攻击。",
+          "url": "https://flash.jin10.com/detail/20260729201730230800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普称，（关于伊朗问题）将让他们继续说下去。",
+          "url": "https://flash.jin10.com/detail/20260729201701696800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国2/10年期国债收益率跌超5个基点，追随油价跌势",
@@ -1947,7 +2176,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "韩国股市暴跌甩锅中国",
@@ -1956,11 +2185,12 @@
           "ranks": [
             2,
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 20时58分]"
         },
         {
           "title": "航天 中国人能飞",
@@ -2014,17 +2244,6 @@
           "time_info": "[07时52分 ~ 13时02分]"
         },
         {
-          "title": "五颜六色是中国的夏日底色",
-          "url": "https://www.douyin.com/hot/2589258",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时32分]"
-        },
-        {
           "title": "中方要求胡塞武装保障中国油轮安全通过红海？外交部回应",
           "url": "https://news.ifeng.com/c/8v9iL1mlf7I",
           "source": "凤凰网",
@@ -2032,8 +2251,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 20时58分]"
         },
         {
           "title": "中国制造迈向“技术红利”阶段",
@@ -2069,6 +2288,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 05时00分]"
+        },
+        {
+          "title": "五颜六色是中国的夏日底色",
+          "url": "https://www.douyin.com/hot/2589258",
+          "source": "抖音",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 20时58分]"
+        },
+        {
+          "title": "美国防部将部分中国科研机构列入制裁清单，商务部：坚决反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33679912",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 20时58分]"
         },
         {
           "title": "从三组外贸数据读懂中国机遇2.0",
@@ -2127,19 +2371,6 @@
           "time_info": "[18时31分 ~ 18时32分]"
         },
         {
-          "title": "美国防部将部分中国科研机构列入制裁清单，商务部：坚决反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33679912",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 18时32分]"
-        },
-        {
           "title": "这个靠作弊起家的“菲律宾将军”，是如何碰瓷中国的",
           "url": "https://news.ifeng.com/c/8v8ChVTVs0W",
           "source": "凤凰网",
@@ -2165,6 +2396,39 @@
           "time_info": "[01时19分 ~ 07时52分]"
         },
         {
+          "title": "斯洛伐克总统怀疑中国机器人藏真人",
+          "url": "https://www.toutiao.com/trending/7667207733225029638/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "从四款出口“爆品”看“中国智造”",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E5%9B%9B%E6%AC%BE%E5%87%BA%E5%8F%A3%E2%80%9C%E7%88%86%E5%93%81%E2%80%9D%E7%9C%8B%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%99%BA%E9%80%A0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "中国国产大模型不断刷新全球纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8D%E6%96%AD%E5%88%B7%E6%96%B0%E5%85%A8%E7%90%83%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "“明年摆脱中国稀土”！美政府砸了数百亿，美企：我们做不到",
           "url": "https://news.ifeng.com/c/8v6uBazOrt3",
           "source": "凤凰网",
@@ -2182,9 +2446,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "给荷兰弟赞达亚秀中国功夫",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99%E8%8D%B7%E5%85%B0%E5%BC%9F%E8%B5%9E%E8%BE%BE%E4%BA%9A%E7%A7%80%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 20时58分]"
         },
         {
           "title": "中国夫妇在马代玩拖曳伞双双坠海",
@@ -2250,6 +2526,30 @@
           "time_info": "[15时45分 ~ 18时32分]"
         },
         {
+          "title": "UP主揭秘国产CPU扛旗企业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98%E5%9B%BD%E4%BA%A7CPU%E6%89%9B%E6%97%97%E4%BC%81%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
           "title": "中国正实现特斯拉没做到的事",
           "url": "https://www.toutiao.com/trending/7667509123323268614/",
           "source": "今日头条",
@@ -2285,17 +2585,6 @@
           "time_info": "[05时00分 ~ 06时05分]"
         },
         {
-          "title": "UP主揭秘国产CPU扛旗企业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98%E5%9B%BD%E4%BA%A7CPU%E6%89%9B%E6%97%97%E4%BC%81%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
           "title": "中国新型机器人视频在国外爆火",
           "url": "https://www.toutiao.com/trending/7667145172241121321/",
           "source": "今日头条",
@@ -2316,17 +2605,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "为什么西方古代黄金文物多见大件的冠冕、圣杯，而中国古代更倾向于将黄金做成细小的错金银、金辟邪或马饰？",
@@ -2363,17 +2641,6 @@
           "time_info": "[05时00分 ~ 06时05分]"
         },
         {
-          "title": "给荷兰弟赞达亚秀中国功夫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99%E8%8D%B7%E5%85%B0%E5%BC%9F%E8%B5%9E%E8%BE%BE%E4%BA%9A%E7%A7%80%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
           "title": "中国游客称日本强震前有井盖冒温泉",
           "url": "https://www.toutiao.com/trending/7667725284774563354/",
           "source": "今日头条",
@@ -2402,7 +2669,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -2490,7 +2757,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -2545,16 +2812,51 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "斯洛伐克总统怀疑中国机器人藏真人",
+          "url": "https://www.baidu.com/s?wd=%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E6%80%BB%E7%BB%9F%E6%80%80%E7%96%91%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%97%8F%E7%9C%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "中国男排vs日本男排",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92vs%E6%97%A5%E6%9C%AC%E7%94%B7%E6%8E%92&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 20时58分]"
+        },
         {
           "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
           "url": "https://wallstreetcn.com/articles/3778106",
@@ -2584,18 +2886,6 @@
           "time_info": "[01时19分 ~ 15时46分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 18时32分]"
-        },
-        {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
           "source": "财联社热门",
@@ -2608,6 +2898,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 09时44分]"
+        },
+        {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 20时58分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -2635,19 +2939,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 06时05分]"
-        },
-        {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 18时32分]"
         },
         {
           "title": "三天传出多笔大交易 ：英伟达进入“左手出资、右手卖芯片”的循环局？",
@@ -2821,6 +3112,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "永鼎股份：控股子公司苏州鼎芯光电科技有限公司于近一个月收到A客户、B客户关于大功率激光器芯片产品的采购订单，相关订单合计金额分别为5.42亿元人民币（含税）、0.87亿美元（含税）（折合人民币约5.91亿元）。",
+          "url": "https://wallstreetcn.com/livenews/3141686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "恩智浦半导体(NXPI.O)2026年Q2营收34.96亿美元，上年同期29.26亿美元。",
           "url": "https://flash.jin10.com/detail/20260729041501760800",
           "source": "金十数据",
@@ -2874,12 +3176,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞将于7月30日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3141665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "齐达内出任法国队主教练",
@@ -2982,7 +3295,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -3037,7 +3350,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -3070,15 +3383,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "法国和西班牙山火合并",
+          "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%92%8C%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B1%B1%E7%81%AB%E5%90%88%E5%B9%B6&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
     {
       "keyword_group": "印度",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "印度成首个被AI做空的国家",
@@ -3108,11 +3432,12 @@
           "url": "https://www.toutiao.com/trending/7667757544048050226/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
         },
         {
           "title": "印度股指Sensex指数上涨1%。",
@@ -3132,9 +3457,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "高原空战印度空军真的有优势吗",
@@ -3204,7 +3540,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -3244,8 +3580,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
         },
         {
           "title": "17万新能源车开3年电池故障更换要5万",
@@ -3266,7 +3602,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -3310,11 +3646,12 @@
           "url": "https://www.cls.cn/detail/2440070",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
         }
       ]
     },
