@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T09:27:22.852906+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-07-30T12:49:12.263550+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 75,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -15,11 +15,12 @@
             3,
             2,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
         },
         {
           "title": "美国更新受管制清单，外媒分析其意图",
@@ -38,11 +39,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356579&amp;topic_name=%E5%8D%8E%E8%A3%94%E5%84%BF%E5%AA%B3%E8%BF%9E%E5%88%BA%E7%BE%8E%E5%9B%BD%E7%99%BD%E4%BA%BA%E5%A9%86%E5%A9%86",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
+        },
+        {
+          "title": "美国“虚空造牌”，中方曾严正表态",
+          "url": "https://news.ifeng.com/c/8vAlWg9gecP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时49分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -54,17 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时50分 ~ 07时54分]"
-        },
-        {
-          "title": "美国“虚空造牌”，中方曾严正表态",
-          "url": "https://news.ifeng.com/c/8vAlWg9gecP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "据Politico：随着中期选举临近，美国共和党人开始考虑再次上调债务上限。",
@@ -268,6 +270,17 @@
           "time_info": "[06时51分 ~ 07时54分]"
         },
         {
+          "title": "美方限制进口“先进机器人设备”，外交部：保护主义提升不了美国竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33681759",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "美国三大股指再度走低，道指跌1.94%、标普500指数跌0.99%、纳指跌0.88%。",
           "url": "https://flash.jin10.com/detail/20260730033730406800",
           "source": "金十数据",
@@ -288,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "菲律宾出口创历史新高 美国仍是其最大市场",
+          "url": "https://wallstreetcn.com/livenews/3142137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普：（关于人工智能）正在关注监管问题。",
@@ -362,7 +386,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -433,6 +457,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "据英国金融时报：对冲基金正加大对美国关键矿产企业的做空押注。根据标普全球市场财智的股票借贷数据，今年以来，包括美国锑业、美国资源和MP Materials在内的多家企业，其空头头寸均有所增加。",
+          "url": "https://flash.jin10.com/detail/20260730122540323800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "美国30年期国债收益率自2007年以来首次突破5.20%。",
           "url": "https://flash.jin10.com/detail/20260730033307588800",
           "source": "金十数据",
@@ -450,7 +485,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -461,7 +496,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -843,8 +878,23 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 33,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
+          "url": "https://wallstreetcn.com/articles/3778200",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
+        },
         {
           "title": "日本熊本地震已致13人死亡，近万人避难",
           "url": "https://m.thepaper.cn/newsDetail_forward_33679905",
@@ -857,18 +907,20 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
-          "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
-          "url": "https://wallstreetcn.com/articles/3778200",
-          "source": "华尔街见闻",
+          "title": "华尔街如何收割韩国散户",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%B0%94%E8%A1%97%E5%A6%82%E4%BD%95%E6%94%B6%E5%89%B2%E9%9F%A9%E5%9B%BD%E6%95%A3%E6%88%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            4,
+            8,
+            10,
+            9,
+            6,
             5,
-            6
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
         },
         {
           "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
@@ -886,19 +938,32 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
-          "title": "华尔街如何收割韩国散户",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%B0%94%E8%A1%97%E5%A6%82%E4%BD%95%E6%94%B6%E5%89%B2%E9%9F%A9%E5%9B%BD%E6%95%A3%E6%88%B7",
+          "title": "怎么看韩国股市跌44%",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C44%25",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            10,
-            9,
+            20,
+            17,
+            16,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
+        },
+        {
+          "title": "强震后，日本网上出现涉华阴谋论",
+          "url": "https://news.ifeng.com/c/8vAHjVqJKVC",
+          "source": "凤凰网",
+          "ranks": [
+            4,
             6,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
+          "appearance_count": 6,
+          "time_info": "[05时50分 ~ 12时49分]"
         },
         {
           "title": "日本发生7.1级地震，灾区画面曝光",
@@ -923,20 +988,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 07时54分]"
-        },
-        {
-          "title": "怎么看韩国股市跌44%",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C44%25",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            17,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "日本各地惊现”喷粪”狂徒",
@@ -965,15 +1016,15 @@
           "time_info": "[01时06分 ~ 06时51分]"
         },
         {
-          "title": "记者用两个非常惨烈形容日本震后现场",
-          "url": "https://www.toutiao.com/trending/7668085321384529418/",
-          "source": "今日头条",
+          "title": "李在明能否挽救韩国股市",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%83%BD%E5%90%A6%E6%8C%BD%E6%95%91%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时54分 ~ 09时27分]"
+          "time_info": "[12时48分 ~ 12时49分]"
         },
         {
           "title": "日本发生强烈地震，中方：对遇难者表示哀悼",
@@ -1018,16 +1069,27 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
-          "title": "强震后，日本网上出现涉华阴谋论",
-          "url": "https://news.ifeng.com/c/8vAHjVqJKVC",
-          "source": "凤凰网",
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.toutiao.com/trending/7668085321384529418/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            6
+            1,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时50分 ~ 09时27分]"
+          "time_info": "[07时54分 ~ 12时49分]"
+        },
+        {
+          "title": "日本强震，高市早苗摆拍作秀遭痛批",
+          "url": "https://v.ifeng.com/c/8vB1oiiQOmI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
         },
         {
           "title": "日本光学与摄影镜头制造商腾龙收到索尼发出的非约束性收购报价。",
@@ -1062,7 +1124,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1073,9 +1135,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%94%A8%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%83%A8%E7%83%88%E5%BD%A2%E5%AE%B9%E6%97%A5%E6%9C%AC%E9%9C%87%E5%90%8E%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时49分]"
         },
         {
           "title": "日本强震致神社垮塌列车脱轨",
@@ -1105,15 +1179,92 @@
           "time_info": "[02时58分 ~ 05时50分]"
         },
         {
+          "title": "韩国股市暴跌背后的真相",
+          "url": "https://www.douyin.com/hot/2589992",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "史无前例的“背靠背”熔断后 韩国监管紧急开会说了点啥？",
+          "url": "https://www.cls.cn/detail/2440630",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "日本熊本县地震致多家半导体工厂停工",
+          "url": "https://www.cls.cn/detail/2440520",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "日本熊本地震已致28人死亡",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B428%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？",
+          "url": "https://www.zhihu.com/question/2065536648381555046",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "丰田汽车(TM.N)：6月母公司日本国内汽车产量同比增长14.6%，达到313,234辆。海外汽车产量同比下降2.6%，至566,087辆。全球汽车产量同比增长2.9%，达到879,321辆。",
+          "url": "https://flash.jin10.com/detail/20260730123115314800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "日经225指数日内涨幅扩大至2%，韩国首尔综指涨1.5%。",
           "url": "https://wallstreetcn.com/livenews/3142009",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "日本拍卖2年期国债，认购倍数3.63，过去12个月均值3.81。",
+          "url": "https://wallstreetcn.com/livenews/3142131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "据韩国媒体报道：比尔·盖茨将前往韩国，讨论小型模块化反应堆（SMR）的合作事宜。",
@@ -1133,7 +1284,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1155,7 +1306,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1166,7 +1317,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1177,9 +1328,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "高温炙烤韩国 釜山破122年来最高气温纪录",
+          "url": "https://wallstreetcn.com/livenews/3142116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "韩国KOSPI指数日内涨幅达2%，三星电子涨3%，SK海力士跌0.7%。",
@@ -1188,20 +1350,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
         {
-          "title": "记者用两个非常惨烈形容日本震后现场",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%94%A8%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%83%A8%E7%83%88%E5%BD%A2%E5%AE%B9%E6%97%A5%E6%9C%AC%E9%9C%87%E5%90%8E%E7%8E%B0%E5%9C%BA",
-          "source": "百度热搜",
+          "title": "日本首相高市早苗已决定从2027年4月起，暂时将食品和不含酒精饮料的消费税率降至1%。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3142113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "韩国首尔综指回吐稍早逾5%的涨幅转跌。",
+          "url": "https://wallstreetcn.com/livenews/3142109",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "12时49分"
         },
         {
           "title": "韩国股市会不会连环暴雷",
@@ -1215,13 +1388,24 @@
           "time_info": "01时06分"
         },
         {
+          "title": "日本两年期国债需求弱于12个月平均水平",
+          "url": "https://flash.jin10.com/detail/20260730114846100800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "韩国首尔综指盘初跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3141986",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1243,7 +1427,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -1251,7 +1435,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
         {
           "title": "从四款出口“爆品”看“中国智造”",
@@ -1263,6 +1447,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时06分 ~ 09时27分]"
+        },
+        {
+          "title": "五颜六色是中国的夏日底色",
+          "url": "https://www.douyin.com/hot/2589258",
+          "source": "抖音",
+          "ranks": [
+            4,
+            6,
+            7,
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
         },
         {
           "title": "中方要求胡塞武装保障中国油轮安全通过红海？外交部回应",
@@ -1277,18 +1476,58 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
-          "title": "五颜六色是中国的夏日底色",
-          "url": "https://www.douyin.com/hot/2589258",
-          "source": "抖音",
+          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
+          "url": "https://www.zhihu.com/question/2064993421949755491",
+          "source": "知乎",
           "ranks": [
-            4,
-            6,
-            7,
-            2
+            14,
+            13,
+            5,
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
+          "appearance_count": 9,
+          "time_info": "[02时58分 ~ 12时49分]"
+        },
+        {
+          "title": "中国“新新三样”又火了",
+          "url": "https://www.douyin.com/hot/2589401",
+          "source": "抖音",
+          "ranks": [
+            21,
+            23,
+            22,
+            29,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
+        },
+        {
+          "title": "韩国股市暴跌甩锅中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
         },
         {
           "title": "斯洛伐克总统怀疑中国机器人藏真人",
@@ -1307,21 +1546,6 @@
           "time_info": "[01时06分 ~ 09时27分]"
         },
         {
-          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
-          "url": "https://www.zhihu.com/question/2064993421949755491",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            5,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时58分 ~ 09时27分]"
-        },
-        {
           "title": "UP主揭秘国产CPU扛旗企业",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98%E5%9B%BD%E4%BA%A7CPU%E6%89%9B%E6%97%97%E4%BC%81%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -1334,42 +1558,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 07时54分]"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
-        },
-        {
-          "title": "韩国股市暴跌甩锅中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
-        },
-        {
-          "title": "中国“新新三样”又火了",
-          "url": "https://www.douyin.com/hot/2589401",
-          "source": "抖音",
-          "ranks": [
-            21,
-            23,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "美国防部将部分中国科研机构列入制裁清单，商务部：坚决反对",
@@ -1399,13 +1587,46 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
+          "title": "老外领悟中国小说,含蓄中藏暗示",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356633&amp;topic_name=%E8%80%81%E5%A4%96%E9%A2%86%E6%82%9F%E4%B8%AD%E5%9B%BD%E5%B0%8F%E8%AF%B4%2C%E5%90%AB%E8%93%84%E4%B8%AD%E8%97%8F%E6%9A%97%E7%A4%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "“新新三样”成中国出口新名片",
+          "url": "https://www.toutiao.com/trending/7667955264047366187/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "国产抗日FPS抵抗者最新PV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%8A%97%E6%97%A5FPS%E6%8A%B5%E6%8A%97%E8%80%85%E6%9C%80%E6%96%B0PV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "中国央行：今日开展2705亿元7天逆回购操作，投标量2705亿元，中标量2705亿元，操作利率为1.40%。同时，开展了6000亿元隔夜逆回购操作。",
           "url": "https://flash.jin10.com/detail/20260730092212472800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1416,7 +1637,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1427,7 +1648,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1470,6 +1691,72 @@
           "time_info": "[02时58分 ~ 04时10分]"
         },
         {
+          "title": "针对中国？西班牙决定：不跟",
+          "url": "https://news.ifeng.com/c/8vAtuxFm8Ev",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "外机成体系逼近，中国飞行员果断驱离",
+          "url": "https://news.ifeng.com/c/8vAy8khYJKG",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "如何评价揽佬新歌《中国人能飞》？",
+          "url": "https://www.zhihu.com/question/2064534355440145959",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "活力中国调研行｜杭州何止“六小龙”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33679894",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "罗技中国区营收喜人 曾侮辱顾客是狗",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%8A%80%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%90%A5%E6%94%B6%E5%96%9C%E4%BA%BA%20%E6%9B%BE%E4%BE%AE%E8%BE%B1%E9%A1%BE%E5%AE%A2%E6%98%AF%E7%8B%97&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "南非标注“中国台湾” 台当局破防了",
+          "url": "https://www.toutiao.com/trending/7667535532785664010/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "MLCC被日本主导 中国如何突围",
           "url": "https://www.toutiao.com/trending/7667911607384542774/",
           "source": "今日头条",
@@ -1488,7 +1775,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1499,7 +1786,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1532,7 +1819,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1543,7 +1830,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1573,7 +1860,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -1621,13 +1908,24 @@
           "time_info": "[06时51分 ~ 07时54分]"
         },
         {
+          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
+          "url": "https://www.cls.cn/detail/2440581",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "三星电子第二季度资本支出为16.8万亿韩元，其中15.4万亿韩元用于芯片业务。",
           "url": "https://wallstreetcn.com/livenews/3142012",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1649,9 +1947,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "世名科技：公司暂无半导体芯片光刻胶纳米颜料分散液相关产品",
+          "url": "https://flash.jin10.com/detail/20260730122343319800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "高通(QCOM.O)首席执行官：定制芯片已进入晶圆生产阶段。",
@@ -1674,23 +1983,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "创业板指、科创50均跌超5%，沪指跌0.85%，深成指跌3.11%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3142105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "新能源汽车智驾小蓝灯将禁用",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：预计能源管道将远离霍尔木兹。",
@@ -1710,9 +2031,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "国家能源局：上半年我国可再生能源发电量占比首次超四成",
+          "url": "https://wallstreetcn.com/livenews/3142100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "央视3分钟评上汽MG新能源技术",
@@ -1729,7 +2061,7 @@
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
@@ -1740,11 +2072,12 @@
             15,
             12,
             11,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 12时49分]"
         },
         {
           "title": "美联储主席沃什：人工智能投资为未来增长奠定基础。",
@@ -1767,12 +2100,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-30）",
+          "url": "https://flash.jin10.com/detail/20260730120503829800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "法国兴业银行第二季度净利润17.9亿欧元，同比+23%。 第二季度经营支出41.6亿欧元，同比-4.1%。 计划进行规模达15亿欧元的特别股票回购，最早将于2026年8月3日启动。 预计全年有形股本回报率大约为+11％。",
+          "url": "https://wallstreetcn.com/livenews/3142140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "法国兴业银行第二季度净利润17.9亿欧元，同比增长23%，计划回购15亿欧元股票，并提高本财年目标股价。",
+          "url": "https://flash.jin10.com/detail/20260730123217142800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨0.13%，报25497.44点。 法国股指初步收跌0.65%，意大利股指初步收跌0.45%，英国股指初步收涨0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3141790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
     {
       "keyword_group": "印度",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -1802,6 +2185,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时58分 ~ 06时51分]"
+        },
+        {
+          "title": "白忙,印度老哥来华卖缝纫机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356631&amp;topic_name=%E7%99%BD%E5%BF%99%2C%E5%8D%B0%E5%BA%A6%E8%80%81%E5%93%A5%E6%9D%A5%E5%8D%8E%E5%8D%96%E7%BC%9D%E7%BA%AB%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
         }
       ]
     },
@@ -1828,26 +2222,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "德国DAX 30指数初步收涨0.13%，报25497.44点。 法国股指初步收跌0.65%，意大利股指初步收跌0.45%，英国股指初步收涨0.33%。",
-          "url": "https://wallstreetcn.com/livenews/3141790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "09时27分"
         }
       ]
     },
@@ -1860,11 +2237,12 @@
           "url": "https://www.zhihu.com/question/2065583157664018461",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时49分]"
         }
       ]
     }
