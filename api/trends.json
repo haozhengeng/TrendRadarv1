@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T06:01:46.220505+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-07-31T07:10:38.486116+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "在美国和内塔尼亚胡吃了顿饭，黎巴嫩银行家回国或被捕",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
         },
         {
           "title": "据加拿大社区警报：加拿大Suncor Sarnia炼油厂报告将在接下来的几天内进行维护活动，导致临时使用火炬系统。",
@@ -41,17 +41,6 @@
           "time_info": "04时57分"
         },
         {
-          "title": "美国和乌克兰上周签署了无人机技术协议。 乌克兰无人机可以送到美国进行军事测试。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3142668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "美国参议员科宁：特朗普可能撤回对布兰奇的提名，这或许是谈判策略，但相关磋商至少在本周末前已基本破裂。",
           "url": "https://flash.jin10.com/detail/20260731004008278800",
           "source": "金十数据",
@@ -63,26 +52,16 @@
           "time_info": "01时17分"
         },
         {
-          "title": "美国财长贝森特：日元在我看来“似乎被严重低估”。",
-          "url": "https://flash.jin10.com/detail/20260731055132400800",
-          "source": "金十数据",
+          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
+          "url": "https://www.cls.cn/detail/2441830",
+          "source": "财联社热门",
           "ranks": [
-            4
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3142667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
         },
         {
           "title": "白宫发布关于可回收关键矿产的备忘录：美国寻求保障可回收关键矿产的供应。 将可回收关键矿产相关行动与国防挂钩。",
@@ -97,16 +76,40 @@
           "time_info": "[04时57分 ~ 06时01分]"
         },
         {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
-          "source": "财联社热门",
+          "title": "美国和乌克兰上周签署了无人机技术协议。 乌克兰无人机可以送到美国进行军事测试。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3142668",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时10分]"
+        },
+        {
+          "title": "美国财长贝森特：日元在我看来“似乎被严重低估”。",
+          "url": "https://flash.jin10.com/detail/20260731055132400800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时10分]"
+        },
+        {
+          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3142667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时10分]"
         },
         {
           "title": "美国考虑对大学毕业之后留美工作的外国学生收取10万美元的费用。 此前，（美国法院）阻挠总统特朗普对H-1B签证收费10万美元的想法。（华尔街日报）",
@@ -119,6 +122,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 03时10分]"
+        },
+        {
+          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
+          "url": "https://wallstreetcn.com/livenews/3142656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时10分]"
+        },
+        {
+          "title": "美国财长：日元似乎被“严重低估”",
+          "url": "https://wallstreetcn.com/livenews/3142685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "美国至7月24日当周外国央行持有美国国债 339.02亿美元，前值248.14亿美元。",
@@ -154,6 +180,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "美国总统特朗普：和平委员会达成历史性协议，全面解除哈马斯及加沙所有其他武装团体的武装。",
+          "url": "https://flash.jin10.com/detail/20260731062552220800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
           "title": "据员工邮件通知，美国联邦航空管理局副局长罗切洛将于下周卸任。",
           "url": "https://flash.jin10.com/detail/20260731021817886800",
           "source": "金十数据",
@@ -176,17 +213,6 @@
           "time_info": "01时17分"
         },
         {
-          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
-          "url": "https://wallstreetcn.com/livenews/3142656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "白宫官员：美国总统特朗普下令限制关键矿物废料的出口。",
           "url": "https://flash.jin10.com/detail/20260731042633412800",
           "source": "金十数据",
@@ -204,7 +230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -333,8 +359,71 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "日本广岛现新物质 系原子弹爆炸形成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%8E%B0%E6%96%B0%E7%89%A9%E8%B4%A8+%E7%B3%BB%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%BD%A2%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "紧急救市！报道：韩国监管层拟重启卖空禁令、缩小30%涨跌停板限制",
+          "url": "https://wallstreetcn.com/articles/3778321",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "市场消息：韩国外汇当局周四进行罕见的美元卖出干预。",
+          "url": "https://flash.jin10.com/detail/20260731065149489800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "日本震后老年人睡地板民众哭喊怕余震",
+          "url": "https://www.toutiao.com/trending/7668024656082964010/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            5,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "日元暴涨3.3%后，日本央行决议迎变数：干预之后，会否再度加息？",
+          "url": "https://flash.jin10.com/detail/20260731065006453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
         {
           "title": "据日经新闻：日本政府与日本央行在外汇市场进行干预。",
           "url": "https://flash.jin10.com/detail/20260731043732594800",
@@ -347,29 +436,15 @@
           "time_info": "04时57分"
         },
         {
-          "title": "日本震后老年人睡地板民众哭喊怕余震",
-          "url": "https://www.toutiao.com/trending/7668024656082964010/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "美国财长贝森特：日本可能在（美东时间）周四早些时候干预了外汇市场。",
-          "url": "https://flash.jin10.com/detail/20260731054921788800",
+          "title": "据日经新闻：三星贸易部门与日本可再生能源公司Erex正在合作开发新的能源项目，以满足AI发展带来的电力需求。目标是在2029财年前为数据中心提供稳定的可再生能源供应。",
+          "url": "https://flash.jin10.com/detail/20260731064742988800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "07时10分"
         },
         {
           "title": "日本政府与日本央行在外汇市场进行干预。（日经新闻）",
@@ -383,28 +458,40 @@
           "time_info": "04时57分"
         },
         {
-          "title": "紧急救市！报道：韩国监管层拟重启卖空禁令、缩小30%涨跌停板限制",
-          "url": "https://wallstreetcn.com/articles/3778321",
-          "source": "华尔街见闻",
+          "title": "凤凰记者深入日本震区工厂：烟囱断裂，工人被困，全面停工",
+          "url": "https://news.ifeng.com/c/8vBeraEcqSF",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
         },
         {
-          "title": "日本广岛现新物质 系原子弹爆炸形成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%8E%B0%E6%96%B0%E7%89%A9%E8%B4%A8+%E7%B3%BB%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%BD%A2%E6%88%90",
-          "source": "百度热搜",
+          "title": "李在明能否挽救韩国股市",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%83%BD%E5%90%A6%E6%8C%BD%E6%95%91%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            26,
+            17,
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "股市暴雷,韩国殡葬业赚翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356644&amp;topic_name=%E8%82%A1%E5%B8%82%E6%9A%B4%E9%9B%B7%2C%E9%9F%A9%E5%9B%BD%E6%AE%A1%E8%91%AC%E4%B8%9A%E8%B5%9A%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
         },
         {
           "title": "花旗称日元将转弱，建议在日本央行决议前做多美元兑日元",
@@ -419,39 +506,16 @@
           "time_info": "[01时17分 ~ 03时10分]"
         },
         {
-          "title": "凤凰记者深入日本震区工厂：烟囱断裂，工人被困，全面停工",
-          "url": "https://news.ifeng.com/c/8vBeraEcqSF",
-          "source": "凤凰网",
+          "title": "美国财长贝森特：日本可能在（美东时间）周四早些时候干预了外汇市场。",
+          "url": "https://flash.jin10.com/detail/20260731054921788800",
+          "source": "金十数据",
           "ranks": [
-            9
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "李在明能否挽救韩国股市",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%83%BD%E5%90%A6%E6%8C%BD%E6%95%91%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "股市暴雷,韩国殡葬业赚翻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356644&amp;topic_name=%E8%82%A1%E5%B8%82%E6%9A%B4%E9%9B%B7%2C%E9%9F%A9%E5%9B%BD%E6%AE%A1%E8%91%AC%E4%B8%9A%E8%B5%9A%E7%BF%BB",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时10分]"
         },
         {
           "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
@@ -459,11 +523,24 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 07时10分]"
+        },
+        {
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.toutiao.com/trending/7668085321384529418/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时10分 ~ 06时01分]"
+          "time_info": "[04时57分 ~ 07时10分]"
         },
         {
           "title": "国防部：日本拥核野心不可纵 挑战红线不能容",
@@ -477,26 +554,49 @@
           "time_info": "[01时17分 ~ 03时10分]"
         },
         {
-          "title": "记者用两个非常惨烈形容日本震后现场",
-          "url": "https://www.toutiao.com/trending/7668085321384529418/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时01分]"
-        },
-        {
           "title": "韩国股市上演极端行情",
           "url": "https://www.douyin.com/hot/2591025",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时10分]"
+        },
+        {
+          "title": "美国财长贝森特：日元已大幅偏离均衡价格，被严重低估；并不担心日元兑美元再次走强，日元目前非常便宜，而日本经济表现良好。",
+          "url": "https://flash.jin10.com/detail/20260731063749263800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "07时10分"
+        },
+        {
+          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
+          "url": "https://wallstreetcn.com/livenews/3142673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
+          "url": "https://flash.jin10.com/detail/20260731060103700800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "日本媒体：日本实施汇市干预，美国亦进行了汇率询价",
@@ -505,7 +605,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -519,6 +619,171 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[中国] 国产 中国",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "荷兰弟来中国为啥火了森马",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%E5%BC%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%B8%BA%E5%95%A5%E7%81%AB%E4%BA%86%E6%A3%AE%E9%A9%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "和美德决裂、赞扬中国…法国这个总统候选人有多“头铁”",
+          "url": "https://news.ifeng.com/c/8vBr1Y5Lncc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "南部战区位中国黄岩岛组织战备警巡",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E4%B8%AD%E5%9B%BD%E9%BB%84%E5%B2%A9%E5%B2%9B%E7%BB%84%E7%BB%87%E6%88%98%E5%A4%87%E8%AD%A6%E5%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "外长要华裔议员“滚回自己国家”，新西兰总理、中国大使发声",
+          "url": "https://news.ifeng.com/c/8vBL7POY74B",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "高市早苗说中国是重要邻国，究竟是战略性调整还是公关话术？",
+          "url": "https://v.ifeng.com/c/8vBfJ2WCGpq",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "长沙天马德馨园7-0中国足球小将蓝队",
+          "url": "https://www.toutiao.com/trending/7667752219152711690/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "老外领悟中国小说,含蓄中藏暗示",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356633&amp;topic_name=%E8%80%81%E5%A4%96%E9%A2%86%E6%82%9F%E4%B8%AD%E5%9B%BD%E5%B0%8F%E8%AF%B4%2C%E5%90%AB%E8%93%84%E4%B8%AD%E8%97%8F%E6%9A%97%E7%A4%BA",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "外机成体系逼近，中国飞行员果断驱离",
+          "url": "https://news.ifeng.com/c/8vAy8khYJKG",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时57分]"
+        },
+        {
+          "title": "库克称苹果Q2在中国大陆等新兴市场和部分发达市场打破纪录，公司股价盘后跌幅仍然扩大至5%",
+          "url": "https://wallstreetcn.com/livenews/3142654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时10分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.05%，报6502.80点。 热门中概股里，世纪互联涨16.7%，日月光半导体涨12.2%，万国数据涨8%，阿特斯太阳能涨7.7%，腾讯涨2.4%，百度涨2%，网易涨1.8%，阿里涨1%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨4.97%，德银嘉实沪深300指数ETF（ASHR）收涨1.15%，XtrackersHarvest中证50（ASHS）收跌0.65%。 中概互联网指数ETF（KWEB）收涨0.94%，中国科技指数ETF（CQQQ）收跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3142632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "国产抗日FPS抵抗者最新PV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%8A%97%E6%97%A5FPS%E6%8A%B5%E6%8A%97%E8%80%85%E6%9C%80%E6%96%B0PV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "国产抗日FPS抵抗者试玩体验",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%8A%97%E6%97%A5FPS%E6%8A%B5%E6%8A%97%E8%80%85%E8%AF%95%E7%8E%A9%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         }
       ]
     },
@@ -549,6 +814,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
           "title": "德国两年期国债收益率跌超5个基点",
           "url": "https://wallstreetcn.com/livenews/3142580",
           "source": "华尔街见闻-快讯",
@@ -559,17 +835,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 03时10分]"
-        },
-        {
-          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
-          "url": "https://news.ifeng.com/c/8vBnavmwROe",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
         },
         {
           "title": "周四（7月30日）欧市尾盘，ICE英国天然气期货跌3.50%，报141.300便士/千卡。 TTF基准荷兰天然气期货跌3.41%，报58.650欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.32%，报81.26欧元/吨。",
@@ -662,137 +927,8 @@
       ]
     },
     {
-      "keyword_group": "[中国] 国产 中国",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "和美德决裂、赞扬中国…法国这个总统候选人有多“头铁”",
-          "url": "https://news.ifeng.com/c/8vBr1Y5Lncc",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "南部战区位中国黄岩岛组织战备警巡",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E4%B8%AD%E5%9B%BD%E9%BB%84%E5%B2%A9%E5%B2%9B%E7%BB%84%E7%BB%87%E6%88%98%E5%A4%87%E8%AD%A6%E5%B7%A1",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "外长要华裔议员“滚回自己国家”，新西兰总理、中国大使发声",
-          "url": "https://news.ifeng.com/c/8vBL7POY74B",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "高市早苗说中国是重要邻国，究竟是战略性调整还是公关话术？",
-          "url": "https://v.ifeng.com/c/8vBfJ2WCGpq",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "中国向伊朗提供400枚导弹？外交部回应",
-          "url": "https://www.toutiao.com/trending/7668128346190053385/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "长沙天马德馨园7-0中国足球小将蓝队",
-          "url": "https://www.toutiao.com/trending/7667752219152711690/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "老外领悟中国小说,含蓄中藏暗示",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356633&amp;topic_name=%E8%80%81%E5%A4%96%E9%A2%86%E6%82%9F%E4%B8%AD%E5%9B%BD%E5%B0%8F%E8%AF%B4%2C%E5%90%AB%E8%93%84%E4%B8%AD%E8%97%8F%E6%9A%97%E7%A4%BA",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
-        },
-        {
-          "title": "外机成体系逼近，中国飞行员果断驱离",
-          "url": "https://news.ifeng.com/c/8vAy8khYJKG",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
-        },
-        {
-          "title": "库克称苹果Q2在中国大陆等新兴市场和部分发达市场打破纪录，公司股价盘后跌幅仍然扩大至5%",
-          "url": "https://wallstreetcn.com/livenews/3142654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.05%，报6502.80点。 热门中概股里，世纪互联涨16.7%，日月光半导体涨12.2%，万国数据涨8%，阿特斯太阳能涨7.7%，腾讯涨2.4%，百度涨2%，网易涨1.8%，阿里涨1%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨4.97%，德银嘉实沪深300指数ETF（ASHR）收涨1.15%，XtrackersHarvest中证50（ASHS）收跌0.65%。 中概互联网指数ETF（KWEB）收涨0.94%，中国科技指数ETF（CQQQ）收跌0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3142632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "【焦点复盘】科创50跌超5%失守半年线，存储芯片股午后局部反攻，万亿光模块龙头现天量巨震",
@@ -803,8 +939,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
         },
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
@@ -820,17 +956,6 @@
           "time_info": "[01时17分 ~ 04时57分]"
         },
         {
-          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
           "url": "https://www.zhihu.com/question/2065810199877611641",
           "source": "知乎",
@@ -841,8 +966,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
+        },
+        {
+          "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
+          "url": "https://wallstreetcn.com/livenews/3142689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "月内跑赢92%个股！茅台股价创3个月新高，白酒板块持续回升，均价紧追半导体",
@@ -853,8 +1011,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
         },
         {
           "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
@@ -873,11 +1031,23 @@
           "url": "https://flash.jin10.com/detail/20260731053830299800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时10分]"
+        },
+        {
+          "title": "三星Q2创史上最强盈利季：净利润暴涨1299.9%超预期，AI芯片狂揽99%利润",
+          "url": "https://wallstreetcn.com/articles/3778272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "07时10分"
         },
         {
           "title": "标普500指数收涨121.48点，涨幅1.66%，报7437.63点。 道琼斯工业平均指数收涨613.92点，涨幅1.19%，报52208.06点。 纳斯达克综合指数（纳指）收涨679.235点，涨幅2.78%，报25122.177点。 纳斯达克100指数收涨914.04点，涨幅3.36%，报28106.346点。 纳斯达克科技市值加权指数收涨4.34%，报2812.9871点。 费城半导体指数收涨855.499点，涨幅8.19%，报11302.988点。 费城证交所KBW银行指数收涨1.55%，报186.78点。 道琼斯KBW地区银行指数收跌0.08%，报147.14点。 罗素2000指数收涨1.37%，报2946.101点。 纳斯达克生物科技指数收涨0.78%，报6572.12点。 恐慌指数VIX收跌17.33%，报17.08，欧洲股市开盘以来持续下跌。",
@@ -965,8 +1135,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
         }
       ]
     },
@@ -982,8 +1152,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
         },
         {
           "title": "一组数据读懂我国能源转型新趋势",
@@ -993,8 +1163,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时10分]"
         }
       ]
     }
