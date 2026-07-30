@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T07:54:50.627272+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-07-30T09:27:22.852906+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "美国更新受管制清单，外媒分析其意图",
@@ -33,6 +34,17 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
+          "title": "华裔儿媳连刺美国白人婆婆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356579&amp;topic_name=%E5%8D%8E%E8%A3%94%E5%84%BF%E5%AA%B3%E8%BF%9E%E5%88%BA%E7%BE%8E%E5%9B%BD%E7%99%BD%E4%BA%BA%E5%A9%86%E5%A9%86",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
+        },
+        {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
           "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
           "source": "凤凰网",
@@ -44,15 +56,15 @@
           "time_info": "[05时50分 ~ 07时54分]"
         },
         {
-          "title": "华裔儿媳连刺美国白人婆婆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356579&amp;topic_name=%E5%8D%8E%E8%A3%94%E5%84%BF%E5%AA%B3%E8%BF%9E%E5%88%BA%E7%BE%8E%E5%9B%BD%E7%99%BD%E4%BA%BA%E5%A9%86%E5%A9%86",
-          "source": "贴吧",
+          "title": "美国“虚空造牌”，中方曾严正表态",
+          "url": "https://news.ifeng.com/c/8vAlWg9gecP",
+          "source": "凤凰网",
           "ranks": [
-            20
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "据Politico：随着中期选举临近，美国共和党人开始考虑再次上调债务上限。",
@@ -339,9 +351,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "据伊通社（IRNA）：基什自由区组织宣布，几分钟前发生的美国对基什岛袭击未对基什岛的城市区域或居民区造成任何损害。",
+          "url": "https://flash.jin10.com/detail/20260730091725998800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "美国总统特朗普：英国首相伯纳姆应该开放北海。 伯纳姆曾告诉我，他会为了石油而开放北海。",
@@ -419,6 +442,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "美国防长海格塞斯：今天早些时候已与以色列总理内塔尼亚胡会晤。",
+          "url": "https://wallstreetcn.com/livenews/3142003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065729116125521259",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "美国交通部长达菲：华盛顿杜勒斯机场项目可于2027年春季启动。",
@@ -798,7 +843,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 22,
+      "match_count": 33,
       "titles": [
         {
           "title": "日本熊本地震已致13人死亡，近万人避难",
@@ -818,11 +863,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
@@ -838,6 +884,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 07时54分]"
+        },
+        {
+          "title": "华尔街如何收割韩国散户",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%B0%94%E8%A1%97%E5%A6%82%E4%BD%95%E6%94%B6%E5%89%B2%E9%9F%A9%E5%9B%BD%E6%95%A3%E6%88%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "日本发生7.1级地震，灾区画面曝光",
@@ -864,19 +925,29 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
-          "title": "华尔街如何收割韩国散户",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%B0%94%E8%A1%97%E5%A6%82%E4%BD%95%E6%94%B6%E5%89%B2%E9%9F%A9%E5%9B%BD%E6%95%A3%E6%88%B7",
+          "title": "怎么看韩国股市跌44%",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C44%25",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            10,
-            9,
-            6,
-            5
+            20,
+            17,
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
+        },
+        {
+          "title": "日本各地惊现”喷粪”狂徒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356582&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%84%E5%9C%B0%E6%83%8A%E7%8E%B0%E2%80%9D%E5%96%B7%E7%B2%AA%E2%80%9D%E7%8B%82%E5%BE%92",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "散户集体抗议 韩国会前摆满吊唁花圈",
@@ -894,15 +965,15 @@
           "time_info": "[01时06分 ~ 06时51分]"
         },
         {
-          "title": "强震后，日本网上出现涉华阴谋论",
-          "url": "https://news.ifeng.com/c/8vAHjVqJKVC",
-          "source": "凤凰网",
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.toutiao.com/trending/7668085321384529418/",
+          "source": "今日头条",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 07时54分]"
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 09时27分]"
         },
         {
           "title": "日本发生强烈地震，中方：对遇难者表示哀悼",
@@ -947,39 +1018,16 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
-          "title": "怎么看韩国股市跌44%",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C44%25",
-          "source": "bilibili 热搜",
+          "title": "强震后，日本网上出现涉华阴谋论",
+          "url": "https://news.ifeng.com/c/8vAHjVqJKVC",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            17,
-            16
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
-        },
-        {
-          "title": "日本各地惊现”喷粪”狂徒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356582&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%84%E5%9C%B0%E6%83%8A%E7%8E%B0%E2%80%9D%E5%96%B7%E7%B2%AA%E2%80%9D%E7%8B%82%E5%BE%92",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
-        },
-        {
-          "title": "记者用两个非常惨烈形容日本震后现场",
-          "url": "https://www.toutiao.com/trending/7668085321384529418/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "appearance_count": 4,
+          "time_info": "[05时50分 ~ 09时27分]"
         },
         {
           "title": "日本光学与摄影镜头制造商腾龙收到索尼发出的非约束性收购报价。",
@@ -988,7 +1036,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -1006,6 +1054,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时58分 ~ 07时54分]"
+        },
+        {
+          "title": "从韩国股市熔断读出的信号",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E7%86%94%E6%96%AD%E8%AF%BB%E5%87%BA%E7%9A%84%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "日本熊本县地震造成重大人员伤亡，中使馆发布提醒",
+          "url": "https://news.ifeng.com/c/8vAuz3SJij0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "日本强震致神社垮塌列车脱轨",
@@ -1035,15 +1105,37 @@
           "time_info": "[02时58分 ~ 05时50分]"
         },
         {
+          "title": "日经225指数日内涨幅扩大至2%，韩国首尔综指涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3142009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "据韩国媒体报道：比尔·盖茨将前往韩国，讨论小型模块化反应堆（SMR）的合作事宜。",
           "url": "https://wallstreetcn.com/livenews/3141958",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "日本熊本县官方30日说，此次地震已造成17人死亡。",
+          "url": "https://wallstreetcn.com/livenews/3142004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "韩国股市连续两日熔断",
@@ -1057,6 +1149,61 @@
           "time_info": "01时06分"
         },
         {
+          "title": "日本30年期国债收益率上升4.5个基点，至3.975%。",
+          "url": "https://flash.jin10.com/detail/20260730091153586800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "日本小将2034杯输球痛哭半小时",
+          "url": "https://www.toutiao.com/trending/7667180084453998628/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "韩国首尔综指跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3141998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "韩国KOSPI指数日内涨幅达2%，三星电子涨3%，SK海力士跌0.7%。",
+          "url": "https://flash.jin10.com/detail/20260730090932603800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%94%A8%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%83%A8%E7%83%88%E5%BD%A2%E5%AE%B9%E6%97%A5%E6%9C%AC%E9%9C%87%E5%90%8E%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "韩国股市会不会连环暴雷",
           "url": "https://www.toutiao.com/trending/7667929695526063643/",
           "source": "今日头条",
@@ -1068,21 +1215,43 @@
           "time_info": "01时06分"
         },
         {
+          "title": "韩国首尔综指盘初跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3141986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "日本强震瞬间满载货车被抛起",
           "url": "https://www.toutiao.com/trending/7667766651118636582/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "韩国央行：将继续密切关注金融市场及风险。 有关美联储政策、中东局势的不确定性增加。",
+          "url": "https://wallstreetcn.com/livenews/3141985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "从四款出口“爆品”看“中国智造”",
@@ -1092,8 +1261,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "中方要求胡塞武装保障中国油轮安全通过红海？外交部回应",
@@ -1118,8 +1287,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "斯洛伐克总统怀疑中国机器人藏真人",
@@ -1130,11 +1299,27 @@
             4,
             10,
             2,
-            8
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
+        },
+        {
+          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
+          "url": "https://www.zhihu.com/question/2064993421949755491",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            5,
+            2,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "time_info": "[02时58分 ~ 09时27分]"
         },
         {
           "title": "UP主揭秘国产CPU扛旗企业",
@@ -1151,18 +1336,40 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
-          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
-          "url": "https://www.zhihu.com/question/2064993421949755491",
-          "source": "知乎",
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            14,
-            13,
-            5,
-            2
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时58分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
+        },
+        {
+          "title": "韩国股市暴跌甩锅中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
+        },
+        {
+          "title": "中国“新新三样”又火了",
+          "url": "https://www.douyin.com/hot/2589401",
+          "source": "抖音",
+          "ranks": [
+            21,
+            23,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "美国防部将部分中国科研机构列入制裁清单，商务部：坚决反对",
@@ -1192,40 +1399,37 @@
           "time_info": "[01时06分 ~ 07时54分]"
         },
         {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
+          "title": "中国央行：今日开展2705亿元7天逆回购操作，投标量2705亿元，中标量2705亿元，操作利率为1.40%。同时，开展了6000亿元隔夜逆回购操作。",
+          "url": "https://flash.jin10.com/detail/20260730092212472800",
+          "source": "金十数据",
           "ranks": [
-            16
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
-          "title": "韩国股市暴跌甩锅中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
+          "title": "中国GDP十强城市再“易位”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDGDP%E5%8D%81%E5%BC%BA%E5%9F%8E%E5%B8%82%E5%86%8D%E2%80%9C%E6%98%93%E4%BD%8D%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            17
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
-          "title": "中国“新新三样”又火了",
-          "url": "https://www.douyin.com/hot/2589401",
-          "source": "抖音",
+          "title": "中国央行公开市场开展2705亿元7天期逆回购操作，操作利率1.40%，持平上次。同时，开展了6000亿元隔夜逆回购操作。今日8040亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3142016",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            23,
-            22,
-            29
+            3
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "罗技中国区营收喜人 曾侮辱顾客是狗",
@@ -1278,6 +1482,28 @@
           "time_info": "[06时51分 ~ 07时54分]"
         },
         {
+          "title": "保时捷回应中国市场下滑32%",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%8B%E6%BB%9132%25%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.30%，上一个交易日夜盘收跌0.53%。",
+          "url": "https://wallstreetcn.com/livenews/3142005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
           "url": "https://www.cls.cn/detail/2440344",
           "source": "财联社热门",
@@ -1298,6 +1524,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "安徽省省长王清宪与中国电信集团总经理刘桂清举行工作会谈",
+          "url": "https://wallstreetcn.com/livenews/3141997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "中金：中国钨业龙头有望迎来量价齐升",
+          "url": "https://wallstreetcn.com/livenews/3141990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "中国成功发射天链三号01星",
@@ -1325,7 +1573,7 @@
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -1345,7 +1593,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -1373,6 +1621,17 @@
           "time_info": "[06时51分 ~ 07时54分]"
         },
         {
+          "title": "三星电子第二季度资本支出为16.8万亿韩元，其中15.4万亿韩元用于芯片业务。",
+          "url": "https://wallstreetcn.com/livenews/3142012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
           "url": "https://wallstreetcn.com/articles/3778137",
           "source": "华尔街见闻",
@@ -1382,6 +1641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "三星电子：2026年第二季度芯片部门资本支出为15.4万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260730091419310800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "高通(QCOM.O)首席执行官：定制芯片已进入晶圆生产阶段。",
@@ -1408,6 +1678,56 @@
       ]
     },
     {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "新能源汽车智驾小蓝灯将禁用",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：预计能源管道将远离霍尔木兹。",
+          "url": "https://wallstreetcn.com/livenews/3141966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "LG能源第二季度营业利润1133亿韩元，销售额7.56万亿韩元。",
+          "url": "https://wallstreetcn.com/livenews/3141995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "央视3分钟评上汽MG新能源技术",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%863%E5%88%86%E9%92%9F%E8%AF%84%E4%B8%8A%E6%B1%BDMG%E6%96%B0%E8%83%BD%E6%BA%90%E6%8A%80%E6%9C%AF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
       "match_count": 3,
       "titles": [
@@ -1419,11 +1739,12 @@
             17,
             15,
             12,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 09时27分]"
         },
         {
           "title": "美联储主席沃什：人工智能投资为未来增长奠定基础。",
@@ -1446,45 +1767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "新能源汽车智驾小蓝灯将禁用",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时54分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：预计能源管道将远离霍尔木兹。",
-          "url": "https://wallstreetcn.com/livenews/3141966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "央视3分钟评上汽MG新能源技术",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%863%E5%88%86%E9%92%9F%E8%AF%84%E4%B8%8A%E6%B1%BDMG%E6%96%B0%E8%83%BD%E6%BA%90%E6%8A%80%E6%9C%AF%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         }
       ]
     },
@@ -1524,6 +1806,35 @@
       ]
     },
     {
+      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美方限制进口“先进机器人设备”，外交部回应",
+          "url": "https://www.cls.cn/detail/2440070",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时50分]"
+        },
+        {
+          "title": "雷军晒小米机器人工作视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
       "match_count": 1,
       "titles": [
@@ -1541,20 +1852,19 @@
       ]
     },
     {
-      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
+      "keyword_group": "# 产业政策 生产力",
       "match_count": 1,
       "titles": [
         {
-          "title": "美方限制进口“先进机器人设备”，外交部回应",
-          "url": "https://www.cls.cn/detail/2440070",
-          "source": "财联社热门",
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
           "ranks": [
-            4,
-            5
+            12
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     }
