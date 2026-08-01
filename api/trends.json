@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T06:55:52.282407+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-08-01T08:07:11.323116+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 62,
+      "match_count": 67,
       "titles": [
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时07分]"
         },
         {
           "title": "据塔斯尼姆通讯社：一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。",
@@ -26,9 +26,43 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 08时07分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书表示，美国政权持续实施海上封锁和煽动战火，不仅会进一步封锁霍尔木兹海峡，还会关闭其他海峡和交通要道。全球经济、能源市场和美国选民都将为此付出代价。",
+          "url": "https://flash.jin10.com/detail/20260801055438503800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 08时07分]"
+        },
+        {
+          "title": "美国地质调查局：印度尼西亚马索希东北偏东153公里处发生5.1级地震。",
+          "url": "https://wallstreetcn.com/livenews/3143519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "08时07分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
+          "url": "https://flash.jin10.com/detail/20260801052517590800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时07分]"
         },
         {
           "title": "美国至7月31日当周石油钻井总数将于十分钟后公布。",
@@ -42,15 +76,28 @@
           "time_info": "01时20分"
         },
         {
-          "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书表示，美国政权持续实施海上封锁和煽动战火，不仅会进一步封锁霍尔木兹海峡，还会关闭其他海峡和交通要道。全球经济、能源市场和美国选民都将为此付出代价。",
-          "url": "https://flash.jin10.com/detail/20260801055438503800",
-          "source": "金十数据",
+          "title": "历史性干预！报道称美国政府周五抛欧元来买日元",
+          "url": "https://wallstreetcn.com/livenews/3143511",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国军方：截至7月31日，中央司令部已改变30艘商船的航行路线，使2艘商船失去行动能力，并登船检查了2艘商船。",
+          "url": "https://flash.jin10.com/detail/20260801044246923800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 08时07分]"
         },
         {
           "title": "报道：美联储要求美国各大银行关注欧元兑日元汇率",
@@ -62,6 +109,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "【伊朗警告打击美以能源基础设施】8月1日获悉，针对美国方面有关美国和以色列可能对伊朗基础设施发动袭击的消息，一名伊朗高级安全官员称，类似消息属“无稽之谈”。该安全官员表示，伊朗已制定一项全面计划，包括打击以色列关键基础设施及地区内美国能源基础设施等，伊方已做好充分准备。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3143510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
+          "url": "https://flash.jin10.com/detail/20260801043401365800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 08时07分]"
         },
         {
           "title": "市场消息：据悉美国纽约联储已要求美国各银行检查欧元/日元汇率。",
@@ -80,36 +151,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时55分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
-          "url": "https://flash.jin10.com/detail/20260801052517590800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时55分]"
-        },
-        {
-          "title": "美国军方：截至7月31日，中央司令部已改变30艘商船的航行路线，使2艘商船失去行动能力，并登船检查了2艘商船。",
-          "url": "https://flash.jin10.com/detail/20260801044246923800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            13
+            7,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时55分]"
+          "time_info": "[05时58分 ~ 08时07分]"
         },
         {
           "title": "美联储巴尔金：不知道自己是否会（像那三位异议成员一样在7月份FOMC货币政策会议上）投票支持加息。 并没有感觉到美国存在一个紧俏的劳动力市场。 价格上涨在美国经济中不均衡地传导。（华尔街日报）",
@@ -148,19 +195,6 @@
           "time_info": "[04时55分 ~ 05时58分]"
         },
         {
-          "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
-          "url": "https://flash.jin10.com/detail/20260801043401365800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时55分]"
-        },
-        {
           "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
           "url": "https://flash.jin10.com/detail/20260801042925321800",
           "source": "金十数据",
@@ -170,8 +204,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 08时07分]"
         },
         {
           "title": "哈马斯领导人：近几个月来，以色列甚至不尊重美国的调停方。如果以色列不遵守计划条款，我们也不会履行我们的责任。",
@@ -183,8 +217,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 08时07分]"
         },
         {
           "title": "白宫：特朗普签署公告，促进美国对石英表面产品进口竞争作出积极调整。",
@@ -195,8 +229,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时07分]"
         },
         {
           "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
@@ -207,8 +241,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时07分]"
         },
         {
           "title": "美国宣布：对进口自墨西哥与加拿大的石英台面产品实施为期四年的关税配额",
@@ -216,11 +250,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时07分]"
         },
         {
           "title": "美国否认介入使一艘驶往巴基斯坦的液化天然气油轮改道事件",
@@ -244,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美国10年期国债收益率创去年1月份以来新高，7月份累涨超25个基点",
+          "url": "https://wallstreetcn.com/livenews/3143507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
@@ -310,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普：伊朗的谈判方式让我恼火。本来10分钟就能搞定的事，他们却要花上7个小时。",
@@ -711,18 +768,19 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 19,
+      "match_count": 29,
       "titles": [
         {
           "title": "中国五矿集团原总经理国文清主动投案，接受审查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688472",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "习近平：加快建设健康中国",
@@ -733,19 +791,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
-        },
-        {
-          "title": "中国最高薪本科专业易主",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%AB%98%E8%96%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%98%93%E4%B8%BB",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
@@ -756,8 +803,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "菲在中国领土黄岩岛划设“领海基线”，中方发声",
@@ -769,8 +816,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "马特·达蒙中国宣传《奥德赛》，谈及电影《长城》直言「好莱坞让张艺谋失望了」，怎样理解这一说法？",
@@ -782,8 +829,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "八一建军节之际致敬中国军人",
@@ -793,6 +840,17 @@
             5,
             4,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
+        },
+        {
+          "title": "中国最高薪本科专业易主",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%AB%98%E8%96%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%98%93%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -810,8 +868,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
+        },
+        {
+          "title": "画面首次公开，中国机器狼扛着单兵火箭筒冲上滩头",
+          "url": "https://v.ifeng.com/c/8vCkx7M1Alj",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "菲律宾严重侵犯中国领土主权",
@@ -840,15 +909,26 @@
           "time_info": "[01时19分 ~ 06时55分]"
         },
         {
-          "title": "画面首次公开，中国机器狼扛着单兵火箭筒冲上滩头",
-          "url": "https://v.ifeng.com/c/8vCkx7M1Alj",
-          "source": "凤凰网",
+          "title": "这就是中国最帅天团",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B8%85%E5%A4%A9%E5%9B%A2",
+          "source": "百度热搜",
           "ranks": [
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
           "title": "为什么中国民间有虚岁一说？",
@@ -889,6 +969,62 @@
           "time_info": "[03时09分 ~ 06时55分]"
         },
         {
+          "title": "特斯拉辟谣剥离中国业务",
+          "url": "https://www.douyin.com/hot/2591753",
+          "source": "抖音",
+          "ranks": [
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 08时07分]"
+        },
+        {
+          "title": "有一种安全感叫中国军人",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%B8%80%E7%A7%8D%E5%AE%89%E5%85%A8%E6%84%9F%E5%8F%AB%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "中国留学生在澳遭种族歧视者掐脖辱骂",
+          "url": "https://www.toutiao.com/trending/7667841870177419327/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "这不是电影这是中国军人实弹训练",
+          "url": "https://www.toutiao.com/trending/7668507011276947483/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "中国足球小将红队无缘2034杯决赛",
+          "url": "https://www.toutiao.com/trending/7668127516519088164/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
           "title": "特斯拉否认「剥离或出售中国业务」，中国业务对其有多重要？怎样从商业角度解读？",
           "url": "https://www.zhihu.com/question/2066476826868676553",
           "source": "知乎",
@@ -911,6 +1047,50 @@
           "time_info": "[01时19分 ~ 01时20分]"
         },
         {
+          "title": "国产抗日FPS抵抗者试玩体验",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%8A%97%E6%97%A5FPS%E6%8A%B5%E6%8A%97%E8%80%85%E8%AF%95%E7%8E%A9%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "中国军队为什么被叫做人民子弟兵",
+          "url": "https://www.toutiao.com/trending/7668150205851123762/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "这是中国军人的承诺",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E7%9A%84%E6%89%BF%E8%AF%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "福特CEO：正为中国汽车进入美国市场做准备",
+          "url": "https://wallstreetcn.com/livenews/3143508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨1.5%，7月份累涨10.8%。 热门中概股里，金山云初步收涨9.9%，阿里涨5.2%，新东方涨4.1%，百胜中国、百度涨超3%。 ETF中，KWEB初步收涨1.5%，CQQQ涨1.3%。",
           "url": "https://wallstreetcn.com/livenews/3143448",
           "source": "华尔街见闻-快讯",
@@ -931,23 +1111,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "特斯拉辟谣剥离中国业务",
-          "url": "https://www.douyin.com/hot/2591753",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "西班牙边境失控,数千人偷渡",
@@ -957,8 +1126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "24小时内近4.9万移民进入西班牙休达",
@@ -977,11 +1146,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "西班牙北非飞地休达遭遇大规模移民涌入，负责人直言边境已「完全崩溃」，目前情况如何?",
@@ -989,11 +1159,23 @@
           "source": "知乎",
           "ranks": [
             6,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
+        },
+        {
+          "title": "6万非法移民登陆西班牙8万人口城市",
+          "url": "https://www.toutiao.com/trending/7668535138078769193/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
           "title": "据英国金融时报：恩智浦半导体(NXPI.O)正洽谈收购一家价值33亿美元的自动驾驶汽车摄像头芯片设计公司。",
@@ -1028,6 +1210,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时09分]"
+        },
+        {
+          "title": "移民涌入西班牙像僵尸入侵",
+          "url": "https://s.weibo.com/weibo?q=%E7%A7%BB%E6%B0%91%E6%B6%8C%E5%85%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E5%83%8F%E5%83%B5%E5%B0%B8%E5%85%A5%E4%BE%B5&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 08时07分]"
+        },
+        {
+          "title": "休达移民危机持续升级：至少41人溺亡，西班牙调动军队",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688984",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "41人因偷渡西班牙溺水丧命",
+          "url": "https://www.toutiao.com/trending/7668251153179725366/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
           "title": "如果是 2012 年前的梅西面对 2026 世界杯决赛的冠军西班牙，有没有力挽狂澜的可能？",
@@ -1138,23 +1354,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
-        },
-        {
-          "title": "移民涌入西班牙像僵尸入侵",
-          "url": "https://s.weibo.com/weibo?q=%E7%A7%BB%E6%B0%91%E6%B6%8C%E5%85%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E5%83%8F%E5%83%B5%E5%B0%B8%E5%85%A5%E4%BE%B5&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "日本政府正式设立“国家情报局”",
@@ -1162,11 +1367,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
@@ -1177,8 +1383,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "“韩国政府紧急出手应对，副总理致歉”",
@@ -1189,8 +1395,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "泽连斯基：俄罗斯使用朝鲜导弹发动攻击",
@@ -1200,8 +1406,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
+        },
+        {
+          "title": "救援不力?日本商场爆炸多人死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356659&amp;topic_name=%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%3F%E6%97%A5%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
+        },
+        {
+          "title": "东京怕震,日本要建副首都",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356673&amp;topic_name=%E4%B8%9C%E4%BA%AC%E6%80%95%E9%9C%87%2C%E6%97%A5%E6%9C%AC%E8%A6%81%E5%BB%BA%E5%89%AF%E9%A6%96%E9%83%BD",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
+        },
+        {
+          "title": "日本国家情报局正式成立",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356667&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "外交部回应日本设立“国家情报局”",
@@ -1219,37 +1458,15 @@
           "time_info": "[01时19分 ~ 06时55分]"
         },
         {
-          "title": "救援不力?日本商场爆炸多人死亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356659&amp;topic_name=%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%3F%E6%97%A5%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "贴吧",
+          "title": "日本政府与央行连续第二日干预汇市",
+          "url": "https://flash.jin10.com/detail/20260801060215026800",
+          "source": "金十数据",
           "ranks": [
-            19
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
-        },
-        {
-          "title": "东京怕震,日本要建副首都",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356673&amp;topic_name=%E4%B8%9C%E4%BA%AC%E6%80%95%E9%9C%87%2C%E6%97%A5%E6%9C%AC%E8%A6%81%E5%BB%BA%E5%89%AF%E9%A6%96%E9%83%BD",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
-        },
-        {
-          "title": "日本国家情报局正式成立",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356667&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 08时07分]"
         },
         {
           "title": "日本（政府）、日本央行再次干预日元外汇市场。（日经新闻）",
@@ -1263,27 +1480,40 @@
           "time_info": "05时58分"
         },
         {
-          "title": "日本政府与央行连续第二日干预汇市",
-          "url": "https://flash.jin10.com/detail/20260801060215026800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
           "title": "央视评日本启动国家情报局",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AF%84%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[04时54分 ~ 08时07分]"
+        },
+        {
+          "title": "报道：日本连续两天买入日元",
+          "url": "https://wallstreetcn.com/livenews/3143493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 08时07分]"
+        },
+        {
+          "title": "日本干预实锤？数据暗示周四或砸8.45万亿日元，日媒称周五再下场，美国被曝同日出手",
+          "url": "https://wallstreetcn.com/articles/3778432",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
           "title": "外交部谈日本设国家情报局",
@@ -1298,15 +1528,26 @@
           "time_info": "[05时58分 ~ 06时55分]"
         },
         {
-          "title": "报道：日本连续两天买入日元",
-          "url": "https://wallstreetcn.com/livenews/3143493",
+          "title": "韩国女演员郑多彬去世4年后被配阴婚",
+          "url": "https://www.toutiao.com/trending/7668831102693363238/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "日本熊本县地震致八代港物流功能全面停摆",
+          "url": "https://wallstreetcn.com/livenews/3143501",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "08时07分"
         },
         {
           "title": "为什么日本人的审美从以前的大和抚子变成了现在的元气少女？",
@@ -1315,7 +1556,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -1329,6 +1570,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苏伊士运河也危险！埃及港口遇袭 中东能源出口恐彻底“走投无路”？",
+          "url": "https://www.cls.cn/detail/2442480",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时58分]"
+        },
+        {
+          "title": "美媒：美以计划扩大对伊军事行动 能源设施或成重点目标",
+          "url": "https://flash.jin10.com/detail/20260801050230925800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普画K线！媒体称美以考虑开盘之前完成轰炸伊朗能源目标的“任务”",
+          "url": "https://wallstreetcn.com/livenews/3143471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "伊朗警告打击美以能源基础设施",
+          "url": "https://wallstreetcn.com/livenews/3143506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     },
@@ -1392,11 +1686,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         },
         {
           "title": "周五（7月31日），美股行业ETF涨跌各异，可选消费ETF收涨3.29%，网络股指数ETF涨2.59%，能源业ETF涨1%，半导体ETF涨0.3%，科技行业ETF跌0.22%，医疗业ETF跌0.59%，生物科技指数ETF跌1.87%。 2026年1-7月，半导体ETF累计上涨50.09%，能源业ETF涨35.03%，全球科技股指数ETF、科技行业ETF至少涨22.09%，可选消费ETF则累跌2.39%。",
@@ -1405,48 +1700,6 @@
           "ranks": [
             22,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "苏伊士运河也危险！埃及港口遇袭 中东能源出口恐彻底“走投无路”？",
-          "url": "https://www.cls.cn/detail/2442480",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 05时58分]"
-        },
-        {
-          "title": "美媒：美以计划扩大对伊军事行动 能源设施或成重点目标",
-          "url": "https://flash.jin10.com/detail/20260801050230925800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时55分]"
-        },
-        {
-          "title": "特朗普画K线！媒体称美以考虑开盘之前完成轰炸伊朗能源目标的“任务”",
-          "url": "https://wallstreetcn.com/livenews/3143471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1466,11 +1719,12 @@
             16,
             8,
             17,
-            19
+            19,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         }
       ]
     },
@@ -1487,8 +1741,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 08时07分]"
         }
       ]
     }
