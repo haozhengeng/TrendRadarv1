@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T13:19:17.571184+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-08-02T16:06:43.653334+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "联合国会议美国离席抗议",
@@ -18,11 +18,12 @@
             5,
             10,
             7,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 16时06分]"
         },
         {
           "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
@@ -33,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 16时06分]"
         },
         {
           "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
@@ -48,6 +49,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 09时51分]"
+        },
+        {
+          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+          "url": "https://wallstreetcn.com/articles/3778492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时49分 ~ 16时06分]"
         },
         {
           "title": "91岁老人隐姓埋名 曾击落美国侦察机",
@@ -114,18 +127,6 @@
           "time_info": "[02时55分 ~ 07时50分]"
         },
         {
-          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
-          "url": "https://wallstreetcn.com/articles/3778492",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时49分 ~ 13时19分]"
-        },
-        {
           "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
           "url": "https://flash.jin10.com/detail/20260802021825118800",
           "source": "金十数据",
@@ -173,6 +174,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "以色列第12频道援引外交人士消息报道称，伊朗外长阿拉格齐已同意由卡塔尔和美国共同提出的、旨在重新开放霍尔木兹海峡的解决方案。这促使特朗普取消了对伊朗发动袭击的计划。",
+          "url": "https://flash.jin10.com/detail/20260802154046201800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "美国纽约州罗切斯特发生枪击事件 1人死亡",
           "url": "https://flash.jin10.com/detail/20260802035706660800",
           "source": "金十数据",
@@ -203,7 +215,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -297,6 +309,19 @@
           "time_info": "[01时54分 ~ 05时46分]"
         },
         {
+          "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
+          "url": "https://wallstreetcn.com/livenews/3143639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时06分]"
+        },
+        {
           "title": "美国国家飓风中心：热带风暴基尼维夫（Genevieve）正在逐渐减弱。",
           "url": "https://flash.jin10.com/detail/20260801223714218800",
           "source": "金十数据",
@@ -346,18 +371,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时46分 ~ 07时50分]"
-        },
-        {
-          "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
-          "url": "https://wallstreetcn.com/livenews/3143639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时19分]"
         },
         {
           "title": "美国两名男子打架 狗为护主互相撕咬",
@@ -434,9 +447,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "被“忽略”的市场大事：美日韩联合干预，美国财政部“罕见”下场！贝森特悄悄“救市”？",
+          "url": "https://wallstreetcn.com/articles/3778503",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "专家：美国威胁轰炸伊朗能源基础设施或将加剧紧张局势",
@@ -467,7 +491,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -486,7 +510,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
@@ -520,8 +544,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 16时06分]"
         },
         {
           "title": "这四个字读懂上半年中国经济",
@@ -614,6 +638,20 @@
           "time_info": "[00时49分 ~ 13时19分]"
         },
         {
+          "title": "中国烹饪协会：“中国烹饪大师”“之乡、之都”等称号全部作废",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33695141",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时49分 ~ 16时06分]"
+        },
+        {
           "title": "这就是中国军人的承诺",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E7%9A%84%E6%89%BF%E8%AF%BA",
           "source": "bilibili 热搜",
@@ -621,8 +659,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 16时06分]"
         },
         {
           "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
@@ -636,19 +674,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时49分 ~ 09时51分]"
-        },
-        {
-          "title": "中国烹饪协会：“中国烹饪大师”“之乡、之都”等称号全部作废",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33695141",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时49分 ~ 13时19分]"
         },
         {
           "title": "唐驳虎：欧盟官员没想到中国以牙还牙",
@@ -689,15 +714,26 @@
           "time_info": "[07时49分 ~ 07时50分]"
         },
         {
-          "title": "住建部部长倪虹出席2026中国—东盟建设部长圆桌会议",
-          "url": "https://wallstreetcn.com/livenews/3143652",
+          "title": "中国人民银行召开2026年下半年工作会议",
+          "url": "https://wallstreetcn.com/livenews/3143662",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "16时06分"
+        },
+        {
+          "title": "中国AI大模型的优势在哪里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "倪虹出席2026中国—东盟建设部长圆桌会议",
@@ -706,9 +742,34 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "住建部部长倪虹出席2026中国—东盟建设部长圆桌会议",
+          "url": "https://wallstreetcn.com/livenews/3143652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时06分]"
+        },
+        {
+          "title": "中国第三批埃博拉抗疫医疗专家组抵达刚果（金）",
+          "url": "https://wallstreetcn.com/livenews/3143637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时06分]"
         },
         {
           "title": "8000米高峰雪崩 中国登山家仍失联",
@@ -720,18 +781,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "中国第三批埃博拉抗疫医疗专家组抵达刚果（金）",
-          "url": "https://wallstreetcn.com/livenews/3143637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时19分]"
         },
         {
           "title": "中国烹协清理称号 大师名师全作废",
@@ -756,6 +805,28 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
+          "title": "中国棉花协会：反对美方制裁打压中国棉纺织企业",
+          "url": "https://wallstreetcn.com/livenews/3143657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "中国人民银行召开2026年下半年工作会议",
+          "url": "https://flash.jin10.com/detail/20260802150128968800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "中国地震台网正式测定：08月02日08时25分在青海海南州兴海县发生3.0级地震，震源深度10千米。 ​​​",
           "url": "https://flash.jin10.com/detail/20260802083058017800",
           "source": "金十数据",
@@ -773,15 +844,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "中国海警位黄岩岛附近海域组织维权执法管控演练，模拟拖离侵权船只",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33694192",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "中国棉花协会：反对美方制裁打压中国棉纺织企业",
+          "url": "https://flash.jin10.com/detail/20260802135902640800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "韩国还是黄金时代吗",
@@ -848,11 +941,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356712&amp;topic_name=%E8%B6%8A%E5%8D%97%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%95%91%E7%81%BE%E5%8F%8D%E9%81%AD%E7%BD%91%E6%9A%B4",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 16时06分]"
         },
         {
           "title": "“近30年来首次”？美国、日本联手干预",
@@ -862,8 +956,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 16时06分]"
         },
         {
           "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
@@ -872,7 +966,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -885,8 +979,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 16时06分]"
+        },
+        {
+          "title": "韩国股市 38 天跌掉韩国一年 GDP，韩股「去杠杆」结束了吗？这场杠杆风暴给全球散户带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2066920268627547112",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
+          "url": "https://wallstreetcn.com/articles/3778495",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 16时06分]"
         },
         {
           "title": "日本官员：日本财务大臣片山皋月预计将于周一宣布，美日两国就日元采取联合行动。（路透）",
@@ -894,11 +1011,38 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时06分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3143643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时06分]"
+        },
+        {
+          "title": "日本熊本强震死亡人数升至38人",
+          "url": "https://wallstreetcn.com/livenews/3143641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时06分]"
         },
         {
           "title": "国际锐评丨“731”这天，日本“国家情报局”上线意欲何为？",
@@ -910,42 +1054,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时49分 ~ 02时55分]"
-        },
-        {
-          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3143643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时19分]"
-        },
-        {
-          "title": "日本熊本强震死亡人数升至38人",
-          "url": "https://wallstreetcn.com/livenews/3143641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时19分]"
-        },
-        {
-          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
-          "url": "https://wallstreetcn.com/articles/3778495",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时19分]"
         },
         {
           "title": "王一博去韩国前在北京培训了一年",
@@ -970,6 +1078,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "日本地震灾区呼吁不要再送千纸鹤",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E7%81%BE%E5%8C%BA%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E5%86%8D%E9%80%81%E5%8D%83%E7%BA%B8%E9%B9%A4%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "日本熊本强震死亡人数升至38人",
           "url": "https://flash.jin10.com/detail/20260802090747398800",
           "source": "金十数据",
@@ -992,6 +1111,50 @@
           "time_info": "09时51分"
         },
         {
+          "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
+          "url": "https://wallstreetcn.com/livenews/3143653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "明查｜韩国股市大跌，民众上街抗议？实为7月首尔罢工集会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33691581",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：后续即使按保守估计、仅维持往年同期75%的采购水平，通过动用国家储备，也足以保障石油供应至2028年3月底。",
+          "url": "https://flash.jin10.com/detail/20260802144834289800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：8月份原油有望实现相当于往年同期约100%的采购量，“日本整体所需的数量”已得到确保。",
+          "url": "https://flash.jin10.com/detail/20260802144819119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "美国地质调查局：日本松濑町以西3公里处发生了4.9级地震；震源深度10.0公里。",
           "url": "https://flash.jin10.com/detail/20260801210635523800",
           "source": "金十数据",
@@ -1003,13 +1166,24 @@
           "time_info": "00时50分"
         },
         {
+          "title": "韩国发布高温预警，气温创历史新高",
+          "url": "https://flash.jin10.com/detail/20260802142426309800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "韩国股民自嘲：投资韩股最好的原则就是别投",
           "url": "https://flash.jin10.com/detail/20260802104917355800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -1036,11 +1210,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 16时06分]"
         },
         {
           "title": "超5万非法移民闯西班牙后4.8万人返程",
@@ -1145,11 +1320,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356713&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E8%A2%AB%E5%86%B2%2C%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E6%8E%A8%E5%BA%86%E7%A5%9D",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 16时06分]"
         },
         {
           "title": "5万人游进西班牙后4.8万人游回去了",
@@ -1252,7 +1428,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "以媒：特朗普接近批准袭击伊朗能源设施",
@@ -1279,6 +1455,18 @@
           "time_info": "[00时49分 ~ 05时46分]"
         },
         {
+          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/articles/3778501",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 16时06分]"
+        },
+        {
           "title": "美以计划“猛烈轰炸”伊能源设施",
           "url": "https://www.toutiao.com/trending/7669207305258274358/",
           "source": "今日头条",
@@ -1289,17 +1477,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时49分 ~ 09时51分]"
-        },
-        {
-          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
-          "url": "https://wallstreetcn.com/articles/3778501",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "多瑙河水位下降致能源短缺 匈牙利多措并举应对危机",
@@ -1314,13 +1491,35 @@
           "time_info": "[00时50分 ~ 01时54分]"
         },
         {
+          "title": "长安汽车宣布，7月交付20.71万辆，其中，新能源交付96500辆，同比增长28.8%。",
+          "url": "https://wallstreetcn.com/livenews/3143656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "长安汽车：7月交付20.71万辆，其中新能源交付96500辆，同比增长28.8%。",
+          "url": "https://flash.jin10.com/detail/20260802141956200800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "印尼能源部将8月上半月5300大卡等级煤炭基准价格定为每公吨93.27美元，4100大卡等级煤炭的基准价格定为每吨65.48美元。",
           "url": "https://flash.jin10.com/detail/20260802102019430800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -1349,6 +1548,46 @@
       ]
     },
     {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "利润最高涨700倍 半导体产业全线爆发",
+          "url": "https://www.toutiao.com/trending/7668166509122355243/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "存储芯片利好来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 09时51分]"
+        },
+        {
+          "title": "利润最高涨700倍 半导体产业全线爆发",
+          "url": "https://www.baidu.com/s?wd=%E5%88%A9%E6%B6%A6%E6%9C%80%E9%AB%98%E6%B6%A8700%E5%80%8D+%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E4%B8%9A%E5%85%A8%E7%BA%BF%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "印度",
       "match_count": 2,
       "titles": [
@@ -1369,11 +1608,42 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "略惊悚!美企开发半人马机器人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356702&amp;topic_name=%E7%95%A5%E6%83%8A%E6%82%9A%21%E7%BE%8E%E4%BC%81%E5%BC%80%E5%8F%91%E5%8D%8A%E4%BA%BA%E9%A9%AC%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 16时06分]"
+        },
+        {
+          "title": "人形机器人做家政：每小时30美元",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E5%AE%B6%E6%94%BF%EF%BC%9A%E6%AF%8F%E5%B0%8F%E6%97%B630%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
@@ -1410,42 +1680,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 09时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "存储芯片利好来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时49分 ~ 09时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "略惊悚!美企开发半人马机器人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356702&amp;topic_name=%E7%95%A5%E6%83%8A%E6%82%9A%21%E7%BE%8E%E4%BC%81%E5%BC%80%E5%8F%91%E5%8D%8A%E4%BA%BA%E9%A9%AC%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时19分]"
         }
       ]
     }
