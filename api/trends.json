@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T06:05:07.823957+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-08-05T07:55:59.978076+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "Palantir大涨！美国商业收入超预期飙升149%，上调全年营收指引｜财报见闻",
@@ -61,7 +61,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -115,11 +115,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E6%B3%84%E5%AF%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 06时05分]"
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 07时55分]"
         },
         {
           "title": "美国至8月4日6周国债竞拍-投标倍数 2.93，前值2.93。",
@@ -142,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "巴西政府发布声明，抗议美国更改巴西大使签证的决定。",
+          "url": "https://flash.jin10.com/detail/20260805071325736800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "美国石油协会（API）的CEO：霍尔木兹海峡的石油输送量大约700万桶/日。",
@@ -326,7 +338,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -359,7 +371,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -381,7 +393,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -392,7 +404,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -414,7 +426,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -441,6 +453,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "美国撤销巴西驻美大使签证",
+          "url": "https://wallstreetcn.com/livenews/3144980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "如果民主党重夺美国众议院控制权，大型石油公司利润他们的靶心",
           "url": "https://wallstreetcn.com/livenews/3144904",
           "source": "华尔街见闻-快讯",
@@ -452,13 +475,24 @@
           "time_info": "04时20分"
         },
         {
+          "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
+          "url": "https://wallstreetcn.com/livenews/3144979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "美国能源部长Wright：未来几周燃料价格应会下降。 《琼斯法案》豁免延期可能性较大，该举措已使加州及美国东海岸能源价格有所下降。",
           "url": "https://wallstreetcn.com/livenews/3144946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -488,19 +522,8 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "菲律宾一纸海图换来中国“四箭齐发”",
-          "url": "https://www.toutiao.com/trending/7670171529388232234/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
-        },
         {
           "title": "美国被曝拟禁止进口中国新型号光模块",
           "url": "https://news.ifeng.com/c/8vK6uTVFhXh",
@@ -509,8 +532,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "泰航拒绝20多名中国乘客登机",
@@ -520,8 +543,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "美国拟禁止进口中国新型数据中心设备，我使馆：敦促美停止抹黑中企并威胁制裁",
@@ -529,11 +552,24 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "菲律宾一纸海图换来中国“四箭齐发”",
+          "url": "https://www.toutiao.com/trending/7670171529388232234/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "“餐饮业一夜间再无大师”，中国烹饪协会回应",
@@ -541,11 +577,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "摩洛哥移民扬言入侵中国",
@@ -555,19 +592,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
           "url": "https://www.zhihu.com/question/2067544727931417556",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 07时55分]"
         },
         {
           "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
@@ -577,8 +615,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2068088684528791862",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 07时55分]"
         },
         {
           "title": "全球销量前十首次出现三家中国车企",
@@ -588,11 +639,12 @@
             27,
             14,
             29,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "王楚钦男单世界排名断层第一，前五仅剩一位中国选手，国乒面临哪些挑战？",
@@ -602,33 +654,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
-        },
-        {
-          "title": "中国版“生物DeepSeek”诞生",
-          "url": "https://www.toutiao.com/trending/7670182284162502194/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            13,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "打卡中国｜原来茂名，藏着这样的山海生活",
           "url": "https://m.thepaper.cn/newsDetail_forward_33709994",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "国产动画男主为啥千人一面",
@@ -641,15 +680,52 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "20多名中国乘客被泰航无理由拒载",
           "url": "https://www.baidu.com/s?wd=20%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%B3%B0%E8%88%AA%E6%97%A0%E7%90%86%E7%94%B1%E6%8B%92%E8%BD%BD",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "奥运凉透,中国三城拒接盘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356749&amp;topic_name=%E5%A5%A5%E8%BF%90%E5%87%89%E9%80%8F%2C%E4%B8%AD%E5%9B%BD%E4%B8%89%E5%9F%8E%E6%8B%92%E6%8E%A5%E7%9B%98",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "中国版“生物DeepSeek”诞生",
+          "url": "https://www.toutiao.com/trending/7670182284162502194/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            13,
+            20,
+            26
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -667,38 +743,26 @@
           "time_info": "[00时08分 ~ 06时05分]"
         },
         {
-          "title": "奥运凉透,中国三城拒接盘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356749&amp;topic_name=%E5%A5%A5%E8%BF%90%E5%87%89%E9%80%8F%2C%E4%B8%AD%E5%9B%BD%E4%B8%89%E5%9F%8E%E6%8B%92%E6%8E%A5%E7%9B%98",
-          "source": "贴吧",
+          "title": "曝美拟禁止进口中国新型号光模块",
+          "url": "https://www.toutiao.com/trending/7670122182718881846/",
+          "source": "今日头条",
           "ranks": [
-            24
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
+          "title": "20多中国游客被拒登机 泰国机场致歉",
+          "url": "https://www.baidu.com/s?wd=20%E5%A4%9A%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%92%E7%99%BB%E6%9C%BA+%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA%E8%87%B4%E6%AD%89",
+          "source": "百度热搜",
           "ranks": [
-            25
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
-        },
-        {
-          "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2068088684528791862",
-          "source": "知乎",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 06时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "中国买美国大豆释放何信号",
@@ -738,26 +802,39 @@
           "time_info": "04时20分"
         },
         {
+          "title": "20多名中国乘客被泰航无理由拒载",
+          "url": "https://www.toutiao.com/trending/7669828239829254170/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "国产奇幻剧九门好看吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E5%A5%87%E5%B9%BB%E5%89%A7%E4%B9%9D%E9%97%A8%E5%A5%BD%E7%9C%8B%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 07时55分]"
         },
         {
           "title": "国防部回应日本新版《防卫白皮书》：炒作所谓“中国威胁”，完全是贼喊捉贼",
           "url": "https://m.thepaper.cn/newsDetail_forward_33715601",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 07时55分]"
         },
         {
           "title": "媒体：中国不会任由谁在家门口撒野",
@@ -769,6 +846,224 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 06时05分]"
+        },
+        {
+          "title": "曝美拟禁止进口中国新型号光模块",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%BE%8E%E6%8B%9F%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%9E%8B%E5%8F%B7%E5%85%89%E6%A8%A1%E5%9D%97",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "日本将中国视为最大挑战说明什么",
+          "url": "https://www.toutiao.com/trending/7670312344873881115/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "AI做题吊打日本名校状元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "日本多次交涉，美国不删",
+          "url": "https://news.ifeng.com/c/8vJuG3GuLfs",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "韩国股灾开始抓人了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356763&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E7%81%BE%E5%BC%80%E5%A7%8B%E6%8A%93%E4%BA%BA%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "“降温”措施见效？韩国半导体杠杆ETF的交易量明显萎缩",
+          "url": "https://www.cls.cn/detail/2445094",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时24分]"
+        },
+        {
+          "title": "韩国因高温进入国家灾难状态",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E5%9B%A0%E9%AB%98%E6%B8%A9%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "日本6月劳动现金收入年率 3.4%，预期3.50%，前值由3.20%修正为3.30%。",
+          "url": "https://flash.jin10.com/detail/20260805073002423800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "日本6月劳工现金收入同比 3.4%，预期 3.4%，前值 3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3145008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "李在明终结韩国检察官权势滔天时代",
+          "url": "https://www.toutiao.com/trending/7669436386467020838/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "日本6月加班工资年率 2.8%，前值2.9%。",
+          "url": "https://flash.jin10.com/detail/20260805073002403800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "日本两次要求美方删帖遭拒",
+          "url": "https://www.toutiao.com/trending/7670016961259094070/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 06时05分]"
+        },
+        {
+          "title": "日本客机险撞机 乘客称两次攀爬复飞",
+          "url": "https://www.toutiao.com/trending/7670311828873858606/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "韩国高温 李在明：进入国家灾难状态",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%AB%98%E6%B8%A9+%E6%9D%8E%E5%9C%A8%E6%98%8E%EF%BC%9A%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "美日联手就能撑住日元吗？华尔街相信“日本不加息，任何干预都没用”",
+          "url": "https://wallstreetcn.com/articles/3778619",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "韩国7月外汇储备 4279.5亿美元，前值4273.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805050002196800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "日本128个地方议会提交意见书要求高市政府坚持“无核三原则”",
+          "url": "https://wallstreetcn.com/livenews/3144990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "韩国总统李在明：AI重塑全球产业格局，呼吁大胆投资",
+          "url": "https://wallstreetcn.com/livenews/3144830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
         }
       ]
     },
@@ -784,8 +1079,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "摩洛哥非法移民讲述：为何突然越境西班牙飞地？",
@@ -795,8 +1090,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "阿根廷队长为西班牙火灾捐款",
@@ -804,11 +1099,12 @@
           "source": "微博",
           "ranks": [
             11,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 07时55分]"
         },
         {
           "title": "英国新首相将如何重塑经济",
@@ -864,7 +1160,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -875,7 +1171,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -926,104 +1222,8 @@
       ]
     },
     {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
-        },
-        {
-          "title": "“降温”措施见效？韩国半导体杠杆ETF的交易量明显萎缩",
-          "url": "https://www.cls.cn/detail/2445094",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时24分]"
-        },
-        {
-          "title": "AI做题吊打日本名校状元",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
-        },
-        {
-          "title": "日本多次交涉，美国不删",
-          "url": "https://news.ifeng.com/c/8vJuG3GuLfs",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
-        },
-        {
-          "title": "韩国股灾开始抓人了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356763&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E7%81%BE%E5%BC%80%E5%A7%8B%E6%8A%93%E4%BA%BA%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
-        },
-        {
-          "title": "日本两次要求美方删帖遭拒",
-          "url": "https://www.toutiao.com/trending/7670016961259094070/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 06时05分]"
-        },
-        {
-          "title": "韩国7月外汇储备 4279.5亿美元，前值4273.6亿美元。",
-          "url": "https://flash.jin10.com/detail/20260805050002196800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "韩国总统李在明：AI重塑全球产业格局，呼吁大胆投资",
-          "url": "https://wallstreetcn.com/livenews/3144830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
@@ -1031,11 +1231,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "存储芯片超级周期走到十字路口？",
@@ -1048,6 +1249,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 06时05分]"
+        },
+        {
+          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
+          "url": "https://wallstreetcn.com/articles/3778638",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
@@ -1106,6 +1329,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "美股存储芯片指数收涨超6.7%，闪迪、泰瑞达涨超10%，超大规模云服务商板块四天涨约16%",
+          "url": "https://wallstreetcn.com/livenews/3144978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "光通信概念股普遍上涨，其中，光模块与光器件供应商Lumentum涨超10.5%，高意公司/相干公司Coherent重新涨超14%，Applied Optoelectronics涨超20%，Fabrinet涨幅重新扩大至约16%。 光通信芯片供应商博通涨超5.2%，迈威尔科技/美满电子涨约13%，MACOM Technology一度涨超6%，Credo Technology Group重新涨超7%。 网络设备与系统供应商思科涨幅重新扩大至4%，Ciena涨幅重新扩大至6.4%。 光纤缆线与基础连接供应商康宁公司Corning涨幅重新扩大至6.7%。",
           "url": "https://wallstreetcn.com/livenews/3144864",
           "source": "华尔街见闻-快讯",
@@ -1130,8 +1364,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
         },
         {
           "title": "印度新机场刚落成就变“游乐场”",
@@ -1179,7 +1413,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -1190,7 +1424,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         }
@@ -1198,7 +1432,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "150年来最强厄尔尼诺来袭，将如何搅动气候、农业、能源？",
@@ -1208,8 +1442,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时55分]"
+        },
+        {
+          "title": "新西兰失业率创最近十一年新高，能源冲击拖累招聘",
+          "url": "https://wallstreetcn.com/livenews/3144995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
@@ -1226,8 +1471,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 07时55分]"
         }
       ]
     }
