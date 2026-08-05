@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T01:21:03.976362+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-06T03:15:38.723085+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国拉“新群”，阿根廷、巴拿马等17国加入",
@@ -15,30 +15,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
-        },
-        {
-          "title": "中方对6家美国实体采取反制措施",
-          "url": "https://www.douyin.com/hot/2598554",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
           "url": "https://www.zhihu.com/question/2068000098995402303",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
+        },
+        {
+          "title": "加拿大总理卡尼宣布政府与多伦多27亿加元（折合19亿美元）的住房协议。 将建设超过18个租赁房项目。",
+          "url": "https://wallstreetcn.com/livenews/3145552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "中方对6家美国实体采取反制措施",
+          "url": "https://www.douyin.com/hot/2598554",
+          "source": "抖音",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "伊朗副外长：近期未与美国进行谈判。",
@@ -47,7 +60,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -59,52 +72,56 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "瓜子水饺究竟威胁了美国什么",
           "url": "https://www.toutiao.com/trending/7669678969629638697/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
-        },
-        {
-          "title": "反制美国！中方公布5项措施",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD%EF%BC%81%E4%B8%AD%E6%96%B9%E5%85%AC%E5%B8%835%E9%A1%B9%E6%8E%AA%E6%96%BD",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
           "url": "https://wallstreetcn.com/articles/3778694",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "“小非农”不及预期！美国7月ADP就业仅增4.4万人，创年内最低，周五非农数据成关键",
           "url": "https://wallstreetcn.com/articles/3778760",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
+        },
+        {
+          "title": "反制美国！中方公布5项措施",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD%EF%BC%81%E4%B8%AD%E6%96%B9%E5%85%AC%E5%B8%835%E9%A1%B9%E6%8E%AA%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "士兵怕嗑牙,美国制裁洽洽瓜子",
@@ -114,19 +131,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
-        },
-        {
-          "title": "商务部：加强无人机相关两用物项对美国出口管制，如美方执意出台新的对华限制性措施，中方将进一步反制",
-          "url": "https://wallstreetcn.com/articles/3778739",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "商务部：加强无人机相关两用物项对美国出口管制",
@@ -136,15 +142,39 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "多国运回存在美国的黄金",
           "url": "https://www.toutiao.com/trending/7670495093538688550/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
+        },
+        {
+          "title": "卢拉：美国撤销巴西驻美大使签证是“不负责任”做法",
+          "url": "https://wallstreetcn.com/livenews/3145518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时15分]"
+        },
+        {
+          "title": "商务部：加强无人机相关两用物项对美国出口管制，如美方执意出台新的对华限制性措施，中方将进一步反制",
+          "url": "https://wallstreetcn.com/articles/3778739",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -179,7 +209,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -190,9 +220,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "小鹿美国往事纽约篇更新",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%B9%BF%E7%BE%8E%E5%9B%BD%E5%BE%80%E4%BA%8B%E7%BA%BD%E7%BA%A6%E7%AF%87%E6%9B%B4%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "卢拉：美国撤销巴西驻美大使签证是“不负责任”的做法",
@@ -201,20 +242,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
         {
-          "title": "卢拉：美国撤销巴西驻美大使签证是“不负责任”做法",
-          "url": "https://wallstreetcn.com/livenews/3145518",
-          "source": "华尔街见闻-快讯",
+          "title": "美国北卡罗来纳州发生大规模枪击事件 多人伤亡",
+          "url": "https://flash.jin10.com/detail/20260806024002313800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
+          "url": "https://wallstreetcn.com/livenews/3145541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "加拿大总理卡尼：我的政府将在三年内投资27亿加元用于在多伦多建设租赁住房项目。",
+          "url": "https://flash.jin10.com/detail/20260806023731802800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "伊朗副外长：美国恢复履行其在《伊斯兰堡谅解备忘录》中作出的承诺是一个条件，但不足以实现霍尔木兹海峡重新开放。",
@@ -223,7 +286,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -234,15 +297,59 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "伊朗：美国说准备恢复履行承诺",
+          "url": "https://wallstreetcn.com/livenews/3145532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "伊朗：美国仅仅履行《伊斯兰堡谅解备忘录》中的承诺是远远不够的",
+          "url": "https://wallstreetcn.com/livenews/3145531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
+          "url": "https://flash.jin10.com/detail/20260806021357579800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国海关已退回约1000亿美元关税",
+          "url": "https://www.toutiao.com/trending/7669677245342056499/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "外交部回应日本将中国列为最大挑战",
@@ -252,8 +359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "美国拟禁止进口中国产新型光收发模块，外交部回应",
@@ -263,19 +370,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "“中国游”持续带火“中国购”",
@@ -285,8 +381,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "跟着大国交通看山河中国",
@@ -296,8 +392,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "中国人能飞初音未来版",
@@ -307,19 +415,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "评论员：日本卯足劲要跟中国对抗到底",
           "url": "https://www.toutiao.com/trending/7670377565785247275/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "持刀强闯中使馆的日本自卫官出庭，没向中国道歉",
@@ -329,19 +438,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "一个中国新税号引发美国大焦虑",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%A8%8E%E5%8F%B7%E5%BC%95%E5%8F%91%E7%BE%8E%E5%9B%BD%E5%A4%A7%E7%84%A6%E8%99%91",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "泰航安保眯眯眼歧视中国乘客",
@@ -351,8 +461,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "日本《防卫白皮书》将中国列为「最大战略挑战」，中方已向日方严正交涉，日本此举会对东亚局势有哪些影响？",
@@ -362,8 +472,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "摩洛哥移民扬言入侵中国",
@@ -373,8 +483,30 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
+        },
+        {
+          "title": "被泰航拒载中国乘客发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B3%B0%E8%88%AA%E6%8B%92%E8%BD%BD%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "22名中国乘客遭拒载 泰国机场致歉",
+          "url": "https://www.toutiao.com/trending/7669828239829254170/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -390,19 +522,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
-        },
-        {
-          "title": "韩国人炒股有多疯狂",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%82%92%E8%82%A1%E6%9C%89%E5%A4%9A%E7%96%AF%E7%8B%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "启动“国家灾难状态”，首次拉响最高警报：韩国到底有多热？",
@@ -412,8 +533,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "日本宝妈带娃炒股净赚5亿",
@@ -423,19 +544,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "李在明：韩国进入国家灾难状态",
           "url": "https://www.toutiao.com/trending/7669975409655808036/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
+        },
+        {
+          "title": "韩国人炒股有多疯狂",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%82%92%E8%82%A1%E6%9C%89%E5%A4%9A%E7%96%AF%E7%8B%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "日本女网红自杀过程被完整直播",
@@ -445,8 +579,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -456,8 +590,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         }
       ]
     },
@@ -466,26 +600,27 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
-          "url": "https://wallstreetcn.com/livenews/3145526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
           "title": "德国地学研究中心GFZ：将印度尼西亚哈马黑拉岛地震震级从5.8修正为5.3。",
           "url": "https://flash.jin10.com/detail/20260806011331884800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
+          "url": "https://wallstreetcn.com/livenews/3145526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时15分]"
         },
         {
           "title": "“求求你了叔叔”，12岁摩洛哥小移民哭求留在西班牙",
@@ -495,8 +630,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "德国两年期国债收益率冲高回落，最终涨超1个基点",
@@ -505,7 +640,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -516,7 +651,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -527,7 +662,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -538,9 +673,59 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
+          "url": "https://wallstreetcn.com/articles/3778638",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
+        },
+        {
+          "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
+          "url": "https://www.cls.cn/detail/2446641",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
+        },
+        {
+          "title": "大摩：两家AI实验室的芯片融资需求或达6000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3145547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "据The Information：阿波罗任命里德·雷曼（Reed Rayman）负责其芯片领域覆盖业务。",
+          "url": "https://flash.jin10.com/detail/20260806023915349800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -556,8 +741,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "印度IPO热潮降温，市场疲软迫使发行方缩减规模",
@@ -566,37 +751,37 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
       ]
     },
     {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
       "match_count": 2,
       "titles": [
         {
-          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
-          "url": "https://wallstreetcn.com/articles/3778638",
-          "source": "华尔街见闻",
+          "title": "据The Information：阿波罗全球管理公司任命新的人工智能领域负责人，以寻求更多大型融资交易。",
+          "url": "https://flash.jin10.com/detail/20260806023739866800",
+          "source": "金十数据",
           "ranks": [
-            3
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
-          "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
-          "url": "https://www.cls.cn/detail/2446641",
-          "source": "财联社热门",
+          "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
+          "url": "https://flash.jin10.com/detail/20260806021109138800",
+          "source": "金十数据",
           "ranks": [
-            10
+            23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -609,11 +794,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BA%BA%E7%B1%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
         },
         {
           "title": "亚马逊云服务(AWS)：与摩根大通(JPM.N)合作推进量子计算研发。",
@@ -622,9 +808,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台：沙特、埃及、土耳其和巴基斯坦的外长在安曼会晤，重申了共同努力确保霍尔木兹海峡和曼德海峡水道安全的重要性。外长们还强调了确保水道安全对维护供应链和能源市场稳定的重要性。",
+          "url": "https://flash.jin10.com/detail/20260806021220426800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     }
