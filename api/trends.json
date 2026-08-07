@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T20:41:30.057921+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-08-07T22:06:28.751329+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "中国人会飞主创真龙回应",
@@ -55,11 +55,36 @@
             17,
             22,
             21,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 22时06分]"
+        },
+        {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 22时06分]"
+        },
+        {
+          "title": "未来五年中国民航重磅规划出炉",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%B0%91%E8%88%AA%E9%87%8D%E7%A3%85%E8%A7%84%E5%88%92%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时06分]"
         },
         {
           "title": "中国5招齐出，“要打疼美国，也要让美国学会掂量分寸”",
@@ -72,6 +97,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时08分 ~ 16时07分]"
+        },
+        {
+          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
+          "url": "https://wallstreetcn.com/articles/3778914",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 22时06分]"
         },
         {
           "title": "胖东来宣布暂别行业会议和帮扶，是否意味着中国零售业「向胖东来学习」的热潮正在退去？",
@@ -88,6 +127,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时49分 ~ 19时39分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            25,
+            14,
+            13,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时07分 ~ 22时06分]"
         },
         {
           "title": "泰交通部副部长回应中国人遭歧视手势",
@@ -123,19 +178,6 @@
           "time_info": "14时06分"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时41分]"
-        },
-        {
           "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
           "url": "https://news.ifeng.com/c/8uzN3iPy76f",
           "source": "凤凰网",
@@ -145,30 +187,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时07分 ~ 20时41分]"
-        },
-        {
-          "title": "未来五年中国民航重磅规划出炉",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%B0%91%E8%88%AA%E9%87%8D%E7%A3%85%E8%A7%84%E5%88%92%E5%87%BA%E7%82%89",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
-          "url": "https://wallstreetcn.com/articles/3778914",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时41分]"
         },
         {
           "title": "太平洋岛国没批评中国，新西兰外长跳出来了",
@@ -229,21 +247,6 @@
           "time_info": "07时50分"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            25,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 20时41分]"
-        },
-        {
           "title": "中国三蹦子为何在美被制裁",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%B8%89%E8%B9%A6%E5%AD%90%E4%B8%BA%E4%BD%95%E5%9C%A8%E7%BE%8E%E8%A2%AB%E5%88%B6%E8%A3%81",
           "source": "bilibili 热搜",
@@ -257,6 +260,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时50分 ~ 16时07分]"
+        },
+        {
+          "title": "中国U17vs河床U17",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDU17vs%E6%B2%B3%E5%BA%8AU17",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时06分]"
         },
         {
           "title": "藏在纽约的中国县城",
@@ -354,6 +369,18 @@
           "time_info": "[12时49分 ~ 14时06分]"
         },
         {
+          "title": "中国首例对外贸易国家安全调查解读：中国经贸治理体系一次重要升级",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33732160",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 22时06分]"
+        },
+        {
           "title": "建议成立中国稀土出口总公司总部设新疆",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%88%90%E7%AB%8B%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E6%80%BB%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8%E8%AE%BE%E6%96%B0%E7%96%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -364,17 +391,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时07分 ~ 17时52分]"
-        },
-        {
-          "title": "中国U17vs河床U17",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDU17vs%E6%B2%B3%E5%BA%8AU17",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "中国地震台网正式测定：8月7日13时08分在四川宜宾市高县发生4.9级地震，震源深度6千米。（新华社）",
@@ -421,6 +437,17 @@
           "time_info": "17时52分"
         },
         {
+          "title": "中国央行连续21个月增持黄金，7月购金力度提速",
+          "url": "https://wallstreetcn.com/articles/3778942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "宇树科技王兴兴：中国企业有望占据机器人产业发展先机",
           "url": "https://wallstreetcn.com/livenews/3146530",
           "source": "华尔街见闻-快讯",
@@ -449,7 +476,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -540,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "中国加快制定《财政奖补政策措施公平竞争审查指引》",
+          "url": "https://wallstreetcn.com/livenews/3146753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "中国船舶旗下北海造船手持订单突破100艘",
@@ -641,15 +679,15 @@
           "time_info": "14时06分"
         },
         {
-          "title": "中国首例对外贸易国家安全调查解读：中国经贸治理体系一次重要升级",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33732160",
-          "source": "澎湃新闻",
+          "title": "中国游客景福宫偶遇李在明一起合影",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%99%AF%E7%A6%8F%E5%AE%AB%E5%81%B6%E9%81%87%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%80%E8%B5%B7%E5%90%88%E5%BD%B1",
+          "source": "百度热搜",
           "ranks": [
-            20
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "22时06分"
         },
         {
           "title": "金十图示：2026年08月07日（周五）富时中国A50指数成分股午盘收盘行情一览：银行股普跌，通信设备股走强",
@@ -852,591 +890,8 @@
       ]
     },
     {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 49,
-      "titles": [
-        {
-          "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战 + 世预赛？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2068833130803196943",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 20时41分]"
-        },
-        {
-          "title": "朝鲜再度试射导弹，日本防卫大臣紧急召开记者会",
-          "url": "https://news.ifeng.com/c/8vNNMFj3YSA",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 18时43分]"
-        },
-        {
-          "title": "韩企捐水日本被骂只配冲马桶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356935&amp;topic_name=%E9%9F%A9%E4%BC%81%E6%8D%90%E6%B0%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%AA%82%E5%8F%AA%E9%85%8D%E5%86%B2%E9%A9%AC%E6%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 20时41分]"
-        },
-        {
-          "title": "猫娘抽烟番被日本家长投诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 20时41分]"
-        },
-        {
-          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
-          "url": "https://www.zhihu.com/question/2068423522058244663",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            11,
-            8,
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 20时41分]"
-        },
-        {
-          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
-          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
-          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时41分]"
-        },
-        {
-          "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33720253",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "韩国交易所将推出ETF盘后交易业务",
-          "url": "https://flash.jin10.com/detail/20260807134739233800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "国防部回应日本试射“战斧”导弹",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%AF%95%E5%B0%84%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时41分]"
-        },
-        {
-          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
-          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时41分]"
-        },
-        {
-          "title": "日本四大寿险公司债券账面浮亏达960亿美元",
-          "url": "https://wallstreetcn.com/livenews/3146610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "日本医院开颅手术错将健康部位切除",
-          "url": "https://www.toutiao.com/trending/7671194655917473838/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            1,
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时41分]"
-        },
-        {
-          "title": "韩国KOSPI指数日内跌幅达2.00%。",
-          "url": "https://flash.jin10.com/detail/20260807094135903800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "物价飞涨,日本青年戒饭成潮流",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 20时41分]"
-        },
-        {
-          "title": "蹭核喊废核,日本又演受害者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356837&amp;topic_name=%E8%B9%AD%E6%A0%B8%E5%96%8A%E5%BA%9F%E6%A0%B8%2C%E6%97%A5%E6%9C%AC%E5%8F%88%E6%BC%94%E5%8F%97%E5%AE%B3%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            15,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时50分 ~ 16时07分]"
-        },
-        {
-          "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
-          "url": "https://wallstreetcn.com/articles/3778905",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时41分]"
-        },
-        {
-          "title": "韩国被爆性贿赂世预赛裁判",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 17时52分]"
-        },
-        {
-          "title": "日本女演员捐款反被嘲脏钱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356813&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E6%8D%90%E6%AC%BE%E5%8F%8D%E8%A2%AB%E5%98%B2%E8%84%8F%E9%92%B1",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 14时06分]"
-        },
-        {
-          "title": "2小时看完韩国悬疑爽剧",
-          "url": "https://search.bilibili.com/all?keyword=2%E5%B0%8F%E6%97%B6%E7%9C%8B%E5%AE%8C%E9%9F%A9%E5%9B%BD%E6%82%AC%E7%96%91%E7%88%BD%E5%89%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 14时06分]"
-        },
-        {
-          "title": "韩国足协7场比赛性贿赂20名裁判",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F7%E5%9C%BA%E6%AF%94%E8%B5%9B%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E8%A3%81%E5%88%A4%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时08分]"
-        },
-        {
-          "title": "日本近期进行“战斧”巡航导弹实弹试射，国防部回应",
-          "url": "https://news.ifeng.com/c/8vOenuDSxTV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 18时43分]"
-        },
-        {
-          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
-          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 20时41分]"
-        },
-        {
-          "title": "日本网红自杀案在韩国引发很大冲击",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E6%A1%88%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%BC%95%E5%8F%91%E5%BE%88%E5%A4%A7%E5%86%B2%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 14时06分]"
-        },
-        {
-          "title": "国防部：日本“再军事化”妄动是地区和平稳定的真正威胁",
-          "url": "https://wallstreetcn.com/livenews/3146534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "SK海力士将在韩国投资380亿美元用于芯片产能扩建",
-          "url": "https://wallstreetcn.com/livenews/3146532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "外交部警告日本：不要再次走向历史的被告席",
-          "url": "https://news.ifeng.com/c/8vNDqlf5Yam",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "朝鲜发射导弹，高市早苗指示：全力收集情报",
-          "url": "https://news.ifeng.com/c/8vN9DuFR0kX",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "韩国首尔8年来首遇40摄氏度高温",
-          "url": "https://wallstreetcn.com/livenews/3146639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "日本6月领先指标初值 116.4，预期 116.5，前值 116.5。",
-          "url": "https://wallstreetcn.com/livenews/3146453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "日本网红 Mina 轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪肯求停止网暴，发生了什么？",
-          "url": "https://www.zhihu.com/question/2068633449532076447",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "日本6月同步指标初值 118.2，预期 118.1，前值 117.9。",
-          "url": "https://wallstreetcn.com/livenews/3146452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "韩国另类交易所风波再起：SK海力士连续两周出现“30%闪崩”",
-          "url": "https://www.cls.cn/detail/2447370",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "日本食品自给率降至37%，创历史新低",
-          "url": "https://wallstreetcn.com/livenews/3146636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "据日本共同社：日本防卫省将为2027财年申请创纪录的8.9万亿日元预算。",
-          "url": "https://flash.jin10.com/detail/20260807200742502800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "日本女演员捐款300万日元被骂脏钱",
-          "url": "https://www.toutiao.com/trending/7670510447481667638/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "比亚迪定制版“海獭”日本热卖",
-          "url": "https://www.toutiao.com/trending/7670827360703365126/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "日本网友为Mina发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E4%B8%BAMina%E5%8F%91%E5%A3%B0%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "SK海力士：将投资384亿美元在韩国本土扩张芯片业务",
-          "url": "https://flash.jin10.com/detail/20260807153231728800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "杠杆ETF风暴一个月，韩国股市距离风险出清还有“最后一公里”",
-          "url": "https://wallstreetcn.com/livenews/3146292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "日本石油公司ENEOS首席财务官：伊朗战争结束后，我们需要中长期内扩大石油储备，并实现原油采购来源多元化。将与政府紧密协调，加强石油供应链的韧性。",
-          "url": "https://flash.jin10.com/detail/20260807132544810800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "日本医院开颅手术错将健康部位切除",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8C%BB%E9%99%A2%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%E9%94%99%E5%B0%86%E5%81%A5%E5%BA%B7%E9%83%A8%E4%BD%8D%E5%88%87%E9%99%A4%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "韩国计划将对中东石油的依赖度降至60%或以下",
-          "url": "https://flash.jin10.com/detail/20260807132119585800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "中方警告日本不要再走向历史被告席",
-          "url": "https://www.toutiao.com/trending/7670475762001412132/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "SK海力士：计划在韩国龙仁投资35.2万亿韩元用于第二阶段芯片厂建设。",
-          "url": "https://flash.jin10.com/detail/20260807152104519800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "SK海力士：计划在韩国清州的M17芯片厂投资19.1万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20260807152023280800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "韩国首尔8年来首遇40摄氏度高温",
-          "url": "https://flash.jin10.com/detail/20260807180251063800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "韩国被爆性贿赂世预赛裁判",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "日本女子买43亿动漫周边后取消",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E4%B9%B043%E4%BA%BF%E5%8A%A8%E6%BC%AB%E5%91%A8%E8%BE%B9%E5%90%8E%E5%8F%96%E6%B6%88%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -1494,7 +949,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1516,9 +971,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "据环球邮报：消息人士称，加拿大正与美国商讨贸易方面的让步，以换取部分关税减免。",
+          "url": "https://flash.jin10.com/detail/20260807215532776800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：剔除政府就业和世界杯因素后，美国就业人数增加10万。 我几乎只关注失业问题，而它已经下降了。",
+          "url": "https://wallstreetcn.com/livenews/3146772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
+          "url": "https://wallstreetcn.com/articles/3778959",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "提醒：北京时间20:30，将公布美国7月非农就业报告（含就业人口、失业率、平均每小时工资），加拿大7月就业报告。",
@@ -1527,7 +1015,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1546,17 +1034,15 @@
           "time_info": "[12时49分 ~ 17时52分]"
         },
         {
-          "title": "美国弹药紧张原因何在",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%BC%B9%E8%8D%AF%E7%B4%A7%E5%BC%A0%E5%8E%9F%E5%9B%A0%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            14,
-            23
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 14时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
@@ -1568,8 +1054,33 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 22时06分]"
+        },
+        {
+          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
+          "url": "https://wallstreetcn.com/articles/3778928",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时06分]"
+        },
+        {
+          "title": "美国弹药紧张原因何在",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%BC%B9%E8%8D%AF%E7%B4%A7%E5%BC%A0%E5%8E%9F%E5%9B%A0%E4%BD%95%E5%9C%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 14时06分]"
         },
         {
           "title": "沈逸：美国生物战从未真正停止",
@@ -1630,17 +1141,6 @@
           "time_info": "[07时50分 ~ 10时08分]"
         },
         {
-          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
-          "url": "https://wallstreetcn.com/articles/3778928",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
           "title": "美国总统特朗普：我可能是最后一位共和党总统。",
           "url": "https://flash.jin10.com/detail/20260807172203688800",
           "source": "金十数据",
@@ -1658,7 +1158,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1696,6 +1196,17 @@
           "time_info": "19时39分"
         },
         {
+          "title": "美国7月非农超预期下降，美股三大股指集体高开",
+          "url": "https://wallstreetcn.com/livenews/3146763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "美国总统特朗普：（关于与瑞士的贸易逆差）一笔就能抹去逆差。",
           "url": "https://flash.jin10.com/detail/20260807172137980800",
           "source": "金十数据",
@@ -1707,13 +1218,24 @@
           "time_info": "17时52分"
         },
         {
+          "title": "加拿大7月就业人数超预期 失业率降至两年低点",
+          "url": "https://flash.jin10.com/detail/20260807213945618800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "民调：半数美国人认为美军行动将破坏中东稳定",
           "url": "https://wallstreetcn.com/livenews/3146707",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1850,13 +1372,24 @@
           "time_info": "18时43分"
         },
         {
+          "title": "美国7月非农数据速评",
+          "url": "https://wallstreetcn.com/livenews/3146743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问雷扎伊表示，沙特必须明白，与土耳其和巴基斯坦达成纸面协议并不会带来安全，就像多年来对美国的单方面依赖并未带来安全一样。改革你的政策，以便不必向他人乞求安全。",
           "url": "https://flash.jin10.com/detail/20260807195826499800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1892,6 +1425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国7月失业率下降，25岁及以上人群失业率维持在3.4%",
+          "url": "https://flash.jin10.com/detail/20260807212107467800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美国非农今晚出炉，华尔街预期分歧巨大，现货黄金目前多空占比为54%-46%，现货白银多头占比近90%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1973,8 +1517,618 @@
       ]
     },
     {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 51,
+      "titles": [
+        {
+          "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战 + 世预赛？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2068833130803196943",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 22时06分]"
+        },
+        {
+          "title": "韩企捐水日本被骂只配冲马桶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356935&amp;topic_name=%E9%9F%A9%E4%BC%81%E6%8D%90%E6%B0%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%AA%82%E5%8F%AA%E9%85%8D%E5%86%B2%E9%A9%AC%E6%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时07分 ~ 22时06分]"
+        },
+        {
+          "title": "朝鲜再度试射导弹，日本防卫大臣紧急召开记者会",
+          "url": "https://news.ifeng.com/c/8vNNMFj3YSA",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 18时43分]"
+        },
+        {
+          "title": "猫娘抽烟番被日本家长投诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 22时06分]"
+        },
+        {
+          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
+          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 22时06分]"
+        },
+        {
+          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
+          "url": "https://www.zhihu.com/question/2068423522058244663",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            11,
+            8,
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 20时41分]"
+        },
+        {
+          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
+          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时06分]"
+        },
+        {
+          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
+          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 22时06分]"
+        },
+        {
+          "title": "物价飞涨,日本青年戒饭成潮流",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            12,
+            13,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时07分 ~ 22时06分]"
+        },
+        {
+          "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33720253",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "韩国交易所将推出ETF盘后交易业务",
+          "url": "https://flash.jin10.com/detail/20260807134739233800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "国防部回应日本试射“战斧”导弹",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%AF%95%E5%B0%84%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 20时41分]"
+        },
+        {
+          "title": "日本四大寿险公司债券账面浮亏达960亿美元",
+          "url": "https://wallstreetcn.com/livenews/3146610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "日本医院开颅手术错将健康部位切除",
+          "url": "https://www.toutiao.com/trending/7671194655917473838/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            1,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 20时41分]"
+        },
+        {
+          "title": "韩国KOSPI指数日内跌幅达2.00%。",
+          "url": "https://flash.jin10.com/detail/20260807094135903800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
+          "url": "https://wallstreetcn.com/articles/3778905",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 22时06分]"
+        },
+        {
+          "title": "蹭核喊废核,日本又演受害者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356837&amp;topic_name=%E8%B9%AD%E6%A0%B8%E5%96%8A%E5%BA%9F%E6%A0%B8%2C%E6%97%A5%E6%9C%AC%E5%8F%88%E6%BC%94%E5%8F%97%E5%AE%B3%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            15,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 16时07分]"
+        },
+        {
+          "title": "韩国被爆性贿赂世预赛裁判",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 17时52分]"
+        },
+        {
+          "title": "日本女演员捐款反被嘲脏钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356813&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E6%8D%90%E6%AC%BE%E5%8F%8D%E8%A2%AB%E5%98%B2%E8%84%8F%E9%92%B1",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 14时06分]"
+        },
+        {
+          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时06分]"
+        },
+        {
+          "title": "2小时看完韩国悬疑爽剧",
+          "url": "https://search.bilibili.com/all?keyword=2%E5%B0%8F%E6%97%B6%E7%9C%8B%E5%AE%8C%E9%9F%A9%E5%9B%BD%E6%82%AC%E7%96%91%E7%88%BD%E5%89%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 14时06分]"
+        },
+        {
+          "title": "韩国足协7场比赛性贿赂20名裁判",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F7%E5%9C%BA%E6%AF%94%E8%B5%9B%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E8%A3%81%E5%88%A4%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 10时08分]"
+        },
+        {
+          "title": "日本近期进行“战斧”巡航导弹实弹试射，国防部回应",
+          "url": "https://news.ifeng.com/c/8vOenuDSxTV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时43分]"
+        },
+        {
+          "title": "日本网红自杀案在韩国引发很大冲击",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E6%A1%88%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%BC%95%E5%8F%91%E5%BE%88%E5%A4%A7%E5%86%B2%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 14时06分]"
+        },
+        {
+          "title": "国防部：日本“再军事化”妄动是地区和平稳定的真正威胁",
+          "url": "https://wallstreetcn.com/livenews/3146534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "SK海力士将在韩国投资380亿美元用于芯片产能扩建",
+          "url": "https://wallstreetcn.com/livenews/3146532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "外交部警告日本：不要再次走向历史的被告席",
+          "url": "https://news.ifeng.com/c/8vNDqlf5Yam",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "朝鲜发射导弹，高市早苗指示：全力收集情报",
+          "url": "https://news.ifeng.com/c/8vN9DuFR0kX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "韩国首尔8年来首遇40摄氏度高温",
+          "url": "https://wallstreetcn.com/livenews/3146639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "日本6月领先指标初值 116.4，预期 116.5，前值 116.5。",
+          "url": "https://wallstreetcn.com/livenews/3146453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "日本网红 Mina 轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪肯求停止网暴，发生了什么？",
+          "url": "https://www.zhihu.com/question/2068633449532076447",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "日本6月同步指标初值 118.2，预期 118.1，前值 117.9。",
+          "url": "https://wallstreetcn.com/livenews/3146452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "韩国另类交易所风波再起：SK海力士连续两周出现“30%闪崩”",
+          "url": "https://www.cls.cn/detail/2447370",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "日本食品自给率降至37%，创历史新低",
+          "url": "https://wallstreetcn.com/livenews/3146636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "据日本共同社：日本防卫省将为2027财年申请创纪录的8.9万亿日元预算。",
+          "url": "https://flash.jin10.com/detail/20260807200742502800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "日本女演员捐款300万日元被骂脏钱",
+          "url": "https://www.toutiao.com/trending/7670510447481667638/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "比亚迪定制版“海獭”日本热卖",
+          "url": "https://www.toutiao.com/trending/7670827360703365126/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "日本网友为Mina发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E4%B8%BAMina%E5%8F%91%E5%A3%B0%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "SK海力士：将投资384亿美元在韩国本土扩张芯片业务",
+          "url": "https://flash.jin10.com/detail/20260807153231728800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "杠杆ETF风暴一个月，韩国股市距离风险出清还有“最后一公里”",
+          "url": "https://wallstreetcn.com/livenews/3146292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "日本石油公司ENEOS首席财务官：伊朗战争结束后，我们需要中长期内扩大石油储备，并实现原油采购来源多元化。将与政府紧密协调，加强石油供应链的韧性。",
+          "url": "https://flash.jin10.com/detail/20260807132544810800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "日本医院开颅手术错将健康部位切除",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8C%BB%E9%99%A2%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%E9%94%99%E5%B0%86%E5%81%A5%E5%BA%B7%E9%83%A8%E4%BD%8D%E5%88%87%E9%99%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "韩国计划将对中东石油的依赖度降至60%或以下",
+          "url": "https://flash.jin10.com/detail/20260807132119585800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "中方警告日本不要再走向历史被告席",
+          "url": "https://www.toutiao.com/trending/7670475762001412132/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "SK海力士：计划在韩国龙仁投资35.2万亿韩元用于第二阶段芯片厂建设。",
+          "url": "https://flash.jin10.com/detail/20260807152104519800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "SK海力士：计划在韩国清州的M17芯片厂投资19.1万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260807152023280800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：将持续与市场沟通，以维护信任。 已与美国财长贝森特达成共识，认为近期外汇市场受到非真实需求驱动的波动的影响。 一直与美国保持密切沟通，双方在必要时都不会犹豫进行干预。",
+          "url": "https://wallstreetcn.com/livenews/3146738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "韩国首尔8年来首遇40摄氏度高温",
+          "url": "https://flash.jin10.com/detail/20260807180251063800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "韩国被爆性贿赂世预赛裁判",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "日本女子买43亿动漫周边后取消",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E4%B9%B043%E4%BA%BF%E5%8A%A8%E6%BC%AB%E5%91%A8%E8%BE%B9%E5%90%8E%E5%8F%96%E6%B6%88%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "国家能源局官网首晒核电“家底”：三代堆升级、四代堆多点突破 机制电价启幕",
@@ -1991,13 +2145,24 @@
           "time_info": "[12时49分 ~ 20时41分]"
         },
         {
+          "title": "全球能源，为何越来越“脆”？",
+          "url": "https://news.ifeng.com/c/8vOzqlUQWOd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "国家能源局：8月7日全国用电负荷入夏以来第四次创历史新高 达到15.57亿千瓦",
           "url": "https://flash.jin10.com/detail/20260807202227367800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2041,7 +2206,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2140,7 +2305,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2170,8 +2335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时50分 ~ 20时41分]"
+          "appearance_count": 10,
+          "time_info": "[07时50分 ~ 22时06分]"
         },
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -2313,7 +2478,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2324,7 +2489,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
@@ -2340,11 +2505,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时07分 ~ 22时06分]"
         },
         {
           "title": "华中地区最大规模机器人在光谷集中交付",
@@ -2493,7 +2659,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "法国将禁止“未经同意的电话营销”，违者或被罚数万至数十万欧元",
@@ -2542,6 +2708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "西班牙要求意大利取消针对性旅客边检",
+          "url": "https://wallstreetcn.com/livenews/3146768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "西班牙威胁对意大利的移民限制采取报复措施。",
