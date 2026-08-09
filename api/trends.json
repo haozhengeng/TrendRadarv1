@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T10:59:35.052741+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-08-09T12:17:23.630191+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 10时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时17分]"
         },
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -30,20 +30,6 @@
           "time_info": "[00时21分 ~ 08时57分]"
         },
         {
-          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3147026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 10时59分]"
-        },
-        {
           "title": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
           "url": "https://wallstreetcn.com/articles/3778977",
           "source": "华尔街见闻",
@@ -53,6 +39,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 05时21分]"
+        },
+        {
+          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3147026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            4,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 12时17分]"
         },
         {
           "title": "美国防部将中企列“黑名单”，被美法院驳回",
@@ -85,11 +86,12 @@
             10,
             11,
             12,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 10时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 12时17分]"
         },
         {
           "title": "亨特·拜登：我爸赦免我，对他和美国都不好",
@@ -110,11 +112,12 @@
             11,
             12,
             13,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 10时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 12时17分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -149,11 +152,78 @@
           "url": "https://flash.jin10.com/detail/20260809095652729800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
+        },
+        {
+          "title": "伊朗开出6项条件，美国该如何应对？",
+          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时17分"
+        },
+        {
+          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
+          "url": "https://wallstreetcn.com/livenews/3147045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "伊朗：美国不改，海峡不开",
+          "url": "https://news.ifeng.com/c/8vRHg8IEQV7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260809110518488800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "美国国防部被曝要求军工企业“大幅加快”武器生产",
+          "url": "https://wallstreetcn.com/livenews/3147044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "被中方反制的7家美国实体有何来头？",
+          "url": "https://news.ifeng.com/c/8vQl4rorpCI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
@@ -182,6 +252,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时18分 ~ 07时20分]"
+        },
+        {
+          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746518",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 12时17分]"
         },
         {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
@@ -285,19 +368,6 @@
           "time_info": "[00时22分 ~ 01时22分]"
         },
         {
-          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746518",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 10时59分]"
-        },
-        {
           "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
           "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -306,8 +376,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 12时17分]"
         },
         {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
@@ -428,12 +498,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时22分]"
+        },
+        {
+          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
+          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊总统：伊朗要学中国做好自己的事",
@@ -446,6 +527,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 07时20分]"
+        },
+        {
+          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
+          "url": "https://wallstreetcn.com/articles/3778992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时22分 ~ 12时17分]"
         },
         {
           "title": "20岁中国男子在泰国身亡",
@@ -474,11 +571,12 @@
             12,
             13,
             14,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 10时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 12时17分]"
         },
         {
           "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
@@ -488,11 +586,12 @@
             14,
             15,
             16,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 10时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 12时17分]"
         },
         {
           "title": "外国游客的“中国游三件套”火了",
@@ -524,21 +623,6 @@
           "time_info": "[00时21分 ~ 07时20分]"
         },
         {
-          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
-          "url": "https://wallstreetcn.com/articles/3778992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时22分 ~ 10时59分]"
-        },
-        {
           "title": "中国人正在抛弃旅行社吗",
           "url": "https://www.toutiao.com/trending/7671522197021675049/",
           "source": "今日头条",
@@ -558,11 +642,24 @@
           "url": "https://www.toutiao.com/trending/7670816047708667940/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
+        },
+        {
+          "title": "苹果中国官网删除Apple智能接入阿里千问手册",
+          "url": "https://flash.jin10.com/detail/20260809102752884800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
           "title": "中国卫星拍到猎鹰9号火箭残骸撞月",
@@ -598,22 +695,24 @@
           "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
-          "title": "苹果中国官网删除Apple智能接入阿里千问手册",
-          "url": "https://flash.jin10.com/detail/20260809102752884800",
-          "source": "金十数据",
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
           "title": "中国地震台网正式测定：08月09日01时12分在新疆阿克苏地区库车市（北纬41.18度，东经83.72度）发生3.2级地震，震源深度16千米。",
@@ -629,6 +728,17 @@
           "time_info": "[02时23分 ~ 04时18分]"
         },
         {
+          "title": "瑙鲁总统邀请中国大使骑自行车，环岛后还喝了中国产冷饮",
+          "url": "https://news.ifeng.com/c/8vRTHUsdqi0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
+        },
+        {
           "title": "柬埔寨一园区围殴中国人致1死3伤",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%B8%80%E5%9B%AD%E5%8C%BA%E5%9B%B4%E6%AE%B4%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%B41%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -640,92 +750,64 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "瑙鲁总统邀请中国大使骑自行车，环岛后还喝了中国产冷饮",
-          "url": "https://news.ifeng.com/c/8vRTHUsdqi0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "孙颖莎入选中国品牌青年榜",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E9%80%89%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E9%9D%92%E5%B9%B4%E6%A6%9C&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
           "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
           "url": "https://flash.jin10.com/detail/20260809093106576800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
           "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
           "url": "https://flash.jin10.com/detail/20260809093023410800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
           "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
           "url": "https://flash.jin10.com/detail/20260809093020087800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
           "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
           "url": "https://flash.jin10.com/detail/20260809093020051800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
           "title": "中国7月CPI年率将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260809092000001800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
           "title": "2026 暑期档国产片频繁提档、撤档，进口片档期却基本不变，可能有哪些原因？频繁调整档期的影响有多大？",
@@ -734,15 +816,81 @@
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
+        },
+        {
+          "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
+          "url": "https://news.ifeng.com/c/8vRKA573RKo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "中国拒绝美鹰派副防长访华？弦外之音被热议",
+          "url": "https://news.ifeng.com/c/8vQrofN8ssh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
+          "url": "https://www.zhihu.com/question/2069357693840667744",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "孙颖莎入选中国品牌青年榜",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E9%80%89%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E9%9D%92%E5%B9%B4%E6%A6%9C&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "越禁越买！美国人热衷来中国扫货",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E7%A6%81%E8%B6%8A%E4%B9%B0%EF%BC%81%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%83%AD%E8%A1%B7%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%89%AB%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "孙颖莎入选中国女性品牌榜",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E9%80%89%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E5%93%81%E7%89%8C%E6%A6%9C&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
@@ -781,11 +929,12 @@
           "ranks": [
             11,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 10时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时17分]"
         },
         {
           "title": "韩国足协回应性贿赂裁判丑闻：目前绝不会存在此类不当行为",
@@ -796,11 +945,12 @@
             13,
             14,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 10时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时17分]"
         },
         {
           "title": "值得反思!日本运动员偷鸡蛋被捕",
@@ -809,11 +959,12 @@
           "ranks": [
             18,
             19,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 10时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时17分]"
         },
         {
           "title": "韩企捐水日本被骂只配冲马桶",
@@ -822,11 +973,12 @@
           "ranks": [
             19,
             20,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 10时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时17分]"
         },
         {
           "title": "猫娘抽烟番被日本家长投诉",
@@ -853,15 +1005,27 @@
           "time_info": "08时57分"
         },
         {
+          "title": "如何看待日本一医院错把患者脑部当肿瘤切除？",
+          "url": "https://www.zhihu.com/question/2069354305589620880",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "日本大饭核电站3号机组因发电机异常停止运行",
           "url": "https://wallstreetcn.com/livenews/3147038",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
           "title": "日本岩手县近海发生5.6级地震",
@@ -874,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时18分]"
+        },
+        {
+          "title": "原子弹爆炸后日本禁用原子弹一词",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%90%8E%E6%97%A5%E6%9C%AC%E7%A6%81%E7%94%A8%E5%8E%9F%E5%AD%90%E5%BC%B9%E4%B8%80%E8%AF%8D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
@@ -899,11 +1074,12 @@
           "url": "https://flash.jin10.com/detail/20260809094505071800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         },
         {
           "title": "乌克兰无人机侵犯保加利亚领空爆炸，危及关键能源设施",
@@ -1024,11 +1200,12 @@
           "url": "https://wallstreetcn.com/livenews/3147043",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时17分]"
         }
       ]
     },
@@ -1052,6 +1229,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“禁止对华出口光刻机，美欧将成最大输家”",
+          "url": "https://news.ifeng.com/c/8vReIAxZdCZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
