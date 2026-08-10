@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T02:43:46.327735+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-08-11T03:48:54.156805+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 21,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -15,20 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
-        },
-        {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -38,41 +26,54 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
-          "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3147641",
-          "source": "华尔街见闻-快讯",
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
+        },
+        {
+          "title": "据半岛电视台：美国国务院一位官员表示，在美国斡旋下举行的黎巴嫩与以色列谈判将于下月初在罗马继续进行。",
+          "url": "https://flash.jin10.com/detail/20260811032201314800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "03时48分"
         },
         {
-          "title": "嘉能可支持的一个美国投资者团体考虑拯救钴冶炼商Sherritt",
-          "url": "https://wallstreetcn.com/livenews/3147640",
-          "source": "华尔街见闻-快讯",
+          "title": "托德·布兰奇宣誓就任美国司法部长",
+          "url": "https://flash.jin10.com/detail/20260811031910191800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "03时48分"
         },
         {
-          "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
-          "url": "https://wallstreetcn.com/livenews/3147639",
+          "title": "托德·布兰奇宣誓就任美国司法部长",
+          "url": "https://wallstreetcn.com/livenews/3147666",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "03时48分"
         },
         {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
@@ -81,9 +82,44 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国财政部长曾吹嘘通过经济制裁“扼杀”了伊朗。这明显暴露出美国对制裁手段的强迫性依赖。",
+          "url": "https://flash.jin10.com/detail/20260811031731383800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3147641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时48分]"
+        },
+        {
+          "title": "嘉能可支持的一个美国投资者团体考虑拯救钴冶炼商Sherritt",
+          "url": "https://wallstreetcn.com/livenews/3147640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时48分]"
         },
         {
           "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
@@ -96,6 +132,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
+          "url": "https://wallstreetcn.com/livenews/3147639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时48分]"
         },
         {
           "title": "美国总统特朗普将美国琼斯法案针对货轮的豁免措施延长90天，但范围缩小。 特朗普将航运豁免范围限制在能源大宗商品和化肥领域。",
@@ -152,9 +200,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗议会副议长：美国必须接受伊朗在霍尔木兹海峡建立的安排，这些安排已经为波斯湾带来了新的政治和军事秩序。",
+          "url": "https://flash.jin10.com/detail/20260811031317951800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         },
         {
           "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
@@ -174,9 +233,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗布什尔省长表示，针对美国和以色列袭击中遗留的未爆弹药，将于当地时间周二8时至12时，在布什尔空军基地附近开展专业化排除和销毁行动。相关爆炸属于可控爆破，民众无需担心。",
+          "url": "https://flash.jin10.com/detail/20260811031201658800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国卫生部长小罗伯特·肯尼迪：正在评估孕期接种的疫苗。",
+          "url": "https://wallstreetcn.com/livenews/3147662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国总统特朗普：不再建议所有儿童接种乙型肝炎、COVID-19和流感等疫苗。",
+          "url": "https://flash.jin10.com/detail/20260811025855382800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         },
         {
           "title": "据美国国会山报：特朗普政府撤销超过17.5万份签证。",
@@ -185,9 +277,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美国总统特朗普：政府仅承认11种核心疫苗的儿童疫苗接种建议。",
+          "url": "https://flash.jin10.com/detail/20260811025754536800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -196,9 +299,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美国总统特朗普：宣布美国儿童疫苗接种建议，包括自闭症疫苗。",
+          "url": "https://flash.jin10.com/detail/20260811025611701800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国总统特朗普：签署疫苗行政命令。",
+          "url": "https://flash.jin10.com/detail/20260811025556585800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国总统特朗普宣布“美国疫苗推荐”。 特朗普声称：政府仅认可 11 种核心疫苗的儿童接种建议。 不再建议所有儿童接种乙肝、新冠、流感等疫苗。",
+          "url": "https://wallstreetcn.com/livenews/3147654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         },
         {
           "title": "美国联邦航空管理局（FAA）：预计将于当地时间8月23日上午10:15至下午1:15暂停里根国家机场航班运行，以支持“Freedom250”汽车赛事。",
@@ -207,9 +343,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美国2026财年前10个月联邦赤字为1.8万亿美元",
+          "url": "https://flash.jin10.com/detail/20260811025236536800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         },
         {
           "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
@@ -218,9 +365,53 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美国7月平均气温刷新1895年以来最高纪录",
+          "url": "https://wallstreetcn.com/livenews/3147652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国7月平均气温刷新1895年以来最高纪录",
+          "url": "https://flash.jin10.com/detail/20260811025145856800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国克利夫兰联储主席哈马克（Hammack）：可能需要加息“几次”。 不希望预判加息次数和我们最终的利率水平。 是我们采取行动的时候了。 当前利率并未对美国经济造成实质性限制。 并未发现通胀自行下降。 仍然没有看到劳动力市场出现问题。",
+          "url": "https://wallstreetcn.com/livenews/3147651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "美国2026财年前10个月联邦赤字为1.8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         },
         {
           "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
@@ -232,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "白宫：托德·布兰奇正式宣誓就任美国司法部长。",
+          "url": "https://flash.jin10.com/detail/20260811023736046800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         },
         {
           "title": "据知情人士透露，IBM自2012年以来首次在加拿大债券市场融资，发行四年期、八年期债券。（彭博）",
@@ -258,8 +460,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "《中国人民银行“十五五”改革发展规划》发布",
@@ -269,8 +471,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "中国黑科技圈粉老外",
@@ -280,19 +482,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "百余名菲律宾公民在中国被依法处理",
           "url": "https://www.toutiao.com/trending/7672364038260526601/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
@@ -302,19 +505,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "那些搬到越南的工厂，正在重新回到中国",
           "url": "https://news.ifeng.com/c/8vThKJ77VvL",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
@@ -322,11 +526,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "中国驻菲律宾大使馆：重大涉诈逃犯檀某落网",
@@ -336,8 +541,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "原料、设备和资金全是坑，怎么跟中国争！印度稀土大计卡了",
@@ -347,8 +552,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "看中国航天如何绝处逢生",
@@ -356,11 +561,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "媒体评雪佛兰退出中国市场",
@@ -373,6 +579,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时44分 ~ 02时43分]"
+        },
+        {
+          "title": "以色列士兵把枪口对准中国记者",
+          "url": "https://www.douyin.com/hot/2604471",
+          "source": "抖音",
+          "ranks": [
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时48分]"
         },
         {
           "title": "中国可控核聚变最新进展",
@@ -396,17 +614,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时43分]"
-        },
-        {
-          "title": "以色列士兵把枪口对准中国记者",
-          "url": "https://www.douyin.com/hot/2604471",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
         }
       ]
     },
@@ -422,19 +629,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
           "url": "https://news.ifeng.com/c/8vTdI4YiJIX",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "韩国种植百亿树,吧友笑麻",
@@ -444,8 +652,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "急眼了,日本人做法咒奥本海默",
@@ -455,8 +663,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -466,8 +674,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "韩国大妈切西瓜真有一套",
@@ -487,7 +695,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         }
@@ -569,19 +777,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
           "url": "https://www.zhihu.com/question/2068943667189002947",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -591,8 +800,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "英伟达跌幅扩大至3%，刷新日低，标普500指数跌0.1%，道指跌0.16%，纳指跌0.4%，半导体指数跌超1.8%。",
@@ -609,37 +818,8 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度为何突然在经济上对华开绿灯",
-          "url": "https://www.toutiao.com/trending/7672344182060486190/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
-        },
-        {
-          "title": "印度侨民要求压制厌印情绪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356999&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E8%A6%81%E6%B1%82%E5%8E%8B%E5%88%B6%E5%8E%8C%E5%8D%B0%E6%83%85%E7%BB%AA",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "古巴如何应对能源短缺",
@@ -650,8 +830,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
@@ -664,6 +844,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "能源股张张，投资者关注霍尔木兹海峡局势对油价的影响",
+          "url": "https://wallstreetcn.com/livenews/3147647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印度为何突然在经济上对华开绿灯",
+          "url": "https://www.toutiao.com/trending/7672344182060486190/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
+        },
+        {
+          "title": "印度侨民要求压制厌印情绪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356999&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E8%A6%81%E6%B1%82%E5%8E%8B%E5%88%B6%E5%8E%8C%E5%8D%B0%E6%83%85%E7%BB%AA",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         }
       ]
     },
@@ -679,8 +900,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
         },
         {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
@@ -691,8 +912,25 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
+          "url": "https://wallstreetcn.com/livenews/3147660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         }
       ]
     }
