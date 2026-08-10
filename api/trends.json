@@ -1,11 +1,254 @@
 {
-  "generated_at": "2026-08-11T01:45:10.026010+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-11T02:43:46.327735+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "[北美] 美国 加拿大",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
+        },
+        {
+          "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3147641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "嘉能可支持的一个美国投资者团体考虑拯救钴冶炼商Sherritt",
+          "url": "https://wallstreetcn.com/livenews/3147640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
+          "url": "https://wallstreetcn.com/livenews/3147639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
+          "url": "https://flash.jin10.com/detail/20260811021755846800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
+          "url": "https://wallstreetcn.com/livenews/3147632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "美国总统特朗普将美国琼斯法案针对货轮的豁免措施延长90天，但范围缩小。 特朗普将航运豁免范围限制在能源大宗商品和化肥领域。",
+          "url": "https://wallstreetcn.com/livenews/3147630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
+          "url": "https://flash.jin10.com/detail/20260811011059897800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
+          "url": "https://wallstreetcn.com/livenews/3147629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "美国32所高校被指控招生过程相互合谋",
+          "url": "https://wallstreetcn.com/livenews/3147623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "加拿大总理卡尼：我们正在降低加拿大钢铁运输成本，让更多加拿大钢材能够运往全国各地的建设项目现场，同时加强国内供应链。",
+          "url": "https://flash.jin10.com/detail/20260811020915077800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
+          "url": "https://flash.jin10.com/detail/20260811010308412800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "布伦特原油期货上涨4美元/桶，因伊朗与美国互相提出赔偿要求，霍尔木兹海峡重启希望减弱。",
+          "url": "https://flash.jin10.com/detail/20260811020633941800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "据美国国会山报：特朗普政府撤销超过17.5万份签证。",
+          "url": "https://flash.jin10.com/detail/20260811020345847800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260811015237329800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：预计将于当地时间8月23日上午10:15至下午1:15暂停里根国家机场航班运行，以支持“Freedom250”汽车赛事。",
+          "url": "https://flash.jin10.com/detail/20260811014801581800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
+          "url": "https://flash.jin10.com/detail/20260811014323156800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
+          "url": "https://flash.jin10.com/detail/20260811003419512800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "据知情人士透露，IBM自2012年以来首次在加拿大债券市场融资，发行四年期、八年期债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3147601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "外交部：藏南地区是中国领土",
@@ -15,8 +258,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "《中国人民银行“十五五”改革发展规划》发布",
@@ -26,8 +269,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "中国黑科技圈粉老外",
@@ -37,8 +280,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "百余名菲律宾公民在中国被依法处理",
@@ -48,8 +291,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
@@ -59,8 +302,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "那些搬到越南的工厂，正在重新回到中国",
@@ -70,8 +313,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
+        },
+        {
+          "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
+          "url": "https://www.zhihu.com/question/1917135578203399143",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "中国驻菲律宾大使馆：重大涉诈逃犯檀某落网",
@@ -81,19 +336,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
-        },
-        {
-          "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
-          "url": "https://www.zhihu.com/question/1917135578203399143",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "原料、设备和资金全是坑，怎么跟中国争！印度稀土大计卡了",
@@ -103,19 +347,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "看中国航天如何绝处逢生",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%8B%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%A6%82%E4%BD%95%E7%BB%9D%E5%A4%84%E9%80%A2%E7%94%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
+        },
+        {
+          "title": "媒体评雪佛兰退出中国市场",
+          "url": "https://www.douyin.com/hot/2604587",
+          "source": "抖音",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "中国可控核聚变最新进展",
@@ -129,159 +386,33 @@
           "time_info": "[01时44分 ~ 01时45分]"
         },
         {
-          "title": "媒体评雪佛兰退出中国市场",
-          "url": "https://www.douyin.com/hot/2604587",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数涨超1%，中进医疗涨63.38%，中比能源涨15.77%，陆金所控股涨13.00%，搜狐涨6.60%，海天网络涨5.49%。",
           "url": "https://wallstreetcn.com/livenews/3147609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "伊朗的5个条件，美国是否会照单全收？",
-          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
-        },
-        {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
-        },
-        {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
-        },
-        {
-          "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
-          "url": "https://wallstreetcn.com/livenews/3147632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "美国总统特朗普将美国琼斯法案针对货轮的豁免措施延长90天，但范围缩小。 特朗普将航运豁免范围限制在能源大宗商品和化肥领域。",
-          "url": "https://wallstreetcn.com/livenews/3147630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
-          "url": "https://flash.jin10.com/detail/20260811011059897800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
-          "url": "https://wallstreetcn.com/livenews/3147629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
-          "url": "https://flash.jin10.com/detail/20260811010308412800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "美国32所高校被指控招生过程相互合谋",
-          "url": "https://wallstreetcn.com/livenews/3147623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
-          "url": "https://flash.jin10.com/detail/20260811003419512800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "据知情人士透露，IBM自2012年以来首次在加拿大债券市场融资，发行四年期、八年期债券。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3147601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            24,
             30
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "以色列士兵把枪口对准中国记者",
+          "url": "https://www.douyin.com/hot/2604471",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "02时43分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "日本民众质问高市政府：粮食自给率只有36%，拿什么去打仗？",
@@ -291,8 +422,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
@@ -302,8 +433,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "韩国种植百亿树,吧友笑麻",
@@ -313,8 +444,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "急眼了,日本人做法咒奥本海默",
@@ -324,8 +455,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -335,8 +466,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "韩国大妈切西瓜真有一套",
@@ -348,6 +479,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 01时45分]"
+        },
+        {
+          "title": "广岛长崎的昨天未必不会是日本的明天",
+          "url": "https://www.toutiao.com/trending/7672302329533730354/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     },
@@ -360,11 +502,36 @@
           "url": "https://wallstreetcn.com/livenews/3147628",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "周一（8月10日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.75%，报230.25欧元/吨。 油菜籽期货涨1.03%，报538.75欧元/吨，近期呈现出V形反转行情、8月3日曾跌至508.75欧元。",
+          "url": "https://wallstreetcn.com/livenews/3147613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "德国两年期国债收益率涨约5个基点，非农过后，投资者关注油价涨势",
+          "url": "https://wallstreetcn.com/livenews/3147612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
         },
         {
           "title": "消息人士称，英国石油公司将向特立尼达国家天然气公司出售其在委内瑞拉的Cocuina气田20%的股份。70%的天然气将用于生产液化天然气，其余部分将用于石化产品。最终投资决策可能在年底前做出。",
@@ -373,29 +540,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "周一（8月10日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.75%，报230.25欧元/吨。 油菜籽期货涨1.03%，报538.75欧元/吨，近期呈现出V形反转行情、8月3日曾跌至508.75欧元。",
-          "url": "https://wallstreetcn.com/livenews/3147613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "德国两年期国债收益率涨约5个基点，非农过后，投资者关注油价涨势",
-          "url": "https://wallstreetcn.com/livenews/3147612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -406,7 +551,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         }
@@ -424,8 +569,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
@@ -435,8 +580,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -446,19 +591,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "英伟达跌幅扩大至3%，刷新日低，标普500指数跌0.1%，道指跌0.16%，纳指跌0.4%，半导体指数跌超1.8%。",
           "url": "https://wallstreetcn.com/livenews/3147620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
         }
       ]
     },
@@ -467,6 +613,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "印度为何突然在经济上对华开绿灯",
+          "url": "https://www.toutiao.com/trending/7672344182060486190/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
+        },
+        {
           "title": "印度侨民要求压制厌印情绪",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356999&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E8%A6%81%E6%B1%82%E5%8E%8B%E5%88%B6%E5%8E%8C%E5%8D%B0%E6%83%85%E7%BB%AA",
           "source": "贴吧",
@@ -474,19 +632,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
-        },
-        {
-          "title": "印度为何突然在经济上对华开绿灯",
-          "url": "https://www.toutiao.com/trending/7672344182060486190/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         }
       ]
     },
@@ -499,22 +646,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%A4%E5%B7%B4%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E8%83%BD%E6%BA%90%E7%9F%AD%E7%BC%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
           "url": "https://flash.jin10.com/detail/20260811011430495800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
         }
       ]
     },
@@ -530,19 +679,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         },
         {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时43分]"
         }
       ]
     }
