@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T11:03:23.298166+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-08-11T12:59:33.778296+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -27,11 +27,12 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 11时03分]"
+          "appearance_count": 13,
+          "time_info": "[01时44分 ~ 12时59分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -78,6 +79,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "美国又一个机构成为“反华急先锋”",
+          "url": "https://news.ifeng.com/c/8vV0CNr2Nw7",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：美国财政部长曾吹嘘通过经济制裁“扼杀”了伊朗。这明显暴露出美国对制裁手段的强迫性依赖。",
           "url": "https://flash.jin10.com/detail/20260811031731383800",
           "source": "金十数据",
@@ -87,6 +99,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
+          "url": "https://www.cls.cn/detail/2450585",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 12时59分]"
         },
         {
           "title": "美国纽约市长马姆达尼的Pied-a-Terre税收方案暂时被法官拒绝。",
@@ -247,19 +273,6 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
-          "url": "https://www.cls.cn/detail/2450585",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 11时03分]"
-        },
-        {
           "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
           "url": "https://flash.jin10.com/detail/20260811011059897800",
           "source": "金十数据",
@@ -318,6 +331,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
+          "url": "https://wallstreetcn.com/livenews/3147809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时59分]"
         },
         {
           "title": "美国10年期国债收益率涨超5个基点",
@@ -479,17 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
-          "url": "https://wallstreetcn.com/livenews/3147809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时03分"
         },
         {
           "title": "美国总统特朗普：不再建议所有儿童接种乙型肝炎、COVID-19和流感等疫苗。",
@@ -770,7 +784,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "《中国人民银行“十五五”改革发展规划》发布",
@@ -909,8 +923,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 11时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 12时59分]"
         },
         {
           "title": "以色列士兵把枪口对准中国记者",
@@ -939,13 +953,24 @@
           "time_info": "08时59分"
         },
         {
+          "title": "外国记者：在中国提前窥见“22世纪”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%8F%90%E5%89%8D%E7%AA%A5%E8%A7%81%E2%80%9C22%E4%B8%96%E7%BA%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "中国地震台网正式测定：08月11日10时46分在四川宜宾市高县（北纬28.54度，东经104.66度）发生3.4级地震，震源深度5千米。",
           "url": "https://flash.jin10.com/detail/20260811105116994800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -961,6 +986,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时44分 ~ 07时26分]"
+        },
+        {
+          "title": "中国网红「雅典娜」确认遇害，被闺蜜骗去菲律宾后被绑架，哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2070285462472582864",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时59分]"
         },
         {
           "title": "中国存储开始把定价权拿回来了",
@@ -1049,9 +1086,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "遏制中国？美国仍在做“沿第一岛链拒止威慑”的美梦",
+          "url": "https://news.ifeng.com/c/8vV2wvtx3Do",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "中国即将发行或正在发行的地方政府债",
@@ -1063,17 +1111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "中国网红「雅典娜」确认遇害，被闺蜜骗去菲律宾后被绑架，哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2070285462472582864",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时03分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -1104,7 +1141,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1115,9 +1152,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "受贿6798万余元，中国一重原副总经理陆文俊一审获刑15年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753453",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "雪佛兰为何会败走中国",
+          "url": "https://www.toutiao.com/trending/7672598307423669811/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "中国央行公开市场7天期逆回购操作量为零。今日465亿元逆回购到期。",
@@ -1126,7 +1185,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         }
@@ -1142,11 +1201,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 11时03分]"
+          "appearance_count": 13,
+          "time_info": "[01时44分 ~ 12时59分]"
         },
         {
           "title": "急眼了,日本人做法咒奥本海默",
@@ -1154,11 +1214,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 11时03分]"
+          "appearance_count": 13,
+          "time_info": "[01时44分 ~ 12时59分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -1166,11 +1227,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 11时03分]"
+          "appearance_count": 13,
+          "time_info": "[01时44分 ~ 12时59分]"
         },
         {
           "title": "日本民众质问高市政府：粮食自给率只有36%，拿什么去打仗？",
@@ -1211,11 +1273,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357109&amp;topic_name=%E6%8C%96%E5%A2%99%E8%84%9A%3FLCK%E6%9A%97%E7%A4%BABin%E5%88%B0%E9%9F%A9%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时59分]"
+        },
+        {
+          "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
+          "url": "https://news.ifeng.com/c/8vUL8mvmfET",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时59分]"
         },
         {
           "title": "韩国大妈切西瓜真有一套",
@@ -1228,18 +1303,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时44分 ~ 06时27分]"
-        },
-        {
-          "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
-          "url": "https://news.ifeng.com/c/8vUL8mvmfET",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时03分]"
         },
         {
           "title": "广岛长崎的昨天未必不会是日本的明天",
@@ -1306,7 +1369,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1328,7 +1391,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         }
@@ -1360,8 +1423,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 11时03分]"
+          "appearance_count": 13,
+          "time_info": "[01时44分 ~ 12时59分]"
+        },
+        {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时27分 ~ 12时59分]"
         },
         {
           "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
@@ -1379,17 +1456,16 @@
           "time_info": "[01时44分 ~ 07时26分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
           "source": "财联社热门",
           "ranks": [
             8,
-            3,
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[06时27分 ~ 11时03分]"
+          "time_info": "[07时26分 ~ 12时59分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -1402,18 +1478,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 11时03分]"
         },
         {
           "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
@@ -1482,7 +1546,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1493,7 +1557,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1515,7 +1579,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         }
@@ -1523,7 +1587,7 @@
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "英国消费者7月世界杯期间增加食品和酒吧消费",
@@ -1618,13 +1682,24 @@
           "time_info": "01时45分"
         },
         {
+          "title": "香港正考虑把Jane Street和城堡证券等交易公司纳入改革之中；相关改革料将为资产管理业带来“大刀阔斧”的减税。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3147825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "周启豪回应瑞典大满贯开门红",
           "url": "https://www.toutiao.com/trending/7671842160561258537/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1646,7 +1721,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         }
@@ -1654,7 +1729,7 @@
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
@@ -1750,6 +1825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "澳洲联储：鉴于人工智能的繁荣和对海湾冲突的韧性，全球增长前景上调。",
+          "url": "https://flash.jin10.com/detail/20260811123351573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
@@ -1765,11 +1851,12 @@
             5,
             9,
             10,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 11时03分]"
+          "appearance_count": 13,
+          "time_info": "[01时44分 ~ 12时59分]"
         },
         {
           "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
@@ -1812,7 +1899,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1830,65 +1917,8 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "印度为何突然在经济上对华开绿灯",
-          "url": "https://www.toutiao.com/trending/7672344182060486190/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            10,
-            5,
-            15,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时44分 ~ 08时59分]"
-        },
-        {
-          "title": "印度侨民要求压制厌印情绪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356999&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E8%A6%81%E6%B1%82%E5%8E%8B%E5%88%B6%E5%8E%8C%E5%8D%B0%E6%83%85%E7%BB%AA",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 11时03分]"
-        },
-        {
-          "title": "中方回应印度声明：非法无效，从不承认！",
-          "url": "https://news.ifeng.com/c/8vTuxwcJsvW",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时03分]"
-        },
-        {
-          "title": "印度人为何拼命向外移民",
-          "url": "https://www.toutiao.com/trending/7672563448751853119/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
@@ -1924,9 +1954,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
+          "url": "https://wallstreetcn.com/livenews/3147843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "中信建投：宇树IPO定价超出预期利好机器人板块",
@@ -1938,6 +1979,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "印度为何突然在经济上对华开绿灯",
+          "url": "https://www.toutiao.com/trending/7672344182060486190/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            10,
+            5,
+            15,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时44分 ~ 08时59分]"
+        },
+        {
+          "title": "印度侨民要求压制厌印情绪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356999&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E8%A6%81%E6%B1%82%E5%8E%8B%E5%88%B6%E5%8E%8C%E5%8D%B0%E6%83%85%E7%BB%AA",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时44分 ~ 12时59分]"
+        },
+        {
+          "title": "中方回应印度声明：非法无效，从不承认！",
+          "url": "https://news.ifeng.com/c/8vTuxwcJsvW",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时59分]"
+        },
+        {
+          "title": "印度人为何拼命向外移民",
+          "url": "https://www.toutiao.com/trending/7672563448751853119/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时59分]"
         }
       ]
     },
@@ -1954,8 +2054,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时59分]"
         }
       ]
     },
