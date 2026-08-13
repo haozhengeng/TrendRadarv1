@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T03:52:39.869538+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-08-14T05:35:55.828407+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 25,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗：将以持久战消耗美国",
@@ -15,19 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "通胀超预期降温！美国7月PPI同比涨幅收窄至4.7%，能源成本下降成主因",
           "url": "https://wallstreetcn.com/articles/3779381",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
+        },
+        {
+          "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
+          "url": "https://www.cls.cn/detail/2453838",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "美国地质调查局：克马德克群岛地区发生5.4级地震。",
@@ -58,7 +71,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -80,21 +93,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
         {
-          "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
-          "url": "https://www.cls.cn/detail/2453838",
-          "source": "财联社热门",
+          "title": "美联储未来一个月暂停出于准备金管理目的买入美国国库券",
+          "url": "https://wallstreetcn.com/livenews/3149329",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
             2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "据沙特国家通讯社：沙特王储与美国中央司令部指挥官就深化防务合作、推动地区局势降温进行了交流。",
+          "url": "https://flash.jin10.com/detail/20260814051010797800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "据沙特国家通讯社：沙特王储会见美国中央司令部司令。",
+          "url": "https://flash.jin10.com/detail/20260814050756556800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "当地时间8月13日，美军中央司令部宣布着手组建史上首支“多域、多国攻击无人机特遣队”。该部队名为“猎鹰打击特遣队”，将配备自杀式攻击无人机，整合空中、海面以及水下无人作战装备，由美国及地区伙伴国的军事保障人员操作。 此次“猎鹰打击”的启动，距离美军中央司令部成立“蝎子打击特遣队”——美军在中东地区首支专门的攻击无人机中队——已过去九个月。（CCTV国际时讯）",
@@ -103,7 +137,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -113,11 +147,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "“数字护照”发到巴拿马，美国的手伸得太长了",
@@ -127,8 +162,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 05时35分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产增至7.93万亿美元。",
@@ -137,7 +172,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -153,6 +188,28 @@
           "time_info": "00时46分"
         },
         {
+          "title": "惠誉：到2032 年，美国医疗保险与社会保障支出占GDP的比重将增加近1个百分点，这将进一步加大政府的财政压力。",
+          "url": "https://wallstreetcn.com/livenews/3149323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "惠誉：美国政治僵局与政府停摆发生概率或将上升，持续时间也可能进一步拉长。",
+          "url": "https://wallstreetcn.com/livenews/3149322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "美国抵押贷款利率六周以来首次小幅下降。",
           "url": "https://flash.jin10.com/detail/20260814000049049800",
           "source": "金十数据",
@@ -164,6 +221,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "惠誉：美国的评级得益于庞大的经济、高人均收入、活跃的商业环境和卓越的融资灵活性。预计美国2026-2027年经济增长将保持相对韧性，达到1.9%，但低于2025年的2.8%。2026年美国劳动力需求减弱，职位创造显著下降。",
+          "url": "https://wallstreetcn.com/livenews/3149321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "房利美：美国30年期固定利率抵押贷款在截至8月13日当周平均为6.67%，较前一周的6.69%有所下降。",
           "url": "https://flash.jin10.com/detail/20260814000039415800",
           "source": "金十数据",
@@ -173,6 +241,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "惠誉：预计美国2026年通胀率将平均为3.4%。",
+          "url": "https://flash.jin10.com/detail/20260814044156209800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "花旗集团：花旗美国消费信用卡业务宣布已达成协议收购 Kard Financial, Inc.",
+          "url": "https://wallstreetcn.com/livenews/3149320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "惠誉：预计美国债务上限将在2027年中左右触及。",
+          "url": "https://flash.jin10.com/detail/20260814044152304800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "惠誉：高财政赤字、巨大的利息负担以及高企且上升的政府债务水平制约了美国评级。",
+          "url": "https://flash.jin10.com/detail/20260814044027598800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "惠誉确认美国主权评级为 AA+。惠誉预计美国将在2027年中期触及债务上限，到2028年美国政府债务占GDP的比例将升至123%。",
+          "url": "https://wallstreetcn.com/livenews/3149318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "惠誉：到2032年，美国医疗保险和社会保障支出将增加近1个百分点的GDP，财政压力将加大。",
+          "url": "https://flash.jin10.com/detail/20260814044024173800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "美国在伊朗冲突中损失约25%的“死神”无人机。（华盛顿邮报）",
@@ -192,9 +326,53 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "惠誉：美国政治僵局和政府停摆可能变得更加频繁，且可能持续时间更长。",
+          "url": "https://flash.jin10.com/detail/20260814043955030800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814043950826800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
+          "url": "https://wallstreetcn.com/livenews/3149314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "美国老师崩溃痛哭：高中生不会读写",
+          "url": "https://www.toutiao.com/trending/7673322961486495780/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "据华盛顿邮报：伊朗战争期间，约有25%的美国“死神”无人机被击落。",
@@ -208,6 +386,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "惠誉：我们预计到2028年底美国通胀将朝目标水平移动。",
+          "url": "https://flash.jin10.com/detail/20260814043813022800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "美媒：美国将向中东部署“华盛顿”号航母",
           "url": "https://wallstreetcn.com/livenews/3149240",
           "source": "华尔街见闻-快讯",
@@ -219,13 +408,68 @@
           "time_info": "00时46分"
         },
         {
+          "title": "惠誉：2026年美国劳动力需求减弱，职位创造显著下降。",
+          "url": "https://flash.jin10.com/detail/20260814043745876800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "美国副总统万斯谈及伊朗：美国手上有诸多可用于应对伊朗的手段。首要目标是让美国的石油与汽油维持低价。最终目标同样是让霍尔木兹海峡恢复稳定，油价回归平稳。",
+          "url": "https://wallstreetcn.com/livenews/3149312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "惠誉：预计美国2026-2027年经济增长将保持相对韧性，达到1.9%，但低于2025年的2.8%。",
+          "url": "https://flash.jin10.com/detail/20260814043732033800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "惠誉：美国的评级得益于庞大的经济、高人均收入、活跃的商业环境和卓越的融资灵活性。",
+          "url": "https://flash.jin10.com/detail/20260814043715300800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "惠誉确认美国信用评级为 'AA+'；展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260814043540420800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "美国原油期货结算价为每桶81.25美元，下跌2.02美元，跌幅2.43%。",
           "url": "https://flash.jin10.com/detail/20260814023513124800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -252,6 +496,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "美国证券交易委员会文件：先锋资本管理有限责任公司披露持有 SpaceX 2660 万股 A 类股份。",
+          "url": "https://wallstreetcn.com/livenews/3149306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "美国至8月13日8周国债竞拍-得标利率 3.665%，前值3.71%。",
           "url": "https://flash.jin10.com/detail/20260813233418703800",
           "source": "金十数据",
@@ -261,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3149305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "惠誉：美国私募信贷违约率7月升至纪录新高",
@@ -280,7 +546,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         }
@@ -288,20 +554,8 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "俄罗斯历史课本里的中国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%86%E5%8F%B2%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
-        },
         {
           "title": "中国持续刷新生态“成绩单”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E5%88%B7%E6%96%B0%E7%94%9F%E6%80%81%E2%80%9C%E6%88%90%E7%BB%A9%E5%8D%95%E2%80%9D",
@@ -310,8 +564,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "中国制造再添全球之最",
@@ -321,8 +575,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
+        },
+        {
+          "title": "俄罗斯历史课本里的中国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%86%E5%8F%B2%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "德比斯羡慕中国车手",
@@ -333,8 +600,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "马斯克一句“中国太棒了”刷屏海外",
@@ -344,8 +611,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
@@ -367,8 +634,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -376,11 +643,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "马斯克安利中国,外网闹麻",
@@ -391,8 +659,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "“再不猛干就要被中国追上”，韩国两部长激辩要不要搞996",
@@ -402,8 +670,32 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 05时35分]"
+        },
+        {
+          "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
+          "url": "https://www.zhihu.com/question/2069970060106527911",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时46分 ~ 03时52分]"
+          "time_info": "[03时52分 ~ 05时35分]"
+        },
+        {
+          "title": "中国车企攻入日系车大本营",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%94%BB%E5%85%A5%E6%97%A5%E7%B3%BB%E8%BD%A6%E5%A4%A7%E6%9C%AC%E8%90%A5",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 05时35分]"
         },
         {
           "title": "中国男篮热身赛险胜乌拉圭",
@@ -417,32 +709,21 @@
           "time_info": "[00时45分 ~ 00时46分]"
         },
         {
-          "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
-          "url": "https://www.zhihu.com/question/2069970060106527911",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "中国车企攻入日系车大本营",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%94%BB%E5%85%A5%E6%97%A5%E7%B3%BB%E8%BD%A6%E5%A4%A7%E6%9C%AC%E8%90%A5",
+          "title": "中国男篮热身赛力克乌拉圭",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%83%AD%E8%BA%AB%E8%B5%9B%E5%8A%9B%E5%85%8B%E4%B9%8C%E6%8B%89%E5%9C%AD",
           "source": "百度热搜",
           "ranks": [
-            20
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时52分"
+          "time_info": "05时35分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "欧债收益率集体下跌，英国10年期国债收益率跌1.9个基点报4.951%，法国10年期国债收益率跌3.5个基点报3.943%，德国10年期国债收益率跌2.9个基点报3.129%，意大利10年期国债收益率跌4.8个基点报3.893%，西班牙10年期国债收益率跌3.8个基点报3.560%。",
@@ -451,7 +732,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -462,7 +743,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -471,11 +752,23 @@
           "url": "https://www.toutiao.com/trending/7673048879898296366/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 05时35分]"
+        },
+        {
+          "title": "WTT欧洲大满贯瑞典站2026",
+          "url": "https://s.weibo.com/weibo?q=WTT%E6%AC%A7%E6%B4%B2%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%91%9E%E5%85%B8%E7%AB%992026&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "time_info": "[03时52分 ~ 05时35分]"
         },
         {
           "title": "张本智和晋级瑞典大满贯男单32强",
@@ -495,18 +788,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "WTT欧洲大满贯瑞典站2026",
-          "url": "https://s.weibo.com/weibo?q=WTT%E6%AC%A7%E6%B4%B2%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%91%9E%E5%85%B8%E7%AB%992026&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -517,7 +799,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -528,9 +810,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "2026WTT 瑞典大满贯男单第二轮，向鹏 1-3 不敌艾利克斯·勒布伦，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2071322109830230575",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "英国东萨塞克斯郡一列火车脱轨，致11人受伤",
+          "url": "https://wallstreetcn.com/livenews/3149313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "欧洲斯托克50指数收盘涨0.2%，德国DAX指数跌0.15%，英国富时100指数跌0.6%，法国CAC 40指数跌0.3%。",
@@ -553,12 +857,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "英国17岁男孩胁迫117名女孩自残",
+          "url": "https://www.toutiao.com/trending/7673163065797427254/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "普京驳斥日本南千岛群岛领土主张",
@@ -566,22 +881,24 @@
           "source": "抖音",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "日本强烈抗议普京登上日俄争议岛屿",
           "url": "https://m.thepaper.cn/newsDetail_forward_33775380",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "熊灾泛滥,日本餐厅卖炖熊掌",
@@ -592,8 +909,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "博主：日本经济深陷无解死局",
@@ -601,11 +918,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "俄罗斯太平洋舰队军演，日本急了",
@@ -617,6 +935,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "普京首登“北方四岛”羞辱日本，俄日关系深跌",
+          "url": "https://news.ifeng.com/c/8vZF7rgKM48",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 05时35分]"
         },
         {
           "title": "日本关东地区遭遇强降雨",
@@ -641,32 +970,43 @@
           "time_info": "[00时45分 ~ 00时46分]"
         },
         {
-          "title": "普京首登“北方四岛”羞辱日本，俄日关系深跌",
-          "url": "https://news.ifeng.com/c/8vZF7rgKM48",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
           "title": "日本把人装进冰箱降温",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%8A%E4%BA%BA%E8%A3%85%E8%BF%9B%E5%86%B0%E7%AE%B1%E9%99%8D%E6%B8%A9%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 05时35分]"
+        },
+        {
+          "title": "韩国7月进口物价指数年率 18.7%，前值由20.60%修正为20.9%。",
+          "url": "https://flash.jin10.com/detail/20260814050002152800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时52分"
+          "time_info": "05时35分"
+        },
+        {
+          "title": "韩国7月出口物价指数年率 49.1%，前值由48.90%修正为48.7%。",
+          "url": "https://flash.jin10.com/detail/20260814050002110800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
@@ -676,8 +1016,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "标普冲击新高 费城半导体指数即将重回“牛市” | 今夜看点",
@@ -688,8 +1028,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
+        },
+        {
+          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3149311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "市场消息：闪迪高管称公司预计明年向客户交付首批用于推理设备的HBF样品，公司已完成首款高带宽闪存芯片的流片。",
@@ -712,6 +1063,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "截至8月13日，已有30余家北交所上市公司披露2026年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。（经济参考报）",
+          "url": "https://wallstreetcn.com/livenews/3149302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -766,8 +1128,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "印度牛触电死亡居民殴打变压器泄愤",
