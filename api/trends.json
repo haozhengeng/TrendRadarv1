@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T20:46:46.232486+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-08-13T22:17:30.038726+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 108,
+      "match_count": 117,
       "titles": [
         {
           "title": "全面符合预期！美国7月CPI同比涨幅收窄至3.4%，核心CPI同比放缓至2.5%",
@@ -122,8 +122,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 20时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时04分 ~ 22时17分]"
+        },
+        {
+          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2071169289697092854",
+          "source": "知乎",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 22时17分]"
+        },
+        {
+          "title": "伊朗：将以持久战消耗美国",
+          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时17分]"
         },
         {
           "title": "美国在太平洋的军事基地正在崩溃：坍塌，漏水和裂缝",
@@ -135,29 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2071169289697092854",
-          "source": "知乎",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 20时46分]"
-        },
-        {
-          "title": "伊朗：将以持久战消耗美国",
-          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "美国国际贸易委员会对三星设备启动337条款调查。",
@@ -177,7 +177,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -199,18 +199,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "美国7月PPI速评",
-          "url": "https://wallstreetcn.com/livenews/3149172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -232,7 +221,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -259,13 +248,24 @@
           "time_info": "02时49分"
         },
         {
+          "title": "加拿大总理卡尼：加拿大的主权根植于强大而安全的北方。",
+          "url": "https://flash.jin10.com/detail/20260813220359406800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "美国7月PPI环比 0%，预期 0.2%，前值 -0.3%。",
           "url": "https://wallstreetcn.com/livenews/3149170",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -420,6 +420,18 @@
           "time_info": "[05时36分 ~ 06时32分]"
         },
         {
+          "title": "美国7月PPI速评",
+          "url": "https://wallstreetcn.com/livenews/3149172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时17分]"
+        },
+        {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将辞去职务，以便能有更多时间陪伴家人。",
           "url": "https://flash.jin10.com/detail/20260813033648092800",
           "source": "金十数据",
@@ -565,6 +577,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美国老师崩溃痛哭：高中生不会读写",
+          "url": "https://www.toutiao.com/trending/7673322961486495780/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 22时17分]"
         },
         {
           "title": "据福克斯商业频道：美国白宫经济顾问委员会主席费伦表示，CPI报告削弱了加息的理由。",
@@ -769,17 +793,6 @@
           "time_info": "[03时57分 ~ 04时36分]"
         },
         {
-          "title": "美国老师崩溃痛哭：高中生不会读写",
-          "url": "https://www.toutiao.com/trending/7673322961486495780/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
           "title": "美国农业部：将阿根廷2025/2026年度大豆产量预期从之前的5000万吨下调至4950万吨；将巴西2025/2026年度大豆产量预期从之前的1.8亿吨上调至1.805亿吨。",
           "url": "https://flash.jin10.com/detail/20260813000433824800",
           "source": "金十数据",
@@ -808,7 +821,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -830,7 +843,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -857,6 +870,17 @@
           "time_info": "02时49分"
         },
         {
+          "title": "通胀超预期降温！美国7月PPI同比涨幅收窄至4.7%，能源成本下降成主因",
+          "url": "https://wallstreetcn.com/articles/3779381",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "美国7月政府预算 -4320亿美元，预期-3460亿美元，前值-1200亿美元。",
           "url": "https://flash.jin10.com/detail/20260813020002695800",
           "source": "金十数据",
@@ -874,7 +898,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -885,9 +909,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "美国2年期国债收益率延续跌势，触及7月中旬以来最低水平；最新报4.136%，下跌6.2个基点。",
+          "url": "https://flash.jin10.com/detail/20260813215732854800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美国8月1日当周续请失业救济人数 177.7万人，预期 179.4万人，前值 180.1万人。",
@@ -896,7 +931,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -907,7 +942,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -929,7 +964,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -943,6 +978,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "美国上周首次申领失业救济人数小幅升至20.9万人",
+          "url": "https://wallstreetcn.com/livenews/3149190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "福特汽车(F.N)计划从2030年开始增加林肯车型在美国的产量。",
@@ -989,6 +1035,28 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国7月CPI同比涨幅回落至3.4%，市场对美联储9月加息预期降温",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33771289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "美国克利夫兰联储主席哈马克（Hammack）：劳动力市场方面的情况相当不错。",
+          "url": "https://wallstreetcn.com/livenews/3149186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "伊朗：美国国会应调查特朗普资产的增加情况",
           "url": "https://flash.jin10.com/detail/20260812233824579800",
           "source": "金十数据",
@@ -1017,7 +1085,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1050,7 +1118,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1105,7 +1173,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1165,13 +1233,24 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国克利夫兰联储主席哈马克（Hammack）：大量杠杆资金被用于购买美国国债。 国债是我在金融稳定方面关注的一个领域，还关注私募信贷，以及人工智能是否存在泡沫。",
+          "url": "https://wallstreetcn.com/livenews/3149179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "美国10年期国债收益率最新下跌1.4个基点，报4.676%。",
           "url": "https://flash.jin10.com/detail/20260813203314520800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1193,7 +1272,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1215,7 +1294,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1231,6 +1310,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国里士满联储主席巴尔金认为维持利率不变或加息均有理有据",
+          "url": "https://wallstreetcn.com/livenews/3149174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "美国8月7日当周EIA原油库存变动 1742.3万桶，预期 -180万桶，前值 247.9万桶。",
           "url": "https://wallstreetcn.com/livenews/3148686",
           "source": "华尔街见闻-快讯",
@@ -1240,6 +1330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国克利夫兰联储主席哈马克对通胀持续放缓缺乏信心 呼吁立即加息",
+          "url": "https://wallstreetcn.com/livenews/3149173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美国8月7日当周EIA精炼油库存变动 -1万桶，预期 -200万桶，前值 -347.3万桶。",
@@ -1256,7 +1357,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 76,
+      "match_count": 81,
       "titles": [
         {
           "title": "第一视角从中国空间站看地球",
@@ -1328,11 +1429,25 @@
             14,
             20,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 20时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时47分 ~ 22时17分]"
+        },
+        {
+          "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
+          "url": "https://www.cls.cn/detail/2453202",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时04分 ~ 22时17分]"
         },
         {
           "title": "中国海军红河舰与印尼海军“莱”号护卫舰位台岛以东海域圆满完成通航演练",
@@ -1362,19 +1477,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 09时06分]"
-        },
-        {
-          "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
-          "url": "https://www.cls.cn/detail/2453202",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 20时46分]"
         },
         {
           "title": "“中国研究了我们30多年”，美军高官绷不住了",
@@ -1414,6 +1516,21 @@
           "time_info": "[00时47分 ~ 07时31分]"
         },
         {
+          "title": "中国印尼首次台岛以东联演有何深意",
+          "url": "https://www.toutiao.com/trending/7672677889229684779/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            18,
+            20,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 22时17分]"
+        },
+        {
           "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
           "url": "https://www.zhihu.com/question/2070073820929419121",
           "source": "知乎",
@@ -1427,16 +1544,39 @@
           "time_info": "[13时42分 ~ 19时40分]"
         },
         {
+          "title": "中国持续刷新生态“成绩单”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E5%88%B7%E6%96%B0%E7%94%9F%E6%80%81%E2%80%9C%E6%88%90%E7%BB%A9%E5%8D%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时17分]"
+        },
+        {
+          "title": "中国制造再添全球之最",
+          "url": "https://www.douyin.com/hot/2608742",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时17分]"
+        },
+        {
           "title": "长鑫科技 中国市值最大上市公司",
           "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时17分]"
         },
         {
           "title": "武大靖出任中国短道速滑队主教练",
@@ -1451,20 +1591,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时36分 ~ 09时06分]"
-        },
-        {
-          "title": "中国印尼首次台岛以东联演有何深意",
-          "url": "https://www.toutiao.com/trending/7672677889229684779/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 20时46分]"
         },
         {
           "title": "两女子帮助黑人至中国幼儿园任教被判刑",
@@ -1502,28 +1628,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时04分 ~ 20时46分]"
-        },
-        {
-          "title": "中国持续刷新生态“成绩单”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8C%81%E7%BB%AD%E5%88%B7%E6%96%B0%E7%94%9F%E6%80%81%E2%80%9C%E6%88%90%E7%BB%A9%E5%8D%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "中国制造再添全球之最",
-          "url": "https://www.douyin.com/hot/2608742",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "中国平安：拟于2026年8月21日中午11:45-12:45召开2026年中期业绩发布会。",
@@ -1755,6 +1859,18 @@
           "time_info": "[17时04分 ~ 17时05分]"
         },
         {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时17分]"
+        },
+        {
           "title": "中国退役军人受邀训练国外安保员工",
           "url": "https://www.toutiao.com/trending/7672291305200500742/",
           "source": "今日头条",
@@ -1821,6 +1937,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "中国证监会原党委委员马忠智逝世",
+          "url": "https://www.toutiao.com/trending/7673471504458579987/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "介文汲：中国印尼海军联演重击菲律宾",
@@ -1928,18 +2055,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -2038,7 +2154,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -2076,6 +2192,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "中国海警南海拖船演练有何深意",
+          "url": "https://www.toutiao.com/trending/7673202733956153363/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "存储芯片巨头长鑫科技成为中国上市公司市值冠军",
           "url": "https://wallstreetcn.com/livenews/3149034",
           "source": "华尔街见闻-快讯",
@@ -2109,15 +2236,37 @@
           "time_info": "09时06分"
         },
         {
+          "title": "中国男篮热身赛力克乌拉圭",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%83%AD%E8%BA%AB%E8%B5%9B%E5%8A%9B%E5%85%8B%E4%B9%8C%E6%8B%89%E5%9C%AD",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "捷豹路虎2026/27财年第一季度营收60亿英镑，中国市场销量环比增28.5%",
           "url": "https://wallstreetcn.com/livenews/3149145",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "人民币逆势升值 中国做对了什么",
+          "url": "https://www.toutiao.com/trending/7673336867604925988/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "学者：印尼小艇试射中国导弹",
@@ -2151,6 +2300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "中国车完成360度隧道旋转穿越",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%AE%8C%E6%88%90360%E5%BA%A6%E9%9A%A7%E9%81%93%E6%97%8B%E8%BD%AC%E7%A9%BF%E8%B6%8A%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
@@ -2250,6 +2410,20 @@
           "time_info": "07时31分"
         },
         {
+          "title": "熊灾泛滥,日本餐厅卖炖熊掌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时04分 ~ 22时17分]"
+        },
+        {
           "title": "普京穿军装在导弹巡洋舰上点名日本",
           "url": "https://www.toutiao.com/trending/7673080386569797638/",
           "source": "今日头条",
@@ -2289,17 +2463,16 @@
           "time_info": "[06时32分 ~ 07时31分]"
         },
         {
-          "title": "熊灾泛滥,日本餐厅卖炖熊掌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
-          "source": "贴吧",
+          "title": "日本强烈抗议普京登上日俄争议岛屿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33775380",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            13,
-            14
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时17分]"
         },
         {
           "title": "普京登岛后日本急了",
@@ -2313,23 +2486,22 @@
           "time_info": "[17时04分 ~ 17时05分]"
         },
         {
+          "title": "俄罗斯太平洋舰队军演，日本急了",
+          "url": "https://v.ifeng.com/c/8vYmNSHdxRh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时17分]"
+        },
+        {
           "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
           "url": "https://www.cls.cn/detail/2453126",
           "source": "财联社热门",
           "ranks": [
             12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 20时46分]"
-        },
-        {
-          "title": "日本强烈抗议普京登上日俄争议岛屿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33775380",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
             13
           ],
           "is_new": false,
@@ -2357,17 +2529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "俄罗斯太平洋舰队军演，日本急了",
-          "url": "https://v.ifeng.com/c/8vYmNSHdxRh",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "韩国总统李在明：不能再让房地产的泡沫继续蔓延了，该问题已不容忽视。房地产是影响所有地区的关键问题。",
@@ -2548,160 +2709,8 @@
       ]
     },
     {
-      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
-          "url": "https://wallstreetcn.com/livenews/3148756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 06时32分]"
-        },
-        {
-          "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
-          "url": "https://wallstreetcn.com/livenews/3148728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时57分]"
-        },
-        {
-          "title": "澳洲联储助理主席肯特：金融环境具有一些限制性。 税收政策变化似乎是导致房地产市场低迷的原因之一。 房价下跌或将降低对货币政策的需求。 人工智能活动意味着短期内利率需要更高。",
-          "url": "https://wallstreetcn.com/livenews/3148805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "美联储巴尔金：人工智能使企业能够尝试减少员工人数，但由于盈利强劲，裁员压力不大。",
-          "url": "https://flash.jin10.com/detail/20260813204132248800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "2026绿色算力（人工智能）大会将于8月22日举行",
-          "url": "https://wallstreetcn.com/livenews/3148912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
-          "url": "https://flash.jin10.com/detail/20260813013509723800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "消息人士称，谷歌(GOOG.O)联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
-          "url": "https://flash.jin10.com/detail/20260813013427834800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "据悉苹果洽谈向出版商付费，以提升其人工智能Siri",
-          "url": "https://flash.jin10.com/detail/20260813064006751800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)已讨论一项数亿美元的预算，用于向一批出版商支付Siri人工智能合作协议的费用。",
-          "url": "https://flash.jin10.com/detail/20260813063512720800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)正寻求与出版商达成新协议，以便使用其内容开发人工智能语音助手Siri。",
-          "url": "https://flash.jin10.com/detail/20260813063348828800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "澳洲联储助理主席肯特：对数据中心和人工智能相关基础设施的重大投资有助于支持整体需求的增长。",
-          "url": "https://flash.jin10.com/detail/20260813082830340800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "国务院国资委：围绕云计算、网络、人工智能、量子等根技术，加力关键核心技术攻关",
-          "url": "https://wallstreetcn.com/livenews/3148694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "中芯国际(00981.HK)：人工智能产生的产业推动与溢出效应还将持续，为集成电路制造带来广泛的需求。",
-          "url": "https://flash.jin10.com/detail/20260813163957437800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "野村：预计瑞典央行8月按兵不动",
@@ -2808,6 +2817,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "欧洲电网运营商协会：德国太阳能发电量周四升至创纪录的58.6吉瓦。",
+          "url": "https://flash.jin10.com/detail/20260813215615109800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "德国警方：巴伐利亚铁路轨道上的可疑装置并不含有爆炸物。",
           "url": "https://flash.jin10.com/detail/20260813192712662800",
           "source": "金十数据",
@@ -2843,19 +2863,172 @@
       ]
     },
     {
+      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
+          "url": "https://wallstreetcn.com/livenews/3148756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
+          "url": "https://wallstreetcn.com/livenews/3148728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时57分]"
+        },
+        {
+          "title": "澳洲联储助理主席肯特：金融环境具有一些限制性。 税收政策变化似乎是导致房地产市场低迷的原因之一。 房价下跌或将降低对货币政策的需求。 人工智能活动意味着短期内利率需要更高。",
+          "url": "https://wallstreetcn.com/livenews/3148805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美联储巴尔金：人工智能使企业能够尝试减少员工人数，但由于盈利强劲，裁员压力不大。",
+          "url": "https://flash.jin10.com/detail/20260813204132248800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "2026绿色算力（人工智能）大会将于8月22日举行",
+          "url": "https://wallstreetcn.com/livenews/3148912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
+          "url": "https://flash.jin10.com/detail/20260813013509723800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "消息人士称，谷歌(GOOG.O)联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
+          "url": "https://flash.jin10.com/detail/20260813013427834800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "据悉苹果洽谈向出版商付费，以提升其人工智能Siri",
+          "url": "https://flash.jin10.com/detail/20260813064006751800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)已讨论一项数亿美元的预算，用于向一批出版商支付Siri人工智能合作协议的费用。",
+          "url": "https://flash.jin10.com/detail/20260813063512720800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)正寻求与出版商达成新协议，以便使用其内容开发人工智能语音助手Siri。",
+          "url": "https://flash.jin10.com/detail/20260813063348828800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "澳洲联储助理主席肯特：对数据中心和人工智能相关基础设施的重大投资有助于支持整体需求的增长。",
+          "url": "https://flash.jin10.com/detail/20260813082830340800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "国务院国资委：围绕云计算、网络、人工智能、量子等根技术，加力关键核心技术攻关",
+          "url": "https://wallstreetcn.com/livenews/3148694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "中芯国际(00981.HK)：人工智能产生的产业推动与溢出效应还将持续，为集成电路制造带来广泛的需求。",
+          "url": "https://flash.jin10.com/detail/20260813163957437800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
           "url": "https://www.cls.cn/detail/2453364",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时17分]"
         },
         {
           "title": "CoreWeave向投资者发出警告，若需从英伟达芯片转向其他芯片将面临困难，可能需要投入大量时间和资金。",
@@ -2911,9 +3084,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "标普冲击新高 费城半导体指数即将重回“牛市” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2453791",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "华虹宏力(01347.HK)：2026年二季度96.5%的销售收入来源于半导体晶圆的直接销售，来自于8吋晶圆和12吋晶圆的销售收入分别为2.718亿美元及4.457亿美元。",
@@ -2936,6 +3120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "德龙汇能：澄清无半导体资产注入计划 股价严重偏离基本面",
+          "url": "https://wallstreetcn.com/livenews/3149180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "太极实业：公司半导体业务目前不涉及HBM产品",
@@ -3075,17 +3270,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "“攻击巴基斯坦等于攻击沙特和土耳其”，印度表达担忧",
-          "url": "https://news.ifeng.com/c/8vXRkXwhkwu",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 07时31分]"
-        },
-        {
           "title": "商务部：对原产于印度的进口单模光纤继续征收反倾销税 实施期限为5年",
           "url": "https://www.cls.cn/detail/2453388",
           "source": "财联社热门",
@@ -3095,8 +3279,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 20时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时04分 ~ 22时17分]"
+        },
+        {
+          "title": "“攻击巴基斯坦等于攻击沙特和土耳其”，印度表达担忧",
+          "url": "https://news.ifeng.com/c/8vXRkXwhkwu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 07时31分]"
         },
         {
           "title": "美元回调难撑卢比 印度高油价依赖症拖累本币",
