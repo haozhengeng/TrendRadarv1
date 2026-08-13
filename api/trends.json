@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-13T17:05:16.164757+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-08-13T19:40:39.215260+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 87,
+      "match_count": 89,
       "titles": [
         {
           "title": "全面符合预期！美国7月CPI同比涨幅收窄至3.4%，核心CPI同比放缓至2.5%",
           "url": "https://wallstreetcn.com/articles/3779297",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 17时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 19时40分]"
         },
         {
           "title": "浙江一家公司，收到美国政府2.62亿元关税退税",
@@ -177,6 +178,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2071169289697092854",
+          "source": "知乎",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 19时40分]"
         },
         {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
@@ -353,18 +366,6 @@
           "time_info": "[06时32分 ~ 07时31分]"
         },
         {
-          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2071169289697092854",
-          "source": "知乎",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 17时05分]"
-        },
-        {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
           "url": "https://flash.jin10.com/detail/20260813033557637800",
           "source": "金十数据",
@@ -397,6 +398,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时06分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时40分]"
         },
         {
           "title": "美国防长赫格塞思：哥伦比亚将加入美国反贩毒集团联盟，授权与美国开展联合军事行动。",
@@ -475,15 +487,16 @@
           "time_info": "[04时36分 ~ 06时32分]"
         },
         {
-          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
-          "source": "凤凰网",
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时40分]"
         },
         {
           "title": "据福克斯商业频道：美国白宫经济顾问委员会主席费伦表示，CPI报告削弱了加息的理由。",
@@ -676,17 +689,6 @@
           "time_info": "[03时57分 ~ 04时36分]"
         },
         {
-          "title": "特朗普：我想谋求第三任期，但美国法律太严",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        },
-        {
           "title": "伊朗波斯湾海峡管理局：美国官员声称并多次发布消息称霍尔木兹海峡已不再受阻，但这些说法并不能改变现实：霍尔木兹海峡仍处于封锁状态，除非伊朗提出的条件得到接受，否则该海峡不会重新开放。",
           "url": "https://flash.jin10.com/detail/20260813030442991800",
           "source": "金十数据",
@@ -809,6 +811,28 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美国国防部长赫格塞思：如果古巴不遵守华盛顿的要求，我们将对该国采取军事行动。正如我之前所说，也正如在其他案例中可能看到的那样，所有选项，包括军事选项，都在考虑之列。",
+          "url": "https://flash.jin10.com/detail/20260813192216099800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "白宫贸易顾问纳瓦罗：美国海关官员不堪重负，疲于应对关税规避问题。",
+          "url": "https://flash.jin10.com/detail/20260813192051821800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "摩根资产管理：美国的“特氟龙式通胀”黏不住 美联储无需加息",
           "url": "https://wallstreetcn.com/livenews/3148697",
           "source": "华尔街见闻-快讯",
@@ -881,7 +905,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1021,7 +1045,7 @@
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 65,
+      "match_count": 70,
       "titles": [
         {
           "title": "第一视角从中国空间站看地球",
@@ -1091,11 +1115,25 @@
           "ranks": [
             10,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 17时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 19时40分]"
+        },
+        {
+          "title": "中国海军红河舰与印尼海军“莱”号护卫舰位台岛以东海域圆满完成通航演练",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769582",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 19时40分]"
         },
         {
           "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
@@ -1151,27 +1189,16 @@
           "time_info": "[00时47分 ~ 07时31分]"
         },
         {
-          "title": "中国海军红河舰与印尼海军“莱”号护卫舰位台岛以东海域圆满完成通航演练",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769582",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 17时05分]"
-        },
-        {
           "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
           "url": "https://www.cls.cn/detail/2453202",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时40分]"
         },
         {
           "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
@@ -1179,11 +1206,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 17时05分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 19时40分]"
         },
         {
           "title": "武大靖出任中国短道速滑队主教练",
@@ -1224,13 +1252,25 @@
           "time_info": "09时06分"
         },
         {
+          "title": "中国成功用竹子造出无人机，这对航空材料和制造技术意味着什么？",
+          "url": "https://www.zhihu.com/question/2070132623079379116",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时40分]"
+        },
+        {
           "title": "中国平安：拟于2026年8月21日中午11:45-12:45召开2026年中期业绩发布会。",
           "url": "https://flash.jin10.com/detail/20260813165750895800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1241,7 +1281,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1255,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "中国和印尼首次在台岛以东联合军演，台当局气急败坏",
@@ -1282,6 +1333,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时49分 ~ 07时31分]"
+        },
+        {
+          "title": "中国印尼首次台岛以东联演有何深意",
+          "url": "https://www.toutiao.com/trending/7672677889229684779/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 19时40分]"
         },
         {
           "title": "红杉中国1.5亿独家出资 张雪机车落地新融资 估值半年不到涨5倍至60亿",
@@ -1358,18 +1422,6 @@
           "time_info": "[05时36分 ~ 07时31分]"
         },
         {
-          "title": "中国印尼首次台岛以东联演有何深意",
-          "url": "https://www.toutiao.com/trending/7672677889229684779/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 17时05分]"
-        },
-        {
           "title": "日本“草莓仙人”挑衅中国人",
           "url": "https://www.toutiao.com/trending/7673295870535745563/",
           "source": "今日头条",
@@ -1419,6 +1471,18 @@
           "time_info": "[09时06分 ~ 13时43分]"
         },
         {
+          "title": "长鑫科技成为中国市值最大上市公司",
+          "url": "https://www.toutiao.com/trending/7673430128885501476/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时40分]"
+        },
+        {
           "title": "武大靖出任中国短道速滑队主教练",
           "url": "https://m.thepaper.cn/newsDetail_forward_33767574",
           "source": "澎湃新闻",
@@ -1428,28 +1492,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "中国成功用竹子造出无人机，这对航空材料和制造技术意味着什么？",
-          "url": "https://www.zhihu.com/question/2070132623079379116",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        },
-        {
-          "title": "长鑫科技成为中国市值最大上市公司",
-          "url": "https://www.toutiao.com/trending/7673430128885501476/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "日本“草莓仙人”挑衅中国人",
@@ -1563,6 +1605,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "中国央行Q2货币政策执行报告：适度宽松货币政策效果持续显现，金融服务实体经济质效不断提升",
+          "url": "https://wallstreetcn.com/articles/3779289",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
           "url": "https://wallstreetcn.com/livenews/3148800",
           "source": "华尔街见闻-快讯",
@@ -1613,7 +1666,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1635,7 +1688,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1679,7 +1732,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1712,9 +1765,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80+%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "首艘国产大型邮轮“爱达·魔都号”首航大湾区",
@@ -1723,7 +1787,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1745,9 +1809,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "台学者称台湾沿海本就是中国领海",
+          "url": "https://www.toutiao.com/trending/7672547916657262655/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "首次！中国印尼在台岛以东联演",
@@ -1772,6 +1847,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "哈佛教授：中国贸易顺差是“惠邻”",
+          "url": "https://www.toutiao.com/trending/7672922468171923494/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "中国网文 文化输出扛把子",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%96%87%20%E6%96%87%E5%8C%96%E8%BE%93%E5%87%BA%E6%89%9B%E6%8A%8A%E5%AD%90&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1786,7 +1872,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "挖墙脚?LCK暗示Bin到韩国",
@@ -1800,6 +1886,17 @@
           "time_info": "[00时47分 ~ 09时06分]"
         },
         {
+          "title": "日本强烈抗议普京登上日俄争议岛屿",
+          "url": "https://news.ifeng.com/c/8vYSQwntbvN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时40分]"
+        },
+        {
           "title": "点名日本，普京亲自指挥演习期间发声",
           "url": "https://news.ifeng.com/c/8vY3J1B9Lt1",
           "source": "凤凰网",
@@ -1809,28 +1906,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时06分 ~ 13时43分]"
-        },
-        {
-          "title": "日本强烈抗议普京登上日俄争议岛屿",
-          "url": "https://news.ifeng.com/c/8vYSQwntbvN",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        },
-        {
-          "title": "普京登岛 日本急了",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%99%BB%E5%B2%9B+%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "韩国央行在二季度进行了十三年来的首次黄金相关投资。",
@@ -1866,6 +1941,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时57分 ~ 07时31分]"
+        },
+        {
+          "title": "普京登岛 日本急了",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%99%BB%E5%B2%9B+%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时40分]"
         },
         {
           "title": "路透调查显示，四分之三的日本企业优先考虑国内投资而非海外投资。",
@@ -1918,22 +2005,23 @@
           "time_info": "[06时32分 ~ 07时31分]"
         },
         {
+          "title": "熊灾泛滥,日本餐厅卖炖熊掌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时40分]"
+        },
+        {
           "title": "普京登岛后日本急了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%99%BB%E5%B2%9B%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        },
-        {
-          "title": "熊灾泛滥,日本餐厅卖炖熊掌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
-          "source": "贴吧",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -2039,6 +2127,17 @@
           "time_info": "13时43分"
         },
         {
+          "title": "市场消息：在薪资谈判陷入僵局之际，SK海力士韩国员工成立统一工会。",
+          "url": "https://flash.jin10.com/detail/20260813193214641800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "日本7月国内企业商品物价指数同比 7.2%，预期 7.4%，前值 7.1%。",
           "url": "https://wallstreetcn.com/livenews/3148799",
           "source": "华尔街见闻-快讯",
@@ -2050,6 +2149,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
+          "url": "https://www.cls.cn/detail/2453126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "日本7月国内企业商品物价指数环比 0.1%，预期 0.6%，前值 0.4%。",
           "url": "https://wallstreetcn.com/livenews/3148798",
           "source": "华尔街见闻-快讯",
@@ -2059,6 +2169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "日本强烈抗议普京登上日俄争议岛屿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33775380",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "日本政府据悉支持日本央行更快加息",
@@ -2125,6 +2246,149 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "野村：预计瑞典央行8月按兵不动",
+          "url": "https://flash.jin10.com/detail/20260813193701728800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "欧洲债市：德国国债和英国国债持稳，长端表现略逊",
+          "url": "https://wallstreetcn.com/livenews/3148716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 02时49分]"
+        },
+        {
+          "title": "英国17岁男孩胁迫117名女孩自残",
+          "url": "https://www.toutiao.com/trending/7673163065797427254/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 17时05分]"
+        },
+        {
+          "title": "性能诉求相似，技术分享存疑，印度加入能“救”法国六代机？",
+          "url": "https://news.ifeng.com/c/8vY2aspSFdw",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 13时43分]"
+        },
+        {
+          "title": "英国7月三个月RICS房价指数 -30，预期 -30，前值 -33。",
+          "url": "https://wallstreetcn.com/livenews/3148785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时06分]"
+        },
+        {
+          "title": "欧洲斯托克50指数收盘跌0.2%，德国DAX指数跌0.2%，英国富时100指数跌0.12%，法国CAC 40指数跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3148704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 02时49分]"
+        },
+        {
+          "title": "市场消息：英国央行前副行长兼国际货币基金组织董事米努什·沙菲克已卸任英国首相首席经济顾问一职。",
+          "url": "https://flash.jin10.com/detail/20260813032249789800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时36分]"
+        },
+        {
+          "title": "西班牙日全食",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%A5%E5%85%A8%E9%A3%9F&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "英国7月三个月RICS房价指数 -30，预期-31，前值由-33.00修正为-32。",
+          "url": "https://flash.jin10.com/detail/20260813070102221800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "德国警方：巴伐利亚铁路轨道上的可疑装置并不含有爆炸物。",
+          "url": "https://flash.jin10.com/detail/20260813192712662800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "据华尔街日报：乌克兰无人机在今年春季德国举行的军事演习中击败美军装甲部队。",
+          "url": "https://flash.jin10.com/detail/20260813012223004800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "德国DAX30指数8月12日（周三）收盘下跌53.75点，跌幅0.20%，报26341.62点；<br/>英国富时100指数8月12日（周三）收盘下跌7.55点，跌幅0.07%，报10836.64点；<br/>法国CAC40指数8月12日（周三）收盘下跌40.00点，跌幅0.46%，报8674.94点；<br/>欧洲斯托克50指数8月12日（周三）收盘下跌15.87点，跌幅0.24%，报6535.35点；<br/>西班牙IBEX35指数8月12日（周三）收盘下跌8.44点，跌幅0.04%，报20205.16点；<br/>意大利富时MIB指数8月12日（周三）收盘上涨0.79点，涨幅0.00%，报53707.00点。",
+          "url": "https://flash.jin10.com/detail/20260812233643285800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
         }
       ]
     },
@@ -2263,136 +2527,15 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
       ]
     },
     {
-      "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "欧洲债市：德国国债和英国国债持稳，长端表现略逊",
-          "url": "https://wallstreetcn.com/livenews/3148716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 02时49分]"
-        },
-        {
-          "title": "英国17岁男孩胁迫117名女孩自残",
-          "url": "https://www.toutiao.com/trending/7673163065797427254/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 17时05分]"
-        },
-        {
-          "title": "性能诉求相似，技术分享存疑，印度加入能“救”法国六代机？",
-          "url": "https://news.ifeng.com/c/8vY2aspSFdw",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 13时43分]"
-        },
-        {
-          "title": "英国7月三个月RICS房价指数 -30，预期 -30，前值 -33。",
-          "url": "https://wallstreetcn.com/livenews/3148785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时06分]"
-        },
-        {
-          "title": "欧洲斯托克50指数收盘跌0.2%，德国DAX指数跌0.2%，英国富时100指数跌0.12%，法国CAC 40指数跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3148704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 02时49分]"
-        },
-        {
-          "title": "市场消息：英国央行前副行长兼国际货币基金组织董事米努什·沙菲克已卸任英国首相首席经济顾问一职。",
-          "url": "https://flash.jin10.com/detail/20260813032249789800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 04时36分]"
-        },
-        {
-          "title": "西班牙日全食",
-          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%A5%E5%85%A8%E9%A3%9F&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "英国7月三个月RICS房价指数 -30，预期-31，前值由-33.00修正为-32。",
-          "url": "https://flash.jin10.com/detail/20260813070102221800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "据华尔街日报：乌克兰无人机在今年春季德国举行的军事演习中击败美军装甲部队。",
-          "url": "https://flash.jin10.com/detail/20260813012223004800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "德国DAX30指数8月12日（周三）收盘下跌53.75点，跌幅0.20%，报26341.62点；<br/>英国富时100指数8月12日（周三）收盘下跌7.55点，跌幅0.07%，报10836.64点；<br/>法国CAC40指数8月12日（周三）收盘下跌40.00点，跌幅0.46%，报8674.94点；<br/>欧洲斯托克50指数8月12日（周三）收盘下跌15.87点，跌幅0.24%，报6535.35点；<br/>西班牙IBEX35指数8月12日（周三）收盘下跌8.44点，跌幅0.04%，报20205.16点；<br/>意大利富时MIB指数8月12日（周三）收盘上涨0.79点，涨幅0.00%，报53707.00点。",
-          "url": "https://flash.jin10.com/detail/20260812233643285800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "CoreWeave向投资者发出警告，若需从英伟达芯片转向其他芯片将面临困难，可能需要投入大量时间和资金。",
@@ -2404,6 +2547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
+          "url": "https://www.cls.cn/detail/2453364",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -2448,7 +2602,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -2462,6 +2616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "太极实业：公司半导体业务目前不涉及HBM产品",
+          "url": "https://wallstreetcn.com/livenews/3149098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         }
       ]
     },
@@ -2558,8 +2723,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 17时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 19时40分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -2587,7 +2752,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“攻击巴基斯坦等于攻击沙特和土耳其”，印度表达担忧",
@@ -2605,11 +2770,23 @@
           "url": "https://www.cls.cn/detail/2453388",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时40分]"
+        },
+        {
+          "title": "美元回调难撑卢比 印度高油价依赖症拖累本币",
+          "url": "https://flash.jin10.com/detail/20260813193256856800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         }
       ]
     },
