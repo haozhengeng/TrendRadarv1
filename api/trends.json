@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-21T03:45:40.641108+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-21T06:50:34.690781+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
+          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
         {
           "title": "美国联邦航空管理局（FAA）：波音(BA.N)获得的认证是在经过广泛的安全审查（包括数千小时的试飞）之后做出的。",
           "url": "https://flash.jin10.com/detail/20261021034135710800",
@@ -63,17 +74,6 @@
           "time_info": "03时45分"
         },
         {
-          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
-          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
           "title": "美国联邦航空管理局（FAA）：认证波音(BA.N)737-10，这是737MAX系列中最大的机型。",
           "url": "https://flash.jin10.com/detail/20261021034021651800",
           "source": "金十数据",
@@ -92,19 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰必须愿意达成协议。 我想看看我们能否就乌克兰冲突达成协议。 我们给了乌克兰很多，却什么也没得到。",
-          "url": "https://wallstreetcn.com/livenews/3182109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "美国军工股大跌，市场开始定价民主党“中选横扫两院”",
@@ -112,6 +101,50 @@
           "source": "华尔街见闻",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "导弹等签字、袭击没预警，泽连斯基指责美国就俄乌战事所做的决定“难以解释”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34292916",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "加拿大军演误炸气井致大爆炸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367634&amp;topic_name=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%9B%E6%BC%94%E8%AF%AF%E7%82%B8%E6%B0%94%E4%BA%95%E8%87%B4%E5%A4%A7%E7%88%86%E7%82%B8",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "肯·格里芬在全球市场未来大会上表示：美国需要处理好自身的财政问题。 债券市场释放的信息是，美国国会山需要让财政恢复秩序。 我们需要实现经济增长。 财政赤字扩大将助燃通胀，削弱美元。 我与纽约市长马姆达尼没有关系。 迈阿密在住房成本、关税方面存在挑战。 盟友们需要改革，从而实现他们自身经济的增长。",
+          "url": "https://wallstreetcn.com/livenews/3182177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰必须愿意达成协议。 我想看看我们能否就乌克兰冲突达成协议。 我们给了乌克兰很多，却什么也没得到。",
+          "url": "https://wallstreetcn.com/livenews/3182109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -129,15 +162,15 @@
           "time_info": "03时45分"
         },
         {
-          "title": "导弹等签字、袭击没预警，泽连斯基指责美国就俄乌战事所做的决定“难以解释”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34292916",
-          "source": "澎湃新闻",
+          "title": "肯·格里芬在全球市场未来大会上表示：目前人工智能（AI）“几乎可以肯定”存在泡沫，泡沫与科技的巨大进步同时存在。 AI模型进步“巨大”。 城堡证券大部分超额收益来自研究员。 投资者在布局人工智能时正变得更加审慎。 部分企业难以从人工智能业务中兑现价值。 美国总统特朗普对盟友发起的关税战是一场灾难，特朗普在中期选举前的成绩喜忧参半。 特朗普在解释伊朗战争上做得非常糟糕。",
+          "url": "https://wallstreetcn.com/livenews/3182172",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "06时50分"
         },
         {
           "title": "美媒：美国向中东增派第三艘航母及约1万名军事人员",
@@ -261,17 +294,6 @@
           "time_info": "03时45分"
         },
         {
-          "title": "加拿大军演误炸气井致大爆炸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367634&amp;topic_name=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%9B%E6%BC%94%E8%AF%AF%E7%82%B8%E6%B0%94%E4%BA%95%E8%87%B4%E5%A4%A7%E7%88%86%E7%82%B8",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
           "title": "美国总统特朗普：（是否支持美国副总统万斯参加2028年大选）现在还为时过早。",
           "url": "https://flash.jin10.com/detail/20261021031025923800",
           "source": "金十数据",
@@ -336,12 +358,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "SpaceX首席运营官：公司有望在明年初实现火箭二级复用发射。 星链航空终端产量预计在年底前翻番。 星链企业业务收入与政府业务收入未来均有望超过消费者业务收入。 星链有望承载全球互联网流量中相当大的一部分。 星链移动直连手机业务月活用户已突破2200万。 频谱交易将让星链成为美国主要移动运营商。",
+          "url": "https://wallstreetcn.com/livenews/3182154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "奈飞(NFLX.O)：近期调价效果良好，但在美国和加拿大市场仍有提升空间。",
+          "url": "https://flash.jin10.com/detail/20261021054219539800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "菲媒：若驱逐中国大使中方必对等回应",
@@ -351,8 +395,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "媒体：身披旭日旗中国留学生已被遣返，校方称将尽快公布开除决定",
@@ -362,8 +406,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "南部战区回应美舰冲闯中国海域",
@@ -373,19 +417,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "法国乱成一锅粥了还有人威胁中国",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "前三季度中国经济“成绩单”来了",
@@ -395,8 +440,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "前三季度中国经济“成绩单”来了",
@@ -406,19 +451,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？",
           "url": "https://www.zhihu.com/question/2095439399555285790",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "中国对大型隧道掘进装备实施出口管制，印度担忧",
@@ -428,30 +474,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "美国一战斗舰冲闯中国南沙海域",
-          "url": "https://www.toutiao.com/trending/7698609753362026022/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "纪念中国工农红军长征胜利90周年｜经典绘画中的长征",
           "url": "https://m.thepaper.cn/newsDetail_forward_33483748",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "美国一战斗舰冲闯中国南沙海域",
+          "url": "https://www.toutiao.com/trending/7698609753362026022/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "披旭日旗中国留学生已被遣返",
@@ -461,19 +509,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "星巴克要求“消费入座”？实探多家门店未有相关告示，星巴克中国回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_34289806",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "美舰冲闯中国南沙群岛仙宾礁附近海域，南部战区依法依规跟踪监视，美方意欲何为？哪些信息值得关注？",
@@ -483,30 +532,65 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "商务部回应“美方制裁中国5家企业”",
           "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E6%96%B9%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD5%E5%AE%B6%E4%BC%81%E4%B8%9A%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "俞小平被开除党籍 中国人保表态",
           "url": "https://www.baidu.com/s?wd=%E4%BF%9E%E5%B0%8F%E5%B9%B3%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E8%A1%A8%E6%80%81",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "中国留学生披旭日旗,校方调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367612&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%2C%E6%A0%A1%E6%96%B9%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "中国U16男足战胜阿曼队",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU16%E7%94%B7%E8%B6%B3%E6%88%98%E8%83%9C%E9%98%BF%E6%9B%BC%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "明晟公司MSCI新兴市场股票指数跌1.1%，发展中国家外汇指数涨幅不到0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3182160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "06时50分"
         },
         {
           "title": "台积电ADR涨1.6%，持稳于日高428.21美元附近。 据媒体报道，10月20日，该公司四名工人在中国台湾高雄楠梓园区台积电F22厂区P4新建工程工地的施工现场焊接钢梁时从高处坠落。 其中三人死亡，第四名工人正在医院接受治疗。 台积电表示，现场相关作业已暂停，公司安全团队正配合当局调查；台积电也在协助分包商处理后续事宜。",
@@ -518,28 +602,138 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[东亚] 日本 朝鲜 韩国",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "人民日报钟声：日本再次撕下和平伪装",
+          "url": "https://www.toutiao.com/trending/7698510171873738806/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
-          "title": "中国留学生披旭日旗,校方调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367612&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%2C%E6%A0%A1%E6%96%B9%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
+          "title": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬",
+          "url": "https://wallstreetcn.com/articles/3783991",
+          "source": "华尔街见闻",
           "ranks": [
-            29
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "美股见顶最直接的信号：韩国芯片出口？",
+          "url": "https://wallstreetcn.com/articles/3784011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2510214",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "日本万人大集会高呼高市马上下台",
+          "url": "https://www.toutiao.com/trending/7698255028959743507/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "69%受访经济学家认为，日本央行四季度会将指标利率上调至1.5%，9月持这样预期的经济学家占比为36%。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3182179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "路透调查：69%的经济学家预计日本央行将在4月将基准利率上调至1.50%（9月调查为36%）。",
+          "url": "https://flash.jin10.com/detail/20261021061002184800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "路透调查：72%的受访经济学家表示，反对日本央行加息的异议票可能削弱日元。",
+          "url": "https://flash.jin10.com/detail/20261021060947489800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "路透调查：65%受访经济学家认为日本政府2027财年新债发行量将维持在40万亿日元以下。",
+          "url": "https://flash.jin10.com/detail/20261021060915375800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "韩国强拆为啥频发血案",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E5%BC%BA%E6%8B%86%E4%B8%BA%E5%95%A5%E9%A2%91%E5%8F%91%E8%A1%80%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
         {
-          "title": "中国U16男足战胜阿曼队",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU16%E7%94%B7%E8%B6%B3%E6%88%98%E8%83%9C%E9%98%BF%E6%9B%BC%E9%98%9F",
-          "source": "百度热搜",
+          "title": "韩国9月PPI同比增长7.7%。",
+          "url": "https://wallstreetcn.com/livenews/3182156",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "06时50分"
         }
       ]
     },
@@ -563,11 +757,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34289409",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "法国爆发最严重骚乱之际，马克龙出访中东",
@@ -577,8 +772,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "西班牙运营商提离谱要求：如果华为被禁用，华为要补偿",
@@ -588,8 +783,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "法国佬孤身守店,吧友P图致敬",
@@ -599,8 +794,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "法国多城实施局部宵禁",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%9F%8E%E5%AE%9E%E6%96%BD%E5%B1%80%E9%83%A8%E5%AE%B5%E7%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "英国央行货币政策委员会（MPC）成员Greene：需要担忧（央行货币政策）立场不具有足够的限制性。 通胀预期被锚定，高于正常水平。",
@@ -608,17 +815,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "法国多城实施局部宵禁",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%9F%8E%E5%AE%9E%E6%96%BD%E5%B1%80%E9%83%A8%E5%AE%B5%E7%A6%81",
-          "source": "百度热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -638,80 +834,8 @@
       ]
     },
     {
-      "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬",
-          "url": "https://wallstreetcn.com/articles/3783991",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2510214",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "url": "https://wallstreetcn.com/articles/3784011",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "人民日报钟声：日本再次撕下和平伪装",
-          "url": "https://www.toutiao.com/trending/7698510171873738806/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "日本万人大集会高呼高市马上下台",
-          "url": "https://www.toutiao.com/trending/7698255028959743507/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "韩国强拆为啥频发血案",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E5%BC%BA%E6%8B%86%E4%B8%BA%E5%95%A5%E9%A2%91%E5%8F%91%E8%A1%80%E6%A1%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
@@ -721,8 +845,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "科技巨头护盘，标普、纳指反弹，芯片指数终结八连跌，美油八连涨，黄金冲高转跌",
@@ -732,8 +856,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        },
+        {
+          "title": "马斯克：ASML等公司正在加快为Terafab提供芯片制造设备",
+          "url": "https://flash.jin10.com/detail/20261021064336337800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "06时50分"
+        },
+        {
+          "title": "马斯克：阿斯麦等正为Terafab加速交付芯片制造设备",
+          "url": "https://wallstreetcn.com/livenews/3182169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         }
       ]
     },
@@ -749,8 +895,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         },
         {
           "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%",
@@ -760,8 +906,25 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：存在“明年算力达到20 GW”的可能。 如果到明年年底上线算力不足13吉瓦，我会感到意外。 SpaceX计划在2027年新增20吉瓦的电力与冷却基础设施。 SpaceX部署电力、冷却及配套基础设施的速度，有望超过其他所有厂商的总和。 SpaceX相当有信心在2027年实现10吉瓦算力上线。 预计人工智能代理将在3至5年内推动带宽需求增长1000倍。超级智能的制约因素更多在于电力、冷却和基础设施，而非芯片。 Grok Bot是我见过增长速度最快的产品。 随着Grok Bot持续优化，用户使用频次也在提升。 SpaceX将在几周内面向企业大规模部署Grok Bot。",
+          "url": "https://wallstreetcn.com/livenews/3182152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "06时50分"
         }
       ]
     },
@@ -774,11 +937,12 @@
           "url": "https://www.zhihu.com/question/2094934531933468296",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时50分]"
         }
       ]
     }
