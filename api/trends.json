@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T10:32:37.402790+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-10-24T15:45:36.675266+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 58,
+      "match_count": 66,
       "titles": [
         {
           "title": "美国防部公布所谓科研安全审查结果，商务部回应",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时45分]"
         },
         {
           "title": "美国稀土大项目，黄了",
@@ -35,22 +35,58 @@
           "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时45分]"
         },
         {
-          "title": "出于对伊朗因素的担忧，美国削减4个中东大使馆的人员配置，受影响的美国大使馆位于约旦、黎巴嫩、卡塔尔和阿联酋。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3185087",
+          "title": "乌克兰“星盾”遭限速一事，被美国民主党盯上了",
+          "url": "https://news.ifeng.com/c/8xSSBcauoqy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时45分]"
+        },
+        {
+          "title": "美国公布新一批UFO文件 神秘“黑三角”引关注",
+          "url": "https://wallstreetcn.com/livenews/3185111",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "15时45分"
+        },
+        {
+          "title": "娶美国媳妇的外卖小哥准备离婚，称原因是文化差异",
+          "url": "https://news.ifeng.com/c/8xScloPrxHk",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时45分]"
+        },
+        {
+          "title": "特朗普怒喷詹姆斯不尊重美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时45分]"
         },
         {
           "title": "美国10月23日当周总钻井数 603，前值 603。",
@@ -86,15 +122,15 @@
           "time_info": "01时37分"
         },
         {
-          "title": "乌克兰“星盾”遭限速一事，被美国民主党盯上了",
-          "url": "https://news.ifeng.com/c/8xSSBcauoqy",
-          "source": "凤凰网",
+          "title": "伊朗军方誓言阻止美国军舰进入波斯湾。（伊朗伊斯兰共和国通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3185108",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "贝克休斯：美国能源企业连续第二周维持钻机数量不变。",
@@ -106,29 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        },
-        {
-          "title": "娶美国媳妇的外卖小哥准备离婚，称原因是文化差异",
-          "url": "https://news.ifeng.com/c/8xScloPrxHk",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时32分]"
-        },
-        {
-          "title": "特朗普怒喷詹姆斯不尊重美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时32分]"
         },
         {
           "title": "美国官员：下一轮美乌俄工作级别会谈可能在阿布扎比或瑞士举行。",
@@ -153,6 +166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时41分 ~ 10时32分]"
+        },
+        {
+          "title": "出于对伊朗因素的担忧，美国削减4个中东大使馆的人员配置，受影响的美国大使馆位于约旦、黎巴嫩、卡塔尔和阿联酋。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3185087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 15时45分]"
         },
         {
           "title": "AI崩盘终极推演：泡沫可能在2028年初破裂，美国科技股或断崖式暴跌40%！",
@@ -188,8 +213,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 15时45分]"
+        },
+        {
+          "title": "美国中期选举｜共和党资金充裕但选情承压",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34317520",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 15时45分]"
         },
         {
           "title": "美国银行存款从上周的19.772万亿美元上升到了19.810万亿美元。",
@@ -228,17 +265,6 @@
           "time_info": "[07时41分 ~ 10时32分]"
         },
         {
-          "title": "美国中期选举｜共和党资金充裕但选情承压",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34317520",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时32分]"
-        },
-        {
           "title": "美国至10月23日当周天然气钻井总数 132口，前值133口。",
           "url": "https://flash.jin10.com/detail/20261024010125641800",
           "source": "金十数据",
@@ -256,7 +282,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -283,6 +309,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "美国驻安曼大使馆：约旦的购物中心、外国使馆及其他地点已加强安保。",
+          "url": "https://flash.jin10.com/detail/20261024140308387800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "英国石油公司与美国路易斯安那州就“深水地平线”号纠纷达成一致意见。",
           "url": "https://wallstreetcn.com/livenews/3184956",
           "source": "华尔街见闻-快讯",
@@ -303,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "美国驻安曼大使馆：正在密切关注约旦卡拉克一座希腊东正教教堂发生的“恐怖袭击”。",
+          "url": "https://flash.jin10.com/detail/20261024140258661800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "据路透社：两名伊朗高级安全官员表示，伊朗已制定详细计划，一旦美国和以色列再次袭击伊朗，将打击海湾地区的海底通信电缆。",
@@ -459,6 +507,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "美国智库：10月霍尔木兹海峡商船遇袭事件创纪录",
+          "url": "https://flash.jin10.com/detail/20261024131926803800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "据路透调查：34位经济学家中有19位表示，加拿大央行将于10月28日将隔夜利率上调至2.50%。",
           "url": "https://flash.jin10.com/detail/20261024000635775800",
           "source": "金十数据",
@@ -479,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "古巴副外长：美国中情局“肮脏历史有据可查”",
+          "url": "https://flash.jin10.com/detail/20261024131442088800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "美国将氦归类为制造半导体的关键材料",
@@ -509,7 +579,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -531,7 +601,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -580,6 +650,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "美国阿拉斯加LNG项目被曝获俄制裁巨头融资",
+          "url": "https://flash.jin10.com/detail/20261024124516452800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "美国CFTC：对冲基金将欧元空头押注升至2020年以来最高",
           "url": "https://wallstreetcn.com/livenews/3185003",
           "source": "华尔街见闻-快讯",
@@ -600,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "伊朗武装部队：绝不允许美国军舰再次进入波斯湾",
+          "url": "https://flash.jin10.com/detail/20261024122446383800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：10月20日当周，股票基金投机者将标普500指数芝加哥商业交易所（CME）净空头头寸削减42,221手合约，至348,674手合约。 股票基金经理将标普500指数CME净多头头寸削减18,079手合约，至894,464手合约。",
@@ -659,6 +751,261 @@
       ]
     },
     {
+      "keyword_group": "[中国] 国产 中国",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "中国创新指数增长6.4%",
+          "url": "https://www.douyin.com/hot/2709294",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时41分]"
+        },
+        {
+          "title": "证监会：核准设立花旗证券（中国）有限公司",
+          "url": "https://www.cls.cn/detail/2513545",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时41分]"
+        },
+        {
+          "title": "祝贺！中国成功发射一箭六星",
+          "url": "https://www.baidu.com/s?wd=%E7%A5%9D%E8%B4%BA%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 15时45分]"
+        },
+        {
+          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+          "url": "https://www.cls.cn/detail/2514116",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 15时45分]"
+        },
+        {
+          "title": "中国体操女团时隔20年夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367963&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E5%9B%A2%E6%97%B6%E9%9A%9420%E5%B9%B4%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时45分]"
+        },
+        {
+          "title": "如何看待泰国旅游部长称「普通游客不会遭绑架」，这类问题「只出现在中国游客」？实际情况是怎样的？",
+          "url": "https://www.zhihu.com/question/2096553772138886771",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "几内亚发生多起涉中国公民交通事故造成严重伤亡，中使馆发布提醒",
+          "url": "https://news.ifeng.com/c/8xSsI8wTazy",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时41分]"
+        },
+        {
+          "title": "如何看待土耳其计划推出两套新的历史教材，把中国新疆、青海、甘肃等地区，纳入所谓「突厥世界」的版图？",
+          "url": "https://www.zhihu.com/question/2096747370075648644",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时41分]"
+        },
+        {
+          "title": "加拿大专家驳斥中国借道买美债阴谋论",
+          "url": "https://www.toutiao.com/trending/7699793212264874506/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时41分]"
+        },
+        {
+          "title": "中国女团2-3日本女团",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 07时41分]"
+        },
+        {
+          "title": "中国地震台网自动测定：10月24日14时17分在广西北海市银海区海域附近（北纬21.33度，东经109.30度）发生3.0级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20261024141940789800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "黄仁勋：没有哪个国家在制造业方面比中国更强",
+          "url": "https://wallstreetcn.com/livenews/3185077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "中国地震台网正式测定：10月24日12时39分在新疆克孜勒苏州乌恰县（北纬39.90度，东经75.65度）发生3.7级地震，震源深度18千米。",
+          "url": "https://wallstreetcn.com/livenews/3185103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "树说中国",
+          "url": "https://www.douyin.com/hot/2710811",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.8%，本周累跌约3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3185016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "沃尔沃在中国卖不动了",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%83%E5%B0%94%E6%B2%83%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "邂逅中国航天独有的浪漫",
+          "url": "https://www.toutiao.com/trending/7699835012555816998/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "中国地震台网正式测定：10月24日12时39分在新疆克孜勒苏州乌恰县（北纬39.90度，东经75.65度）发生3.7级地震，震源深度18千米。",
+          "url": "https://flash.jin10.com/detail/20261024124532325800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "中国电竞怎么了",
+          "url": "https://www.toutiao.com/trending/7700078501319311414/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "中国地震台网自动测定：10月24日08时08分在青海玉树州杂多县附近（北纬32.56度，东经94.08度）发生4.0级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20261024081142915800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "菲律宾为何越折腾越离不开中国",
+          "url": "https://www.toutiao.com/trending/7700103586914504234/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "中国地震台网自动测定：10月24日04时48分在台湾花莲县海域附近（北纬23.86度，东经121.91度）发生4.4级左右地震，最终结果以正式速报为准。",
+          "url": "https://wallstreetcn.com/livenews/3185035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
       "match_count": 20,
       "titles": [
@@ -670,8 +1017,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时45分]"
         },
         {
           "title": "如何评价英国拟征收看剧税，观看 YouTube 、 Netflix 等网络流媒体需每年缴纳 180 英镑？",
@@ -680,9 +1027,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 15时45分]"
         },
         {
           "title": "谈判破裂，抗争升级！法国工会号召跨行业大罢工",
@@ -725,7 +1072,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -802,7 +1149,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -879,191 +1226,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[中国] 国产 中国",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "中国创新指数增长6.4%",
-          "url": "https://www.douyin.com/hot/2709294",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时41分]"
-        },
-        {
-          "title": "证监会：核准设立花旗证券（中国）有限公司",
-          "url": "https://www.cls.cn/detail/2513545",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时41分]"
-        },
-        {
-          "title": "祝贺！中国成功发射一箭六星",
-          "url": "https://www.baidu.com/s?wd=%E7%A5%9D%E8%B4%BA%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
-          "url": "https://www.cls.cn/detail/2514116",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "中国体操女团时隔20年夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367963&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E5%9B%A2%E6%97%B6%E9%9A%9420%E5%B9%B4%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时32分]"
-        },
-        {
-          "title": "几内亚发生多起涉中国公民交通事故造成严重伤亡，中使馆发布提醒",
-          "url": "https://news.ifeng.com/c/8xSsI8wTazy",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时41分]"
-        },
-        {
-          "title": "如何看待土耳其计划推出两套新的历史教材，把中国新疆、青海、甘肃等地区，纳入所谓「突厥世界」的版图？",
-          "url": "https://www.zhihu.com/question/2096747370075648644",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时41分]"
-        },
-        {
-          "title": "加拿大专家驳斥中国借道买美债阴谋论",
-          "url": "https://www.toutiao.com/trending/7699793212264874506/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时41分]"
-        },
-        {
-          "title": "中国女团2-3日本女团",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时41分]"
-        },
-        {
-          "title": "黄仁勋：没有哪个国家在制造业方面比中国更强",
-          "url": "https://wallstreetcn.com/livenews/3185077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "树说中国",
-          "url": "https://www.douyin.com/hot/2710811",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.8%，本周累跌约3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3185016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "邂逅中国航天独有的浪漫",
-          "url": "https://www.toutiao.com/trending/7699835012555816998/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "中国地震台网自动测定：10月24日08时08分在青海玉树州杂多县附近（北纬32.56度，东经94.08度）发生4.0级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20261024081142915800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "中国地震台网自动测定：10月24日04时48分在台湾花莲县海域附近（北纬23.86度，东经121.91度）发生4.4级左右地震，最终结果以正式速报为准。",
-          "url": "https://wallstreetcn.com/livenews/3185035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
         }
       ]
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国乒混双2:3不敌日本 亚锦赛遗憾摘银",
@@ -1072,7 +1243,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -1083,7 +1254,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -1107,7 +1278,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -1121,13 +1292,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "日媒：美军“堤丰”系统已运抵日本冲绳嘉手纳基地",
+          "url": "https://flash.jin10.com/detail/20261024130453633800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     },
     {
       "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "光刻机被抢疯了",
+          "url": "https://www.baidu.com/s?wd=%E5%85%89%E5%88%BB%E6%9C%BA%E8%A2%AB%E6%8A%A2%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
         {
           "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，布油涨3%",
           "url": "https://wallstreetcn.com/articles/3784279",
@@ -1157,7 +1350,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -1176,7 +1369,7 @@
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "标普500指数的11个板块中，日用消费品板块收跌1.83%，可选消费、电信、金融、工业、保健板块至多跌1.39%，信息技术/科技板块涨0.35%，能源板块涨2.51%。",
@@ -1190,6 +1383,29 @@
           "time_info": "04时49分"
         },
         {
+          "title": "数十万辆新能源“孤儿车”谁负责修",
+          "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E5%AD%A4%E5%84%BF%E8%BD%A6%E2%80%9D%E8%B0%81%E8%B4%9F%E8%B4%A3%E4%BF%AE",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 15时45分]"
+        },
+        {
+          "title": "10月23日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20261024133509537800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "标普：（关于希腊）在当前中东战争引发的能源冲击下，经济活动仍保持韧性。",
           "url": "https://flash.jin10.com/detail/20261024040510497800",
           "source": "金十数据",
@@ -1199,23 +1415,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
+          "url": "https://wallstreetcn.com/articles/3784272",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时45分]"
         },
         {
-          "title": "数十万辆新能源“孤儿车”谁负责修",
-          "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E5%AD%A4%E5%84%BF%E8%BD%A6%E2%80%9D%E8%B0%81%E8%B4%9F%E8%B4%A3%E4%BF%AE",
-          "source": "百度热搜",
+          "title": "智元110台人形机器人同时跳舞，创吉尼斯世界纪录",
+          "url": "https://wallstreetcn.com/livenews/3185109",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "15时45分"
+        },
+        {
+          "title": "机器人概念领涨两市 VIP栏目策划专题解读",
+          "url": "https://www.cls.cn/detail/2513677",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时37分 ~ 10时32分]"
+        },
+        {
+          "title": "智元110台人形机器人同时跳舞，创吉尼斯世界纪录",
+          "url": "https://flash.jin10.com/detail/20261024142641408800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     },
     {
       "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 拓展新兴领域人工智能就业新空间",
@@ -1230,6 +1487,17 @@
           "time_info": "[01时37分 ~ 10时32分]"
         },
         {
+          "title": "国务院办公厅称要「有效减缓人工智能应用就业替代影响」，释放出什么信号？可能带来哪些实际影响？",
+          "url": "https://www.zhihu.com/question/2097043375547536464",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "国办发文减缓人工智能就业替代影响",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8A%9E%E5%8F%91%E6%96%87%E5%87%8F%E7%BC%93%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1239,36 +1507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 /机械狗|四足/ => 机器狗 具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
-          "url": "https://wallstreetcn.com/articles/3784272",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时32分]"
-        },
-        {
-          "title": "机器人概念领涨两市 VIP栏目策划专题解读",
-          "url": "https://www.cls.cn/detail/2513677",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时32分]"
         }
       ]
     },
