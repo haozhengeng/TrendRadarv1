@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T08:42:11.950947+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-10-25T13:31:34.966741+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "[北美] 美国 加拿大",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 08时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 13时31分]"
         },
         {
           "title": "美国女孩来华上学,英语考倒一",
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 08时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 13时31分]"
         },
         {
           "title": "内塔尼亚胡称美国“已经变了”",
@@ -50,7 +51,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -96,7 +97,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -153,11 +154,24 @@
           "url": "https://news.ifeng.com/c/8xVG6oawHxf",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 13时31分]"
+        },
+        {
+          "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34325177",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 13时31分]"
         },
         {
           "title": "美国前总统奥巴马：特朗普现在把白宫装饰得像是萨达姆开的连锁餐厅。",
@@ -196,17 +210,6 @@
           "time_info": "[06时08分 ~ 08时42分]"
         },
         {
-          "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34325177",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
-        },
-        {
           "title": "美国总统特朗普：我的叔叔约翰·特朗普（John Trump）发明了雷达，你们能相信吗？然后我现在摧毁了伊朗的雷达，他可能会对我有点生气。",
           "url": "https://flash.jin10.com/detail/20261025045533668800",
           "source": "金十数据",
@@ -225,7 +228,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -258,7 +261,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -269,9 +272,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "美国公布新一批 UFO 文件，其中一飞行物可无声悬停、 3 秒飞出 2.4 公里，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2097439336874467725",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美国总统特朗普：伊朗有259架战斗机，我把它们全都摧毁了。伊朗还有259艘船。它们都沉到海底了。",
@@ -481,12 +495,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "媒体：美国政界受够AI巨头了",
+          "url": "https://www.toutiao.com/trending/7700380071709900854/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
     {
       "keyword_group": "[中国] 国产 中国",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
@@ -497,8 +522,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 08时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 13时31分]"
         },
         {
           "title": "菲防长提着纸糊的盾牌对中国发起冲锋",
@@ -518,11 +543,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 08时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 13时31分]"
         },
         {
           "title": "树说中国",
@@ -537,6 +563,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 08时42分]"
+        },
+        {
+          "title": "日剧Vivant抹黑中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "日本网友质问：为何不感谢中国的帮忙？",
@@ -564,15 +601,73 @@
           "time_info": "[00时23分 ~ 06时08分]"
         },
         {
+          "title": "这不是科幻这是中国智造",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%A7%91%E5%B9%BB%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%99%BA%E9%80%A0",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日剧Vivant抹黑中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "中国地震台网正式测定：10月25日08时17分在西藏那曲市巴青县（北纬32.49度，东经93.79度）发生3.2级地震，震源深度10千米。",
           "url": "https://flash.jin10.com/detail/20261025083317975800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "中国电影节在塞内加尔开幕",
+          "url": "https://wallstreetcn.com/livenews/3185146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 13时31分]"
+        },
+        {
+          "title": "中国国际广告节开幕，8家企业签署互联网营销宣传自律公约",
+          "url": "https://wallstreetcn.com/livenews/3185145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 13时31分]"
+        },
+        {
+          "title": "中国驻欧盟使团介绍中国绿色发展及中欧绿色合作",
+          "url": "https://wallstreetcn.com/livenews/3185141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 13时31分]"
         },
         {
           "title": "证监会核准设立花旗证券（中国）有限公司，将对国内券商行业带来哪些影响？",
@@ -586,39 +681,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 06时08分]"
-        },
-        {
-          "title": "中国电影节在塞内加尔开幕",
-          "url": "https://wallstreetcn.com/livenews/3185146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 08时42分]"
-        },
-        {
-          "title": "中国国际广告节开幕，8家企业签署互联网营销宣传自律公约",
-          "url": "https://wallstreetcn.com/livenews/3185145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 08时42分]"
-        },
-        {
-          "title": "中国驻欧盟使团介绍中国绿色发展及中欧绿色合作",
-          "url": "https://wallstreetcn.com/livenews/3185141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 08时42分]"
         },
         {
           "title": "“中国高科”间接控股公司迁址未了局：行政立案与刑事立案下的两地博弈",
@@ -647,17 +709,6 @@
           "time_info": "[00时23分 ~ 06时08分]"
         },
         {
-          "title": "爱马仕称中国市场目前很困难",
-          "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E9%A9%AC%E4%BB%95%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%9B%AE%E5%89%8D%E5%BE%88%E5%9B%B0%E9%9A%BE&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
-        },
-        {
           "title": "“菲律宾防长提着纸糊的盾牌对中国发起冲锋”",
           "url": "https://news.ifeng.com/c/8xVD4AHlGH2",
           "source": "凤凰网",
@@ -665,8 +716,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 13时31分]"
         },
         {
           "title": "76 年过后，抗美援朝战争对当今中国有着怎样的意义？这场战争在历史上留下的痕迹，还在怎样影响着我们？",
@@ -676,15 +727,27 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 13时31分]"
         },
         {
           "title": "这是中国台湾省",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 13时31分]"
+        },
+        {
+          "title": "爱马仕称中国市场目前很困难",
+          "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E9%A9%AC%E4%BB%95%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%9B%AE%E5%89%8D%E5%BE%88%E5%9B%B0%E9%9A%BE&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -719,9 +782,75 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "日剧《Vivant》把日军罪行嫁接给中国人",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%89%A7%E3%80%8AVivant%E3%80%8B%E6%8A%8A%E6%97%A5%E5%86%9B%E7%BD%AA%E8%A1%8C%E5%AB%81%E6%8E%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日剧把日军罪行嫁接给中国人",
+          "url": "https://www.toutiao.com/trending/7700238435788849215/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "英国阿姨试穿中国机器人后成功行走",
+          "url": "https://www.toutiao.com/trending/7699312196769316927/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "“中国桂花第一村”5天收花7万斤",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%A1%82%E8%8A%B1%E7%AC%AC%E4%B8%80%E6%9D%91%E2%80%9D5%E5%A4%A9%E6%94%B6%E8%8A%B17%E4%B8%87%E6%96%A4",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "热播日剧公开抹黑中国",
+          "url": "https://www.baidu.com/s?wd=%E7%83%AD%E6%92%AD%E6%97%A5%E5%89%A7%E5%85%AC%E5%BC%80%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日剧把日军罪行嫁接给中国人",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%89%A7%E6%8A%8A%E6%97%A5%E5%86%9B%E7%BD%AA%E8%A1%8C%E5%AB%81%E6%8E%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "唐驳虎：菲媒号召“抵制中国货”",
@@ -733,12 +862,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "中国地震台网正式测定：10月25日10时24分在瓦努阿图群岛（南纬15.05度，东经167.20度）发生6.2级地震，震源深度120千米。",
+          "url": "https://flash.jin10.com/detail/20261025104551220800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
     {
       "keyword_group": "[西欧] 法国 英国 德国 西班牙 芬兰 瑞典",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "法国新一轮示威活动中135人被逮捕",
@@ -770,8 +910,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 13时31分]"
+        },
+        {
+          "title": "马克龙这个“第一次”，惹得全法国不满",
+          "url": "https://news.ifeng.com/c/8xVCwIykvOY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "英国首相对恢复英欧人员自由流动持开放态度",
+          "url": "https://wallstreetcn.com/livenews/3185177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "法国枪手跨3地开枪致1死5伤，马克龙谴责种族主义恐袭",
@@ -842,6 +1004,39 @@
           "time_info": "00时23分"
         },
         {
+          "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
+          "url": "https://wallstreetcn.com/articles/3784398",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "法国多地抗议再爆冲突",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%8A%97%E8%AE%AE%E5%86%8D%E7%88%86%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "英国首相对恢复英欧人员自由流动持开放态度",
+          "url": "https://flash.jin10.com/detail/20261025121429389800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "法国警方称，巴黎示威活动有11万人参加，“局势平静”。",
           "url": "https://flash.jin10.com/detail/20261024231645593800",
           "source": "金十数据",
@@ -867,7 +1062,7 @@
     },
     {
       "keyword_group": "[东亚] 日本 朝鲜 韩国",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
@@ -876,11 +1071,12 @@
           "ranks": [
             9,
             10,
-            13
+            13,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 08时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 13时31分]"
         },
         {
           "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东。（新华社）",
@@ -905,13 +1101,35 @@
           "time_info": "[08时41分 ~ 08时42分]"
         },
         {
+          "title": "日本防卫大臣：不能让任何人低估日本",
+          "url": "https://news.ifeng.com/c/8xSx7mmDivq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日本小笠原群岛西部海域发生7.0级地震",
+          "url": "https://wallstreetcn.com/livenews/3185171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "日本宫崎县日向滩发生5.3级地震",
           "url": "https://flash.jin10.com/detail/20261025081251940800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -922,15 +1140,81 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "日本宫崎县日向滩发生5.3级地震",
+          "url": "https://wallstreetcn.com/livenews/3185163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日本车企加速缩短研发周期，力图追赶竞争对手",
+          "url": "https://flash.jin10.com/detail/20261025112348312800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "野村：维持韩国央行3.50%终端利率预测，11月与明年2月各加息25基点",
+          "url": "https://flash.jin10.com/detail/20261025111705520800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "韩国散户暴跌中狂买半导体杠杆产品",
+          "url": "https://flash.jin10.com/detail/20261025105802990800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "据韩联社：韩国首尔市宣布将于26日至28日举办“首尔金融科技周2026”，邀请全球金融科技行业专家和企业，探讨首尔金融产业的发展潜力和未来竞争力的活动。",
+          "url": "https://flash.jin10.com/detail/20261025105619082800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日本附近海域发生7.0级地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
     {
       "keyword_group": "/水电|雅鲁藏布江/ => 水电 /光伏|太阳能/ => 光伏 核能 能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？",
@@ -948,22 +1232,35 @@
           "url": "https://wallstreetcn.com/livenews/3185147",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 08时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 13时31分]"
         },
         {
           "title": "俄军打击乌能源等设施 击落1297架固定翼无人机",
           "url": "https://wallstreetcn.com/livenews/3185143",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 08时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 13时31分]"
+        },
+        {
+          "title": "国家能源局主要负责同志赴广东调研新型电网建设等工作",
+          "url": "https://wallstreetcn.com/livenews/3185170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -1011,6 +1308,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 08时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "[芯片] 芯片 光刻机 半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "电科思仪：将于深圳半导体展发布新矢量网络分析仪及系列测试方案",
+          "url": "https://flash.jin10.com/detail/20261025123917877800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
